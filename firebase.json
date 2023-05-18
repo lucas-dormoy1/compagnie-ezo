@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/compagnie-ezo-website",
+    "public": "dist/compagnie-ezo",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {

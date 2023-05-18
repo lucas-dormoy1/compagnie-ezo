@@ -1,39 +1,51 @@
 @import '../../styles/variables';
 
-.about {
+.presentation {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: $background-grey;
-  padding: 6rem;
 
-  .about-portrait{
+  .portrait{
     display: flex;
     flex-direction: column;
     align-items: center;
     font-size: small;
     width: 50%;
+    padding: 3rem;
 
-    .about-dessin{
+    .dessin{
       max-width: 100%;
     }
   }
 
   .intro{
-    margin-top: 8rem;
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 50%;
+    padding: 3rem;
 
     .title {
       text-transform: uppercase;
       font-size: 3rem;
+      margin-bottom: 2rem;
+    }
+
+    .subtitle{
+      font-size: 1.5rem;
+      font-weight: 300;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
     }
 
     p {
       line-height: 2rem;
       text-align: center;
+      .italic{
+        font-style: italic;
+      }
     }
   }
 
