@@ -1,0 +1,13 @@
+<div class="carousel">
+  <div *ngFor="let project of projects" class="scrollable-projects">
+    <div class="project-image">
+      <a [routerLink]="project.route">
+        <img [src]="project.src">
+        <div class="project-information">
+          <span class="project-name"> {{project.title}}</span>
+          <span class="project-description"> {{project.description}}</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>

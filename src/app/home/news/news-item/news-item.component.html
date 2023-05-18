@@ -1,0 +1,9 @@
+<div [ngClass]="item?.isReversedImage ? 'reversed-news-item' : 'news-item'">
+  <img [src]="item?.imgPath" alt="image" class="news-block">
+  <div class="news-block">
+    <div class="news-content-wrapper">
+      <div class="news-title">{{item?.title}}</div>
+      <div class="news-subtitle">{{item?.subtitle}}</div>
+    </div>
+  </div>
+</div>

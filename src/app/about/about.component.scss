@@ -1,0 +1,43 @@
+@import '../../styles/variables';
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: $background-grey;
+  padding: 6rem;
+
+  .about-portrait{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: small;
+    width: 50%;
+
+    .about-dessin{
+      max-width: 100%;
+    }
+  }
+
+  .intro{
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+
+    .title {
+      text-transform: uppercase;
+      font-size: 3rem;
+    }
+
+    p {
+      line-height: 2rem;
+      text-align: center;
+    }
+  }
+
+  .credits{
+    margin-top:2rem;
+  }
+}

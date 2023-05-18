@@ -1,0 +1,47 @@
+body {
+  font-family: Avenir;
+  margin: 0px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
+
+.project-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    
+  .project-title{
+    margin-top: 4rem;
+    text-transform: uppercase;
+    font-size: 5rem;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 2rem; 
+  }
+
+  .project-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+
+    span {
+      padding: 4px 0px 4px 0px;
+    }
+  }
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: local("Avenir"), url(./assets/font/AvenirNextCyr-Light.ttf) format("truetype");
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Avenir, Roboto, "Helvetica Neue", sans-serif; }
+

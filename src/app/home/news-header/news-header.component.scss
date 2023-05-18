@@ -1,0 +1,27 @@
+.actus{
+  background-color: black;
+  height: 25rem;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 6rem;
+  z-index: 2;
+
+  span {
+    position: relative;
+    color: white;
+  }
+}
+
+.video-container{
+  overflow: hidden;
+  height: 25rem;
+  position: absolute;
+}
+
+.news-video{
+  width: 100%;
+  margin-top: -10%;
+}

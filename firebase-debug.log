@@ -1,0 +1,21 @@
+[debug] [2023-05-18T08:51:45.268Z] ----------------------------------------------------------------------
+[debug] [2023-05-18T08:51:45.269Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\LucasDormoy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-18T08:51:45.270Z] CLI Version:   12.0.1
+[debug] [2023-05-18T08:51:45.270Z] Platform:      win32
+[debug] [2023-05-18T08:51:45.270Z] Node Version:  v18.16.0
+[debug] [2023-05-18T08:51:45.272Z] Time:          Thu May 18 2023 10:51:45 GMT+0200 (heure d’été d’Europe centrale)
+[debug] [2023-05-18T08:51:45.272Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-18T08:51:45.280Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-18T08:51:45.281Z] > authorizing via signed-in user (luludorm@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\LucasDormoy\Documents\Perso\EZO\site-ezo
+

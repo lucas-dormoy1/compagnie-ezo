@@ -1,0 +1,29 @@
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+
+.logo{
+  cursor: pointer;
+  width: 100px;
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.compagny-name{
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.artist-name{
+  font-size: 2rem;
+}
+  
