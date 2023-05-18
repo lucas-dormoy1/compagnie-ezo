@@ -1,23 +1,24 @@
-@import '../../styles/variables';
+@import "../../styles/variables";
 
-.homebody{
+.homebody {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.home-image{
-  width: 100%;
+.home-image {
+  max-width: 100%;
   margin-top: 2rem;
   margin-bottom: 3rem;
 }
 
-
 .description {
   font-size: 1.5rem;
+  padding: 0rem 2rem 0rem 2rem;
+  text-align: justify;
 }
 
-.news{
+.news {
   width: 100%;
   margin-bottom: 3rem;
 }

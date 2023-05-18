@@ -1,8 +1,85 @@
-@import '../../../styles/variables';
+@import "../../../styles/variables";
 
-.news-list{
+.news-list {
   display: flex;
   flex-direction: column;
   width: 100%;
   margin-top: 3rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-transform: uppercase;
+  width: 100%;
+  color: $dark-blue;
+  font-size: 3rem;
+
+  span {
+    margin: 0rem 4rem 0rem 4rem;
+  }
+}
+
+.actus {
+  margin: 0% 4% 0% 4%;
+}
+
+.separation-line {
+  height: 2px;
+  background-color: $dark-blue;
+}
+
+.right {
+  width: 70%;
+}
+
+.left {
+  width: 10%;
+}
+
+.news-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.reversed-news-item {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.news-content-wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: justify;
+  height: 40rem;
+}
+
+.news-title {
+  font-size: 3rem;
+  margin-bottom: 4rem;
+}
+
+.news-subtitle {
+  font-size: 2rem;
+}
+
+.news-block {
+  min-width: 40rem;
+  max-width: 40rem;
+  min-height: 40rem;
+  max-height: 40rem;
+}
+
+.news-description {
+  outline: 1px solid $dark-blue;
+  outline-offset: -1px;
+  padding: 0rem 2rem 0rem 2rem;
+  max-width: 85rem;
 }

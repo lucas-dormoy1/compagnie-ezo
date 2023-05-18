@@ -1,58 +1,58 @@
-@import '../../styles/variables';
+@import "../../styles/variables";
 
-.title{
-    font-size: 3rem;
+.title {
+  font-size: 3rem;
 }
 
-.creations{
-    padding: 4%;
+.creations {
+  padding: 4%;
 }
 
-.creation-card{
-    margin-top: 2rem;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    // border-radius: 1rem;
-    // box-shadow: 10px 5px 5px 5px $background-dark-grey;
+.creation-card {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  // border-radius: 1rem;
+  // box-shadow: 10px 5px 5px 5px $background-dark-grey;
 }
 
-.creation-image{
-    // width: 25rem;
-    height: 25rem;
-
+.creation-image {
+  // width: 25rem;
+  height: 25rem;
 }
 
 .creation-details {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 2rem 8rem 2rem 8rem; 
-    width: 100%;
-    // background-color: $background-grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 8rem 2rem 8rem;
+  width: 100%;
+  // background-color: $background-grey;
 }
 
-.creation-title{
-    font-size: 3rem;
-    font-weight: 300;
+.creation-title {
+  font-size: 3rem;
+  font-weight: 300;
 }
 
-.know-more{
-    margin-left: 60%;
-    width: 10rem;
-    height: 2rem;
-    border-radius: 6px;
-    border: solid 1px $background-dark-grey;
-    background-color: $prussian-blue;
-    color: white;
-    font-family: Avenir;
+.know-more {
+  margin-left: 60%;
+  width: 10rem;
+  height: 2rem;
+  //   border-radius: 6px;
+  border: solid 1px $dark-blue;
+  background-color: white;
+  color: $dark-blue;
+  font-family: Avenir;
 }
 
-.know-more:hover{
-    background-color: $prussian-dark-blue;
-    cursor: pointer;
+.know-more:hover {
+  background-color: $dark-blue;
+  color: white;
+  cursor: pointer;
 }
 
-.creation-description{
-    text-align: justify;
+.creation-description {
+  text-align: justify;
 }

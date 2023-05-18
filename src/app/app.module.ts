@@ -16,7 +16,6 @@ import { HomeMenuComponent } from './home-menu/home-menu.component';
 import { ProjectsMenuComponent } from './home-menu/projects-menu/projects-menu.component';
 import { HomeComponent } from './home/home.component';
 import { NewsHeaderComponent } from './home/news-header/news-header.component';
-import { NewsItemComponent } from './home/news/news-item/news-item.component';
 import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { AislingComponent } from './projects/aisling/aisling.component';
@@ -65,7 +64,6 @@ const routes: Routes = [
     HeaderComponent,
     NewsHeaderComponent,
     NewsComponent,
-    NewsItemComponent,
     CreationsComponent,
     CreationsMenuComponent,
     MedusesComponent
