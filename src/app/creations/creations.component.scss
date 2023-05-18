@@ -3,13 +3,13 @@
 .title{
     font-size: 3rem;
 }
+
 .creations{
-    padding: 2%;
+    padding: 4%;
 }
 
 .creation-card{
     margin-top: 2rem;
-    padding-left: 2rem;
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -39,14 +39,13 @@
 
 .know-more{
     margin-left: 60%;
-    width: 14rem;
-    height: 3rem;
+    width: 10rem;
+    height: 2rem;
     border-radius: 6px;
     border: solid 1px $background-dark-grey;
     background-color: $prussian-blue;
     color: white;
     font-family: Avenir;
-    font-size: 1.5rem;
 }
 
 .know-more:hover{
@@ -56,5 +55,4 @@
 
 .creation-description{
     text-align: justify;
-    font-size: 1.5rem;
 }

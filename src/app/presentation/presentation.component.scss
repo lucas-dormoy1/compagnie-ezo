@@ -1,55 +1,51 @@
-@import '../../styles/variables';
+@import "../../styles/variables";
+
+.compagny {
+  display: flex;
+  flex-direction: row;
+  align-items: self-start;
+  margin-bottom: 2%;
+}
 
 .presentation {
+  padding: 4%;
+}
+
+.portrait {
+  width: 40rem;
+}
+
+.intro {
+  margin-top: 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: $background-grey;
+  margin-left: 4%;
+}
 
-  .portrait{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: small;
-    width: 50%;
-    padding: 3rem;
+.title {
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
 
-    .dessin{
-      max-width: 100%;
-    }
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  line-height: 2rem;
+  text-align: justify;
+  .italic {
+    font-style: italic;
   }
+}
 
-  .intro{
-    margin-top: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 50%;
-    padding: 3rem;
-
-    .title {
-      text-transform: uppercase;
-      font-size: 3rem;
-      margin-bottom: 2rem;
-    }
-
-    .subtitle{
-      font-size: 1.5rem;
-      font-weight: 300;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-    }
-
-    p {
-      line-height: 2rem;
-      text-align: center;
-      .italic{
-        font-style: italic;
-      }
-    }
-  }
-
-  .credits{
-    margin-top:2rem;
-  }
+.demarche-artistique {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

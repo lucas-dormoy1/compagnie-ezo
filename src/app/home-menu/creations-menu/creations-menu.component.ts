@@ -1,9 +1,11 @@
 import { Component, EventEmitter, Output } from '@angular/core';
+import { DropDownAnimation } from './animations';
 
 @Component({
   selector: 'app-creations-menu',
   templateUrl: './creations-menu.component.html',
-  styleUrls: ['./creations-menu.component.scss']
+  styleUrls: ['./creations-menu.component.scss'],
+  animations: [DropDownAnimation]
 })
 export class CreationsMenuComponent {
   isOpen: boolean;

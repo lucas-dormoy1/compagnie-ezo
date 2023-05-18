@@ -34,6 +34,7 @@ const routes: Routes = [
   { path: 'projects', component: ProjectsComponent},
   { path: 'creations', component: CreationsComponent},
   { path: 'l-horizon-est-fait-de-petits-cailloux', component: HorizonsCaillouxComponent},
+  { path: 'les-meduses-ne-nagent-jamais-seules', component: MedusesComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
   { path: 'whoami', component: WhoamiComponent},
   { path: 'aisling', component: AislingComponent},
