@@ -1,0 +1,10 @@
+<div class="menu-trigger menu-item" (click)="isOpen = !isOpen">
+    <a routerLink="/creations"
+      class="menu-link"  (click)="closeMenu()">Créations</a>
+    <i [ngClass]="isOpen ? 'gg-chevron-up' : 'gg-chevron-down'"></i>
+  </div>
+  <div class="menu" *ngIf="isOpen" [@creationsMenu]>
+      <div class="menu-item">
+      <a routerLink="/l-horizon-est-fait-de-petits-cailloux" class="menu-link" (click)="closeMenu()">L'horizon est fait de petits cailloux</a>
+      </div>  
+  </div>

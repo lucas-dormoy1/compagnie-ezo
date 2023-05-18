@@ -12,12 +12,6 @@ export class ProjectsComponent implements OnInit {
 
   public projects: Project[] = [
     { 
-      src: 'assets/projects/horizon-cailloux/horizon_1.jpg', 
-      title: "L'horizons est fait de petits cailloux", 
-      description: "Solo", 
-      route: "/l-horizon-est-fait-de-petits-cailloux" 
-    },
-    { 
       src: 'assets/projects/pluie-montchal/montchal_1.jpg', 
       title: "Dialogue avec l'oeuvre Pluie de Montchal", 
       description: "Performance filmée", 

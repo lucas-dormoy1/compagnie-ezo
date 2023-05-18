@@ -7,7 +7,11 @@ import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
+import { CreationsComponent } from './creations/creations.component';
+import { HorizonsCaillouxComponent } from './creations/horizons-cailloux/horizons-cailloux.component';
+import { MedusesComponent } from './creations/meduses/meduses.component';
 import { HeaderComponent } from './header/header.component';
+import { CreationsMenuComponent } from './home-menu/creations-menu/creations-menu.component';
 import { HomeMenuComponent } from './home-menu/home-menu.component';
 import { ProjectsMenuComponent } from './home-menu/projects-menu/projects-menu.component';
 import { HomeComponent } from './home/home.component';
@@ -15,10 +19,8 @@ import { NewsHeaderComponent } from './home/news-header/news-header.component';
 import { NewsItemComponent } from './home/news/news-item/news-item.component';
 import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
-import { ProjectsDropdownComponent } from './projects-dropdown/projects-dropdown.component';
 import { AislingComponent } from './projects/aisling/aisling.component';
 import { FluxQuiPortentComponent } from './projects/flux-qui-portent/flux-qui-portent.component';
-import { HorizonsCaillouxComponent } from './projects/horizons-cailloux/horizons-cailloux.component';
 import { KaravelComponent } from './projects/karavel/karavel.component';
 import { OneBreathComponent } from './projects/one-breath/one-breath.component';
 import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
@@ -30,6 +32,7 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent},
   { path: 'about', component: PresentationComponent},
   { path: 'projects', component: ProjectsComponent},
+  { path: 'creations', component: CreationsComponent},
   { path: 'l-horizon-est-fait-de-petits-cailloux', component: HorizonsCaillouxComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
   { path: 'whoami', component: WhoamiComponent},
@@ -48,7 +51,6 @@ const routes: Routes = [
     PresentationComponent,
     HomeComponent,
     ProjectsComponent,
-    ProjectsDropdownComponent,
     HorizonsCaillouxComponent,
     PluieMontchalComponent,
     WhoamiComponent,
@@ -62,7 +64,10 @@ const routes: Routes = [
     HeaderComponent,
     NewsHeaderComponent,
     NewsComponent,
-    NewsItemComponent
+    NewsItemComponent,
+    CreationsComponent,
+    CreationsMenuComponent,
+    MedusesComponent
   ],
   imports: [
     BrowserModule,
