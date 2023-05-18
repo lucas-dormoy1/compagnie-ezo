@@ -60,3 +60,5 @@ testem.log
 Thumbs.db
 
 .angular/*
+*.log
+firebase-debug.log
