@@ -1,4 +1,18 @@
-# LoulouWebsite
+# Site de la compagnie EZO
+
+## Pour déployer
+
+C'est facile, il suffit de faire un
+
+```
+ng build --aot --configuration "production"
+```
+
+puis
+
+```
+firebase deploy -m "<nom du déploiement>" --only hosting
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
