@@ -15,11 +15,10 @@
 }
 
 .solo-title {
-  color: #f08914;
+  color: $dark-blue;
   margin-top: 4rem;
   text-transform: uppercase;
   font-size: 5rem;
-  width: 50%;
   text-align: center;
   margin-bottom: 2rem;
 }
@@ -31,13 +30,8 @@
   font-size: large;
 }
 
-.solo-description {
-  width: 80rem;
-  text-align: justify;
-}
-
 .solo-image {
-  width: 20rem;
+  width: 30rem;
 }
 
 .solo-paragraphe {
@@ -45,6 +39,8 @@
   flex-direction: row;
   margin: 2rem 0rem 2rem 0rem;
   align-items: center;
+  width: 80rem;
+  text-align: justify;
 }
 
 .little-margin-right {
@@ -53,4 +49,14 @@
 
 .little-margin-left {
   margin-left: 2rem;
+}
+
+.separation-line {
+  margin: 5rem 0rem 5rem 0rem;
+  width: 90rem;
+}
+
+.a-propos {
+  font-weight: 900;
+  font-style: italic;
 }
