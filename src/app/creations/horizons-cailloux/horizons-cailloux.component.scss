@@ -1,9 +1,56 @@
-.project-title{
-  color: #f08914;
-}
+@import "../../../styles/variables.scss";
 
 .video {
-  width: 1000px;
-  height: 500px;
+  width: 60rem;
+  height: 30rem;
   padding: 4rem;
+}
+
+.solo-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0% 4% 0% 4%;
+  font-size: 1.2rem;
+}
+
+.solo-title {
+  color: #f08914;
+  margin-top: 4rem;
+  text-transform: uppercase;
+  font-size: 5rem;
+  width: 50%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.solo-subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+}
+
+.solo-description {
+  width: 80rem;
+  text-align: justify;
+}
+
+.solo-image {
+  width: 20rem;
+}
+
+.solo-paragraphe {
+  display: flex;
+  flex-direction: row;
+  margin: 2rem 0rem 2rem 0rem;
+  align-items: center;
+}
+
+.little-margin-right {
+  margin-right: 2rem;
+}
+
+.little-margin-left {
+  margin-left: 2rem;
 }

@@ -1,22 +1,26 @@
 <div class="menu-panel">
   <div class="menu-trigger" (click)="isOpen = !isOpen">
-	<img src="assets/menu.svg"  class="menu-icon"/>
-</div>
-<div class="menu" *ngIf="isOpen" [@dropDownMenu]>
-	<div class="menu-item bottom-border">
-    <a routerLink="/home" class="menu-link" (click)="closeMenu()">Accueil</a>
-	</div>
-	<div class="menu-item bottom-border">
-    <a routerLink="/about" class="menu-link" (click)="closeMenu()">Présentation</a>
-	</div>
-	<div class="bottom-border">
-		<app-creations-menu (menuClosed)="closeMenu()"></app-creations-menu>
-	</div>
-	<div class="bottom-border">
-		<app-projects-menu (menuClosed)="closeMenu()"></app-projects-menu>
-	</div>
-	<div class="menu-item bottom-border">
-    <a routerLink="/l-horizon-est-fait-de-petits-cailloux" class="menu-link" (click)="closeMenu()">Contact</a>
-	</div>
-</div>
+    <img src="assets/menu.svg" class="menu-icon" />
+  </div>
+  <div class="menu" *ngIf="isOpen" [@dropDownMenu]>
+    <div class="menu-item bottom-border">
+      <a routerLink="/home" class="menu-link" (click)="closeMenu()">Accueil</a>
+    </div>
+    <div class="menu-item bottom-border">
+      <a routerLink="/about" class="menu-link" (click)="closeMenu()"
+        >Présentation</a
+      >
+    </div>
+    <div class="bottom-border">
+      <app-creations-menu (menuClosed)="closeMenu()"></app-creations-menu>
+    </div>
+    <div class="bottom-border">
+      <app-projects-menu (menuClosed)="closeMenu()"></app-projects-menu>
+    </div>
+    <div class="menu-item bottom-border">
+      <a routerLink="/contact" class="menu-link" (click)="closeMenu()"
+        >Contact</a
+      >
+    </div>
+  </div>
 </div>

@@ -1,0 +1,83 @@
+@import "../../styles/variables";
+
+.insta {
+  width: 1.5rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.contact-header {
+  position: relative;
+  margin-bottom: 3rem;
+}
+
+.contact-image {
+  width: 100%;
+  opacity: 0.5;
+}
+
+.title {
+  font-size: 5rem;
+  text-transform: uppercase;
+  //   text-align: center;
+}
+
+.title-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.title-container-child {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-page {
+  margin: 0% 4% 0% 4%;
+  padding-bottom: 4rem;
+}
+
+.contact-company {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  font-size: 1.5rem;
+}
+
+.left {
+  grid-column: 1;
+  text-align: right;
+  border-right: 1px solid $dark-blue;
+  padding-right: 5rem;
+}
+
+.right {
+  grid-column: 2;
+  border-left: 1px solid $dark-blue;
+  padding-left: 5rem;
+}
+
+.contact-mean {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 1rem;
+}
+
+.directrice {
+  margin-bottom: 4rem;
+}
+
+.address {
+  margin-bottom: 4rem;
+}
+
+.company-infos {
+  font-size: 1rem;
+}

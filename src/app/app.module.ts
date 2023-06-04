@@ -7,6 +7,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
+import { ContactComponent } from './contact/contact.component';
 import { CreationsComponent } from './creations/creations.component';
 import { HorizonsCaillouxComponent } from './creations/horizons-cailloux/horizons-cailloux.component';
 import { MedusesComponent } from './creations/meduses/meduses.component';
@@ -15,7 +16,6 @@ import { CreationsMenuComponent } from './home-menu/creations-menu/creations-men
 import { HomeMenuComponent } from './home-menu/home-menu.component';
 import { ProjectsMenuComponent } from './home-menu/projects-menu/projects-menu.component';
 import { HomeComponent } from './home/home.component';
-import { NewsHeaderComponent } from './home/news-header/news-header.component';
 import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { AislingComponent } from './projects/aisling/aisling.component';
@@ -41,6 +41,7 @@ const routes: Routes = [
   { path: 'ces-flux-qui-nous-portent-et-nous-emportent', component: FluxQuiPortentComponent},
   { path: 'festival-karavel', component: KaravelComponent},
   { path: 'one-breath', component: OneBreathComponent},
+  { path: 'contact', component: ContactComponent},
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
 
 ];
@@ -62,11 +63,11 @@ const routes: Routes = [
     HomeMenuComponent,
     ProjectsMenuComponent,
     HeaderComponent,
-    NewsHeaderComponent,
     NewsComponent,
     CreationsComponent,
     CreationsMenuComponent,
-    MedusesComponent
+    MedusesComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
