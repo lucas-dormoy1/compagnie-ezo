@@ -1,13 +1,24 @@
-<div class="carousel">
-  <div *ngFor="let project of projects" class="scrollable-projects">
-    <div class="project-image">
-      <a [routerLink]="project.route">
-        <img [src]="project.src">
-        <div class="project-information">
-          <span class="project-name"> {{project.title}}</span>
-          <span class="project-description"> {{project.description}}</span>
-        </div>
-      </a>
+<div class="projects">
+  <div class="project-card">
+    <img
+      src="assets/projects/pluie-montchal/montchal.JPG"
+      alt="image"
+      class="project-image"
+    />
+    <div class="project-details">
+      <span class="project-title"
+        >Dialogue avec l'œuvre <i>Pluie de Montchal</i></span
+      >
+      <span class="project-description"
+        >Performance filmée dans le cadre de l'exposition Horizons "Arts -
+        Nature" en Sancy 2022.
+      </span>
+      <button
+        routerLink="/dialogue-avec-l-œuvre-pluie-de-montchal"
+        class="know-more"
+      >
+        En savoir plus
+      </button>
     </div>
   </div>
 </div>

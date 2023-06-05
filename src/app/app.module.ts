@@ -18,14 +18,8 @@ import { ProjectsMenuComponent } from './home-menu/projects-menu/projects-menu.c
 import { HomeComponent } from './home/home.component';
 import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
-import { AislingComponent } from './projects/aisling/aisling.component';
-import { FluxQuiPortentComponent } from './projects/flux-qui-portent/flux-qui-portent.component';
-import { KaravelComponent } from './projects/karavel/karavel.component';
-import { OneBreathComponent } from './projects/one-breath/one-breath.component';
 import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
 import { ProjectsComponent } from './projects/projects.component';
-import { SolosForRealComponent } from './projects/solos-for-real/solos-for-real.component';
-import { WhoamiComponent } from './projects/whoami/whoami.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -35,12 +29,6 @@ const routes: Routes = [
   { path: 'l-horizon-est-fait-de-petits-cailloux', component: HorizonsCaillouxComponent},
   { path: 'les-meduses-ne-nagent-jamais-seules', component: MedusesComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
-  { path: 'whoami', component: WhoamiComponent},
-  { path: 'aisling', component: AislingComponent},
-  { path: 'solos-for-real', component: SolosForRealComponent},
-  { path: 'ces-flux-qui-nous-portent-et-nous-emportent', component: FluxQuiPortentComponent},
-  { path: 'festival-karavel', component: KaravelComponent},
-  { path: 'one-breath', component: OneBreathComponent},
   { path: 'contact', component: ContactComponent},
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
 
@@ -54,12 +42,6 @@ const routes: Routes = [
     ProjectsComponent,
     HorizonsCaillouxComponent,
     PluieMontchalComponent,
-    WhoamiComponent,
-    AislingComponent,
-    SolosForRealComponent,
-    FluxQuiPortentComponent,
-    KaravelComponent,
-    OneBreathComponent,
     HomeMenuComponent,
     ProjectsMenuComponent,
     HeaderComponent,
