@@ -17,12 +17,12 @@
   font-size: 3rem;
 
   span {
-    margin: 0rem 4rem 0rem 4rem;
+    padding: 0rem 4rem 0rem 4rem;
   }
 }
 
 .actus {
-  margin: 0% 4% 0% 4%;
+  padding: 0% 4% 0% 4%;
 }
 
 .right {
@@ -37,14 +37,14 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin: 2rem;
+  padding: 2rem;
 }
 
 .reversed-news-item {
   display: flex;
   flex-direction: row-reverse;
   justify-content: center;
-  margin: 2rem;
+  padding: 2rem;
 }
 
 .news-content-wrapper {
@@ -77,4 +77,57 @@
   outline-offset: -1px;
   padding: 0rem 2rem 0rem 2rem;
   max-width: 85rem;
+}
+
+@media only screen and (max-width: $small-screen-size) {
+  .description {
+    font-size: 1rem;
+  }
+
+  .news-block {
+    min-width: 15rem;
+    max-width: 15rem;
+    min-height: 15rem;
+    max-height: 15rem;
+  }
+
+  .news-description {
+    outline: 0px solid $dark-blue;
+    padding: 0;
+  }
+
+  .news-item,
+  .reversed-news-item {
+    outline: 1px solid $dark-blue;
+    outline-offset: -1px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+
+  .news-content-wrapper {
+    height: 10rem;
+  }
+
+  .news-title {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .news-subtitle {
+    font-size: 0.8rem;
+  }
+
+  .left,
+  .right {
+    width: 20%;
+  }
+
+  .title {
+    justify-content: space-around;
+    span {
+      padding: 0rem 0.5rem 0rem 0.5rem;
+      font-size: 2rem;
+    }
+  }
 }
