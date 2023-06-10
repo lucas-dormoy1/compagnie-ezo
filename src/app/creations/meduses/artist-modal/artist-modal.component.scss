@@ -1,0 +1,28 @@
+@import "../../../../styles/variables";
+
+.artist-name {
+  color: $dark-blue;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.artist-portrait {
+  height: 40rem;
+  padding-right: 1rem;
+}
+
+.artist-modal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.artist-description {
+  text-align: justify;
+}
+
+.close {
+  color: $dark-blue;
+  font-size: 2rem;
+  padding-left: 1rem;
+}

@@ -1,0 +1,15 @@
+<div class="artist-modal">
+  <img [src]="getArtistImagePath(artist)" class="artist-portrait" />
+  <div>
+    <span class="artist-name"
+      >{{ artist.firstName }} {{ artist.lastName }}</span
+    >
+    <div
+      class="artist-description"
+      *ngFor="let paragraph of artist.description"
+    >
+      <p>{{ paragraph }}</p>
+    </div>
+  </div>
+  <div (click)="close()" class="close">x</div>
+</div>

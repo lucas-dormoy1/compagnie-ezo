@@ -1,8 +1,86 @@
-<div class="project-page">
-  <div class="project-title">
-    <span>Les méduses ne nagent jamais seules</span>
+<div class="meduses-title">
+  <span>les méduses ne nagent jamais seules</span>
+</div>
+<div class="meduses-subtitle">
+  <span
+    >Création 2024 - Pièce pour 5 interprètes destinées à être jouée sur
+    plateau</span
+  >
+</div>
+<img src="assets/creations/meduses/meduses_3_bande.JPG" class="meduses-bande" />
+<div class="meduses-page">
+  <div class="meduses-paragraphe with-image">
+    <div class="blue-frame">
+      <img src="assets/creations/meduses/meduses_1.JPG" class="meduses-image" />
+      <div class="container">
+        <span class="a-propos">À propos de la pièce</span>
+        <p>
+          Vous êtes-vous déjà senti·e différent·e au point d’être rejeté·e par
+          les autres ? Avez-vous déjà exclu une personne sur la base de sa
+          différence ?
+        </p>
+        <p>
+          Cette pièce souhaite explorer ces notions de différence, rejet et
+          discrimination à travers le prisme de l’expérience des interprètes et
+          la recherche anthropologique et psychosociale de ces comportements.
+          Comment à partir de notre besoin humain de catégorisation et
+          d’appartenance à un groupe, se construisent les stéréotypes et les
+          préjugés ? Quelles sont leurs conséquences sur notre organisation
+          entre individus ?
+        </p>
+      </div>
+    </div>
   </div>
-  <div class="project-description">
-    <span>Création en cours</span>
+  <div class="meduses-paragraphe with-image">
+    <div class="blue-frame">
+      <div class="container">
+        <p>
+          Au-delà de la volonté de compréhension des mécanismes individuels et
+          collectifs à l'œuvre, la pièce se veut être une plongée au cœur de la
+          manifestation physique du ressenti des interprètes dans leur vécu face
+          à cette problématique. C’est un cheminement poétique et puissant vers
+          une meilleure compréhension et acceptation de l’autre et de soi-même.
+          Et si les autres et leurs différences étaient un miroir pour nous ?
+          Pourquoi rejetons-nous les différences des autres ? Mais aussi,
+          parfois, les nôtres. Que signifient-elles pour nous ? Ne sont-elles
+          pas une opportunité, une chance de nous redécouvrir et de nous
+          accepter en célébrant la diversité ?
+        </p>
+        <p>
+          L'unité, qui est différente de l'uniformité, apparaît dans cette pièce
+          comme le seul remède à la division. Elle ne peut exister qu'entre des
+          personnes ayant des convictions, des croyances et des pratiques
+          différentes.
+        </p>
+      </div>
+      <img src="assets/creations/meduses/meduses_2.JPG" class="meduses-image" />
+    </div>
+  </div>
+  <div class="artists">
+    <div
+      class="artist"
+      *ngFor="let artist of artists"
+      (click)="openModalArtist(artist)"
+    >
+      <img [src]="getArtistImagePath(artist)" class="meduses-artist-image" />
+      <div class="artist-name">
+        <span> {{ artist.firstName }} {{ artist.lastName }} </span>
+      </div>
+    </div>
+  </div>
+  <div class="meduses-additional-info">
+    <div>
+      <p class="meduses-soutiens-title">Soutiens</p>
+      <div class="meduses-soutiens">
+        <p>
+          Accueil en résidence à Pôle en Scènes/Centre chorégraphik Pôle Pik
+        </p>
+        <p>
+          Mise à disposition d’espace au CND Centre national de la danse à Lyon
+        </p>
+        <p>La Manufacture d’Aurillac</p>
+        <p>La ville de Murol</p>
+      </div>
+    </div>
   </div>
 </div>

@@ -1,0 +1,107 @@
+@import "../../../styles/variables";
+.meduses-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0% 4% 0% 4%;
+  font-size: 1.2rem;
+}
+
+.meduses-title {
+  color: $dark-blue;
+  margin-top: 4rem;
+  text-transform: uppercase;
+  font-size: 5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.meduses-subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+}
+
+.meduses-bande {
+  width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.meduses-paragraphe {
+  display: flex;
+  flex-direction: row;
+  margin: 2rem 0rem 2rem 0rem;
+  align-items: center;
+  width: 100rem;
+  text-align: justify;
+  justify-content: center;
+}
+
+.blue-frame {
+  outline: 1px solid $dark-blue;
+  outline-offset: -1px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.with-image {
+  height: 30rem;
+}
+
+.meduses-image {
+  height: 100%;
+}
+
+.container {
+  padding: 2rem;
+}
+.a-propos {
+  font-weight: 900;
+  font-style: italic;
+}
+
+.meduses-additional-info {
+  width: 100rem;
+}
+
+.meduses-soutiens-title {
+  font-style: italic;
+  font-weight: 900;
+}
+
+.meduses-soutiens {
+  font-size: 1rem;
+}
+
+.meduses-artist-image {
+  height: 20rem;
+  margin-bottom: 1rem;
+}
+
+.artist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.artists {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100rem;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.artist-name {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.artist:hover {
+  text-decoration: underline;
+}

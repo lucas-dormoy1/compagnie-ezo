@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { FormsModule } from "@angular/forms";
+import { MatDialogModule } from '@angular/material/dialog';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -10,6 +11,7 @@ import { AppComponent } from './app.component';
 import { ContactComponent } from './contact/contact.component';
 import { CreationsComponent } from './creations/creations.component';
 import { HorizonsCaillouxComponent } from './creations/horizons-cailloux/horizons-cailloux.component';
+import { ArtistModalComponent } from './creations/meduses/artist-modal/artist-modal.component';
 import { MedusesComponent } from './creations/meduses/meduses.component';
 import { HeaderComponent } from './header/header.component';
 import { CreationsMenuComponent } from './home-menu/creations-menu/creations-menu.component';
@@ -49,7 +51,8 @@ const routes: Routes = [
     CreationsComponent,
     CreationsMenuComponent,
     MedusesComponent,
-    ContactComponent
+    ContactComponent,
+    ArtistModalComponent
   ],
   imports: [
     BrowserModule,
@@ -57,7 +60,8 @@ const routes: Routes = [
     BrowserAnimationsModule,
     MatMenuModule,
     MatIconModule,
-    FormsModule
+    FormsModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]
