@@ -49,3 +49,12 @@ p {
   flex-direction: column;
   align-items: center;
 }
+
+@media only screen and (max-width: $small-screen-size) {
+  .portrait {
+    width: 100%;
+  }
+  .compagny {
+    flex-direction: column;
+  }
+}

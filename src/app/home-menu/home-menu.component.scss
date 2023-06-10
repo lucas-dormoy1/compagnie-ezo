@@ -1,6 +1,4 @@
-:host {
-  color: #ffffff;
-}
+@import "../../styles/variables";
 
 .menu-trigger {
   text-align: right;
@@ -90,4 +88,11 @@
   transform: rotate(45deg);
   left: 4px;
   top: 2px;
+}
+
+@media only screen and (max-width: $small-screen-size) {
+  .menu {
+    width: 15rem;
+    right: 0;
+  }
 }
