@@ -45,7 +45,8 @@
 
 .with-image {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  height: 30rem;
 }
 
 .little-margin-right {
@@ -115,6 +116,7 @@
 
   .with-image {
     height: fit-content;
+    flex-direction: column;
   }
 
   .reversed {
