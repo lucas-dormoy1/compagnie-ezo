@@ -31,7 +31,7 @@
   .artist-modal {
     flex-direction: column;
     align-items: center;
-    height: 40rem;
+    max-height: 100%;
   }
 
   .artist-portrait {
@@ -52,5 +52,9 @@
 
   .close {
     padding-bottom: 1rem;
+  }
+  .artist-modal-panel {
+    max-height: 80%;
+    overflow-y: auto;
   }
 }

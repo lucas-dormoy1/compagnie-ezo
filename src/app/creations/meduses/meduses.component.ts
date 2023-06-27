@@ -69,7 +69,8 @@ export class MedusesComponent implements OnInit {
 
   openModalArtist(artist: Artist) : void{
     this.dialog.open(ArtistModalComponent, {
-      data: artist
+      data: artist,
+      panelClass: 'artist-modal-panel'
     });
   }
 

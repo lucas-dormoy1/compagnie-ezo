@@ -48,3 +48,9 @@ body {
   background: $dark-blue;
   border-radius: 10px;
 }
+@media only screen and (max-width: $small-screen-size) {
+  .artist-modal-panel {
+    max-height: 90%;
+    overflow-y: auto;
+  }
+}
