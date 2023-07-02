@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostListener } from '@angular/core';
 import { DropDownAnimation } from "./animations";
 
 @Component({
@@ -16,6 +16,21 @@ export class HomeMenuComponent {
 
   closeMenu(){
     this.isOpen = false;
+  }
+
+  private wasInside = false;
+
+  @HostListener('click')
+  clickInside() {
+    this.wasInside = true;
+  }
+
+  @HostListener('document:click')
+  clickout() {
+    if (!this.wasInside) {
+      this.closeMenu()
+    }
+    this.wasInside = false;
   }
 }
 

@@ -17,4 +17,12 @@ export class AppComponent {
   public toggleProjects() : void{
     this.projectsVisible = !this.projectsVisible;
   }
+
+  onActivate(event: any) {
+    window.scroll({ 
+            top: 0, 
+            left: 0, 
+            behavior: 'smooth' 
+     });
+ }
 }
