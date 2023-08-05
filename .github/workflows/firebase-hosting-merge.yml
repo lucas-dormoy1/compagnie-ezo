@@ -8,10 +8,12 @@ name: Deploy to Firebase Hosting on merge
       - main
 jobs:
   build_and_deploy:
-    runs-on: trion/ng-cli
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: ng build --aot --configuration "production"
+      - run: | 
+            npm install -g @angular/cli
+            ng build --aot --configuration "production"
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
