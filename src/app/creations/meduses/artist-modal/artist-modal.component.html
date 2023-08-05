@@ -1,5 +1,9 @@
 <div class="artist-modal">
-  <img [src]="getArtistImagePath(artist)" class="artist-portrait" />
+  <img
+    [src]="getArtistImagePath(artist)"
+    class="artist-portrait"
+    [alt]="artist.alt"
+  />
   <div class="artist-details">
     <span class="artist-name"
       >{{ artist.firstName }} {{ artist.lastName }}</span
@@ -12,6 +16,6 @@
     </div>
   </div>
   <div (click)="close()" class="close">
-    <img src="assets/icons/close.svg" />
+    <img src="assets/icons/close.svg" alt="icône x pour fermer la page" />
   </div>
 </div>

@@ -7,11 +7,19 @@
     plateau</span
   >
 </div>
-<img src="assets/creations/meduses/meduses_3_bande.JPG" class="meduses-bande" />
+<img
+  src="assets/creations/meduses/meduses_3_bande.JPG"
+  class="meduses-bande"
+  alt="Plusieurs danseurs dans le processus de création chorégraphique"
+/>
 <div class="meduses-page">
   <div class="meduses-paragraphe with-image">
     <div class="blue-frame">
-      <img src="assets/creations/meduses/meduses_1.JPG" class="meduses-image" />
+      <img
+        src="assets/creations/meduses/meduses_1.JPG"
+        class="meduses-image"
+        alt="Plusieurs danseurs dans le processus de création chorégraphique"
+      />
       <div class="container">
         <span class="a-propos">À propos de la pièce</span>
         <p>
@@ -53,7 +61,11 @@
           différentes.
         </p>
       </div>
-      <img src="assets/creations/meduses/meduses_2.JPG" class="meduses-image" />
+      <img
+        src="assets/creations/meduses/meduses_2.JPG"
+        class="meduses-image"
+        alt="La chorégraphe communique avec ses danseurs"
+      />
     </div>
   </div>
   <div class="interpretes">
@@ -65,7 +77,11 @@
       *ngFor="let artist of artists"
       (click)="openModalArtist(artist)"
     >
-      <img [src]="getArtistImagePath(artist)" class="meduses-artist-image" />
+      <img
+        [src]="getArtistImagePath(artist)"
+        class="meduses-artist-image"
+        [alt]="artist.alt"
+      />
       <div class="artist-name">
         <span> {{ artist.firstName }} {{ artist.lastName }} </span>
       </div>
