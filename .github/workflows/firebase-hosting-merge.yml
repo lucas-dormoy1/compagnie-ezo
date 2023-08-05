@@ -2,7 +2,7 @@
 # https://github.com/firebase/firebase-tools
 
 name: Deploy to Firebase Hosting on merge
-'on':
+"on":
   push:
     branches:
       - main
@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: | 
-            npm install --save-dev @angular-devkit/build-angular
-            npm install -g @angular/cli
-            ng build --aot --configuration "production"
+      - run: |
+          npm install --save-dev @angular-devkit/build-angular
+          npm install -g @angular/cli
+          ng build --aot --configuration "production"
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_COMPAGNIE_EZO_2468D }}'
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_COMPAGNIE_EZO_2468D }}"
           channelId: live
           projectId: compagnie-ezo-2468d

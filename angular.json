@@ -23,7 +23,12 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
-            "assets": ["src/LogoEZO.ico", "src/assets"],
+            "assets": [
+              "src/LogoEZO.ico",
+              "src/assets",
+              "src/sitemap.xml",
+              "src/robots.txt"
+            ],
             "styles": ["src/styles.scss"],
             "scripts": []
           },
@@ -86,7 +91,12 @@
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
             "inlineStyleLanguage": "scss",
-            "assets": ["src/LogoEZO.ico", "src/assets"],
+            "assets": [
+              "src/LogoEZO.ico",
+              "src/assets",
+              "src/sitemap.xml",
+              "src/robots.txt"
+            ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
