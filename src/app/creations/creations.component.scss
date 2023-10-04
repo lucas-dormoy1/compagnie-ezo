@@ -52,6 +52,16 @@
   text-align: justify;
 }
 
+.creation-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.creation-subtitle {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
 @media only screen and (max-width: $small-screen-size) {
   .creation-image {
     height: fit-content;
