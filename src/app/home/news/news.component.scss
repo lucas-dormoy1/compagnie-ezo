@@ -67,6 +67,8 @@
 .news-title {
   font-size: 3rem;
   margin-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .news-subtitle {
