@@ -107,7 +107,7 @@
 
   .news-item,
   .reversed-news-item {
-    outline: 1px solid $dark-blue;
+    outline: 0px;
     outline-offset: -1px;
     display: flex;
     flex-wrap: wrap;
