@@ -22,6 +22,7 @@ import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { KnowMoreComponent } from './shared/know-more/know-more.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -52,7 +53,8 @@ const routes: Routes = [
     CreationsMenuComponent,
     MedusesComponent,
     ContactComponent,
-    ArtistModalComponent
+    ArtistModalComponent,
+    KnowMoreComponent
   ],
   imports: [
     BrowserModule,

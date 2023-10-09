@@ -1,0 +1,30 @@
+@import "../../../styles/variables";
+
+.know-more {
+  margin-left: 60%;
+  width: 10rem;
+  height: 2rem;
+  border: solid 1px $dark-blue;
+  background-color: white;
+  color: $dark-blue;
+  font-family: Avenir;
+}
+
+.know-more:hover {
+  background-color: $dark-blue;
+  color: white;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: $small-screen-size) {
+  .know-more {
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .know-more:active {
+    background-color: $dark-blue;
+    color: white;
+    cursor: pointer;
+  }
+}
