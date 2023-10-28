@@ -49,6 +49,10 @@
   height: 30rem;
 }
 
+.reversed {
+  flex-direction: row-reverse;
+}
+
 .little-margin-right {
   margin-right: 2rem;
 }
@@ -146,7 +150,7 @@
   }
 
   .reversed {
-    flex-direction: column-reverse;
+    flex-direction: column;
   }
 
   .soutiens {
