@@ -1,4 +1,16 @@
+@import "../styles/variables";
 
-@import '../styles/variables';
+.headerspace {
+  height: 200px;
+  margin: 2rem 0rem;
+}
 
+app-header {
+  background-color: white;
+}
 
+@media only screen and (max-width: $small-screen-size) {
+  .headerspace {
+    height: 13rem;
+  }
+}

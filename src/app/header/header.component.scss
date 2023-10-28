@@ -1,16 +1,22 @@
 @import "../../styles/variables";
 
+:host {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 2rem;
 }
 
 .logo {
   cursor: pointer;
   width: 200px;
+  padding-left: 2rem;
 }
 
 .title {
@@ -43,6 +49,7 @@ app-home-menu {
 
   .artist-name {
     font-size: 1.5rem;
+    padding-bottom: 2rem;
   }
   .header {
     display: grid;
@@ -54,7 +61,7 @@ app-home-menu {
 
   .logo,
   app-home-menu {
-    width: 50%;
+    width: 8rem;
     grid-row: 1;
     text-align: center;
     -webkit-tap-highlight-color: transparent;
