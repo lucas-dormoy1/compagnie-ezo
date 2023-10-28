@@ -65,18 +65,12 @@
   font-style: italic;
 }
 
-.meduses-additional-info {
+.additional-info {
   width: 100%;
   background-color: $dark-blue;
   padding-bottom: 2rem;
   padding-top: 2rem;
   margin-top: 2rem;
-}
-
-.meduses-soutiens-title {
-  font-style: italic;
-  font-weight: 900;
-  color: white;
 }
 
 .soutien-image {
@@ -90,7 +84,7 @@
   align-items: center;
 }
 
-.meduses-soutiens {
+.soutiens {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -189,7 +183,7 @@
     overflow-y: auto;
   }
 
-  .meduses-soutiens {
+  .soutiens {
     flex-direction: column;
   }
 

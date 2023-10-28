@@ -79,6 +79,32 @@
   padding: 2rem;
 }
 
+.additional-info {
+  width: 100%;
+  background-color: $dark-blue;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  margin-top: 2rem;
+}
+
+.soutien-image {
+  height: 7rem;
+}
+
+.murol {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.soutiens {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
 @media only screen and (max-width: $small-screen-size) {
   .solo-title {
     margin-top: 1rem;
@@ -121,5 +147,14 @@
 
   .reversed {
     flex-direction: column-reverse;
+  }
+
+  .soutiens {
+    flex-direction: column;
+  }
+
+  .soutien-image {
+    height: 5rem;
+    margin: 1rem 0rem;
   }
 }
