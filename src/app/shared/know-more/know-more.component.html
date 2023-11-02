@@ -1,3 +1,4 @@
 <button [routerLink]="link" class="know-more">
-  <span>En savoir plus</span>
+  <span *ngIf="!template">En savoir plus</span>
+  <ng-container *ngTemplateOutlet="template"> </ng-container>
 </button>

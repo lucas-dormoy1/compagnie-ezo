@@ -6,9 +6,39 @@
   </div>
 
   <div class="news-list">
-    <div class="news-item">
+    <div class="reversed-news-item">
       <img
         src="assets/home/meduses.jpg"
+        alt="Plusieurs danseurs dans le processus de création chorégraphique"
+        class="news-image"
+      />
+      <div class="news-description">
+        <div class="news-content-wrapper">
+          <div class="news-title">
+            <span>Les méduses ne nagent jamais seules - Création 2024</span>
+          </div>
+          <div class="news-subtitle">
+            Présentation du travail en cours de création
+          </div>
+          <div class="news-subtitle">Jeudi 9 Novembre à 16h et 20h</div>
+          <div class="news-subtitle">Le Regard du Cygne à Paris</div>
+          <div class="news-subtitle">
+            Spectacles Sauvages - festival Signes d'Automne 2023
+          </div>
+        </div>
+        <app-know-more link="" [template]="billetterie"></app-know-more>
+        <ng-template #billetterie>
+          <a
+            href="https://leregardducygne.mapado.com/en/event/265714-spectacles-sauvages"
+            target="_blank"
+            >Billetterie</a
+          >
+        </ng-template>
+      </div>
+    </div>
+    <div class="news-item">
+      <img
+        src="assets/home/meduses_2.jpg"
         alt="Plusieurs danseurs dans le processus de création chorégraphique"
         class="news-image"
       />

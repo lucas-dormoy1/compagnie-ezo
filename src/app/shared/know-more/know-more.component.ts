@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, TemplateRef } from '@angular/core';
 
 @Component({
   selector: 'app-know-more',
@@ -10,4 +10,6 @@ export class KnowMoreComponent {
   @Input()
   public link: string = ""
 
+  @Input()
+  public template: TemplateRef<any> | null = null
 }
