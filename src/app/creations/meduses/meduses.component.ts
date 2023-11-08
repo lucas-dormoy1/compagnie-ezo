@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
+import { Router } from '@angular/router';
 import { ArtistModalComponent } from './artist-modal/artist-modal.component';
 
 @Component({
@@ -71,7 +72,7 @@ export class MedusesComponent implements OnInit {
       "adries.JPG"
     )
   ]
-  constructor(public dialog: MatDialog) { }
+  constructor(public dialog: MatDialog, public router: Router) { }
 
   ngOnInit(): void {
   }
@@ -85,6 +86,11 @@ export class MedusesComponent implements OnInit {
 
   getArtistImagePath(artist: Artist){
     return this.imagePathBase + artist.imagePath;
+  }
+
+  public openFile(): void{
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/meduses/Dossier_artistique_création_2024_Cie_EZO.pdf']));
+    window.open(url, '_blank');
   }
 }
 
