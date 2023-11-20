@@ -1,15 +1,22 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-horizons-cailloux',
   templateUrl: './horizons-cailloux.component.html',
   styleUrls: ['./horizons-cailloux.component.scss']
 })
-export class HorizonsCaillouxComponent implements OnInit {
+export class HorizonsCaillouxComponent {
 
-  constructor() { }
+  constructor(public router: Router) { }
 
-  ngOnInit(): void {
+  public openArtisiticFile(): void{
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Dossier_artistique_solo_2024_Cie_EZO.pdf']));
+    window.open(url, '_blank');
   }
 
+  public openWorkshopFile(): void{
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Proposition_Aatelier_Solo_2024_Cie_EZO.pdf']));
+    window.open(url, '_blank');
+  }
 }

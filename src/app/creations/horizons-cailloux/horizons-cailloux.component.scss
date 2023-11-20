@@ -63,7 +63,7 @@
 
 .separation-line {
   margin: 5rem 0rem 5rem 0rem;
-  width: 90rem;
+  width: 100%;
 }
 
 .a-propos {
@@ -107,6 +107,37 @@
   align-items: center;
   justify-content: space-evenly;
   width: 100%;
+}
+
+.file-button {
+  border: solid 1px $dark-blue;
+  background-color: white;
+  max-width: 70%;
+  color: $dark-blue;
+  font-family: Avenir;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.file-button:hover {
+  text-decoration: underline;
+}
+
+.file-wrapper {
+  display: flex;
+  width: 100%;
+}
+
+.file-wrapper.artistic {
+  flex-direction: row-reverse;
+}
+
+.file-icon {
+  height: 1.5rem;
 }
 
 @media only screen and (max-width: $small-screen-size) {
@@ -160,5 +191,12 @@
   .soutien-image {
     height: 5rem;
     margin: 1rem 0rem;
+  }
+
+  .file-wrapper {
+    display: flex;
+    width: 100%;
+    flex-direction: column !important;
+    align-items: center;
   }
 }

@@ -130,9 +130,10 @@
 }
 
 .artistic-file-button {
-  height: 2rem;
   border: solid 1px $dark-blue;
   background-color: white;
+  max-width: 50%;
+  margin-bottom: 1rem;
   color: $dark-blue;
   font-family: Avenir;
   font-size: 1rem;
