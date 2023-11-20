@@ -16,7 +16,7 @@ export class HorizonsCaillouxComponent {
   }
 
   public openWorkshopFile(): void{
-    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Proposition_Aatelier_Solo_2024_Cie_EZO.pdf']));
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Proposition_Atelier_Solo_2024_Cie_EZO.pdf']));
     window.open(url, '_blank');
   }
 }
