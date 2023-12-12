@@ -11,7 +11,7 @@ export class HorizonsCaillouxComponent {
   constructor(public router: Router) { }
 
   public openArtisiticFile(): void{
-    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Dossier_artistique_solo_2024_Cie_EZO.pdf']));
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/solo/Dossier_artistique_solo_Cie_EZO.pdf']));
     window.open(url, '_blank');
   }
 

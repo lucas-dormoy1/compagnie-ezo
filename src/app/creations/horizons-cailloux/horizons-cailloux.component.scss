@@ -79,8 +79,31 @@
   align-items: center;
 }
 
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
 .container {
+  margin: 1rem 2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  p {
+    margin: 0rem;
+  }
+}
+
+.container.representations {
   padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
 }
 
 .additional-info {
@@ -89,10 +112,20 @@
   padding-bottom: 2rem;
   padding-top: 2rem;
   margin-top: 2rem;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 .soutien-image {
   height: 7rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.pole-en-scene {
+  height: 6rem;
 }
 
 .murol {
@@ -100,12 +133,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 .soutiens {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  overflow-x: auto;
   width: 100%;
 }
 
@@ -121,6 +156,7 @@
   align-items: center;
   gap: 0.5rem;
   cursor: pointer;
+  margin: 1rem 2rem 2rem 2rem;
 }
 
 .file-button:hover {
@@ -191,6 +227,11 @@
   .soutien-image {
     height: 5rem;
     margin: 1rem 0rem;
+  }
+
+  .container {
+    margin: 0rem;
+    padding: 2rem;
   }
 
   .file-wrapper {
