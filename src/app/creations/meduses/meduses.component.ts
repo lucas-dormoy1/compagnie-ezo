@@ -89,7 +89,7 @@ export class MedusesComponent implements OnInit {
   }
 
   public openFile(): void{
-    const url = this.router.serializeUrl(this.router.createUrlTree(['/assets/creations/meduses/Dossier_artistique_création_2024_Cie_EZO.pdf']));
+    const url = this.router.serializeUrl(this.router.createUrlTree(['/fr/assets/creations/meduses/Dossier_artistique_création_2024_Cie_EZO.pdf']));
     window.open(url, '_blank');
   }
 }
