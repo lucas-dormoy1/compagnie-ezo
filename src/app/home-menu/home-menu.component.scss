@@ -20,6 +20,19 @@
   z-index: 1;
 }
 
+.languages {
+  .language-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+  }
+  .language-button:hover {
+    text-decoration: underline;
+  }
+  font-size: 1.2rem;
+}
+
 .bottom-border {
   border-bottom: 1px solid #dcdcdc;
 }

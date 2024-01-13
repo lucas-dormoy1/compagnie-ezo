@@ -3,6 +3,11 @@
     <img src="assets/menu.svg" class="menu-icon" />
   </div>
   <div class="menu" *ngIf="isOpen" [@dropDownMenu]>
+    <div class="menu-item bottom-border languages">
+      <button class="language-button" (click)="switchLanguageFR()">FR</button
+      ><span>|</span
+      ><button class="language-button" (click)="switchLanguageEN()">EN</button>
+    </div>
     <div class="menu-item bottom-border">
       <a routerLink="/home" class="menu-link" (click)="closeMenu()">Accueil</a>
     </div>
