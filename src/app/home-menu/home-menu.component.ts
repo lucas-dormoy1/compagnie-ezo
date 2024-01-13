@@ -42,31 +42,21 @@ export class HomeMenuComponent {
   }
 
   private SwitchLanguage(targetLocale: string) : void{
-    const localeRegex = new RegExp("^\/(fr|en)\/*")
-    const currentUrl = this.router.url;
+    const localeRegex = new RegExp("\/(fr|en)\/")
+    const currentUrl = window.location.href;
+    console.log("current url: " + currentUrl);
     const currentLocale =  localeRegex.exec(currentUrl);
     if(currentLocale == null){
-      if(targetLocale == "fr"){
-        console.log("already in default locale fr")
-      }
-      else{
-        const redirection = "/" + targetLocale + currentUrl;
-        console.log("redirecting to: " + redirection);
-        this.router.navigate([redirection]);
-      }
+      console.log("no locale found in url");
     }
     else {
       if(currentLocale[1] == targetLocale){
         console.log("already in locale " + targetLocale);
       }
       else{
-        let prefix =  "/" + targetLocale;
-        if(targetLocale == "fr"){
-          prefix = "";
-        }
-        const redirection = prefix + currentUrl.substring(3);
+        const redirection = currentUrl.replace("/"+currentLocale[1]+"/", "/"+targetLocale+"/");
         console.log("redirecting to: " + redirection);
-        this.router.navigate([redirection]);
+        window.location.href = redirection;
       }
     }
   }

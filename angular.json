@@ -6,7 +6,7 @@
     "compagnie-ezo": {
       "projectType": "application",
       "i18n": {
-        "sourceLocale": { "code": "fr", "baseHref": "/" },
+        "sourceLocale": "fr",
         "locales": {
           "en": {
             "translation": "src/locale/messages.en.xlf"
