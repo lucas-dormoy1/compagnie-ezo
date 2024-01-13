@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class NewsComponent {
 
+  public getSignUpText(): string {
+    return $localize`S'inscrire`;
+  }
 }

@@ -14,5 +14,5 @@ export class KnowMoreComponent {
   public externalLink: string | null = null
 
   @Input()
-  public text: string | null = "En savoir plus"
+  public text: string | null = $localize`En savoir plus`
 }

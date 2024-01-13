@@ -9,10 +9,12 @@
       ><button class="language-button" (click)="switchLanguageEN()">EN</button>
     </div>
     <div class="menu-item bottom-border">
-      <a routerLink="/home" class="menu-link" (click)="closeMenu()">Accueil</a>
+      <a routerLink="/home" class="menu-link" (click)="closeMenu()" i18n
+        >Accueil</a
+      >
     </div>
     <div class="menu-item bottom-border">
-      <a routerLink="/about" class="menu-link" (click)="closeMenu()"
+      <a routerLink="/about" class="menu-link" (click)="closeMenu()" i18n
         >Présentation</a
       >
     </div>
@@ -23,7 +25,7 @@
       <app-projects-menu (menuClosed)="closeMenu()"></app-projects-menu>
     </div>
     <div class="menu-item bottom-border">
-      <a routerLink="/contact" class="menu-link" (click)="closeMenu()"
+      <a routerLink="/contact" class="menu-link" (click)="closeMenu()" i18n
         >Contact</a
       >
     </div>

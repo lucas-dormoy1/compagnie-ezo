@@ -1,7 +1,7 @@
 <div class="actus">
   <div class="title">
     <div class="separation-line left"></div>
-    <span>Actualités</span>
+    <span i18n>Actualités</span>
     <div class="separation-line right"></div>
   </div>
   <div class="news-list">
@@ -13,15 +13,15 @@
       />
       <div class="news-description">
         <div class="news-content-wrapper">
-          <div class="news-title">Atelier de pratique autour du solo</div>
-          <div class="news-subtitle">
+          <div class="news-title" i18n>Atelier de pratique autour du solo</div>
+          <div class="news-subtitle" i18n>
             Prochain atelier au Centre Chorégraphique Le Cycle à Lyon le 27
             janvier 2024 de 10h à 13h. Ouvert à tous les niveaux.
           </div>
         </div>
         <app-know-more
           externalLink="http://www.le-cycle.fr/cours-danse-contemporaine-lyon/"
-          text="S'inscrire"
+          text="{{ getSignUpText() }}"
         ></app-know-more>
       </div>
     </div>
@@ -34,15 +34,17 @@
       <div class="news-description">
         <div class="news-content-wrapper">
           <div class="news-title" style="margin-bottom: 1rem !important">
-            <span>Les méduses ne nagent jamais seules - Création en cours</span>
+            <span i18n
+              >Les méduses ne nagent jamais seules - Création en cours</span
+            >
           </div>
           <div class="news-subtitle">
             <ul style="margin-bottom: 0px">
-              <li>
+              <li i18n>
                 Résidence de création la semaine du 9 octobre 2023 au CN D de
                 Lyon.
               </li>
-              <li>
+              <li i18n>
                 Spectacles Sauvages - festival Signes d'Automne 2023 :
                 Présentation du travail en cours de création jeudi 9 novembre
                 2023 au Regard du Cygne à Paris.
@@ -63,10 +65,10 @@
       />
       <div class="news-description">
         <div class="news-content-wrapper">
-          <div class="news-title">
+          <div class="news-title" i18n>
             Représentation du solo L’horizon est fait de petits cailloux
           </div>
-          <div class="news-subtitle">
+          <div class="news-subtitle" i18n>
             Rendez-vous artistique lors du stage national de Passeurs de Danse.
             Le solo a été présenté à la Manufacture CDCN Nouvelle Aquitaine à
             Bordeaux en octobre 2023.

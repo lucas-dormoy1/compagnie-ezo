@@ -1,20 +1,294 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
     <body>
+      <trans-unit id="7201740827381052576" datatype="html">
+        <source>Chorégraphe</source>
+      </trans-unit>
+      <trans-unit id="329140449465787298" datatype="html">
+        <source>Siège social de la compagnie</source>
+      </trans-unit>
+      <trans-unit id="7961726562486456580" datatype="html">
+        <source>221 Allée de la plage 63790 Murol</source>
+      </trans-unit>
+      <trans-unit id="2076275466390500760" datatype="html">
+        <source>N° SIRET : 923 176 663 00014</source>
+      </trans-unit>
+      <trans-unit id="7842766917410291161" datatype="html">
+        <source>APE : 90.01Z - Arts du spectacle vivant</source>
+      </trans-unit>
+      <trans-unit id="470717679781544583" datatype="html">
+        <source>Référence entrepreneur de spectacles vivants :</source>
+      </trans-unit>
+      <trans-unit id="6219892927735930975" datatype="html">
+        <source>Les méduses ne nagent jamais seules</source>
+      </trans-unit>
+      <trans-unit id="7651039224477849362" datatype="html">
+        <source>Création 2024 - 2025</source>
+      </trans-unit>
+      <trans-unit id="6933553518373160044" datatype="html">
+        <source>Projet de pièce chorégraphique pour cinq interprètes destinée à être jouée sur plateau pour le tout public. Exploration des relations entre individus au sein d’un groupe, autour des notions de rejet et de discrimination mais aussi de rencontre et de vivre ensemble.</source>
+      </trans-unit>
+      <trans-unit id="3116793945166734904" datatype="html">
+        <source>En savoir plus</source>
+      </trans-unit>
+      <trans-unit id="2591301988736093572" datatype="html">
+        <source>L&apos;horizon est fait de petits cailloux</source>
+      </trans-unit>
+      <trans-unit id="3196811183816911605" datatype="html">
+        <source>Création 2023</source>
+      </trans-unit>
+      <trans-unit id="7426245240036112386" datatype="html">
+        <source>Cette pièce chorégraphique courte est un solo de 8 minutes chorégraphié et interprété par Estelle Bézombes sur une bande son originale composée par Inès Murer. </source>
+      </trans-unit>
+      <trans-unit id="8144180786770055328" datatype="html">
+        <source> En savoir plus </source>
+      </trans-unit>
+      <trans-unit id="4980597484495152991" datatype="html">
+        <source> Festival Jours de danse(s) en janvier 2023 organisé par le conseil départemental du Cantal </source>
+      </trans-unit>
+      <trans-unit id="4550175794703026572" datatype="html">
+        <source> 27ème édition du concours Internationales Solo Tanz Theatre Stuttgart en mars 2023 </source>
+      </trans-unit>
+      <trans-unit id="9121949329505758553" datatype="html">
+        <source>PLATFORM 14 en août 2023 à Berlin</source>
+      </trans-unit>
+      <trans-unit id="3303933496645467547" datatype="html">
+        <source>Festival d’Aurillac en août 2023</source>
+      </trans-unit>
+      <trans-unit id="64091222939572872" datatype="html">
+        <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
+      </trans-unit>
+      <trans-unit id="2068604674260945903" datatype="html">
+        <source> Présentation La Manufacture CDCN Nouvelle Aquitaine Bordeaux - Stage Passeurs de Danse </source>
+      </trans-unit>
+      <trans-unit id="893015055232053167" datatype="html">
+        <source>les méduses ne nagent jamais seules</source>
+      </trans-unit>
+      <trans-unit id="5637141875669393920" datatype="html">
+        <source>Création 2024-2025 - Pièce pour 5 interprètes destinée à être jouée sur plateau</source>
+      </trans-unit>
+      <trans-unit id="4919941326400031956" datatype="html">
+        <source>À propos de la pièce</source>
+      </trans-unit>
+      <trans-unit id="976194582415481030" datatype="html">
+        <source> Cette pièce souhaite explorer les notions de différence, rejet et discrimination dans notre façon d’évoluer collectivement et dans nos interactions entre individus. Comment, à partir de notre besoin humain de catégorisation et d’appartenance à un groupe, se construisent différents mécanismes d’identification et de rejet ? Quelles sont leurs conséquences sur notre organisation ? </source>
+      </trans-unit>
+      <trans-unit id="1446031640585269020" datatype="html">
+        <source> La recherche se concentre sur l’expression des singularités des interprètes au sein d’un groupe et l’interprétation qu’on peut faire des différentes situations qu’ils traversent. La pièce met en scène la façon dont ces singularités peuvent être gérées collectivement, entre tension et harmonie, comme un reflet de ce que nous vivons au studio et en dehors, dans la construction d’une réalité commune. La matière chorégraphique se construit à partir d’un mouvement de balancier que les interprètes installent et qui devient un fil conducteur. Il va les emmener dans une exploration des liens qu’ils tissent ou abandonnent au sein du groupe. </source>
+      </trans-unit>
+      <trans-unit id="7599597332500871134" datatype="html">
+        <source> Au-delà de la volonté de compréhension des mécanismes individuels et collectifs à l&apos;œuvre, la pièce se veut être une plongée au cœur de la manifestation physique du ressenti des interprètes dans leur vécu face à cette problématique. C’est un cheminement poétique et puissant vers une meilleure compréhension et acceptation de l’autre et de soi-même. Et si les autres et leurs différences étaient un miroir pour nous ? Pourquoi rejetons-nous les différences des autres ? Mais aussi, parfois, les nôtres. Que signifient-elles pour nous ? Ne sont-elles pas une opportunité, une chance de nous redécouvrir et de nous accepter en célébrant la diversité ? </source>
+      </trans-unit>
+      <trans-unit id="1331866367495037981" datatype="html">
+        <source> L&apos;unité, qui est différente de l&apos;uniformité, apparaît dans cette pièce comme le seul remède à la division. Elle ne peut exister qu&apos;entre des personnes ayant des convictions, des croyances et des pratiques différentes. </source>
+      </trans-unit>
+      <trans-unit id="5738273377372583211" datatype="html">
+        <source>Interprètes</source>
+      </trans-unit>
+      <trans-unit id="3840960339781459523" datatype="html">
+        <source>logo de la compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="3685203900930411813" datatype="html">
+        <source>Compagnie Ezo</source>
+      </trans-unit>
+      <trans-unit id="5509319219515369228" datatype="html">
+        <source>Créations</source>
+      </trans-unit>
+      <trans-unit id="3476583629594890489" datatype="html">
+        <source>Accueil</source>
+      </trans-unit>
+      <trans-unit id="1567650394870938674" datatype="html">
+        <source>Présentation</source>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+      </trans-unit>
+      <trans-unit id="2823327110111393272" datatype="html">
+        <source>Projets</source>
+      </trans-unit>
+      <trans-unit id="5592443289059787513" datatype="html">
+        <source>Dialogue avec l&apos;oeuvre Pluie de Montchal</source>
+      </trans-unit>
       <trans-unit id="7774366983863062236" datatype="html">
         <source>Compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes, portée par la jeune chorégraphe Estelle Bézombes.</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">4,5</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="6760120161490372904" datatype="html">
         <source>les danseurs de la compagnie EZO en entrainement</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">9</context>
-        </context-group>
+      </trans-unit>
+      <trans-unit id="3367314208365164186" datatype="html">
+        <source>Actualités</source>
+      </trans-unit>
+      <trans-unit id="3406311675930745210" datatype="html">
+        <source>Atelier de pratique autour du solo</source>
+      </trans-unit>
+      <trans-unit id="4107449327918495068" datatype="html">
+        <source> Prochain atelier au Centre Chorégraphique Le Cycle à Lyon le 27 janvier 2024 de 10h à 13h. Ouvert à tous les niveaux. </source>
+      </trans-unit>
+      <trans-unit id="7969643642705304510" datatype="html">
+        <source>Les méduses ne nagent jamais seules - Création en cours</source>
+      </trans-unit>
+      <trans-unit id="5268702848541893758" datatype="html">
+        <source> Résidence de création la semaine du 9 octobre 2023 au CN D de Lyon. </source>
+      </trans-unit>
+      <trans-unit id="929786206199418786" datatype="html">
+        <source> Spectacles Sauvages - festival Signes d&apos;Automne 2023 : Présentation du travail en cours de création jeudi 9 novembre 2023 au Regard du Cygne à Paris. </source>
+      </trans-unit>
+      <trans-unit id="57628137967023148" datatype="html">
+        <source> Représentation du solo L’horizon est fait de petits cailloux </source>
+      </trans-unit>
+      <trans-unit id="1471370773995768536" datatype="html">
+        <source> Rendez-vous artistique lors du stage national de Passeurs de Danse. Le solo a été présenté à la Manufacture CDCN Nouvelle Aquitaine à Bordeaux en octobre 2023. </source>
+      </trans-unit>
+      <trans-unit id="8692532301274802700" datatype="html">
+        <source>Présentation de la compagnie</source>
+      </trans-unit>
+      <trans-unit id="3466925505677787935" datatype="html">
+        <source> EZO est une compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes. Elle soutient et produit les projets chorégraphiques de l’artiste interprète et chorégraphe Estelle Bézombes. </source>
+      </trans-unit>
+      <trans-unit id="2163298544852417923" datatype="html">
+        <source>La chorégraphe</source>
+      </trans-unit>
+      <trans-unit id="3158998909105569902" datatype="html">
+        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe. Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant au centre Horohronos à Athènes, où elle présente un duo sur la scène du théâtre Dora Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
+      </trans-unit>
+      <trans-unit id="3251853637600022942" datatype="html">
+        <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la compagnie DART. Durant la saison 2021-2022 elle travaille, dans le cadre de la formation, avec les chorégraphes Fabio Liberti et le duo Dor Mamalia et Dariusz Nowak. Elle danse dans les pièces <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Solo(s) for real<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> et <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> qui ont été présentées sur la scène du Pfeffeberg theatre et Uferstudios à Berlin. Elle est également interprète dans la pièce <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>WHOAMI<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> chorégraphiée par Giada Grieco et présentée sur plusieurs scènes à Berlin. </source>
+      </trans-unit>
+      <trans-unit id="2309970761879999538" datatype="html">
+        <source> À son retour en France en 2022, elle rejoint en tant qu’interprète la compagnie CTC pour le projet <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>iN<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. Estelle se lance également dans ses propres projets artistiques et réalise notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Pluie de Montchal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. Elle est également chorégraphe et interprète pour un vidéoclip des artistes de Station Echo. Elle crée début 2023 la compagnie EZO. </source>
+      </trans-unit>
+      <trans-unit id="5038255975706019341" datatype="html">
+        <source>Démarche artistique</source>
+      </trans-unit>
+      <trans-unit id="2121460197937627863" datatype="html">
+        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de l’expérience des interprètes par rapport à une thématique qui touche à notre humanité. Le processus de création se veut comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme une exploration des émotions et de la sensibilité des interprètes face à une problématique pour composer avec les manifestations physiques de cette recherche. La composition chorégraphique est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des interprétations. L’enjeu est de les confronter à des situations qu’iels ont pu vivre, et de leur donner à retraverser des expériences dont les mémoires sont sensibles pour tenter d’ouvrir des portes à travers un cheminement intime, subtile et fragile, dans un double mouvement vers soi et vers l’autre. </source>
+      </trans-unit>
+      <trans-unit id="3231083422589725892" datatype="html">
+        <source>Performance filmée dans le cadre de l&apos;exposition Horizons &quot;Arts - Nature&quot; en Sancy 2022</source>
+      </trans-unit>
+      <trans-unit id="8293914458372199976" datatype="html">
+        <source> Cette performance a été réalisée en juillet 2022 en collaboration avec l&apos;artiste plasticien Pier Fabre et le vidéaste Dimitri Lionel. Elle s&apos;inscrit dans une volonté de rencontre entre l&apos;art plastique et la danse contemporaine autour du mouvement. Cette notion est au cœur du travail de Pier Fabre pour ces installations in situ. L&apos;interprète en danse Estelle Bézombes vient dialoguer avec l&apos;œuvre dans un duo en constante évolution. Les mouvements imprévisibles de la structure, manifestation visible de la danse du vent, créent un espace de jeu poétique et puissant. </source>
+      </trans-unit>
+      <trans-unit id="2135891864932586449" datatype="html">
+        <source>Dialogue avec l&apos;œuvre <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Pluie de Montchal<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="5207492838801209886" datatype="html">
+        <source>Performance filmée dans le cadre de l&apos;exposition Horizons &quot;Arts - Nature&quot; en Sancy 2022. </source>
+      </trans-unit>
+      <trans-unit id="3645537723025949339" datatype="html">
+        <source><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;"/> Consulter le dossier artistique </source>
+      </trans-unit>
+      <trans-unit id="7430989625993314553" datatype="html">
+        <source><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;"/> Consulter la proposition d&apos;atelier </source>
+      </trans-unit>
+      <trans-unit id="1939605758301986148" datatype="html">
+        <source>15 novembre 2023 avec le JBC Le Cycle Lyon</source>
+      </trans-unit>
+      <trans-unit id="4385304564698230206" datatype="html">
+        <source>À propos du solo</source>
+      </trans-unit>
+      <trans-unit id="4906266646455194350" datatype="html">
+        <source>Atelier autour du solo</source>
+      </trans-unit>
+      <trans-unit id="5196586067301394370" datatype="html">
+        <source>Représentations</source>
+      </trans-unit>
+      <trans-unit id="5656302756214626506" datatype="html">
+        <source>Cette pièce chorégraphique courte est un solo de 8 minutes créé en 2022 et qui a fait sa première en janvier 2023 à la Manufacture d&apos;Aurillac. La compagnie a bénéficié du soutien de DART Dance Company pour la recherche de création et de la Manufacture d&apos;Aurillac pour l&apos;accueil en résidence lumière.</source>
+      </trans-unit>
+      <trans-unit id="6418609559361597255" datatype="html">
+        <source>Musique composée par Inès Murer</source>
+      </trans-unit>
+      <trans-unit id="7396056946978813715" datatype="html">
+        <source> C’est un horizon qui se dessine au loin et qui me guide. Je marche vers lui pleine d’espoir, parfois il semble même se rapprocher. Il a certains jours la couleur rouge orangée d’une flamme qui danse le soir. D’autres jours je ne le vois même plus, il est caché par une épaisse couche de brume. Pourtant, je continue d&apos;avancer, en observant attentivement chaque pas. Je prends conscience des petits cailloux qui constituent le chemin sur lequel je suis. Je les ressens sous la plante de mes pieds et jusqu’au plus profond de ma chair. La sensation se propage dans tout mon corps jusqu’à me faire sourire. Les petits cailloux sont autant de rencontres, de pensées, de rires, de douleurs et de chagrins qui m’animent chaque jour. </source>
+      </trans-unit>
+      <trans-unit id="7453147233045581624" datatype="html">
+        <source> La compagnie anime un atelier de pratique autour du processus de composition du solo. Ce moment de partage propose d’explorer la notion de rupture dans la composition chorégraphique à travers des moments d’improvisation, d’apprentissage de matériel du solo et de jeux de composition en groupe. Il est destiné à un public varié et s’adapte à différents niveaux de pratique. </source>
+      </trans-unit>
+      <trans-unit id="753221233150084316" datatype="html">
+        <source>Prochains ateliers :</source>
+      </trans-unit>
+      <trans-unit id="79428893132978164" datatype="html">
+        <source> 27 janvier 2024 : Stage tous niveaux avec Le Cycle Lyon Samedi matin 10h-13h </source>
+      </trans-unit>
+      <trans-unit id="8164044058793112854" datatype="html">
+        <source> Le processus de création, à la fois chorégraphique et musical, s&apos;est construit comme une introspection allant à la rencontre des éléments essentiels à la construction de notre chemin, tout en laissant le mouvement et la musique se teinter des humeurs et émotions du moment. La recherche a ainsi permis de porter un regard nouveau sur ses ressentis et états du présent, leur laissant une place pour exister et s&apos;exprimer pleinement. </source>
+      </trans-unit>
+      <trans-unit id="8810029311370064915" datatype="html">
+        <source> La pièce explore la relation constante qui existe entre le sens que nous donnons à notre existence et notre quotidien. Alors que le premier est un horizon plus ou moins lointain qui nous guide, le second est la seule réalité tangible qu&apos;il nous reste en toutes circonstances. Le corps est alors l&apos;expression de ces deux dimensions du temps qui ne peuvent s&apos;exprimer l&apos;une sans l&apos;autre. Il dialogue avec un univers sonore reflétant la construction d’un possible horizon tout en laissant la place aux émotions qui le traversent, d’exister avec intensité. </source>
+      </trans-unit>
+      <trans-unit id="89592232284329941" datatype="html">
+        <source>Solo chorégraphié et interprété par Estelle Bézombes</source>
+      </trans-unit>
+      <trans-unit id="4524516638244876783" datatype="html">
+        <source>S&apos;inscrire</source>
+      </trans-unit>
+      <trans-unit id="1245831686859069023" datatype="html">
+        <source>Portant un intérêt au monde social et ses diverses facettes, elle obtient sa Licence d’Anthropologie et de Sociologie à l’université de Toulouse Jean Jaurès et s&apos;y appuie pour développer une réflexion qu&apos;elle lie à son activité artistique.</source>
+      </trans-unit>
+      <trans-unit id="1359284809279920573" datatype="html">
+        <source>En parallèle de ses expériences en tant qu’artiste chorégraphique avec Fabio Liberti, Human Fields, Eva Papadopoulos et Armelle Cornillon, il s’intéresse aussi aux aspects pédagogiques et à l’accompagnement du danseur professionnel en préparant ses diplômes d’État de professeur de danse en Jazz et Contemporain, ainsi qu’en se formant à la pratique du Shiatsu thérapeutique.</source>
+      </trans-unit>
+      <trans-unit id="1608610104578728585" datatype="html">
+        <source>Il rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création Les méduses ne nagent jamais seules.</source>
+      </trans-unit>
+      <trans-unit id="2097442884390997163" datatype="html">
+        <source>Adriès Sofi est un artiste danseur de 25 ans, basé à Lyon. Il s’est entraîné jeune en breakdance et danses Hip-Hop avec la Cie Kafig. Avant de se former et de travailler dans les danses contemporaines, la performance, et la danse classique.</source>
+      </trans-unit>
+      <trans-unit id="2282801997641791548" datatype="html">
+        <source>Il démontre son goût prononcé pour les techniques d’improvisation et de composition instantanée en mêlant la diversité des potentiels de l’écriture contemporaine, aux fondements de la culture Jazz, et la richesse des sonorités de musiques de tous styles et époques, qu’il aime entretenir et renouveler dans ses possibilités infinies, sa créativité et son mouvement.</source>
+      </trans-unit>
+      <trans-unit id="2649148121516636264" datatype="html">
+        <source>Portrait de </source>
+      </trans-unit>
+      <trans-unit id="3531174629606275122" datatype="html">
+        <source>Plus tard, en parallèle d’une formation au Conservatoire de Créteil en danse Jazz, il poursuit une démarche de recherche par le biais du département Danse de l’Université de Paris 8 où il valide une licence en Arts du Spectacle option Danse en 2019. Élargissant ainsi ses connaissances chorégraphiques, il s’épanouit dans le travail d’analyse intersectionnelle, liant lecture du geste, histoire, anthropologie et philosophie.</source>
+      </trans-unit>
+      <trans-unit id="4580313950244885966" datatype="html">
+        <source>Jérôme Février naît en Belgique en 2001. Il commence la danse à l’âge de 5 ans. Il se tourne d’abord vers la danse classique dans une école privée à Liège. Il se perfectionne dans ce domaine durant de nombreux stages à l’Opera de Paris, à la Royal ballet school de Londres ou encore à l’Ecole royale d’Anvers. Il fait ses humanités en mathématique et science à l’Athénée royale Air pur de Seraing en parallèle de ses cours de danse. Il découvre et commence à s’intéresser à la danse contemporaine en intégrant le Ballet junior de Genève en 2019.</source>
+      </trans-unit>
+      <trans-unit id="466558827173492059" datatype="html">
+        <source>Après deux années de formations de danseur-interprète plus approfondies au sein du CFA Danse Chant Comédie de Paris, suivies d’une année de professionnalisation dans le programme de la compagnie Berlinoise DART, il travail aujourd’hui en tant que danseur contemporain pour divers projets entre l’Allemagne et la France.</source>
+      </trans-unit>
+      <trans-unit id="4835426952443241311" datatype="html">
+        <source>Danseur-interprète et performer freelance travaillant en Europe. Son parcours atypique commence par l’architecture qu’il étudie à l’école Paris-Malaquais entre 2013 et 2018. Période durant laquelle il se familiarise avec la performance artistique et ses possibles en termes d’interactions de l’objet scénographique et du corps.</source>
+      </trans-unit>
+      <trans-unit id="551942646053700695" datatype="html">
+        <source>Animée par une quête de nouveaux horizons, Mathilde élargit constamment sa pratique artistique en explorant différentes techniques de mouvement telles que la technique Gaga, le yoga et le hip-hop freestyle, lui permettant d’enrichir son vocabulaire corporel.</source>
+      </trans-unit>
+      <trans-unit id="5609952550019666237" datatype="html">
+        <source>Il intègre en 2018 l’école SEAD Salzburg Experimental Academy of Dance en Autriche pour 4 ans, où il travaille dans des créations d’Elina Pirinen (FI), Milla Koistinen (SU), Edivaldo Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), et danse aussi du répertoire de grande compagnie (Sidi Larbi Cherkaoui, Akram Khan).</source>
+      </trans-unit>
+      <trans-unit id="5712147939344006955" datatype="html">
+        <source>Adriès travaille également auprès de la jeunesse. Directeur en centre de vacances jeunes avec la CCAS, il met en pratique et transmet un projet politique et social autour de l’organisation et de l’intelligence collective.</source>
+      </trans-unit>
+      <trans-unit id="5866849851608905696" datatype="html">
+        <source>Il s’intéresse aussi à la chorégraphie et crée en 2020 une petite pièce de 10 min s’appelant Pi</source>
+      </trans-unit>
+      <trans-unit id="5883034000156354389" datatype="html">
+        <source>Également chanteuse et DJ, Mathilde est une artiste pluridisciplinaire qui explore différents médiums de création.</source>
+      </trans-unit>
+      <trans-unit id="6292994658460158600" datatype="html">
+        <source>Née à Nice, dans le sud de la France, Mathilde se passionne très vite pour la danse et le mouvement. Initialement attirée par le modern jazz et le hip-hop, son parcours artistique la conduit à la danse contemporaine. Après des études en ingénierie à l&apos;Ecole Centrale de Lyon, elle décide de suivre une formation professionnelle afin d’apprendre le métier de danseuse interprète.</source>
+      </trans-unit>
+      <trans-unit id="7521525743487755243" datatype="html">
+        <source>Jeune chorégraphe inspiré par les corps queer et par l’expression politique et poétique dans les milieux festifs et la club culture, il monte en 2022-2023 un projet de performance, TAZ, au sein des clubs de musique électronique. Il y explore une physicalité extatique, au service d’une danse sensible et furieuse.</source>
+      </trans-unit>
+      <trans-unit id="8563631133314506414" datatype="html">
+        <source>Elle obtient en 2020 son DEC jazz ainsi que son Baccalauréat Technique de la Musique et de la Danse, puis rejoint le Ballet Junior de Genève. A travers différentes rencontres chorégraphiques elle enrichit ses expériences artistiques et performe les pièces de Noa Zuk, Roy Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack Marshall ou encore Olivier Dubois.</source>
+      </trans-unit>
+      <trans-unit id="880407282339941830" datatype="html">
+        <source>Elle rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création Les méduses ne nagent jamais seules.</source>
+      </trans-unit>
+      <trans-unit id="8943738823192389605" datatype="html">
+        <source>Née à Kyoto en 2002, Yumio Chanoki grandit en région parisienne où elle y découvre son intérêt pour la danse au sein du CRR de Boulogne-Billancourt puis de Paris. De formation interdisciplinaire, elle passe par la danse classique, jazz et contemporaine tout en touchant aux claquettes, au hip hop et à des danses traditionnelles.</source>
+      </trans-unit>
+      <trans-unit id="9083071634464520855" datatype="html">
+        <source>Il danse de nombreuses pièces de chorégraphes variés comme Noa Zuk, Stijn Celis, Marcos Morau, Hofesch Schechter, Cindy Van Acker ou encore Maud Lepladec et participe à des créations de Vincent Dunoyer et de Ioanis Mandafounis . Il performe aussi au festival Antigel dans une création de Perrine Valli en 2020 et pour Pauline Huguet au musée d’Histoire naturelle de Genève en 2022. Suite à ses études de danse, il participe à une création de Jeanne Garcia et Matteo Lochu (And Now It’s Done) dansée au festival Le temps d’aimer la danse à Biarritz et intègre le Kameleon dance ensemble. En 2023 il danse ainsi SE BAT NA KAR de Nicolas Van de Brande et participe au Spectacle Mille et une danses de Thomas Lebrun au Palais des Beaux arts de Charleroi</source>
+      </trans-unit>
+      <trans-unit id="9125428787383968663" datatype="html">
+        <source>Inspirée par le croisement des disciplines, notamment entre mouvement et avancées technologiques, elle est invitée à explorer cette thématique en résidence à Dock 11 Berlin. Aujourd’hui en freelance, elle travaille auprès de la Cie 7273, la Cie Joshua Monten, la Cie Kunstorain et plus récemment avec Damien Jalet sur le film Émilia Perez réalisé par Jacques Audiard.</source>
       </trans-unit>
     </body>
   </file>

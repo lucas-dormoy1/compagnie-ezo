@@ -1,24 +1,733 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
     <body>
+      <trans-unit id="7201740827381052576" datatype="html">
+        <source>Chorégraphe</source>
+        <target>Choreographer</target>
+      </trans-unit>
+      <trans-unit id="329140449465787298" datatype="html">
+        <source>Siège social de la compagnie</source>
+        <target>Company head office</target>
+      </trans-unit>
+      <trans-unit id="7961726562486456580" datatype="html">
+        <source>221 Allée de la plage 63790 Murol</source>
+        <target>221 Allée de la plage 63790 Murol</target>
+      </trans-unit>
+      <trans-unit id="2076275466390500760" datatype="html">
+        <source>N° SIRET : 923 176 663 00014</source>
+        <target>SIRET NUMBER: 923 176 663 00014</target>
+      </trans-unit>
+      <trans-unit id="7842766917410291161" datatype="html">
+        <source>APE : 90.01Z - Arts du spectacle vivant</source>
+        <target>APE : 90.01Z - Arts du spectacle vivant</target>
+      </trans-unit>
+      <trans-unit id="470717679781544583" datatype="html">
+        <source>Référence entrepreneur de spectacles vivants :</source>
+        <target>Entrepreneur de spectacles vivants reference:</target>
+      </trans-unit>
+      <trans-unit id="6219892927735930975" datatype="html">
+        <source>Les méduses ne nagent jamais seules</source>
+        <target>Les méduses ne nagent jamais seules</target>
+      </trans-unit>
+      <trans-unit id="7651039224477849362" datatype="html">
+        <source>Création 2024 - 2025</source>
+        <target>2024 - 2025 Creation</target>
+      </trans-unit>
+      <trans-unit id="6933553518373160044" datatype="html">
+        <source>Projet de pièce chorégraphique pour cinq interprètes destinée à être jouée sur
+          plateau pour le tout public. Exploration des relations entre individus au sein d’un
+          groupe, autour des notions de rejet et de discrimination mais aussi de rencontre et de
+          vivre ensemble.</source>
+        <target>Project for a choreographic piece for five performers to be performed on stage. This
+          project explores the notions of difference, rejection and discrimination through the prism
+          of the performers&apos; experience and anthropological and psychosocial research into
+          these behaviours.</target>
+      </trans-unit>
+      <trans-unit id="3116793945166734904" datatype="html">
+        <source>En savoir plus</source>
+        <target>Learn more</target>
+      </trans-unit>
+      <trans-unit id="2591301988736093572" datatype="html">
+        <source>L&apos;horizon est fait de petits cailloux</source>
+        <target>L&apos;horizon est fait de petits cailloux</target>
+      </trans-unit>
+      <trans-unit id="3196811183816911605" datatype="html">
+        <source>Création 2023</source>
+        <target>2023 Creation</target>
+      </trans-unit>
+      <trans-unit id="7426245240036112386" datatype="html">
+        <source>Cette pièce chorégraphique courte est un solo de 8 minutes chorégraphié et
+          interprété par Estelle Bézombes sur une bande son originale composée par Inès Murer. </source>
+        <target>This short choreographic piece is an 8-minute solo choreographed and performed by
+          Estelle Bézombes to an original soundtrack composed by Inès Murer. </target>
+      </trans-unit>
+      <trans-unit id="8144180786770055328" datatype="html">
+        <source> En savoir plus </source>
+        <target> Learn more </target>
+      </trans-unit>
+      <trans-unit id="4980597484495152991" datatype="html">
+        <source> Festival Jours de danse(s) en janvier 2023 organisé par le conseil départemental du
+          Cantal </source>
+        <target> Jours de danse(s) Festival in January 2023, organised by the Cantal Departmental
+          Council, France </target>
+      </trans-unit>
+      <trans-unit id="4550175794703026572" datatype="html">
+        <source> 27ème édition du concours Internationales Solo Tanz Theatre Stuttgart en mars 2023 </source>
+        <target> 27th edition of the Internationales Solo Tanz Theatre Stuttgart competition in
+          March 2023, Germany </target>
+      </trans-unit>
+      <trans-unit id="9121949329505758553" datatype="html">
+        <source>PLATFORM 14 en août 2023 à Berlin</source>
+        <target>PLATFORM 14 in August 2023 in Berlin, Germany</target>
+      </trans-unit>
+      <trans-unit id="3303933496645467547" datatype="html">
+        <source>Festival d’Aurillac en août 2023</source>
+        <target>Aurillac Festival in August 2023, France</target>
+      </trans-unit>
+      <trans-unit id="64091222939572872" datatype="html">
+        <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
+        <target>Solo Contemporary Dance Festival Ankara in August 2023, Turkey</target>
+      </trans-unit>
+      <trans-unit id="2068604674260945903" datatype="html">
+        <source> Présentation La Manufacture CDCN Nouvelle Aquitaine Bordeaux - Stage Passeurs de
+          Danse </source>
+        <target> Presentation at La Manufacture CDCN Nouvelle Aquitaine Bordeaux </target>
+      </trans-unit>
+      <trans-unit id="893015055232053167" datatype="html">
+        <source>les méduses ne nagent jamais seules</source>
+        <target>les méduses ne nagent jamais seules</target>
+      </trans-unit>
+      <trans-unit id="5637141875669393920" datatype="html">
+        <source>Création 2024-2025 - Pièce pour 5 interprètes destinée à être jouée sur plateau</source>
+        <target>2024-2025 Creation - Piece for 5 performers intended to be performed on stage</target>
+      </trans-unit>
+      <trans-unit id="4919941326400031956" datatype="html">
+        <source>À propos de la pièce</source>
+        <target>About the piece</target>
+      </trans-unit>
+      <trans-unit id="976194582415481030" datatype="html">
+        <source> Cette pièce souhaite explorer les notions de différence, rejet et discrimination
+          dans notre façon d’évoluer collectivement et dans nos interactions entre individus.
+          Comment, à partir de notre besoin humain de catégorisation et d’appartenance à un groupe,
+          se construisent différents mécanismes d’identification et de rejet ? Quelles sont leurs
+          conséquences sur notre organisation ? </source>
+        <target> This piece explores the notions of difference, rejection and discrimination in the
+          way we evolve as a group and in our interactions as individuals. How do our human need to
+          categorize and belong to a group leads to different mechanisms of identification and
+          rejection? What are their consequences for our organization? </target>
+      </trans-unit>
+      <trans-unit id="1446031640585269020" datatype="html">
+        <source> La recherche se concentre sur l’expression des singularités des interprètes au sein
+          d’un groupe et l’interprétation qu’on peut faire des différentes situations qu’ils
+          traversent. La pièce met en scène la façon dont ces singularités peuvent être gérées
+          collectivement, entre tension et harmonie, comme un reflet de ce que nous vivons au studio
+          et en dehors, dans la construction d’une réalité commune. La matière chorégraphique se
+          construit à partir d’un mouvement de balancier que les interprètes installent et qui
+          devient un fil conducteur. Il va les emmener dans une exploration des liens qu’ils tissent
+          ou abandonnent au sein du groupe. </source>
+        <target> The process focuses on the expression of the singularities of the performers within
+          a group and the interpretation that can be made of the different situations they go
+          through. The piece shows how these singularities can be managed collectively, between
+          tension and harmony, as a reflection of what we experience in the studio and outside it,
+          in the construction of a shared reality. The choreographic material is constructed from a
+          pendulum movement that the dancers set up and which becomes a common thread. It will take
+          them on an exploration of the links they forge or abandon within the group. </target>
+      </trans-unit>
+      <trans-unit id="7599597332500871134" datatype="html">
+        <source> Au-delà de la volonté de compréhension des mécanismes individuels et collectifs à
+          l&apos;œuvre, la pièce se veut être une plongée au cœur de la manifestation physique du
+          ressenti des interprètes dans leur vécu face à cette problématique. C’est un cheminement
+          poétique et puissant vers une meilleure compréhension et acceptation de l’autre et de
+          soi-même. Et si les autres et leurs différences étaient un miroir pour nous ? Pourquoi
+          rejetons-nous les différences des autres ? Mais aussi, parfois, les nôtres. Que
+          signifient-elles pour nous ? Ne sont-elles pas une opportunité, une chance de nous
+          redécouvrir et de nous accepter en célébrant la diversité ? </source>
+        <target> As well as seeking to understand the individual and collective mechanisms at work,
+          the piece is intended to be a plunge into the heart of the physical manifestation of the
+          performers&apos; feelings as they deal with these issues. It is a poetic and powerful
+          journey towards greater understanding and acceptance of others and of ourselves. What if
+          others and their differences were a mirror for us? Why do we reject the differences of
+          others? But also, sometimes, our own. What do they mean to us? Aren&apos;t they an
+          opportunity, a chance to rediscover and accept ourselves by celebrating diversity? </target>
+      </trans-unit>
+      <trans-unit id="1331866367495037981" datatype="html">
+        <source> L&apos;unité, qui est différente de l&apos;uniformité, apparaît dans cette pièce
+          comme le seul remède à la division. Elle ne peut exister qu&apos;entre des personnes ayant
+          des convictions, des croyances et des pratiques différentes. </source>
+        <target> Unity, which is different from uniformity, appears in this play as the only remedy
+          for division. It can only exist between people with different convictions, beliefs and
+          practices. </target>
+      </trans-unit>
+      <trans-unit id="5738273377372583211" datatype="html">
+        <source>Interprètes</source>
+        <target>Performers</target>
+      </trans-unit>
+      <trans-unit id="3840960339781459523" datatype="html">
+        <source>logo de la compagnie EZO</source>
+        <target>EZO Dance Company&apos;s logo</target>
+      </trans-unit>
+      <trans-unit id="3685203900930411813" datatype="html">
+        <source>Compagnie Ezo</source>
+        <target>EZO Dance Company</target>
+      </trans-unit>
+      <trans-unit id="5509319219515369228" datatype="html">
+        <source>Créations</source>
+        <target>Creations</target>
+      </trans-unit>
+      <trans-unit id="3476583629594890489" datatype="html">
+        <source>Accueil</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="1567650394870938674" datatype="html">
+        <source>Présentation</source>
+        <target>About</target>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>Contact</target>
+      </trans-unit>
+      <trans-unit id="2823327110111393272" datatype="html">
+        <source>Projets</source>
+        <target>Projects</target>
+      </trans-unit>
+      <trans-unit id="5592443289059787513" datatype="html">
+        <source>Dialogue avec l&apos;oeuvre Pluie de Montchal</source>
+        <target>Dialogue with the visual work Pluie de Montchal</target>
+      </trans-unit>
       <trans-unit id="7774366983863062236" datatype="html">
         <source>Compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes, portée par la jeune
           chorégraphe Estelle Bézombes.</source>
-        <target>Contemporary dance company based in Auvergne-Rhône-Alpes, driven by the young
-          choregraph Estelle Bézombes</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">4,5</context>
-        </context-group>
+        <target>Contemporary dance company based in France, led by young choreographer Estelle
+          Bézombes.</target>
       </trans-unit>
       <trans-unit id="6760120161490372904" datatype="html">
         <source>les danseurs de la compagnie EZO en entrainement</source>
-        <target>copagny EZO's dancers during training</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">9</context>
-        </context-group>
+        <target>EZO Dance Company dancers during training</target>
+      </trans-unit>
+      <trans-unit id="3367314208365164186" datatype="html">
+        <source>Actualités</source>
+        <target>News</target>
+      </trans-unit>
+      <trans-unit id="3406311675930745210" datatype="html">
+        <source>Atelier de pratique autour du solo</source>
+        <target>Workshop around the solo</target>
+      </trans-unit>
+      <trans-unit id="4107449327918495068" datatype="html">
+        <source> Prochain atelier au Centre Chorégraphique Le Cycle à Lyon le 27 janvier 2024 de 10h
+          à 13h. Ouvert à tous les niveaux. </source>
+        <target> Next workshop at Le Cycle in Lyon on January 27th 2024 from 10am to 1pm. Open to
+          all levels. </target>
+      </trans-unit>
+      <trans-unit id="7969643642705304510" datatype="html">
+        <source>Les méduses ne nagent jamais seules - Création en cours</source>
+        <target>Les méduses ne nagent jamais seules - Work in progress</target>
+      </trans-unit>
+      <trans-unit id="5268702848541893758" datatype="html">
+        <source> Résidence de création la semaine du 9 octobre 2023 au CN D de Lyon. </source>
+        <target> Creative residency in October 2023 at the CN D in Lyon. </target>
+      </trans-unit>
+      <trans-unit id="929786206199418786" datatype="html">
+        <source> Spectacles Sauvages - festival Signes d&apos;Automne 2023 : Présentation du travail
+          en cours de création jeudi 9 novembre 2023 au Regard du Cygne à Paris. </source>
+        <target> Spectacles Sauvages - Signes d&apos;Automne 2023&apos;s festival: Presentation of
+          work in progress on Thursday, November 9th, 2023 at Regard du Cygne in Paris. </target>
+      </trans-unit>
+      <trans-unit id="57628137967023148" datatype="html">
+        <source> Représentation du solo L’horizon est fait de petits cailloux </source>
+        <target> Performance of the solo L&apos;horizon est fait de petits cailloux </target>
+      </trans-unit>
+      <trans-unit id="1471370773995768536" datatype="html">
+        <source> Rendez-vous artistique lors du stage national de Passeurs de Danse. Le solo a été
+          présenté à la Manufacture CDCN Nouvelle Aquitaine à Bordeaux en octobre 2023. </source>
+        <target> Artistic rendez-vous during the Passeurs de Danse workshop. The solo will be
+          presented at the Manufacture CDCN Nouvelle Aquitaine in Bordeaux. </target>
+      </trans-unit>
+      <trans-unit id="8692532301274802700" datatype="html">
+        <source>Présentation de la compagnie</source>
+        <target>About EZO</target>
+      </trans-unit>
+      <trans-unit id="3466925505677787935" datatype="html">
+        <source> EZO est une compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes. Elle
+          soutient et produit les projets chorégraphiques de l’artiste interprète et chorégraphe
+          Estelle Bézombes. </source>
+        <target> EZO is a contemporary dance company based in France (Auvergne-Rhône-Alpes). It
+          supports and produces the choreographic projects of performer and choreographer Estelle
+          Bézombes. </target>
+      </trans-unit>
+      <trans-unit id="2163298544852417923" datatype="html">
+        <source>La chorégraphe</source>
+        <target>Choreographer</target>
+      </trans-unit>
+      <trans-unit id="3158998909105569902" datatype="html">
+        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe.
+          Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis
+          s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années
+          avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant
+          au centre Horohronos à Athènes, où elle présente un duo sur la scène du théâtre Dora
+          Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de Formation de
+          Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude technique) en danse
+          contemporaine. En parallèle de ses études en danse, elle est diplômée de l&apos;école
+          d&apos;ingénieur Centrale de Lyon en 2020. </source>
+        <target> Estelle is a dancer-performer and young choreographer. She started with ice dancing
+          which she practiced for seven years and then invested herself in rhythmic gymnastics for
+          another seven years before turning to contemporary dance. She started in Greece by
+          training at the Horohronos center in Athens before returning to France in Lyon and joining
+          the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance studies, she
+          graduated from the Centrale de Lyon engineering school in 2020. </target>
+      </trans-unit>
+      <trans-unit id="3251853637600022942" datatype="html">
+        <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la
+          compagnie DART. Durant la saison 2021-2022 elle travaille, dans le cadre de la formation,
+          avec les chorégraphes Fabio Liberti et le duo Dor Mamalia et Dariusz Nowak. Elle danse
+          dans les pièces <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> et <x
+            id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
+          AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> qui ont été
+          présentées sur la scène du Pfeffeberg theatre et Uferstudios à Berlin. Elle est également
+          interprète dans la pièce <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
+          sur plusieurs scènes à Berlin. </source>
+        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
+          company DART. During the season she worked with the choreographers Fabio Liberti and the
+          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
+            id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
+          AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> which were
+          presented on the stage of Pfeffeberg theatre and Uferstudios in Berlin. She is also a
+          performer in the piece <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;/span&gt;" /> choreographed by Giada Grieco and presented
+          on several stages in Berlin. </target>
+      </trans-unit>
+      <trans-unit id="2309970761879999538" datatype="html">
+        <source> À son retour en France en 2022, elle rejoint en tant qu’interprète la compagnie CTC
+          pour le projet <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />iN<x id="CLOSE_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;/span&gt;" />. Estelle se lance également dans ses
+          propres projets artistiques et réalise notamment une performance dansée en collaboration
+          avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. Elle est également
+          chorégraphe et interprète pour un vidéoclip des artistes de Station Echo. Elle crée début
+          2023 la compagnie EZO. </source>
+        <target> On her return to France she joined the dance company CTC (Grenoble, France) as a
+          performer in the new piece <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />iN<x id="CLOSE_TAG_SPAN"
+            ctype="x-span" equiv-text="&lt;/span&gt;" />. Estelle also embarks on her own artistic
+          projects, including a dance performance in collaboration with visual artist Pier Fabre
+          based on his work <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also choreographed
+          and performed in a video clip by the artists of Station Echo. In early 2023, she founded
+          the EZO company. </target>
+      </trans-unit>
+      <trans-unit id="5038255975706019341" datatype="html">
+        <source>Démarche artistique</source>
+        <target>Artistic approach</target>
+      </trans-unit>
+      <trans-unit id="2121460197937627863" datatype="html">
+        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
+          l’expérience des interprètes par rapport à une thématique qui touche à notre humanité. Le
+          processus de création se veut comme un dialogue entre l’intériorité de ce qui est vécu et
+          ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel
+          et sonore. Le travail se construit comme une exploration des émotions et de la sensibilité
+          des interprètes face à une problématique pour composer avec les manifestations physiques
+          de cette recherche. La composition chorégraphique est marquée par l’utilisation de
+          ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante
+          chez les spectatrices et spectateurs tout en leur laissant la pluralité des
+          interprétations. L’enjeu est de les confronter à des situations qu’iels ont pu vivre, et
+          de leur donner à retraverser des expériences dont les mémoires sont sensibles pour tenter
+          d’ouvrir des portes à travers un cheminement intime, subtile et fragile, dans un double
+          mouvement vers soi et vers l’autre. </source>
+        <target> My artistic and choreographic approach is based on the performers&apos; experience
+          of a theme that touches on our humanity. The creative process is intended to be a dialogue
+          between the interiority of what is experienced and what can be seen and felt through the
+          body, movement, the visual and sound universe. The work is constructed as an exploration
+          of the emotions and sensibility of the performers in the face of a problematic, in order
+          to compose with the physical manifestations of this research. The choreographic
+          composition is marked by the use of ruptures and the appearance of unexpected situations,
+          leaving a lasting impression on the spectators while leaving them free to make their own
+          interpretations. The challenge is to confront them with situations they may have lived
+          through, and to give them the opportunity to go back through experiences whose memories
+          are sensitive, in an attempt to open doors through an intimate, subtle and fragile
+          journey, in a double movement towards oneself and towards the other. </target>
+      </trans-unit>
+      <trans-unit id="3231083422589725892" datatype="html">
+        <source>Performance filmée dans le cadre de l&apos;exposition Horizons &quot;Arts -
+          Nature&quot; en Sancy 2022</source>
+        <target>Performance filmed as part of the Horizons &quot;Arts - Nature&quot; exhibition in
+          Sancy 2022</target>
+      </trans-unit>
+      <trans-unit id="8293914458372199976" datatype="html">
+        <source> Cette performance a été réalisée en juillet 2022 en collaboration avec
+          l&apos;artiste plasticien Pier Fabre et le vidéaste Dimitri Lionel. Elle s&apos;inscrit
+          dans une volonté de rencontre entre l&apos;art plastique et la danse contemporaine autour
+          du mouvement. Cette notion est au cœur du travail de Pier Fabre pour ces installations in
+          situ. L&apos;interprète en danse Estelle Bézombes vient dialoguer avec l&apos;œuvre dans
+          un duo en constante évolution. Les mouvements imprévisibles de la structure, manifestation
+          visible de la danse du vent, créent un espace de jeu poétique et puissant. </source>
+        <target> This performance was created in July 2022 in collaboration with visual artist Pier
+          Fabre and video artist Dimitri Lionel. It is part of a desire to bring together visual art
+          and contemporary dance around the theme of movement. This notion is at the heart of Pier
+          Fabre&apos;s work in his site-specific installations. Dance performer Estelle Bézombes
+          enters into dialogue with the work in a constantly evolving duet. The unpredictable
+          movements of the structure, the visible manifestation of the wind&apos;s dance, create a
+          poetic and powerful playground. </target>
+      </trans-unit>
+      <trans-unit id="2135891864932586449" datatype="html">
+        <source>Dialogue avec l&apos;œuvre <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Pluie de Montchal<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /></source>
+        <target>Dialogue with the visual work <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Pluie de Montchal<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="5207492838801209886" datatype="html">
+        <source>Performance filmée dans le cadre de l&apos;exposition Horizons &quot;Arts -
+          Nature&quot; en Sancy 2022. </source>
+        <target>Performance filmed as part of the Horizons &quot;Arts - Nature&quot; exhibition in
+          Sancy 2022. </target>
+      </trans-unit>
+      <trans-unit id="3645537723025949339" datatype="html">
+        <source><x id="TAG_IMG" ctype="image"
+            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
+          Consulter le dossier artistique </source>
+        <target><x id="TAG_IMG" ctype="image"
+            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
+          See the the artistic dossier </target>
+      </trans-unit>
+      <trans-unit id="7430989625993314553" datatype="html">
+        <source><x id="TAG_IMG" ctype="image"
+            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
+          Consulter la proposition d&apos;atelier </source>
+        <target><x id="TAG_IMG" ctype="image"
+            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
+          See the workshop proposal </target>
+      </trans-unit>
+      <trans-unit id="89592232284329941" datatype="html">
+        <source>Solo chorégraphié et interprété par Estelle Bézombes</source>
+        <target>Solo choreographed and performed by Estelle Bézombes</target>
+      </trans-unit>
+      <trans-unit id="6418609559361597255" datatype="html">
+        <source>Musique composée par Inès Murer</source>
+        <target>Music composed by Inès Murer</target>
+      </trans-unit>
+      <trans-unit id="7396056946978813715" datatype="html">
+        <source> C’est un horizon qui se dessine au loin et qui me guide. Je marche vers lui pleine
+          d’espoir, parfois il semble même se rapprocher. Il a certains jours la couleur rouge
+          orangée d’une flamme qui danse le soir. D’autres jours je ne le vois même plus, il est
+          caché par une épaisse couche de brume. Pourtant, je continue d&apos;avancer, en observant
+          attentivement chaque pas. Je prends conscience des petits cailloux qui constituent le
+          chemin sur lequel je suis. Je les ressens sous la plante de mes pieds et jusqu’au plus
+          profond de ma chair. La sensation se propage dans tout mon corps jusqu’à me faire sourire.
+          Les petits cailloux sont autant de rencontres, de pensées, de rires, de douleurs et de
+          chagrins qui m’animent chaque jour. </source>
+        <target> A horizon appears in the distance and guides me. I walk towards it full of hope;
+          sometimes it even seems to come closer. On some days it has the orange-red color of a
+          flame that dances in the evening. On others, I don&apos;t even see it anymore, hidden by a
+          thick layer of mist. Yet, I keep moving forward, watching every step carefully. I become
+          aware of the pebbles that make up the path I walk on. I feel them under the soles of my
+          feet and deep in my flesh. The sensation spreads throughout my body until it makes me
+          smile. The pebbles are that of the many encounters, thoughts, laughs, pains and sorrows
+          that I experience every day. </target>
+      </trans-unit>
+      <trans-unit id="5656302756214626506" datatype="html">
+        <source>Cette pièce chorégraphique courte est un solo de 8 minutes créé en 2022 et qui a
+          fait sa première en janvier 2023 à la Manufacture d&apos;Aurillac. La compagnie a
+          bénéficié du soutien de DART Dance Company pour la recherche de création et de la
+          Manufacture d&apos;Aurillac pour l&apos;accueil en résidence lumière.</source>
+        <target>This short choreographic piece is an 8-minute solo created in 2022 and premiered in
+          January 2023 at the Manufacture d&apos;Aurillac. The company received support from DART
+          Dance Company for the creative research and from the Manufacture d&apos;Aurillac for the
+          lighting residency.</target>
+      </trans-unit>
+      <trans-unit id="4385304564698230206" datatype="html">
+        <source>À propos du solo</source>
+        <target>About the piece</target>
+      </trans-unit>
+      <trans-unit id="8810029311370064915" datatype="html">
+        <source> La pièce explore la relation constante qui existe entre le sens que nous donnons à
+          notre existence et notre quotidien. Alors que le premier est un horizon plus ou moins
+          lointain qui nous guide, le second est la seule réalité tangible qu&apos;il nous reste en
+          toutes circonstances. Le corps est alors l&apos;expression de ces deux dimensions du temps
+          qui ne peuvent s&apos;exprimer l&apos;une sans l&apos;autre. Il dialogue avec un univers
+          sonore reflétant la construction d’un possible horizon tout en laissant la place aux
+          émotions qui le traversent, d’exister avec intensité. </source>
+        <target> The piece explores the constant relationship between the meaning we give to our
+          existence and our present, daily life. While the former guides us, the latter is the only
+          tangible reality we are left with in all circumstances. The body is the expression of
+          these two identities of time that cannot be expressed without each other. It converses
+          with a sound universe reflecting the construction of a possible horizon, while leaving
+          space for feelings to exist and express themselves with intensity. </target>
+      </trans-unit>
+      <trans-unit id="8164044058793112854" datatype="html">
+        <source> Le processus de création, à la fois chorégraphique et musical, s&apos;est construit
+          comme une introspection allant à la rencontre des éléments essentiels à la construction de
+          notre chemin, tout en laissant le mouvement et la musique se teinter des humeurs et
+          émotions du moment. La recherche a ainsi permis de porter un regard nouveau sur ses
+          ressentis et états du présent, leur laissant une place pour exister et s&apos;exprimer
+          pleinement. </source>
+        <target> The creative process, both choreographic and musical, took the form of
+          introspection, seeking out the elements essential to the construction of our path, while
+          allowing the movement and music to be coloured by the moods and emotions of the moment. In
+          this way, the research enabled us to take a fresh look at our feelings and states in the
+          present, giving them room to exist and express themselves fully. </target>
+      </trans-unit>
+      <trans-unit id="4906266646455194350" datatype="html">
+        <source>Atelier autour du solo</source>
+        <target>Workshop around the solo</target>
+      </trans-unit>
+      <trans-unit id="7453147233045581624" datatype="html">
+        <source> La compagnie anime un atelier de pratique autour du processus de composition du
+          solo. Ce moment de partage propose d’explorer la notion de rupture dans la composition
+          chorégraphique à travers des moments d’improvisation, d’apprentissage de matériel du solo
+          et de jeux de composition en groupe. Il est destiné à un public varié et s’adapte à
+          différents niveaux de pratique. </source>
+        <target> The company is offering a practical workshop on the solo composition process. This
+          shared experience explores the notion of rupture in choreographic composition through
+          improvisation, learning the material of the solo and group composition games. It is aimed
+          at a varied audience and can be adapted to different levels of practice. </target>
+      </trans-unit>
+      <trans-unit id="753221233150084316" datatype="html">
+        <source>Prochains ateliers :</source>
+        <target>Next workshops:</target>
+      </trans-unit>
+      <trans-unit id="1939605758301986148" datatype="html">
+        <source>15 novembre 2023 avec le JBC Le Cycle Lyon</source>
+        <target>November 15th 2023 with young ensemble Le Cycle Lyon</target>
+      </trans-unit>
+      <trans-unit id="79428893132978164" datatype="html">
+        <source> 27 janvier 2024 : Stage tous niveaux avec Le Cycle Lyon Samedi matin 10h-13h </source>
+        <target> January 27th 2024: All-levels workshop at Le Cycle Lyon from 10am to 1pm</target>
+      </trans-unit>
+      <trans-unit id="5196586067301394370" datatype="html">
+        <source>Représentations</source>
+        <target>Performances</target>
+      </trans-unit>
+      <trans-unit id="4524516638244876783" datatype="html">
+        <source>S&apos;inscrire</source>
+        <target>Sign up</target>
+      </trans-unit>
+      <trans-unit id="8943738823192389605" datatype="html">
+        <source>Née à Kyoto en 2002, Yumio Chanoki grandit en région parisienne où elle y découvre
+          son intérêt pour la danse au sein du CRR de Boulogne-Billancourt puis de Paris. De
+          formation interdisciplinaire, elle passe par la danse classique, jazz et contemporaine
+          tout en touchant aux claquettes, au hip hop et à des danses traditionnelles.</source>
+        <target>Born in Kyoto in 2002, Yumio Chanoki grew up in the Paris region, where she
+          discovered her interest in dance at the CRR in Boulogne-Billancourt and then Paris. With
+          an interdisciplinary background, she has studied classical, jazz and contemporary dance,
+          as well as tap, hip hop and traditional dance.</target>
+      </trans-unit>
+      <trans-unit id="8563631133314506414" datatype="html">
+        <source>Elle obtient en 2020 son DEC jazz ainsi que son Baccalauréat Technique de la Musique
+          et de la Danse, puis rejoint le Ballet Junior de Genève. A travers différentes rencontres
+          chorégraphiques elle enrichit ses expériences artistiques et performe les pièces de Noa
+          Zuk, Roy Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack
+          Marshall ou encore Olivier Dubois.</source>
+        <target>She obtains in 2020 her DEC jazz as well as her Baccalauréat Technique
+          de la Musique et de la Danse, then joined the Ballet Junior de Genève. Through various
+          choreographic encounters, she has enriched her artistic experience, performing pieces by
+          Noa Zuk, Roy Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack
+          Marshall and Olivier Dubois.</target>
+      </trans-unit>
+      <trans-unit id="1245831686859069023" datatype="html">
+        <source>Portant un intérêt au monde social et ses diverses facettes, elle obtient sa Licence
+          d’Anthropologie et de Sociologie à l’université de Toulouse Jean Jaurès et s&apos;y appuie
+          pour développer une réflexion qu&apos;elle lie à son activité artistique.</source>
+        <target state="new">With a keen interest in the social world and its many facets, she
+          obtained a degree in Anthropology and Sociology from the University of Toulouse Jean
+          Jaurès, and has used this to develop a body of thought that she links to her artistic
+          activity.</target>
+      </trans-unit>
+      <trans-unit id="9125428787383968663" datatype="html">
+        <source>Inspirée par le croisement des disciplines, notamment entre mouvement et avancées
+          technologiques, elle est invitée à explorer cette thématique en résidence à Dock 11
+          Berlin. Aujourd’hui en freelance, elle travaille auprès de la Cie 7273, la Cie Joshua
+          Monten, la Cie Kunstorain et plus récemment avec Damien Jalet sur le film Émilia Perez
+          réalisé par Jacques Audiard.</source>
+        <target state="new">Inspired by the intersection of disciplines, including movement and
+          technological developments, she is invited to explore this thematic in residence at Dock
+          11 Berlin. Now freelance, she works with Cie 7273, Cie Joshua Monten, Cie Kunstorain and
+          more recently with Damien Jalet on the film Émilia Perez directed by Jacques Audiard.</target>
+      </trans-unit>
+      <trans-unit id="880407282339941830" datatype="html">
+        <source>Elle rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création
+          Les méduses ne nagent jamais seules.</source>
+        <target state="new">She joined EZO in 2023 as a performer in the project Les méduses ne
+          nagent jamais seules.</target>
+      </trans-unit>
+      <trans-unit id="4835426952443241311" datatype="html">
+        <source>Danseur-interprète et performer freelance travaillant en Europe. Son parcours
+          atypique commence par l’architecture qu’il étudie à l’école Paris-Malaquais entre 2013 et
+          2018. Période durant laquelle il se familiarise avec la performance artistique et ses
+          possibles en termes d’interactions de l’objet scénographique et du corps.</source>
+        <target state="new">Freelance dancer and performer working in Europe. His atypical career
+          began with architecture, which he studied at the Paris-Malaquais school between 2013 and
+          2018. During this period, he became familiar with performance art and its possible
+          interactions between the scenographic object and the body.</target>
+      </trans-unit>
+      <trans-unit id="3531174629606275122" datatype="html">
+        <source>Plus tard, en parallèle d’une formation au Conservatoire de Créteil en danse Jazz,
+          il poursuit une démarche de recherche par le biais du département Danse de l’Université de
+          Paris 8 où il valide une licence en Arts du Spectacle option Danse en 2019. Élargissant
+          ainsi ses connaissances chorégraphiques, il s’épanouit dans le travail d’analyse
+          intersectionnelle, liant lecture du geste, histoire, anthropologie et philosophie.</source>
+        <target state="new">Later, alongside training in jazz dance at the Conservatoire de Créteil,
+          he pursued a research approach through the Dance department at the Université de Paris 8,
+          where he obtained a degree in Performing Arts with a major in dance in 2019. Broadening
+          his knowledge of choreography in this way, he thrives on the work of intersectional
+          analysis, linking the reading of gesture, history, anthropology and philosophy.</target>
+      </trans-unit>
+      <trans-unit id="466558827173492059" datatype="html">
+        <source>Après deux années de formations de danseur-interprète plus approfondies au sein du
+          CFA Danse Chant Comédie de Paris, suivies d’une année de professionnalisation dans le
+          programme de la compagnie Berlinoise DART, il travail aujourd’hui en tant que danseur
+          contemporain pour divers projets entre l’Allemagne et la France.</source>
+        <target state="new">After two years of more in-depth training as a dancer-performer at the
+          CFA Danse Chant Comédie de Paris, followed by a year of professionalisation in the
+          programme of the Berlin company DART, he now works as a contemporary dancer on various
+          projects between Germany and France.</target>
+      </trans-unit>
+      <trans-unit id="2282801997641791548" datatype="html">
+        <source>Il démontre son goût prononcé pour les techniques d’improvisation et de composition
+          instantanée en mêlant la diversité des potentiels de l’écriture contemporaine, aux
+          fondements de la culture Jazz, et la richesse des sonorités de musiques de tous styles et
+          époques, qu’il aime entretenir et renouveler dans ses possibilités infinies, sa créativité
+          et son mouvement.</source>
+        <target state="new">He demonstrates his taste for the techniques of improvisation and
+          instant composition by mixing the diversity of the potential of contemporary writing with
+          the foundations of jazz culture and the richness of the sounds of music from all styles
+          and eras, which he likes to maintain and renew in its infinite possibilities, creativity
+          and movement.</target>
+      </trans-unit>
+      <trans-unit id="1359284809279920573" datatype="html">
+        <source>En parallèle de ses expériences en tant qu’artiste chorégraphique avec Fabio
+          Liberti, Human Fields, Eva Papadopoulos et Armelle Cornillon, il s’intéresse aussi aux
+          aspects pédagogiques et à l’accompagnement du danseur professionnel en préparant ses
+          diplômes d’État de professeur de danse en Jazz et Contemporain, ainsi qu’en se formant à
+          la pratique du Shiatsu thérapeutique.</source>
+        <target state="new">Alongside his experiences as a choreographic artist with Fabio Liberti,
+          Human Fields, Eva Papadopoulos and Armelle Cornillon, he is also interested in the
+          pedagogical aspects and support of professional dancers, preparing his State Dance Teacher
+          Diplomas in Jazz and Contemporary, as well as training in the practice of therapeutic
+          Shiatsu.</target>
+      </trans-unit>
+      <trans-unit id="1608610104578728585" datatype="html">
+        <source>Il rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création Les
+          méduses ne nagent jamais seules.</source>
+        <target state="new">He joined EZO in 2023 as a performer in the project Les méduses ne
+          nagent jamais seules.</target>
+      </trans-unit>
+      <trans-unit id="4580313950244885966" datatype="html">
+        <source>Jérôme Février naît en Belgique en 2001. Il commence la danse à l’âge de 5 ans. Il
+          se tourne d’abord vers la danse classique dans une école privée à Liège. Il se
+          perfectionne dans ce domaine durant de nombreux stages à l’Opera de Paris, à la Royal
+          ballet school de Londres ou encore à l’Ecole royale d’Anvers. Il fait ses humanités en
+          mathématique et science à l’Athénée royale Air pur de Seraing en parallèle de ses cours de
+          danse. Il découvre et commence à s’intéresser à la danse contemporaine en intégrant le
+          Ballet junior de Genève en 2019.</source>
+        <target state="new">Jérôme Février was born in Belgium in 2001. He began dancing at the age
+          of 5. He first turned to ballet at a public school in Liège. He perfected his skills in
+          this field during a number of courses at the Paris Opera, the Royal Ballet School in
+          London and the Royal Ballet School in Antwerp. He studied mathematics and science at the
+          Athénée Royale Air Pur in Seraing, alongside his dance classes. He discovered and began to
+          take an interest in contemporary dance when he joined the Ballet junior de Genève in 2019.</target>
+      </trans-unit>
+      <trans-unit id="9083071634464520855" datatype="html">
+        <source>Il danse de nombreuses pièces de chorégraphes variés comme Noa Zuk, Stijn Celis,
+          Marcos Morau, Hofesch Schechter, Cindy Van Acker ou encore Maud Lepladec et participe à
+          des créations de Vincent Dunoyer et de Ioanis Mandafounis . Il performe aussi au festival
+          Antigel dans une création de Perrine Valli en 2020 et pour Pauline Huguet au musée
+          d’Histoire naturelle de Genève en 2022. Suite à ses études de danse, il participe à une
+          création de Jeanne Garcia et Matteo Lochu (And Now It’s Done) dansée au festival Le temps
+          d’aimer la danse à Biarritz et intègre le Kameleon dance ensemble. En 2023 il danse ainsi
+          SE BAT NA KAR de Nicolas Van de Brande et participe au Spectacle Mille et une danses de
+          Thomas Lebrun au Palais des Beaux arts de Charleroi</source>
+        <target state="new">He has danced in numerous pieces by a wide range of choreographers,
+          including Noa Zuk, Stijn Celis, Marcos Morau, Hofesch Schechter, Cindy Van Acker and Maud
+          Lepladec, and has taken part in works by Vincent Dunoyer and Ioanis Mandafounis. He also
+          performed at the Antigel festival in a creation by Perrine Valli in 2020, and for Pauline
+          Huguet at Geneva's Natural History Museum in 2022. Following his dance studies, he took
+          part in a creation by Jeanne Garcia and Matteo Lochu (And Now It's Done) danced at the
+          festival Le temps d'aimer la danse in Biarritz and joined the Kameleon dance ensemble. In
+          2023 he danced SE BAT NA KAR by Nicolas Van de Brande and took part in show Mille et une
+          danses by Thomas Lebrun at the Palais des Beaux Arts in Charleroi.</target>
+      </trans-unit>
+      <trans-unit id="5866849851608905696" datatype="html">
+        <source>Il s’intéresse aussi à la chorégraphie et crée en 2020 une petite pièce de 10 min
+          s’appelant Pi</source>
+        <target state="new">He is also interested in choreography, and in 2020 created a short
+          10-minute piece called Pi</target>
+      </trans-unit>
+      <trans-unit id="6292994658460158600" datatype="html">
+        <source>Née à Nice, dans le sud de la France, Mathilde se passionne très vite pour la danse
+          et le mouvement. Initialement attirée par le modern jazz et le hip-hop, son parcours
+          artistique la conduit à la danse contemporaine. Après des études en ingénierie à
+          l&apos;Ecole Centrale de Lyon, elle décide de suivre une formation professionnelle afin
+          d’apprendre le métier de danseuse interprète.</source>
+        <target state="new">Born in Nice in the south of France, Mathilde quickly developed a
+          passion for dance and movement. Initially drawn to modern jazz and hip-hop, her artistic
+          path led her to contemporary dance. After studying engineering at the Ecole Centrale in
+          Lyon, she decided to take a professional training course to learn the trade of
+          dancer-performer.</target>
+      </trans-unit>
+      <trans-unit id="551942646053700695" datatype="html">
+        <source>Animée par une quête de nouveaux horizons, Mathilde élargit constamment sa pratique
+          artistique en explorant différentes techniques de mouvement telles que la technique Gaga,
+          le yoga et le hip-hop freestyle, lui permettant d’enrichir son vocabulaire corporel.</source>
+        <target state="new">Driven by a quest for new horizons, Mathilde is constantly expanding her
+          artistic practice by exploring different movement techniques such as the Gaga technique,
+          yoga and freestyle hip-hop, enabling her to enrich her body vocabulary.</target>
+      </trans-unit>
+      <trans-unit id="5883034000156354389" datatype="html">
+        <source>Également chanteuse et DJ, Mathilde est une artiste pluridisciplinaire qui explore
+          différents médiums de création.</source>
+        <target state="new">Also a singer and DJ, Mathilde is a multidisciplinary artist who
+          explores different creative mediums.</target>
+      </trans-unit>
+      <trans-unit id="2097442884390997163" datatype="html">
+        <source>Adriès Sofi est un artiste danseur de 25 ans, basé à Lyon. Il s’est entraîné jeune
+          en breakdance et danses Hip-Hop avec la Cie Kafig. Avant de se former et de travailler
+          dans les danses contemporaines, la performance, et la danse classique.</source>
+        <target state="new">Adriès Sofi is a 25-year-old dance artist based in Lyon. He trained in
+          breakdance and hip-hop with Cie Kafig before training and working in contemporary dance,
+          performance and ballet.</target>
+      </trans-unit>
+      <trans-unit id="5609952550019666237" datatype="html">
+        <source>Il intègre en 2018 l’école SEAD Salzburg Experimental Academy of Dance en Autriche
+          pour 4 ans, où il travaille dans des créations d’Elina Pirinen (FI), Milla Koistinen (SU),
+          Edivaldo Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), et danse aussi du
+          répertoire de grande compagnie (Sidi Larbi Cherkaoui, Akram Khan).</source>
+        <target state="new">In 2018, he joined the SEAD Salzburg Experimental Academy of Dance in
+          Austria for 4 years, where he worked in creations by Elina Pirinen (FI), Milla Koistinen
+          (SU), Edivaldo Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), and also danced
+          in the repertoire of major companies (Sidi Larbi Cherkaoui, Akram Khan).</target>
+      </trans-unit>
+      <trans-unit id="7521525743487755243" datatype="html">
+        <source>Jeune chorégraphe inspiré par les corps queer et par l’expression politique et
+          poétique dans les milieux festifs et la club culture, il monte en 2022-2023 un projet de
+          performance, TAZ, au sein des clubs de musique électronique. Il y explore une physicalité
+          extatique, au service d’une danse sensible et furieuse.</source>
+        <target state="new">A young choreographer inspired by queer bodies and by political and
+          poetic expression in party circles and club culture, in 2022-2023 he set up a performance
+          project, TAZ, in electronic music clubs. Here he explores an ecstatic physicality in the
+          service of a sensitive and furious dance.</target>
+      </trans-unit>
+      <trans-unit id="5712147939344006955" datatype="html">
+        <source>Adriès travaille également auprès de la jeunesse. Directeur en centre de vacances
+          jeunes avec la CCAS, il met en pratique et transmet un projet politique et social autour
+          de l’organisation et de l’intelligence collective.</source>
+        <target state="new">Adriès also works with young people. As director of a youth holiday
+          centre with the CCAS, he puts into practice and passes on a political and social project
+          based on organisation and collective intelligence.</target>
+      </trans-unit>
+      <trans-unit id="2649148121516636264" datatype="html">
+        <source>Portrait de </source>
+        <target state="new">Biography of </target>
       </trans-unit>
     </body>
   </file>

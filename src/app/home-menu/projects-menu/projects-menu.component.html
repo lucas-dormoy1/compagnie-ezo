@@ -1,10 +1,17 @@
 <div class="menu-trigger menu-item" (click)="isOpen = !isOpen">
-  <a routerLink="/projects"
-    class="menu-link"  (click)="closeMenu()">Projets</a>
+  <a routerLink="/projects" class="menu-link" (click)="closeMenu()" i18n
+    >Projets</a
+  >
   <i [ngClass]="isOpen ? 'gg-chevron-up' : 'gg-chevron-down'"></i>
 </div>
 <div class="menu" *ngIf="isOpen" [@projectsMenu]>
-	<div class="menu-item">
-    <a routerLink="/dialogue-avec-l-œuvre-pluie-de-montchal" class="menu-link" (click)="closeMenu()">Dialogue avec l'oeuvre Pluie de Montchal</a>
-	</div>
+  <div class="menu-item">
+    <a
+      routerLink="/dialogue-avec-l-œuvre-pluie-de-montchal"
+      class="menu-link"
+      (click)="closeMenu()"
+      i18n
+      >Dialogue avec l'oeuvre Pluie de Montchal</a
+    >
+  </div>
 </div>
