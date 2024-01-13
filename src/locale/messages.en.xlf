@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7774366983863062236" datatype="html">
+        <source>Compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes, portée par la jeune
+          chorégraphe Estelle Bézombes.</source>
+        <target>Contemporary dance company based in Auvergne-Rhône-Alpes, driven by the young
+          choregraph Estelle Bézombes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6760120161490372904" datatype="html">
+        <source>les danseurs de la compagnie EZO en entrainement</source>
+        <target>copagny EZO's dancers during training</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
