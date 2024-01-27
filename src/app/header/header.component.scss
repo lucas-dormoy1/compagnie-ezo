@@ -11,6 +11,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding-top: 1rem;
 }
 
 .logo {
@@ -49,7 +50,6 @@ app-home-menu {
 
   .artist-name {
     font-size: 1.5rem;
-    padding-bottom: 2rem;
   }
   .header {
     display: grid;
@@ -71,5 +71,18 @@ app-home-menu {
     width: 100%;
     grid-row: 2;
     grid-column: 1 / -1;
+    transform: scale(1, 0);
+    transform-origin: top center;
+    background: white;
+    padding-bottom: 1rem;
+    max-height: 0;
+    transition: 0.4s ease-out;
+  }
+
+  .title.reveal {
+    transform: scale(1, 1);
+    transform-origin: top center;
+    max-height: 4rem;
+    transition: 0.4s ease-in;
   }
 }

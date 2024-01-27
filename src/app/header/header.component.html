@@ -6,7 +6,7 @@
     class="logo"
     routerLink="/home"
   />
-  <div class="title">
+  <div class="title" [ngClass]="{ reveal: isVisible }">
     <h1 class="compagny-name" i18n>Compagnie Ezo</h1>
     <h2 class="artist-name">Estelle Bézombes</h2>
   </div>

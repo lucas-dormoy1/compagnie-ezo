@@ -1,12 +1,5 @@
-import { animate, state, style, transition, trigger } from '@angular/animations';
-import { AfterViewInit, Component, HostBinding } from '@angular/core';
+import { AfterViewInit, Component } from '@angular/core';
 import { distinctUntilChanged, filter, fromEvent, map, pairwise, share, throttleTime } from 'rxjs';
-
-
-enum VisibilityState {
-  Visible = 'visible',
-  Hidden = 'hidden'
-}
 
 enum Direction {
   Up = 'Up',
@@ -17,28 +10,10 @@ enum Direction {
   selector: 'app-header',
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.scss'],
-  animations: [
-    trigger('toggle', [
-      state(
-        VisibilityState.Hidden,
-        style({ 'padding-top': '0rem' })
-      ),
-      state(
-        VisibilityState.Visible,
-        style({ 'padding-top': '2rem' })
-      ),
-      transition('* => *', animate('200ms ease-in')),
-    ]),
-  ],
 })
 
 export class HeaderComponent implements AfterViewInit {
-  private isVisible = true;
-
-  @HostBinding('@toggle')
-  get toggle(): VisibilityState {
-    return this.isVisible ? VisibilityState.Visible : VisibilityState.Hidden;
-  }
+  public isVisible = true;
 
   constructor() { }
   ngAfterViewInit(): void {
@@ -62,8 +37,4 @@ export class HeaderComponent implements AfterViewInit {
     goingUp$.subscribe(() => (this.isVisible = true));
     goingDown$.subscribe(() => (this.isVisible = false));
   }
-
-  ngOnInit(): void {
-  }
-
 }
