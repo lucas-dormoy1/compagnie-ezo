@@ -38,15 +38,17 @@ export class MedusesComponent implements OnInit {
       "guillaume.JPG"
     ),
     new Artist(
-      "Jérôme",
-      "Février",
+      "Julie",
+      "Ehrenfeld",
       [
-        $localize`Jérôme Février naît en Belgique en 2001. Il commence la danse à l’âge de 5 ans. Il se tourne d’abord vers la danse classique dans une école privée à Liège. Il se perfectionne dans ce domaine durant de nombreux stages à l’Opera de Paris, à la Royal ballet  school de Londres ou encore à l’Ecole royale d’Anvers. Il fait ses humanités en mathématique et science à l’Athénée royale Air pur de Seraing en parallèle de ses cours de danse. Il découvre et commence à s’intéresser à la danse contemporaine en intégrant le Ballet junior de Genève en 2019.`,
-        $localize`Il danse de nombreuses pièces de chorégraphes variés comme Noa Zuk, Stijn Celis, Marcos Morau, Hofesch Schechter, Cindy Van Acker ou encore Maud Lepladec et participe à des créations de Vincent Dunoyer et de Ioanis Mandafounis . Il performe aussi au festival Antigel dans une création de Perrine Valli en 2020 et pour Pauline Huguet au musée d’Histoire naturelle de Genève en 2022. Suite à ses études de danse, il participe à une création de Jeanne Garcia et Matteo Lochu (And Now It’s Done) dansée au festival Le temps d’aimer la danse à Biarritz et intègre le Kameleon dance ensemble. En 2023 il danse ainsi SE BAT NA KAR de Nicolas Van de Brande et participe au Spectacle Mille et une danses de Thomas Lebrun au Palais des Beaux arts de Charleroi`,
-        $localize`Il s’intéresse aussi à la chorégraphie et crée en 2020 une petite pièce de 10 min s’appelant Pi`,
-        $localize`Il rejoint en 2023 en tant qu'interprète la compagnie EZO pour la création Les méduses ne nagent jamais seules.`
+        $localize`Julie Ehrenfeld est danseuse, chorégraphe et thérapeute. Originaire de Nancy, elle étudie la danse classique et contemporaine au Conservatoire Régional du Grand Nancy. Elle obtient son Certificat d’Etudes Chorégraphiques en danse classique en 2017 ainsi que son Diplôme d’Etudes Chorégraphiques en danse contemporaine l’année suivante.`,
+        $localize`Passionnée également par les sciences humaines, elle se lance dans un double parcours danse et psychologie qui lui permettront par la suite de faire de l’art thérapie. Elle obtient en 2023 une licence de psychologie, ayant déjà reçu en 2020 le titre de Maître-Praticienne en Programmation Neuro Linguistique (méthode de médiation thérapeutique).`,
+        $localize`Elle possède avant tout le désir de se consacrer au métier de danseuse interprète, elle arrive en 2020 à Paris où elle entre chez ACTS : école supérieure de danse contemporaine. Son parcours dans la capitale lui permet d’approfondir sa technique et de rencontrer dans le cadre de résidences de nombreux chorégraphes connus comme Youval Pick, Alban Richard, Dominique Mercy, Antonin Rioche, Emanuel Gat et beaucoup d’autres.`,
+        $localize`Ces diverses influences lui permettent d’explorer différents univers, d’enrichir son vocabulaire et de se créer petit à petit un univers personnel car la création chorégraphique et vidéographique la passionne tout autant.`,
+        $localize`C'est pour cela, qu'elle a décidé en 2023 de monter sa propre compagnie Faune pour laquelle elle crée des pièces engagées et pluridisciplinaires. Elle poursuit donc actuellement son parcours de chorégraphe mais également de danseuse en Freelance en intégrant des pièces de diverses compagnies.`,
+        $localize`Elle rejoint en 2024 en tant qu'interprète la compagnie EZO pour la création Les méduses ne nagent jamais seules.`
       ],
-      "jerome.JPG"
+      "julie.jpg"
     ),
     new Artist(
       "Mathilde",

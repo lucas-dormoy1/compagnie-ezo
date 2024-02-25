@@ -209,29 +209,9 @@
         <source>Actualités</source>
         <target>News</target>
       </trans-unit>
-      <trans-unit id="3406311675930745210" datatype="html">
-        <source>Atelier de pratique autour du solo</source>
-        <target>Workshop around the solo</target>
-      </trans-unit>
-      <trans-unit id="4107449327918495068" datatype="html">
-        <source> Prochain atelier au Centre Chorégraphique Le Cycle à Lyon le 27 janvier 2024 de 10h
-          à 13h. Ouvert à tous les niveaux. </source>
-        <target> Next workshop at Le Cycle in Lyon on January 27th 2024 from 10am to 1pm. Open to
-          all levels. </target>
-      </trans-unit>
       <trans-unit id="7969643642705304510" datatype="html">
         <source>Les méduses ne nagent jamais seules - Création en cours</source>
         <target>Les méduses ne nagent jamais seules - Work in progress</target>
-      </trans-unit>
-      <trans-unit id="5268702848541893758" datatype="html">
-        <source> Résidence de création la semaine du 9 octobre 2023 au CN D de Lyon. </source>
-        <target> Creative residency in October 2023 at the CN D in Lyon. </target>
-      </trans-unit>
-      <trans-unit id="929786206199418786" datatype="html">
-        <source> Spectacles Sauvages - festival Signes d&apos;Automne 2023 : Présentation du travail
-          en cours de création jeudi 9 novembre 2023 au Regard du Cygne à Paris. </source>
-        <target> Spectacles Sauvages - Signes d&apos;Automne 2023&apos;s festival: Presentation of
-          work in progress on Thursday, November 9th, 2023 at Regard du Cygne in Paris. </target>
       </trans-unit>
       <trans-unit id="57628137967023148" datatype="html">
         <source> Représentation du solo L’horizon est fait de petits cailloux </source>
@@ -290,10 +270,10 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
-          company DART. During the season she worked with the choreographers Fabio Liberti and the
-          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
-            ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
+        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
+          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
+          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
           AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> which were
@@ -435,15 +415,14 @@
           smile. The pebbles are that of the many encounters, thoughts, laughs, pains and sorrows
           that I experience every day. </target>
       </trans-unit>
-      <trans-unit id="5656302756214626506" datatype="html">
-        <source>Cette pièce chorégraphique courte est un solo de 8 minutes créé en 2022 et qui a
-          fait sa première en janvier 2023 à la Manufacture d&apos;Aurillac. La compagnie a
-          bénéficié du soutien de DART Dance Company pour la recherche de création et de la
-          Manufacture d&apos;Aurillac pour l&apos;accueil en résidence lumière.</source>
-        <target>This short choreographic piece is an 8-minute solo created in 2022 and premiered in
-          January 2023 at the Manufacture d&apos;Aurillac. The company received support from DART
-          Dance Company for the creative research and from the Manufacture d&apos;Aurillac for the
-          lighting residency.</target>
+      <trans-unit id="6310305060975184762" datatype="html">
+        <source>Cette pièce chorégraphique courte est un solo de 8 minutes qui a fait sa première en
+          janvier 2023 à la Manufacture d&apos;Aurillac. La compagnie a bénéficié du soutien de DART
+          Dance Company pour la recherche de création et de la Manufacture d&apos;Aurillac pour
+          l&apos;accueil en résidence lumière.</source>
+        <target>This short choreographic piece is an 8-minute solo premiered in January 2023 at the
+          Manufacture d&apos;Aurillac. The company received support from DART Dance Company for the
+          creative research and from the Manufacture d&apos;Aurillac for the lighting residency.</target>
       </trans-unit>
       <trans-unit id="4385304564698230206" datatype="html">
         <source>À propos du solo</source>
@@ -528,20 +507,19 @@
           chorégraphiques elle enrichit ses expériences artistiques et performe les pièces de Noa
           Zuk, Roy Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack
           Marshall ou encore Olivier Dubois.</source>
-        <target>She obtains in 2020 her DEC jazz as well as her Baccalauréat Technique
-          de la Musique et de la Danse, then joined the Ballet Junior de Genève. Through various
-          choreographic encounters, she has enriched her artistic experience, performing pieces by
-          Noa Zuk, Roy Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack
-          Marshall and Olivier Dubois.</target>
+        <target>She obtains in 2020 her DEC jazz as well as her Baccalauréat Technique de la Musique
+          et de la Danse, then joined the Ballet Junior de Genève. Through various choreographic
+          encounters, she has enriched her artistic experience, performing pieces by Noa Zuk, Roy
+          Assaf, Hofesh Shechter, Marcos Morau, Maud Lepladec, Rachid Ouramdane, Barack Marshall and
+          Olivier Dubois.</target>
       </trans-unit>
       <trans-unit id="1245831686859069023" datatype="html">
         <source>Portant un intérêt au monde social et ses diverses facettes, elle obtient sa Licence
           d’Anthropologie et de Sociologie à l’université de Toulouse Jean Jaurès et s&apos;y appuie
           pour développer une réflexion qu&apos;elle lie à son activité artistique.</source>
-        <target state="new">With a keen interest in the social world and its many facets, she
-          obtained a degree in Anthropology and Sociology from the University of Toulouse Jean
-          Jaurès, and has used this to develop a body of thought that she links to her artistic
-          activity.</target>
+        <target>With a keen interest in the social world and its many facets, she obtained a degree
+          in Anthropology and Sociology from the University of Toulouse Jean Jaurès, and has used
+          this to develop a body of thought that she links to her artistic activity.</target>
       </trans-unit>
       <trans-unit id="9125428787383968663" datatype="html">
         <source>Inspirée par le croisement des disciplines, notamment entre mouvement et avancées
@@ -549,26 +527,26 @@
           Berlin. Aujourd’hui en freelance, elle travaille auprès de la Cie 7273, la Cie Joshua
           Monten, la Cie Kunstorain et plus récemment avec Damien Jalet sur le film Émilia Perez
           réalisé par Jacques Audiard.</source>
-        <target state="new">Inspired by the intersection of disciplines, including movement and
-          technological developments, she is invited to explore this thematic in residence at Dock
-          11 Berlin. Now freelance, she works with Cie 7273, Cie Joshua Monten, Cie Kunstorain and
-          more recently with Damien Jalet on the film Émilia Perez directed by Jacques Audiard.</target>
+        <target>Inspired by the intersection of disciplines, including movement and technological
+          developments, she is invited to explore this thematic in residence at Dock 11 Berlin. Now
+          freelance, she works with Cie 7273, Cie Joshua Monten, Cie Kunstorain and more recently
+          with Damien Jalet on the film Émilia Perez directed by Jacques Audiard.</target>
       </trans-unit>
       <trans-unit id="880407282339941830" datatype="html">
         <source>Elle rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création
           Les méduses ne nagent jamais seules.</source>
-        <target state="new">She joined EZO in 2023 as a performer in the project Les méduses ne
-          nagent jamais seules.</target>
+        <target>She joined EZO in 2023 as a performer in the project Les méduses ne nagent jamais
+          seules.</target>
       </trans-unit>
       <trans-unit id="4835426952443241311" datatype="html">
         <source>Danseur-interprète et performer freelance travaillant en Europe. Son parcours
           atypique commence par l’architecture qu’il étudie à l’école Paris-Malaquais entre 2013 et
           2018. Période durant laquelle il se familiarise avec la performance artistique et ses
           possibles en termes d’interactions de l’objet scénographique et du corps.</source>
-        <target state="new">Freelance dancer and performer working in Europe. His atypical career
-          began with architecture, which he studied at the Paris-Malaquais school between 2013 and
-          2018. During this period, he became familiar with performance art and its possible
-          interactions between the scenographic object and the body.</target>
+        <target>Freelance dancer and performer working in Europe. His atypical career began with
+          architecture, which he studied at the Paris-Malaquais school between 2013 and 2018. During
+          this period, he became familiar with performance art and its possible interactions between
+          the scenographic object and the body.</target>
       </trans-unit>
       <trans-unit id="3531174629606275122" datatype="html">
         <source>Plus tard, en parallèle d’une formation au Conservatoire de Créteil en danse Jazz,
@@ -576,21 +554,21 @@
           Paris 8 où il valide une licence en Arts du Spectacle option Danse en 2019. Élargissant
           ainsi ses connaissances chorégraphiques, il s’épanouit dans le travail d’analyse
           intersectionnelle, liant lecture du geste, histoire, anthropologie et philosophie.</source>
-        <target state="new">Later, alongside training in jazz dance at the Conservatoire de Créteil,
-          he pursued a research approach through the Dance department at the Université de Paris 8,
-          where he obtained a degree in Performing Arts with a major in dance in 2019. Broadening
-          his knowledge of choreography in this way, he thrives on the work of intersectional
-          analysis, linking the reading of gesture, history, anthropology and philosophy.</target>
+        <target>Later, alongside training in jazz dance at the Conservatoire de Créteil, he pursued
+          a research approach through the Dance department at the Université de Paris 8, where he
+          obtained a degree in Performing Arts with a major in dance in 2019. Broadening his
+          knowledge of choreography in this way, he thrives on the work of intersectional analysis,
+          linking the reading of gesture, history, anthropology and philosophy.</target>
       </trans-unit>
       <trans-unit id="466558827173492059" datatype="html">
         <source>Après deux années de formations de danseur-interprète plus approfondies au sein du
           CFA Danse Chant Comédie de Paris, suivies d’une année de professionnalisation dans le
           programme de la compagnie Berlinoise DART, il travail aujourd’hui en tant que danseur
           contemporain pour divers projets entre l’Allemagne et la France.</source>
-        <target state="new">After two years of more in-depth training as a dancer-performer at the
-          CFA Danse Chant Comédie de Paris, followed by a year of professionalisation in the
-          programme of the Berlin company DART, he now works as a contemporary dancer on various
-          projects between Germany and France.</target>
+        <target>After two years of more in-depth training as a dancer-performer at the CFA Danse
+          Chant Comédie de Paris, followed by a year of professionalisation in the programme of the
+          Berlin company DART, he now works as a contemporary dancer on various projects between
+          Germany and France.</target>
       </trans-unit>
       <trans-unit id="2282801997641791548" datatype="html">
         <source>Il démontre son goût prononcé pour les techniques d’improvisation et de composition
@@ -598,11 +576,11 @@
           fondements de la culture Jazz, et la richesse des sonorités de musiques de tous styles et
           époques, qu’il aime entretenir et renouveler dans ses possibilités infinies, sa créativité
           et son mouvement.</source>
-        <target state="new">He demonstrates his taste for the techniques of improvisation and
-          instant composition by mixing the diversity of the potential of contemporary writing with
-          the foundations of jazz culture and the richness of the sounds of music from all styles
-          and eras, which he likes to maintain and renew in its infinite possibilities, creativity
-          and movement.</target>
+        <target>He demonstrates his taste for the techniques of improvisation and instant
+          composition by mixing the diversity of the potential of contemporary writing with the
+          foundations of jazz culture and the richness of the sounds of music from all styles and
+          eras, which he likes to maintain and renew in its infinite possibilities, creativity and
+          movement.</target>
       </trans-unit>
       <trans-unit id="1359284809279920573" datatype="html">
         <source>En parallèle de ses expériences en tant qu’artiste chorégraphique avec Fabio
@@ -610,58 +588,16 @@
           aspects pédagogiques et à l’accompagnement du danseur professionnel en préparant ses
           diplômes d’État de professeur de danse en Jazz et Contemporain, ainsi qu’en se formant à
           la pratique du Shiatsu thérapeutique.</source>
-        <target state="new">Alongside his experiences as a choreographic artist with Fabio Liberti,
-          Human Fields, Eva Papadopoulos and Armelle Cornillon, he is also interested in the
-          pedagogical aspects and support of professional dancers, preparing his State Dance Teacher
-          Diplomas in Jazz and Contemporary, as well as training in the practice of therapeutic
-          Shiatsu.</target>
+        <target>Alongside his experiences as a choreographic artist with Fabio Liberti, Human
+          Fields, Eva Papadopoulos and Armelle Cornillon, he is also interested in the pedagogical
+          aspects and support of professional dancers, preparing his State Dance Teacher Diplomas in
+          Jazz and Contemporary, as well as training in the practice of therapeutic Shiatsu.</target>
       </trans-unit>
       <trans-unit id="1608610104578728585" datatype="html">
         <source>Il rejoint en 2023 en tant qu&apos;interprète la compagnie EZO pour la création Les
           méduses ne nagent jamais seules.</source>
-        <target state="new">He joined EZO in 2023 as a performer in the project Les méduses ne
-          nagent jamais seules.</target>
-      </trans-unit>
-      <trans-unit id="4580313950244885966" datatype="html">
-        <source>Jérôme Février naît en Belgique en 2001. Il commence la danse à l’âge de 5 ans. Il
-          se tourne d’abord vers la danse classique dans une école privée à Liège. Il se
-          perfectionne dans ce domaine durant de nombreux stages à l’Opera de Paris, à la Royal
-          ballet school de Londres ou encore à l’Ecole royale d’Anvers. Il fait ses humanités en
-          mathématique et science à l’Athénée royale Air pur de Seraing en parallèle de ses cours de
-          danse. Il découvre et commence à s’intéresser à la danse contemporaine en intégrant le
-          Ballet junior de Genève en 2019.</source>
-        <target state="new">Jérôme Février was born in Belgium in 2001. He began dancing at the age
-          of 5. He first turned to ballet at a public school in Liège. He perfected his skills in
-          this field during a number of courses at the Paris Opera, the Royal Ballet School in
-          London and the Royal Ballet School in Antwerp. He studied mathematics and science at the
-          Athénée Royale Air Pur in Seraing, alongside his dance classes. He discovered and began to
-          take an interest in contemporary dance when he joined the Ballet junior de Genève in 2019.</target>
-      </trans-unit>
-      <trans-unit id="9083071634464520855" datatype="html">
-        <source>Il danse de nombreuses pièces de chorégraphes variés comme Noa Zuk, Stijn Celis,
-          Marcos Morau, Hofesch Schechter, Cindy Van Acker ou encore Maud Lepladec et participe à
-          des créations de Vincent Dunoyer et de Ioanis Mandafounis . Il performe aussi au festival
-          Antigel dans une création de Perrine Valli en 2020 et pour Pauline Huguet au musée
-          d’Histoire naturelle de Genève en 2022. Suite à ses études de danse, il participe à une
-          création de Jeanne Garcia et Matteo Lochu (And Now It’s Done) dansée au festival Le temps
-          d’aimer la danse à Biarritz et intègre le Kameleon dance ensemble. En 2023 il danse ainsi
-          SE BAT NA KAR de Nicolas Van de Brande et participe au Spectacle Mille et une danses de
-          Thomas Lebrun au Palais des Beaux arts de Charleroi</source>
-        <target state="new">He has danced in numerous pieces by a wide range of choreographers,
-          including Noa Zuk, Stijn Celis, Marcos Morau, Hofesch Schechter, Cindy Van Acker and Maud
-          Lepladec, and has taken part in works by Vincent Dunoyer and Ioanis Mandafounis. He also
-          performed at the Antigel festival in a creation by Perrine Valli in 2020, and for Pauline
-          Huguet at Geneva's Natural History Museum in 2022. Following his dance studies, he took
-          part in a creation by Jeanne Garcia and Matteo Lochu (And Now It's Done) danced at the
-          festival Le temps d'aimer la danse in Biarritz and joined the Kameleon dance ensemble. In
-          2023 he danced SE BAT NA KAR by Nicolas Van de Brande and took part in show Mille et une
-          danses by Thomas Lebrun at the Palais des Beaux Arts in Charleroi.</target>
-      </trans-unit>
-      <trans-unit id="5866849851608905696" datatype="html">
-        <source>Il s’intéresse aussi à la chorégraphie et crée en 2020 une petite pièce de 10 min
-          s’appelant Pi</source>
-        <target state="new">He is also interested in choreography, and in 2020 created a short
-          10-minute piece called Pi</target>
+        <target>He joined EZO in 2023 as a performer in the project Les méduses ne nagent jamais
+          seules.</target>
       </trans-unit>
       <trans-unit id="6292994658460158600" datatype="html">
         <source>Née à Nice, dans le sud de la France, Mathilde se passionne très vite pour la danse
@@ -669,51 +605,50 @@
           artistique la conduit à la danse contemporaine. Après des études en ingénierie à
           l&apos;Ecole Centrale de Lyon, elle décide de suivre une formation professionnelle afin
           d’apprendre le métier de danseuse interprète.</source>
-        <target state="new">Born in Nice in the south of France, Mathilde quickly developed a
-          passion for dance and movement. Initially drawn to modern jazz and hip-hop, her artistic
-          path led her to contemporary dance. After studying engineering at the Ecole Centrale in
-          Lyon, she decided to take a professional training course to learn the trade of
-          dancer-performer.</target>
+        <target>Born in Nice in the south of France, Mathilde quickly developed a passion for dance
+          and movement. Initially drawn to modern jazz and hip-hop, her artistic path led her to
+          contemporary dance. After studying engineering at the Ecole Centrale in Lyon, she decided
+          to take a professional training course to learn the trade of dancer-performer.</target>
       </trans-unit>
       <trans-unit id="551942646053700695" datatype="html">
         <source>Animée par une quête de nouveaux horizons, Mathilde élargit constamment sa pratique
           artistique en explorant différentes techniques de mouvement telles que la technique Gaga,
           le yoga et le hip-hop freestyle, lui permettant d’enrichir son vocabulaire corporel.</source>
-        <target state="new">Driven by a quest for new horizons, Mathilde is constantly expanding her
-          artistic practice by exploring different movement techniques such as the Gaga technique,
-          yoga and freestyle hip-hop, enabling her to enrich her body vocabulary.</target>
+        <target>Driven by a quest for new horizons, Mathilde is constantly expanding her artistic
+          practice by exploring different movement techniques such as the Gaga technique, yoga and
+          freestyle hip-hop, enabling her to enrich her body vocabulary.</target>
       </trans-unit>
       <trans-unit id="5883034000156354389" datatype="html">
         <source>Également chanteuse et DJ, Mathilde est une artiste pluridisciplinaire qui explore
           différents médiums de création.</source>
-        <target state="new">Also a singer and DJ, Mathilde is a multidisciplinary artist who
-          explores different creative mediums.</target>
+        <target>Also a singer and DJ, Mathilde is a multidisciplinary artist who explores different
+          creative mediums.</target>
       </trans-unit>
       <trans-unit id="2097442884390997163" datatype="html">
         <source>Adriès Sofi est un artiste danseur de 25 ans, basé à Lyon. Il s’est entraîné jeune
           en breakdance et danses Hip-Hop avec la Cie Kafig. Avant de se former et de travailler
           dans les danses contemporaines, la performance, et la danse classique.</source>
-        <target state="new">Adriès Sofi is a 25-year-old dance artist based in Lyon. He trained in
-          breakdance and hip-hop with Cie Kafig before training and working in contemporary dance,
-          performance and ballet.</target>
+        <target>Adriès Sofi is a 25-year-old dance artist based in Lyon. He trained in breakdance
+          and hip-hop with Cie Kafig before training and working in contemporary dance, performance
+          and ballet.</target>
       </trans-unit>
       <trans-unit id="5609952550019666237" datatype="html">
         <source>Il intègre en 2018 l’école SEAD Salzburg Experimental Academy of Dance en Autriche
           pour 4 ans, où il travaille dans des créations d’Elina Pirinen (FI), Milla Koistinen (SU),
           Edivaldo Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), et danse aussi du
           répertoire de grande compagnie (Sidi Larbi Cherkaoui, Akram Khan).</source>
-        <target state="new">In 2018, he joined the SEAD Salzburg Experimental Academy of Dance in
-          Austria for 4 years, where he worked in creations by Elina Pirinen (FI), Milla Koistinen
-          (SU), Edivaldo Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), and also danced
-          in the repertoire of major companies (Sidi Larbi Cherkaoui, Akram Khan).</target>
+        <target>In 2018, he joined the SEAD Salzburg Experimental Academy of Dance in Austria for 4
+          years, where he worked in creations by Elina Pirinen (FI), Milla Koistinen (SU), Edivaldo
+          Ernesto (MZ), Paul Blackman &amp; Christine Gouzelis (GR), and also danced in the
+          repertoire of major companies (Sidi Larbi Cherkaoui, Akram Khan).</target>
       </trans-unit>
       <trans-unit id="7521525743487755243" datatype="html">
         <source>Jeune chorégraphe inspiré par les corps queer et par l’expression politique et
           poétique dans les milieux festifs et la club culture, il monte en 2022-2023 un projet de
           performance, TAZ, au sein des clubs de musique électronique. Il y explore une physicalité
           extatique, au service d’une danse sensible et furieuse.</source>
-        <target state="new">A young choreographer inspired by queer bodies and by political and
-          poetic expression in party circles and club culture, in 2022-2023 he set up a performance
+        <target>A young choreographer inspired by queer bodies and by political and poetic
+          expression in party circles and club culture, in 2022-2023 he set up a performance
           project, TAZ, in electronic music clubs. Here he explores an ecstatic physicality in the
           service of a sensitive and furious dance.</target>
       </trans-unit>
@@ -721,13 +656,90 @@
         <source>Adriès travaille également auprès de la jeunesse. Directeur en centre de vacances
           jeunes avec la CCAS, il met en pratique et transmet un projet politique et social autour
           de l’organisation et de l’intelligence collective.</source>
-        <target state="new">Adriès also works with young people. As director of a youth holiday
-          centre with the CCAS, he puts into practice and passes on a political and social project
-          based on organisation and collective intelligence.</target>
+        <target>Adriès also works with young people. As director of a youth holiday centre with the
+          CCAS, he puts into practice and passes on a political and social project based on
+          organisation and collective intelligence.</target>
       </trans-unit>
       <trans-unit id="2649148121516636264" datatype="html">
         <source>Portrait de </source>
-        <target state="new">Biography of </target>
+        <target>Biography of </target>
+      </trans-unit>
+      <trans-unit id="3415690839469668641" datatype="html">
+        <source>Julie Ehrenfeld est danseuse, chorégraphe et thérapeute. Originaire de Nancy, elle
+          étudie la danse classique et contemporaine au Conservatoire Régional du Grand Nancy. Elle
+          obtient son Certificat d’Etudes Chorégraphiques en danse classique en 2017 ainsi que son
+          Diplôme d’Etudes Chorégraphiques en danse contemporaine l’année suivante.</source>
+        <target>Julie Ehrenfeld is a dancer, choreographer and therapist. Originally
+          from Nancy, she studied classical and contemporary dance at the Conservatoire Régional du
+          Grand Nancy. She obtained her Certificat d'Etudes Chorégraphiques in classical dance in
+          2017 and her Diplôme d'Etudes Chorégraphiques in contemporary dance the following year.</target>
+      </trans-unit>
+      <trans-unit id="4384628786081953799" datatype="html">
+        <source>Passionnée également par les sciences humaines, elle se lance dans un double
+          parcours danse et psychologie qui lui permettront par la suite de faire de l’art thérapie.
+          Elle obtient en 2023 une licence de psychologie, ayant déjà reçu en 2020 le titre de
+          Maître-Praticienne en Programmation Neuro Linguistique (méthode de médiation
+          thérapeutique).</source>
+        <target>She also has a passion for the humanities, and embarked on a dual course
+          in dance and psychology, which would later enable her to work in art therapy. In 2023, she
+          obtained a degree in psychology, having already received the title of Master Practitioner
+          in Neuro-Linguistic Programming (a method of therapeutic mediation) in 2020.</target>
+      </trans-unit>
+      <trans-unit id="7055159445107482293" datatype="html">
+        <source>Elle possède avant tout le désir de se consacrer au métier de danseuse interprète,
+          elle arrive en 2020 à Paris où elle entre chez ACTS : école supérieure de danse
+          contemporaine. Son parcours dans la capitale lui permet d’approfondir sa technique et de
+          rencontrer dans le cadre de résidences de nombreux chorégraphes connus comme Youval Pick,
+          Alban Richard, Dominique Mercy, Antonin Rioche, Emanuel Gat et beaucoup d’autres.</source>
+        <target>Above all, she has the desire to devote herself to the profession of
+          dancer-performer, and in 2020 she arrived in Paris where she joined ACTS: école supérieure
+          de danse contemporaine. Her time in the capital enabled her to deepen her technique and
+          meet a number of well-known choreographers during residencies, including Youval Pick,
+          Alban Richard, Dominique Mercy, Antonin Rioche, Emanuel Gat and many others.</target>
+      </trans-unit>
+      <trans-unit id="2671305845039817825" datatype="html">
+        <source>Ces diverses influences lui permettent d’explorer différents univers, d’enrichir son
+          vocabulaire et de se créer petit à petit un univers personnel car la création
+          chorégraphique et vidéographique la passionne tout autant.</source>
+        <target>These diverse influences have enabled her to explore different worlds,
+          enriching her vocabulary and gradually creating her own personal universe, as she is
+          equally passionate about choreographic and video creation.</target>
+      </trans-unit>
+      <trans-unit id="1054546551249928900" datatype="html">
+        <source>C&apos;est pour cela, qu&apos;elle a décidé en 2023 de monter sa propre compagnie
+          Faune pour laquelle elle crée des pièces engagées et pluridisciplinaires. Elle poursuit
+          donc actuellement son parcours de chorégraphe mais également de danseuse en Freelance en
+          intégrant des pièces de diverses compagnies.</source>
+        <target>That's why, in 2023, she decided to set up her own company, Faune, for
+          which she creates engaging, multi-disciplinary pieces. She is currently pursuing her
+          career as a freelance choreographer and dancer, working with a range of companies.</target>
+      </trans-unit>
+      <trans-unit id="8416002075891424463" datatype="html">
+        <source>Elle rejoint en 2024 en tant qu&apos;interprète la compagnie EZO pour la création
+          Les méduses ne nagent jamais seules.</source>
+        <target>She joined EZO in 2024 as a performer in the project Les méduses ne nagent jamais
+          seules.</target>
+      </trans-unit>
+      <trans-unit id="3589286666863235587" datatype="html">
+        <source> Résidence de création à la Manufacture d&apos;Aurillac du 26 février au 8 mars
+          2024. </source>
+        <target> Residency at Manufacture d&apos;Aurillac from February 26th to March 8th of 2024.</target>
+      </trans-unit>
+      <trans-unit id="51928569975186221" datatype="html">
+        <source> Sortie de résidence le jeudi 7 mars 2024 à 20h dans le cadre des Jeudis de la
+          danse. Entrée libre et gratuite. </source>
+        <target> Exit from residency on Thursday March 7, 2024 at 8pm as part of the
+          Jeudis de la danse. Free admission.</target>
+      </trans-unit>
+      <trans-unit id="1958458607897784705" datatype="html">
+        <source>Seven Tries - Création 2024</source>
+        <target>Seven Tries - 2024 Creation</target>
+      </trans-unit>
+      <trans-unit id="2292568760415358781" datatype="html">
+        <source> Nouveau solo chorégraphié et interprété par Estelle Bézombes. Résidence de création
+          au studio Chatha à Lyon en décembre 2023, et à Murol en février 2024. </source>
+        <target> New solo choreographed and performed by Estelle Bézombes. Creative
+          residency at the Chatha Studio in Lyon in December 2023, and in Murol in February 2024. </target>
       </trans-unit>
     </body>
   </file>

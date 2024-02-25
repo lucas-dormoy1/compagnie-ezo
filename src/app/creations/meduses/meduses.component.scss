@@ -74,7 +74,7 @@
 }
 
 .soutien-image {
-  height: 7rem;
+  height: 4rem;
 }
 
 .murol {
@@ -88,6 +88,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   width: 100%;
 }
 
