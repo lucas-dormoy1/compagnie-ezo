@@ -79,8 +79,11 @@
 }
 
 .news-image {
-  max-height: 40rem;
-  max-width: 40%;
+  max-height: 70vh;
+}
+
+.news-video {
+  max-height: 60vh;
 }
 
 .news-description {
@@ -103,6 +106,10 @@
   .news-description {
     outline: 0px solid $dark-blue;
     padding: 0;
+  }
+
+  .news-video {
+    max-width: 90vw;
   }
 
   .news-item,
