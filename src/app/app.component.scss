@@ -1,8 +1,9 @@
 @import "../styles/variables";
 
 .headerspace {
-  height: 200px;
-  margin: 2rem 0rem;
+  height: 170px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 app-header {
@@ -13,5 +14,6 @@ app-header {
 @media only screen and (max-width: $small-screen-size) {
   .headerspace {
     height: 13rem;
+    margin: 2rem 0rem;
   }
 }
