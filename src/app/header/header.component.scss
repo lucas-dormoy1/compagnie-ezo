@@ -46,6 +46,7 @@ app-home-menu {
 @media only screen and (max-width: $small-screen-size) {
   .compagny-name {
     font-size: 2rem;
+    padding-top: 1rem;
   }
 
   .artist-name {
@@ -55,7 +56,6 @@ app-home-menu {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: auto auto;
-    row-gap: 1rem;
     align-items: center;
   }
 
@@ -82,7 +82,7 @@ app-home-menu {
   .title.reveal {
     transform: scale(1, 1);
     transform-origin: top center;
-    max-height: 4rem;
+    max-height: 5rem;
     transition: 0.4s ease-in;
   }
 }
