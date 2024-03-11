@@ -213,16 +213,6 @@
         <source>Les méduses ne nagent jamais seules - Création en cours</source>
         <target>Les méduses ne nagent jamais seules - Work in progress</target>
       </trans-unit>
-      <trans-unit id="57628137967023148" datatype="html">
-        <source> Représentation du solo L’horizon est fait de petits cailloux </source>
-        <target> Performance of the solo L&apos;horizon est fait de petits cailloux </target>
-      </trans-unit>
-      <trans-unit id="1471370773995768536" datatype="html">
-        <source> Rendez-vous artistique lors du stage national de Passeurs de Danse. Le solo a été
-          présenté à la Manufacture CDCN Nouvelle Aquitaine à Bordeaux en octobre 2023. </source>
-        <target> Artistic rendez-vous during the Passeurs de Danse workshop. The solo will be
-          presented at la Manufacture CDCN Nouvelle Aquitaine in Bordeaux. </target>
-      </trans-unit>
       <trans-unit id="8692532301274802700" datatype="html">
         <source>Présentation de la compagnie</source>
         <target>About EZO</target>
@@ -745,8 +735,8 @@
       <trans-unit id="1082976408874938360" datatype="html">
         <source> Retour en vidéo sur la représentation du solo L’horizon est fait de petits cailloux
           en août 2023 pour PLATFORM14 à Berlin. </source>
-        <target> A video look back at the performance of the solo L'horizon est fait de
-          petits cailloux in August 2023 for PLATFORM14 in Berlin. </target>
+        <target> A video look back at the performance of the solo L&apos;horizon est fait de petits
+          cailloux in August 2023 for PLATFORM14 in Berlin. </target>
       </trans-unit>
     </body>
   </file>
