@@ -1,142 +1,148 @@
-<div class="meduses-title">
-  <span i18n>les méduses ne nagent jamais seules</span>
-</div>
-<div class="meduses-subtitle">
-  <span i18n
-    >Création 2024-2025 - Pièce pour 5 interprètes destinée à être jouée sur
-    plateau</span
-  >
-</div>
-<img
-  src="assets/creations/meduses/meduses_3_bande.JPG"
-  class="meduses-bande"
-  alt="Plusieurs danseurs dans le processus de création chorégraphique"
-/>
 <div class="meduses-page">
-  <div class="meduses-paragraphe with-image">
-    <div class="blue-frame">
-      <img
-        src="assets/creations/meduses/meduses_1.JPG"
-        class="meduses-image"
-        alt="Plusieurs danseurs dans le processus de création chorégraphique"
-      />
-      <div class="container">
-        <span class="a-propos" i18n>À propos de la pièce</span>
-        <p i18n>
-          Cette pièce souhaite explorer les notions de différence, rejet et
-          discrimination dans notre façon d’évoluer collectivement et dans nos
-          interactions entre individus. Comment, à partir de notre besoin humain
-          de catégorisation et d’appartenance à un groupe, se construisent
-          différents mécanismes d’identification et de rejet ? Quelles sont
-          leurs conséquences sur notre organisation ?
-        </p>
-        <p i18n>
-          La recherche se concentre sur l’expression des singularités des
-          interprètes au sein d’un groupe et l’interprétation qu’on peut faire
-          des différentes situations qu’ils traversent. La pièce met en scène la
-          façon dont ces singularités peuvent être gérées collectivement, entre
-          tension et harmonie, comme un reflet de ce que nous vivons au studio
-          et en dehors, dans la construction d’une réalité commune. La matière
-          chorégraphique se construit à partir d’un mouvement de balancier que
-          les interprètes installent et qui devient un fil conducteur. Il va les
-          emmener dans une exploration des liens qu’ils tissent ou abandonnent
-          au sein du groupe.
-        </p>
-      </div>
-    </div>
+  <div class="meduses-title">
+    <span i18n>les méduses ne nagent jamais seules</span>
   </div>
-  <div class="meduses-paragraphe with-image">
-    <div class="blue-frame reversed">
-      <div class="container">
-        <p i18n>
-          Au-delà de la volonté de compréhension des mécanismes individuels et
-          collectifs à l'œuvre, la pièce se veut être une plongée au cœur de la
-          manifestation physique du ressenti des interprètes dans leur vécu face
-          à cette problématique. C’est un cheminement poétique et puissant vers
-          une meilleure compréhension et acceptation de l’autre et de soi-même.
-          Et si les autres et leurs différences étaient un miroir pour nous ?
-          Pourquoi rejetons-nous les différences des autres ? Mais aussi,
-          parfois, les nôtres. Que signifient-elles pour nous ? Ne sont-elles
-          pas une opportunité, une chance de nous redécouvrir et de nous
-          accepter en célébrant la diversité ?
-        </p>
-        <p i18n>
-          L'unité, qui est différente de l'uniformité, apparaît dans cette pièce
-          comme le seul remède à la division. Elle ne peut exister qu'entre des
-          personnes ayant des convictions, des croyances et des pratiques
-          différentes.
-        </p>
-      </div>
-      <img
-        src="assets/creations/meduses/meduses_2.JPG"
-        class="meduses-image"
-        alt="La chorégraphe communique avec ses danseurs"
-      />
-    </div>
-  </div>
-  <button class="artistic-file-button" (click)="openFile()" i18n>
-    <img src="assets/icons/new-tab.svg" class="artistic-file-icon" />
-    Consulter le dossier artistique
-  </button>
-  <div class="interpretes">
-    <span i18n>Interprètes</span>
-  </div>
-  <div class="artists">
-    <div
-      class="artist"
-      *ngFor="let artist of artists"
-      (click)="openModalArtist(artist)"
+  <div class="meduses-subtitle">
+    <span i18n
+      >Création 2024-2025 - Pièce pour 5 interprètes destinée à être jouée sur
+      plateau</span
     >
-      <img
-        [src]="getArtistImagePath(artist)"
-        class="meduses-artist-image"
-        [alt]="artist.alt"
-      />
-      <div class="artist-name">
-        <span> {{ artist.firstName }} {{ artist.lastName }} </span>
+  </div>
+  <iframe
+    class="youtube-video"
+    src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+  <div class="meduses-page">
+    <div class="meduses-paragraphe with-image">
+      <div class="blue-frame">
+        <img
+          src="assets/creations/meduses/desequilibre.jpg"
+          class="meduses-image"
+          alt="Plusieurs danseurs dans le processus de création chorégraphique"
+        />
+        <div class="container">
+          <span class="a-propos" i18n>À propos de la pièce</span>
+          <p i18n>
+            Cette pièce souhaite explorer les notions de différence, rejet et
+            discrimination dans notre façon d’évoluer collectivement et dans nos
+            interactions entre individus. Comment, à partir de notre besoin
+            humain de catégorisation et d’appartenance à un groupe, se
+            construisent différents mécanismes d’identification et de rejet ?
+            Quelles sont leurs conséquences sur notre organisation ?
+          </p>
+          <p i18n>
+            La recherche se concentre sur l’expression des singularités des
+            interprètes au sein d’un groupe et l’interprétation qu’on peut faire
+            des différentes situations qu’ils traversent. La pièce met en scène
+            la façon dont ces singularités peuvent être gérées collectivement,
+            entre tension et harmonie, comme un reflet de ce que nous vivons au
+            studio et en dehors, dans la construction d’une réalité commune. La
+            matière chorégraphique se construit à partir d’un mouvement de
+            balancier que les interprètes installent et qui devient un fil
+            conducteur. Il va les emmener dans une exploration des liens qu’ils
+            tissent ou abandonnent au sein du groupe.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="meduses-paragraphe with-image">
+      <div class="blue-frame reversed">
+        <div class="container">
+          <p i18n>
+            Au-delà de la volonté de compréhension des mécanismes individuels et
+            collectifs à l'œuvre, la pièce se veut être une plongée au cœur de
+            la manifestation physique du ressenti des interprètes dans leur vécu
+            face à cette problématique. C’est un cheminement poétique et
+            puissant vers une meilleure compréhension et acceptation de l’autre
+            et de soi-même. Et si les autres et leurs différences étaient un
+            miroir pour nous ? Pourquoi rejetons-nous les différences des autres
+            ? Mais aussi, parfois, les nôtres. Que signifient-elles pour nous ?
+            Ne sont-elles pas une opportunité, une chance de nous redécouvrir et
+            de nous accepter en célébrant la diversité ?
+          </p>
+          <p i18n>
+            L'unité, qui est différente de l'uniformité, apparaît dans cette
+            pièce comme le seul remède à la division. Elle ne peut exister
+            qu'entre des personnes ayant des convictions, des croyances et des
+            pratiques différentes.
+          </p>
+        </div>
+        <img
+          src="assets/creations/meduses/calins.jpg"
+          class="meduses-image"
+          alt="La chorégraphe communique avec ses danseurs"
+        />
+      </div>
+    </div>
+    <button class="artistic-file-button" (click)="openFile()" i18n>
+      <img src="assets/icons/new-tab.svg" class="artistic-file-icon" />
+      Consulter le dossier artistique
+    </button>
+    <div class="interpretes">
+      <span i18n>Interprètes</span>
+    </div>
+    <div class="artists">
+      <div
+        class="artist"
+        *ngFor="let artist of artists"
+        (click)="openModalArtist(artist)"
+      >
+        <img
+          [src]="getArtistImagePath(artist)"
+          class="meduses-artist-image"
+          [alt]="artist.alt"
+        />
+        <div class="artist-name">
+          <span> {{ artist.firstName }} {{ artist.lastName }} </span>
+        </div>
       </div>
     </div>
   </div>
-</div>
-<div class="additional-info">
-  <div class="soutiens">
-    <img
-      src="assets/soutiens/pole-en-scenes-logo.png"
-      class="soutien-image"
-      alt="logo de Pôle Pik"
-    />
-    <img
-      src="assets/soutiens/cnd_blanc.png"
-      class="soutien-image"
-      alt="logo du CND"
-    />
-    <img
-      src="assets/soutiens/logo-blanc-manufacture.png"
-      class="soutien-image"
-      alt="logo de la Manufacture d’Aurillac"
-    />
-    <div class="murol">
+  <div class="additional-info">
+    <div class="soutiens">
       <img
-        src="assets/soutiens/blason_murol.png"
-        alt="blason de la ville de Murol"
+        src="assets/soutiens/pole-en-scenes-logo.png"
         class="soutien-image"
+        alt="logo de Pôle Pik"
       />
-      Ville de Murol
+      <img
+        src="assets/soutiens/cnd_blanc.png"
+        class="soutien-image"
+        alt="logo du CND"
+      />
+      <img
+        src="assets/soutiens/logo-blanc-manufacture.png"
+        class="soutien-image"
+        alt="logo de la Manufacture d’Aurillac"
+      />
+      <div class="murol">
+        <img
+          src="assets/soutiens/blason_murol.png"
+          alt="blason de la ville de Murol"
+          class="soutien-image"
+        />
+        Ville de Murol
+      </div>
+      <img
+        src="assets/soutiens/chatha.svg"
+        class="soutien-image"
+        alt="logo du studio Chatha"
+      />
+      <img
+        src="assets/soutiens/spedidam.png"
+        class="soutien-image"
+        alt="logo de la Spedidam"
+      />
+      <img
+        src="assets/soutiens/regard-du-cygne.png"
+        class="soutien-image"
+        alt="logo du Regard Du Cygne"
+      />
     </div>
-    <img
-      src="assets/soutiens/chatha.svg"
-      class="soutien-image"
-      alt="logo du studio Chatha"
-    />
-    <img
-      src="assets/soutiens/spedidam.png"
-      class="soutien-image"
-      alt="logo de la Spedidam"
-    />
-    <img
-      src="assets/soutiens/regard-du-cygne.png"
-      class="soutien-image"
-      alt="logo du Regard Du Cygne"
-    />
   </div>
 </div>

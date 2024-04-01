@@ -201,17 +201,13 @@
         <target>Contemporary dance company based in France, led by young choreographer Estelle
           Bézombes.</target>
       </trans-unit>
-      <trans-unit id="6760120161490372904" datatype="html">
-        <source>les danseurs de la compagnie EZO en entrainement</source>
-        <target>EZO Dance Company dancers during training</target>
+      <trans-unit id="8038069095359212327" datatype="html">
+        <source>les danseurs de la compagnie EZO en entraînement</source>
+        <target state="new">EZO Dance Company dancers during training</target>
       </trans-unit>
       <trans-unit id="3367314208365164186" datatype="html">
         <source>Actualités</source>
         <target>News</target>
-      </trans-unit>
-      <trans-unit id="7969643642705304510" datatype="html">
-        <source>Les méduses ne nagent jamais seules - Création en cours</source>
-        <target>Les méduses ne nagent jamais seules - Work in progress</target>
       </trans-unit>
       <trans-unit id="8692532301274802700" datatype="html">
         <source>Présentation de la compagnie</source>
@@ -260,9 +256,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
-          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
-          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
+          company DART. During the season she worked with the choreographers Fabio Liberti and the
+          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -710,18 +706,6 @@
         <target>She joined EZO in 2024 as a performer in the project Les méduses ne nagent jamais
           seules.</target>
       </trans-unit>
-      <trans-unit id="3589286666863235587" datatype="html">
-        <source> Résidence de création à la Manufacture d&apos;Aurillac du 26 février au 8 mars
-          2024. </source>
-        <target> Residency at la Manufacture d&apos;Aurillac from February 26th to March 8th of
-          2024.</target>
-      </trans-unit>
-      <trans-unit id="51928569975186221" datatype="html">
-        <source> Sortie de résidence le jeudi 7 mars 2024 à 20h dans le cadre des Jeudis de la
-          danse. Entrée libre et gratuite. </source>
-        <target> Work in progress showing on Thursday March 7, 2024 at 8pm as part of the Jeudis de
-          la danse. Free admission.</target>
-      </trans-unit>
       <trans-unit id="1958458607897784705" datatype="html">
         <source>Seven Tries - Création 2024</source>
         <target>Seven Tries - 2024 Creation</target>
@@ -737,6 +721,86 @@
           en août 2023 pour PLATFORM14 à Berlin. </source>
         <target> A video look back at the performance of the solo L&apos;horizon est fait de petits
           cailloux in August 2023 for PLATFORM14 in Berlin. </target>
+      </trans-unit>
+      <trans-unit id="6789113010421327162" datatype="html">
+        <source>Seven Tries</source>
+        <target>Seven Tries</target>
+      </trans-unit>
+      <trans-unit id="7511523219599658760" datatype="html">
+        <source>Création 2024</source>
+        <target>2024 Creation</target>
+      </trans-unit>
+      <trans-unit id="8955063668560132285" datatype="html">
+        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique
+          d’Odalie (Sophie Griffon). </source>
+        <target>New solo choreographed and performed by Estelle Bézombes to music by Odalie (Sophie
+          Griffon).</target>
+      </trans-unit>
+      <trans-unit id="1143961687135393326" datatype="html">
+        <source>Musique d&apos;Odalie (Sophie Griffon)</source>
+        <target>Music by Odalie (Sophie Griffon)</target>
+      </trans-unit>
+      <trans-unit id="8435746992657615840" datatype="html">
+        <source> Le système projette son influence dans l’espace au-delà de sa position et façonne
+          les possibilités du corps en mouvement. Il définit les relations que l’on entretient avec
+          soi, l’autre et le monde. Le corps, entre tension, intensité et douceur, cherche à
+          redéfinir son rôle. </source>
+        <target> The system projects its influence into space beyond its position and shapes the
+          possibilities of the body in movement. It defines our relationships with ourselves, others
+          and the world. The body, between tension, intensity and softness, seeks to redefine its
+          role. </target>
+      </trans-unit>
+      <trans-unit id="4970648304377478052" datatype="html">
+        <source> Ce solo explore la relation entre un corps en mouvement et un mobile blanc surmonté
+          d’un néon lumineux, métaphore de nos relations avec les différents systèmes dans lesquels
+          nous évoluons (capitaliste, patriarcal, colonial, néo-libéral, consumériste, écocidaire, <x
+            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />etc.<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />). Les interactions entre
+          le corps et le système reflètent la complexité de ces relations, entre tentatives de
+          détachement et retour au rôle joué au sein de ces paradigmes. Le système projette son
+          influence dans l&apos;espace sur le corps, qui oscille entre délicatesse et intensité. La
+          recherche de contrastes dans les qualités de mouvement a été l&apos;axe principal de cette
+          création. Trouver comment le corps reste alerte lorsqu&apos;il est délicat et fluide
+          lorsqu&apos;il est rapide et physiquement impliqué. </source>
+        <target> This solo explores the relationship between a moving body and a white luminous
+          mobile, a metaphor for our relationships with the different systems in which we live in
+          (capitalist, patriarchal, colonial, neo-liberal, consumerist, ecocidal, <x
+            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />etc.<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />). The interactions between
+          the body and the system reflect the complexity of these relationships between attempts to
+          detach from the system and regression to the role played within these paradigms. The
+          system projects its influence in space onto the body, which moves between delicacy and
+          intensity. The search for contrasts in the qualities of movement was the main focus of
+          this creation. Finding out how the body remains alert even when it is gentle, and fluid
+          even when it is fast and physically involved.</target>
+      </trans-unit>
+      <trans-unit id="8720906544186655839" datatype="html">
+        <source> La bande son est extraite de l&apos;album <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Puissante vulnérabilité<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /> d&apos;Odalie (Sophie Griffon), qui compose également pour un
+          autre projet de la compagnie. Le titre <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Caresse<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />, qui résonne durant ce solo, est construit autour d&apos;une
+          langue inventée avec des syllabes qui évoquent la douceur et le soin, comme une caresse.
+          C&apos;est une invitation à prendre soin des autres et de soi-même, comme une manière de
+          redéfinir notre rôle au sein de ces différents systèmes. </source>
+        <target> The soundtrack is taken from the album <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Puissante vulnérabilité<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /> by Odalie (Sophie Griffon), who is also composing for another
+          of the company&apos;s projects. The title <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Caresse<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />, which resonates throughout this solo, is built around a
+          language invented with syllables that evoke gentleness and care, like a caress. It&apos;s
+          an invitation to take care of others and ourselves, as a way of redefining our role within
+          these different systems.</target>
+      </trans-unit>
+      <trans-unit id="8555587011401651579" datatype="html">
+        <source> Découvrez le teaser de la pièce en cours de création <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />. </source>
+        <target> Have a look at the new <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> teaser. </target>
       </trans-unit>
     </body>
   </file>

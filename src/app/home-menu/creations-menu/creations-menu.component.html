@@ -7,20 +7,25 @@
 <div class="menu" *ngIf="isOpen" [@creationsMenu]>
   <div class="menu-item">
     <a
-      routerLink="/l-horizon-est-fait-de-petits-cailloux"
-      class="menu-link"
-      (click)="closeMenu()"
-      i18n
-      >L'horizon est fait de petits cailloux</a
-    >
-  </div>
-  <div class="menu-item">
-    <a
       routerLink="/les-meduses-ne-nagent-jamais-seules"
       class="menu-link"
       (click)="closeMenu()"
       i18n
       >Les méduses ne nagent jamais seules</a
+    >
+  </div>
+  <div class="menu-item">
+    <a routerLink="/seven-tries" class="menu-link" (click)="closeMenu()" i18n
+      >Seven Tries</a
+    >
+  </div>
+  <div class="menu-item">
+    <a
+      routerLink="/l-horizon-est-fait-de-petits-cailloux"
+      class="menu-link"
+      (click)="closeMenu()"
+      i18n
+      >L'horizon est fait de petits cailloux</a
     >
   </div>
 </div>

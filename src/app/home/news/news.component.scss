@@ -90,6 +90,11 @@ app-know-more.no-margin-left {
   max-height: 60vh;
 }
 
+.meduses-video {
+  height: 60vh;
+  width: 160rem;
+}
+
 .news-description {
   padding: 0rem 2rem 0rem 2rem;
   height: 100%;
@@ -114,6 +119,11 @@ app-know-more.no-margin-left {
 
   .news-video {
     max-width: 90vw;
+  }
+
+  .meduses-video {
+    width: 90vw;
+    height: 30vh;
   }
 
   .news-item,

@@ -23,12 +23,6 @@
   font-size: large;
 }
 
-.meduses-bande {
-  width: 100%;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-}
-
 .meduses-paragraphe {
   display: flex;
   flex-direction: row;
@@ -50,6 +44,12 @@
 
 .with-image {
   max-height: 30rem;
+}
+
+.youtube-video {
+  width: 60rem;
+  height: 33.75rem;
+  padding: 4rem;
 }
 
 .meduses-image {
@@ -158,6 +158,13 @@
     margin-top: 1rem;
     font-size: 2rem;
     margin: 1rem 1rem 1rem 1rem;
+  }
+
+  .youtube-video {
+    width: 100%;
+    height: 15rem;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .meduses-subtitle {

@@ -23,6 +23,7 @@ import { PresentationComponent } from './presentation/presentation.component';
 import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { KnowMoreComponent } from './shared/know-more/know-more.component';
+import { SevenTriesComponent } from './creations/seven-tries/seven-tries.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -31,6 +32,7 @@ const routes: Routes = [
   { path: 'creations', component: CreationsComponent},
   { path: 'l-horizon-est-fait-de-petits-cailloux', component: HorizonsCaillouxComponent},
   { path: 'les-meduses-ne-nagent-jamais-seules', component: MedusesComponent},
+  { path: 'seven-tries', component: SevenTriesComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
   { path: 'contact', component: ContactComponent},
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
@@ -54,7 +56,8 @@ const routes: Routes = [
     MedusesComponent,
     ContactComponent,
     ArtistModalComponent,
-    KnowMoreComponent
+    KnowMoreComponent,
+    SevenTriesComponent
   ],
   imports: [
     BrowserModule,

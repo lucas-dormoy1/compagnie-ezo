@@ -113,14 +113,11 @@
       <trans-unit id="7774366983863062236" datatype="html">
         <source>Compagnie de danse contemporaine basée en Auvergne-Rhône-Alpes, portée par la jeune chorégraphe Estelle Bézombes.</source>
       </trans-unit>
-      <trans-unit id="6760120161490372904" datatype="html">
-        <source>les danseurs de la compagnie EZO en entrainement</source>
+      <trans-unit id="8038069095359212327" datatype="html">
+        <source>les danseurs de la compagnie EZO en entraînement</source>
       </trans-unit>
       <trans-unit id="3367314208365164186" datatype="html">
         <source>Actualités</source>
-      </trans-unit>
-      <trans-unit id="7969643642705304510" datatype="html">
-        <source>Les méduses ne nagent jamais seules - Création en cours</source>
       </trans-unit>
       <trans-unit id="8692532301274802700" datatype="html">
         <source>Présentation de la compagnie</source>
@@ -278,14 +275,8 @@
       <trans-unit id="3415690839469668641" datatype="html">
         <source>Julie Ehrenfeld est danseuse, chorégraphe et thérapeute. Originaire de Nancy, elle étudie la danse classique et contemporaine au Conservatoire Régional du Grand Nancy. Elle obtient son Certificat d’Etudes Chorégraphiques en danse classique en 2017 ainsi que son Diplôme d’Etudes Chorégraphiques en danse contemporaine l’année suivante.</source>
       </trans-unit>
-      <trans-unit id="3589286666863235587" datatype="html">
-        <source> Résidence de création à la Manufacture d&apos;Aurillac du 26 février au 8 mars 2024. </source>
-      </trans-unit>
       <trans-unit id="4384628786081953799" datatype="html">
         <source>Passionnée également par les sciences humaines, elle se lance dans un double parcours danse et psychologie qui lui permettront par la suite de faire de l’art thérapie. Elle obtient en 2023 une licence de psychologie, ayant déjà reçu en 2020 le titre de Maître-Praticienne en Programmation Neuro Linguistique (méthode de médiation thérapeutique).</source>
-      </trans-unit>
-      <trans-unit id="51928569975186221" datatype="html">
-        <source> Sortie de résidence le jeudi 7 mars 2024 à 20h dans le cadre des Jeudis de la danse. Entrée libre et gratuite. </source>
       </trans-unit>
       <trans-unit id="7055159445107482293" datatype="html">
         <source>Elle possède avant tout le désir de se consacrer au métier de danseuse interprète, elle arrive en 2020 à Paris où elle entre chez ACTS : école supérieure de danse contemporaine. Son parcours dans la capitale lui permet d’approfondir sa technique et de rencontrer dans le cadre de résidences de nombreux chorégraphes connus comme Youval Pick, Alban Richard, Dominique Mercy, Antonin Rioche, Emanuel Gat et beaucoup d’autres.</source>
@@ -295,6 +286,30 @@
       </trans-unit>
       <trans-unit id="1082976408874938360" datatype="html">
         <source> Retour en vidéo sur la représentation du solo L’horizon est fait de petits cailloux en août 2023 pour PLATFORM14 à Berlin. </source>
+      </trans-unit>
+      <trans-unit id="1143961687135393326" datatype="html">
+        <source>Musique d&apos;Odalie (Sophie Griffon)</source>
+      </trans-unit>
+      <trans-unit id="4970648304377478052" datatype="html">
+        <source> Ce solo explore la relation entre un corps en mouvement et un mobile blanc surmonté d’un néon lumineux, métaphore de nos relations avec les différents systèmes dans lesquels nous évoluons (capitaliste, patriarcal, colonial, néo-libéral, consumériste, écocidaire, <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>etc.<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>). Les interactions entre le corps et le système reflètent la complexité de ces relations, entre tentatives de détachement et retour au rôle joué au sein de ces paradigmes. Le système projette son influence dans l&apos;espace sur le corps, qui oscille entre délicatesse et intensité. La recherche de contrastes dans les qualités de mouvement a été l&apos;axe principal de cette création. Trouver comment le corps reste alerte lorsqu&apos;il est délicat et fluide lorsqu&apos;il est rapide et physiquement impliqué. </source>
+      </trans-unit>
+      <trans-unit id="6789113010421327162" datatype="html">
+        <source>Seven Tries</source>
+      </trans-unit>
+      <trans-unit id="7511523219599658760" datatype="html">
+        <source>Création 2024</source>
+      </trans-unit>
+      <trans-unit id="8435746992657615840" datatype="html">
+        <source> Le système projette son influence dans l’espace au-delà de sa position et façonne les possibilités du corps en mouvement. Il définit les relations que l’on entretient avec soi, l’autre et le monde. Le corps, entre tension, intensité et douceur, cherche à redéfinir son rôle. </source>
+      </trans-unit>
+      <trans-unit id="8720906544186655839" datatype="html">
+        <source> La bande son est extraite de l&apos;album <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Puissante vulnérabilité<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> d&apos;Odalie (Sophie Griffon), qui compose également pour un autre projet de la compagnie. Le titre <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Caresse<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>, qui résonne durant ce solo, est construit autour d&apos;une langue inventée avec des syllabes qui évoquent la douceur et le soin, comme une caresse. C&apos;est une invitation à prendre soin des autres et de soi-même, comme une manière de redéfinir notre rôle au sein de ces différents systèmes. </source>
+      </trans-unit>
+      <trans-unit id="8955063668560132285" datatype="html">
+        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d’Odalie (Sophie Griffon). </source>
+      </trans-unit>
+      <trans-unit id="8555587011401651579" datatype="html">
+        <source> Découvrez le teaser de la pièce en cours de création <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. </source>
       </trans-unit>
     </body>
   </file>
