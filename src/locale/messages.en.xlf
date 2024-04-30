@@ -34,16 +34,6 @@
         <source>Création 2024 - 2025</source>
         <target>2024 - 2025 Creation</target>
       </trans-unit>
-      <trans-unit id="6933553518373160044" datatype="html">
-        <source>Projet de pièce chorégraphique pour cinq interprètes destinée à être jouée sur
-          plateau pour le tout public. Exploration des relations entre individus au sein d’un
-          groupe, autour des notions de rejet et de discrimination mais aussi de rencontre et de
-          vivre ensemble.</source>
-        <target>Project for a choreographic piece for five performers to be performed on stage. This
-          project explores the notions of difference, rejection and discrimination through the prism
-          of the performers&apos; experience and anthropological and psychosocial research into
-          these behaviours.</target>
-      </trans-unit>
       <trans-unit id="3116793945166734904" datatype="html">
         <source>En savoir plus</source>
         <target>Learn more</target>
@@ -55,12 +45,6 @@
       <trans-unit id="3196811183816911605" datatype="html">
         <source>Création 2023</source>
         <target>2023 Creation</target>
-      </trans-unit>
-      <trans-unit id="7426245240036112386" datatype="html">
-        <source>Cette pièce chorégraphique courte est un solo de 8 minutes chorégraphié et
-          interprété par Estelle Bézombes sur une bande son originale composée par Inès Murer. </source>
-        <target>This short choreographic piece is an 8-minute solo choreographed and performed by
-          Estelle Bézombes to an original soundtrack composed by Inès Murer. </target>
       </trans-unit>
       <trans-unit id="8144180786770055328" datatype="html">
         <source> En savoir plus </source>
@@ -98,10 +82,6 @@
         <source>les méduses ne nagent jamais seules</source>
         <target>les méduses ne nagent jamais seules</target>
       </trans-unit>
-      <trans-unit id="5637141875669393920" datatype="html">
-        <source>Création 2024-2025 - Pièce pour 5 interprètes destinée à être jouée sur plateau</source>
-        <target>2024-2025 Creation - Piece for 5 performers intended to be performed on stage</target>
-      </trans-unit>
       <trans-unit id="4919941326400031956" datatype="html">
         <source>À propos de la pièce</source>
         <target>About the piece</target>
@@ -133,31 +113,6 @@
           in the construction of a shared reality. The choreographic material is constructed from a
           pendulum movement that the dancers set up and which becomes a common thread. It will take
           them on an exploration of the links they forge or abandon within the group. </target>
-      </trans-unit>
-      <trans-unit id="7599597332500871134" datatype="html">
-        <source> Au-delà de la volonté de compréhension des mécanismes individuels et collectifs à
-          l&apos;œuvre, la pièce se veut être une plongée au cœur de la manifestation physique du
-          ressenti des interprètes dans leur vécu face à cette problématique. C’est un cheminement
-          poétique et puissant vers une meilleure compréhension et acceptation de l’autre et de
-          soi-même. Et si les autres et leurs différences étaient un miroir pour nous ? Pourquoi
-          rejetons-nous les différences des autres ? Mais aussi, parfois, les nôtres. Que
-          signifient-elles pour nous ? Ne sont-elles pas une opportunité, une chance de nous
-          redécouvrir et de nous accepter en célébrant la diversité ? </source>
-        <target> As well as seeking to understand the individual and collective mechanisms at work,
-          the piece is intended to be a plunge into the heart of the physical manifestation of the
-          performers&apos; feelings as they deal with these issues. It is a poetic and powerful
-          journey towards greater understanding and acceptance of others and of ourselves. What if
-          others and their differences were a mirror for us? Why do we reject the differences of
-          others? But also, sometimes, our own. What do they mean to us? Aren&apos;t they an
-          opportunity, a chance to rediscover and accept ourselves by celebrating diversity? </target>
-      </trans-unit>
-      <trans-unit id="1331866367495037981" datatype="html">
-        <source> L&apos;unité, qui est différente de l&apos;uniformité, apparaît dans cette pièce
-          comme le seul remède à la division. Elle ne peut exister qu&apos;entre des personnes ayant
-          des convictions, des croyances et des pratiques différentes. </source>
-        <target> Unity, which is different from uniformity, appears in this piece as the only remedy
-          for division. It can only exist between people with different convictions, beliefs and
-          practices. </target>
       </trans-unit>
       <trans-unit id="5738273377372583211" datatype="html">
         <source>Interprètes</source>
@@ -203,7 +158,7 @@
       </trans-unit>
       <trans-unit id="8038069095359212327" datatype="html">
         <source>les danseurs de la compagnie EZO en entraînement</source>
-        <target state="new">EZO Dance Company dancers during training</target>
+        <target>EZO Dance Company dancers during training</target>
       </trans-unit>
       <trans-unit id="3367314208365164186" datatype="html">
         <source>Actualités</source>
@@ -225,22 +180,23 @@
         <source>La chorégraphe</source>
         <target>Choreographer</target>
       </trans-unit>
-      <trans-unit id="3158998909105569902" datatype="html">
+      <trans-unit id="1838201917105893272" datatype="html">
         <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe.
           Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis
           s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années
           avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant
-          au centre Horohronos à Athènes, où elle présente un duo sur la scène du théâtre Dora
-          Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de Formation de
-          Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude technique) en danse
-          contemporaine. En parallèle de ses études en danse, elle est diplômée de l&apos;école
-          d&apos;ingénieur Centrale de Lyon en 2020. </source>
-        <target> Estelle is a dancer-performer and young choreographer. She started with ice dancing
-          which she practiced for seven years and then invested herself in rhythmic gymnastics for
-          another seven years before turning to contemporary dance. She started in Greece by
-          training at the Horohronos center in Athens before returning to France in Lyon and joining
-          the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance studies, she
-          graduated from the Centrale de Lyon engineering school in 2020. </target>
+          au centre Horohronos et au Krama art space à Athènes, où elle présente un duo sur la scène
+          du théâtre Dora Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de
+          Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude
+          technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée
+          de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
+        <target> Estelle is a dancer-performer and young choreographer. She started with
+          ice dancing which she practiced for seven years and then invested herself in rhythmic
+          gymnastics for another seven years before turning to contemporary dance. She started in
+          Greece by training at the Horohronos center and the Krama art space in Athens before
+          returning to France in Lyon
+          and joining the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance
+          studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
       </trans-unit>
       <trans-unit id="3251853637600022942" datatype="html">
         <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la
@@ -256,9 +212,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
-          company DART. During the season she worked with the choreographers Fabio Liberti and the
-          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
+          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
+          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -269,58 +225,9 @@
             ctype="x-span" equiv-text="&lt;/span&gt;" /> choreographed by Giada Grieco and presented
           on several stages in Berlin. </target>
       </trans-unit>
-      <trans-unit id="2309970761879999538" datatype="html">
-        <source> À son retour en France en 2022, elle rejoint en tant qu’interprète la compagnie CTC
-          pour le projet <x id="START_TAG_SPAN" ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />iN<x id="CLOSE_TAG_SPAN"
-            ctype="x-span" equiv-text="&lt;/span&gt;" />. Estelle se lance également dans ses
-          propres projets artistiques et réalise notamment une performance dansée en collaboration
-          avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN"
-            ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
-            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. Elle est également
-          chorégraphe et interprète pour un vidéoclip des artistes de Station Echo. Elle crée début
-          2023 la compagnie EZO. </source>
-        <target> On her return to France she joined the dance company CTC (Grenoble, France) as a
-          performer in the new piece <x id="START_TAG_SPAN" ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />iN<x id="CLOSE_TAG_SPAN"
-            ctype="x-span" equiv-text="&lt;/span&gt;" />. Estelle also embarks on her own artistic
-          projects, including a dance performance in collaboration with visual artist Pier Fabre
-          based on his work <x id="START_TAG_SPAN" ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
-            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also choreographed
-          and performed in a video clip by the artists of Station Echo. In early 2023, she founded
-          the EZO company. </target>
-      </trans-unit>
       <trans-unit id="5038255975706019341" datatype="html">
         <source>Démarche artistique</source>
         <target>Artistic approach</target>
-      </trans-unit>
-      <trans-unit id="2121460197937627863" datatype="html">
-        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
-          l’expérience des interprètes par rapport à une thématique qui touche à notre humanité. Le
-          processus de création se veut comme un dialogue entre l’intériorité de ce qui est vécu et
-          ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel
-          et sonore. Le travail se construit comme une exploration des émotions et de la sensibilité
-          des interprètes face à une problématique pour composer avec les manifestations physiques
-          de cette recherche. La composition chorégraphique est marquée par l’utilisation de
-          ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante
-          chez les spectatrices et spectateurs tout en leur laissant la pluralité des
-          interprétations. L’enjeu est de les confronter à des situations qu’iels ont pu vivre, et
-          de leur donner à retraverser des expériences dont les mémoires sont sensibles pour tenter
-          d’ouvrir des portes à travers un cheminement intime, subtile et fragile, dans un double
-          mouvement vers soi et vers l’autre. </source>
-        <target> My artistic and choreographic approach is based on the performers&apos; experience
-          of a theme that touches on our humanity. The creative process is intended to be a dialogue
-          between the interiority of what is experienced and what can be seen and felt through the
-          body, movement, the visual and sound universe. The work is constructed as an exploration
-          of the emotions and sensibility of the performers in the face of a problematic, in order
-          to compose with the physical manifestations of this research. The choreographic
-          composition is marked by the use of ruptures and the appearance of unexpected situations,
-          leaving a lasting impression on the spectators while leaving them free to make their own
-          interpretations. The challenge is to confront them with situations they may have lived
-          through, and to give them the opportunity to go back through experiences whose memories
-          are sensitive, in an attempt to open doors through an intimate, subtle and fragile
-          journey, in a double movement towards oneself and towards the other. </target>
       </trans-unit>
       <trans-unit id="3231083422589725892" datatype="html">
         <source>Performance filmée dans le cadre de l&apos;exposition Horizons &quot;Arts -
@@ -400,15 +307,6 @@
           feet and deep in my flesh. The sensation spreads throughout my body until it makes me
           smile. The pebbles are that of the many encounters, thoughts, laughs, pains and sorrows
           that I experience every day. </target>
-      </trans-unit>
-      <trans-unit id="6310305060975184762" datatype="html">
-        <source>Cette pièce chorégraphique courte est un solo de 8 minutes qui a fait sa première en
-          janvier 2023 à la Manufacture d&apos;Aurillac. La compagnie a bénéficié du soutien de DART
-          Dance Company pour la recherche de création et de la Manufacture d&apos;Aurillac pour
-          l&apos;accueil en résidence lumière.</source>
-        <target>This short choreographic piece is an 8-minute solo premiered in January 2023 at the
-          Manufacture d&apos;Aurillac. The company received support from DART Dance Company for the
-          creative research and from la Manufacture d&apos;Aurillac for the lighting residency.</target>
       </trans-unit>
       <trans-unit id="4385304564698230206" datatype="html">
         <source>À propos du solo</source>
@@ -706,22 +604,6 @@
         <target>She joined EZO in 2024 as a performer in the project Les méduses ne nagent jamais
           seules.</target>
       </trans-unit>
-      <trans-unit id="1958458607897784705" datatype="html">
-        <source>Seven Tries - Création 2024</source>
-        <target>Seven Tries - 2024 Creation</target>
-      </trans-unit>
-      <trans-unit id="2292568760415358781" datatype="html">
-        <source> Nouveau solo chorégraphié et interprété par Estelle Bézombes. Résidence de création
-          au studio Chatha à Lyon en décembre 2023, et à Murol en février 2024. </source>
-        <target> New solo choreographed and performed by Estelle Bézombes. Creative residency at the
-          Chatha Studio in Lyon in December 2023, and in Murol in February 2024. </target>
-      </trans-unit>
-      <trans-unit id="1082976408874938360" datatype="html">
-        <source> Retour en vidéo sur la représentation du solo L’horizon est fait de petits cailloux
-          en août 2023 pour PLATFORM14 à Berlin. </source>
-        <target> A video look back at the performance of the solo L&apos;horizon est fait de petits
-          cailloux in August 2023 for PLATFORM14 in Berlin. </target>
-      </trans-unit>
       <trans-unit id="6789113010421327162" datatype="html">
         <source>Seven Tries</source>
         <target>Seven Tries</target>
@@ -798,9 +680,126 @@
         <source> Découvrez le teaser de la pièce en cours de création <x id="START_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
             id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />. </source>
-        <target> Have a look at the new <x id="START_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
-            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> teaser. </target>
+        <target> Have a look at the new <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les
+          méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /> teaser. </target>
+      </trans-unit>
+      <trans-unit id="6874940793570731951" datatype="html">
+        <source>Pièce pour cinq interprètes chorégraphiée par Estelle Bézombes sur une bande son
+          originale composée par Odalie (Sophie Griffon).</source>
+        <target>Piece for five performers choreographed by Estelle Bézombes to an original
+          soundtrack composed by Odalie (Sophie Griffon).</target>
+      </trans-unit>
+      <trans-unit id="2275106413980525663" datatype="html">
+        <source>Solo chorégraphié et interprété par Estelle Bézombes sur une bande son originale
+          composée par Inès Murer. </source>
+        <target>Solo choreographed and performed by Estelle Bézombes to an original
+          soundtrack composed by Inès Murer.</target>
+      </trans-unit>
+      <trans-unit id="5537551051149474389" datatype="html">
+        <source>Durée : 8 minutes</source>
+        <target>Duration: 8 minutes</target>
+      </trans-unit>
+      <trans-unit id="6238519231858634317" datatype="html">
+        <source>Première : Janvier 2023</source>
+        <target>Premiere: January 2023</target>
+      </trans-unit>
+      <trans-unit id="5557714206868659122" datatype="html">
+        <source>Pièce pour cinq interprètes chorégraphiée par Estelle Bézombes</source>
+        <target>Piece for five performers choreographed by Estelle Bézombes</target>
+      </trans-unit>
+      <trans-unit id="1822467899376313542" datatype="html">
+        <source>Musique composée par Odalie (Sophie Griffon)</source>
+        <target>Original soundtrack composed by Odalie (Sophie Griffon).</target>
+      </trans-unit>
+      <trans-unit id="259476883880554955" datatype="html">
+        <source>Durée : 40 minutes</source>
+        <target>Duration: 40 minutes</target>
+      </trans-unit>
+      <trans-unit id="5040001901536572421" datatype="html">
+        <source>Création 2024-2025</source>
+        <target>2024-2025 Creation</target>
+      </trans-unit>
+      <trans-unit id="3578679767106755952" datatype="html">
+        <source>À partir d’un mouvement de balancier hypnotique qui se propage parmi les danseurs,
+          des liens se font et se défont. Dans cet espace, qu&apos;ils ne quitteront plus pendant la
+          durée de ce voyage chorégraphique, les danseurs explorent les possibilités
+          d&apos;interaction entre eux. Nous les suivons dans la construction du groupe, dans une
+          exploration sensible et physique des mécanismes humains à l&apos;œuvre dans notre
+          socialisation. Ils naviguent avec intensité entre l&apos;expression de leur individualité
+          et la gestion collective de l&apos;évolution du groupe.</source>
+        <target>From a hypnotic pendulum swing that spreads through the dancers dancers,
+          bonds are made and broken. In this space, which they will for the duration of this
+          choreographic journey, the dancers explore the explore the possibilities of interaction
+          between them. We follow them as they in a sensitive and physical exploration of the human
+          mechanisms mechanisms at work in our socialization. They navigate with between expressing
+          their individuality and collectively collective management of the group's evolution.</target>
+      </trans-unit>
+      <trans-unit id="7497098949071121986" datatype="html">
+        <source>Étapes de travail</source>
+        <target>Working steps</target>
+      </trans-unit>
+      <trans-unit id="7542379821964971798" datatype="html">
+        <source>Durée : 15 minutes</source>
+        <target>Duration: 15 minutes</target>
+      </trans-unit>
+      <trans-unit id="2819403707135961386" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, nouveau solo chorégraphié
+          et interprété par Estelle Bézombes. </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, new solo choreographed
+          and performed by Estelle Bézombes. </target>
+      </trans-unit>
+      <trans-unit id="3820176185788267262" datatype="html">
+        <source> Retour en vidéo sur la représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" /> en août 2023 pour PLATFORM14 à Berlin. </source>
+        <target> A video look back at the performance of the solo <x
+            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />L&apos;horizon est fait de
+          petits cailloux<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> in August
+          2023 for PLATFORM14 in Berlin. </target>
+      </trans-unit>
+      <trans-unit id="442385758002616975" datatype="html">
+        <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs
+          projets. Estelle se lance également dans ses propres projets artistiques et réalise
+          notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre
+          autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. Elle danse et
+          chorégraphie également pour des projets vidéo (clip, performance, court et long métrage).
+          Elle crée début 2023 la compagnie EZO. </source>
+        <target> On her return to France she works as a performer on several projects. Estelle also
+          embarks on her own artistic projects, including a dance performance in collaboration with
+          visual artist Pier Fabre based on his work <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also choreographed
+          and performed in a video clip by the artists of Station Echo. In early 2023, she founded
+          the EZO company. </target>
+      </trans-unit>
+      <trans-unit id="1209907824414697905" datatype="html">
+        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
+          l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité
+          en tant qu’êtres intégrés au vivant. Le processus de création se veut comme un dialogue
+          entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par
+          le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un
+          voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation
+          de ruptures et par l’apparition de situations inattendues, laissant une empreinte
+          marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des
+          interprétations. Les créations sont le partage de ce cheminement intime, subtil et
+          fragile, dans un double mouvement vers soi, et vers l’autre. </source>
+        <target> My artistic and choreographic approach is based on the performers&apos; experience
+          of a theme that touches on our humanity. The creative process is intended to be a dialogue
+          between the interiority of what is experienced and what can be seen and felt through the
+          body, movement, the visual and sound universe. The work is constructed as an exploration
+          of the emotions and sensibility of the performers in the face of a problematic, in order
+          to compose with the physical manifestations of this research. The choreographic
+          composition is marked by the use of ruptures and the appearance of unexpected situations,
+          leaving a lasting impression on the spectators while leaving them free to make their own
+          interpretations. The challenge is to confront them with situations they may have lived
+          through, and to give them the opportunity to go back through experiences whose memories
+          are sensitive, in an attempt to open doors through an intimate, subtle and fragile
+          journey, in a double movement towards oneself and towards the other. </target>
       </trans-unit>
     </body>
   </file>
