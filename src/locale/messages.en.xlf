@@ -190,13 +190,12 @@
           Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude
           technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée
           de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
-        <target> Estelle is a dancer-performer and young choreographer. She started with
-          ice dancing which she practiced for seven years and then invested herself in rhythmic
-          gymnastics for another seven years before turning to contemporary dance. She started in
-          Greece by training at the Horohronos center and the Krama art space in Athens before
-          returning to France in Lyon
-          and joining the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance
-          studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
+        <target> Estelle is a dancer-performer and young choreographer. She started with ice dancing
+          which she practiced for seven years and then invested herself in rhythmic gymnastics for
+          another seven years before turning to contemporary dance. She started in Greece by
+          training at the Horohronos center and the Krama art space in Athens before returning to
+          France in Lyon and joining the Centre de Formation de Danse désoblique (CFDd). In parallel
+          to her dance studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
       </trans-unit>
       <trans-unit id="3251853637600022942" datatype="html">
         <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la
@@ -212,9 +211,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
-          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
-          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
+          company DART. During the season she worked with the choreographers Fabio Liberti and the
+          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -693,8 +692,8 @@
       <trans-unit id="2275106413980525663" datatype="html">
         <source>Solo chorégraphié et interprété par Estelle Bézombes sur une bande son originale
           composée par Inès Murer. </source>
-        <target>Solo choreographed and performed by Estelle Bézombes to an original
-          soundtrack composed by Inès Murer.</target>
+        <target>Solo choreographed and performed by Estelle Bézombes to an original soundtrack
+          composed by Inès Murer.</target>
       </trans-unit>
       <trans-unit id="5537551051149474389" datatype="html">
         <source>Durée : 8 minutes</source>
@@ -728,12 +727,12 @@
           exploration sensible et physique des mécanismes humains à l&apos;œuvre dans notre
           socialisation. Ils naviguent avec intensité entre l&apos;expression de leur individualité
           et la gestion collective de l&apos;évolution du groupe.</source>
-        <target>From a hypnotic pendulum swing that spreads through the dancers dancers,
-          bonds are made and broken. In this space, which they will for the duration of this
-          choreographic journey, the dancers explore the explore the possibilities of interaction
-          between them. We follow them as they in a sensitive and physical exploration of the human
-          mechanisms mechanisms at work in our socialization. They navigate with between expressing
-          their individuality and collectively collective management of the group's evolution.</target>
+        <target>From this hypnotic pendulum movement that spreads among the dancers, links are made
+          and broken. In this space, which they will not leave for the duration of this
+          choreographic journey, the dancers explore the possibilities of interaction between them.
+          We follow them as they build the group, in a sensitive and physical exploration of the
+          human mechanisms at work in our socialisation. They navigate with intensity between
+          expressing their individuality and collectively managing the group&apos;s evolution.</target>
       </trans-unit>
       <trans-unit id="7497098949071121986" datatype="html">
         <source>Étapes de travail</source>
@@ -755,10 +754,10 @@
         <source> Retour en vidéo sur la représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;/i&gt;" /> en août 2023 pour PLATFORM14 à Berlin. </source>
-        <target> A video look back at the performance of the solo <x
-            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />L&apos;horizon est fait de
-          petits cailloux<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> in August
-          2023 for PLATFORM14 in Berlin. </target>
+        <target> A video look back at the performance of the solo <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />L&apos;horizon est fait de petits cailloux<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> in August 2023 for
+          PLATFORM14 in Berlin. </target>
       </trans-unit>
       <trans-unit id="442385758002616975" datatype="html">
         <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs
@@ -800,6 +799,19 @@
           through, and to give them the opportunity to go back through experiences whose memories
           are sensitive, in an attempt to open doors through an intimate, subtle and fragile
           journey, in a double movement towards oneself and towards the other. </target>
+      </trans-unit>
+      <trans-unit id="5766524442845584146" datatype="html">
+        <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes
+          d&apos;automne 2023 au Regard du Cygne à Paris. Présentation du travail en cours en
+          novembre 2023. </source>
+        <target> Selection for Spectacles Sauvages as part of the Signes d'automne 2023
+          festival at Regard du Cygne in Paris. Work in progress show in November 2023.</target>
+      </trans-unit>
+      <trans-unit id="7519867438109549505" datatype="html">
+        <source> Sortie de résidence dans le cadre des Jeudis de la Danse à la Manufacture
+          d’Aurillac. Présentation du travail en cours en mars 2024. </source>
+        <target>Residency as part of the Jeudis de la Danse at La Manufacture
+          d'Aurillac. Work in progress show in March 2024. </target>
       </trans-unit>
     </body>
   </file>

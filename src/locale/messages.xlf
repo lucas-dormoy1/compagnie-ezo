@@ -323,6 +323,12 @@
       <trans-unit id="7542379821964971798" datatype="html">
         <source>Durée : 15 minutes</source>
       </trans-unit>
+      <trans-unit id="5766524442845584146" datatype="html">
+        <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes d&apos;automne 2023 au Regard du Cygne à Paris. Présentation du travail en cours en novembre 2023. </source>
+      </trans-unit>
+      <trans-unit id="7519867438109549505" datatype="html">
+        <source> Sortie de résidence dans le cadre des Jeudis de la Danse à la Manufacture d’Aurillac. Présentation du travail en cours en mars 2024. </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
