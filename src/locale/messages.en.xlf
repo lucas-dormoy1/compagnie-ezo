@@ -679,9 +679,10 @@
         <source> Découvrez le teaser de la pièce en cours de création <x id="START_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
             id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />. </source>
-        <target> Have a look at the new <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les
-          méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> teaser. </target>
+        <target> Have a look at the new teaser for the piece <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i"
+            equiv-text="&lt;/i&gt;" />. </target>
       </trans-unit>
       <trans-unit id="6874940793570731951" datatype="html">
         <source>Pièce pour cinq interprètes chorégraphiée par Estelle Bézombes sur une bande son
