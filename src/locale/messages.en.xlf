@@ -681,8 +681,7 @@
             id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />. </source>
         <target> Have a look at the new teaser for the piece <x id="START_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
-            ctype="x-i"
-            equiv-text="&lt;/i&gt;" />. </target>
+            ctype="x-i" equiv-text="&lt;/i&gt;" />. </target>
       </trans-unit>
       <trans-unit id="6874940793570731951" datatype="html">
         <source>Pièce pour cinq interprètes chorégraphiée par Estelle Bézombes sur une bande son
@@ -743,14 +742,6 @@
         <source>Durée : 15 minutes</source>
         <target>Duration: 15 minutes</target>
       </trans-unit>
-      <trans-unit id="2819403707135961386" datatype="html">
-        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
-            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, nouveau solo chorégraphié
-          et interprété par Estelle Bézombes. </source>
-        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
-            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, new solo choreographed
-          and performed by Estelle Bézombes. </target>
-      </trans-unit>
       <trans-unit id="3820176185788267262" datatype="html">
         <source> Retour en vidéo sur la représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
@@ -788,9 +779,9 @@
           marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des
           interprétations. Les créations sont le partage de ce cheminement intime, subtil et
           fragile, dans un double mouvement vers soi, et vers l’autre. </source>
-        <target> My artistic and choreographic approach is based on the performers' experience of
-          themes that touch on our humanity as beings integrated into the network of the living. The
-          creative process is intended to be a dialogue between the interiority of what is
+        <target> My artistic and choreographic approach is based on the performers&apos; experience
+          of themes that touch on our humanity as beings integrated into the network of the living.
+          The creative process is intended to be a dialogue between the interiority of what is
           experienced and what can be seen and felt through the body, movement, the visual and sound
           universe. The work is constructed as a sensitive and physical choreographic journey. The
           composition is marked by the use of ruptures and the appearance of unexpected situations,
@@ -802,14 +793,35 @@
         <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes
           d&apos;automne 2023 au Regard du Cygne à Paris. Présentation du travail en cours en
           novembre 2023. </source>
-        <target> Selection for Spectacles Sauvages as part of the Signes d'automne 2023
+        <target> Selection for Spectacles Sauvages as part of the Signes d&apos;automne 2023
           festival at Regard du Cygne in Paris. Work in progress show in November 2023.</target>
       </trans-unit>
       <trans-unit id="7519867438109549505" datatype="html">
         <source> Sortie de résidence dans le cadre des Jeudis de la Danse à la Manufacture
           d’Aurillac. Présentation du travail en cours en mars 2024. </source>
-        <target>Residency as part of the Jeudis de la Danse at La Manufacture
-          d'Aurillac. Work in progress show in March 2024. </target>
+        <target>Residency as part of the Jeudis de la Danse at La Manufacture d&apos;Aurillac. Work
+          in progress show in March 2024. </target>
+      </trans-unit>
+      <trans-unit id="8162679215545838277" datatype="html">
+        <source> La première du solo aura lieu le <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />16 août 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> à Berlin lors de la cinquième édition du festival <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Platform14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </source>
+        <target> New solo premiering on <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />August
+          16th, 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in Berlin as part
+          of the fifth edition of <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
+          Platform14<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> festival. </target>
+      </trans-unit>
+      <trans-unit id="7263303428385410230" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="1252848861649238782" datatype="html">
+        <source>Programme et billets</source>
+        <target>Program and tickets</target>
       </trans-unit>
     </body>
   </file>
