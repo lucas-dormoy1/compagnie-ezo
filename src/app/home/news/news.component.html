@@ -23,9 +23,41 @@
           externalLink="https://www.platformfourteen.com/program"
           [text]="platform14button"
         ></app-know-more>
+        <div class="news-content-wrapper">
+          <div class="news-subtitle" i18n>
+            Sélection pour le Solo Dance Contest le <b>26 août 2024</b> lors du
+            festival de danse de Gdańsk en Pologne.
+          </div>
+        </div>
+        <app-know-more
+          externalLink="https://www.gdanskifestiwaltanca.pl/en/programme/SOLO-DANCE-CONTEST-Day-1-2608~w2633"
+          [text]="gdanskButton"
+        ></app-know-more>
       </div>
     </div>
     <div class="reversed-news-item">
+      <iframe
+        class="meduses-video"
+        src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+      <div class="news-description">
+        <div class="news-content-wrapper">
+          <div class="news-subtitle" i18n>
+            Découvrez le teaser du solo
+            <i>Seven Tries</i>.
+          </div>
+        </div>
+        <app-know-more
+          link="/les-meduses-ne-nagent-jamais-seules"
+        ></app-know-more>
+      </div>
+    </div>
+    <div class="news-item">
       <iframe
         class="meduses-video"
         src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
@@ -47,7 +79,7 @@
         ></app-know-more>
       </div>
     </div>
-    <div class="news-item">
+    <div class="reversed-news-item">
       <video controls [muted]="true" class="news-video">
         <source src="assets/home/solo-platform-14.mp4" type="video/mp4" />
       </video>

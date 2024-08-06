@@ -335,6 +335,15 @@
       <trans-unit id="1252848861649238782" datatype="html">
         <source>Programme et billets</source>
       </trans-unit>
+      <trans-unit id="1754936134739700363" datatype="html">
+        <source>Programme</source>
+      </trans-unit>
+      <trans-unit id="6225683887710145151" datatype="html">
+        <source> Sélection pour le Solo Dance Contest le <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>26 août 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> lors du festival de danse de Gdańsk en Pologne. </source>
+      </trans-unit>
+      <trans-unit id="8742770345320529694" datatype="html">
+        <source> Découvrez le teaser du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

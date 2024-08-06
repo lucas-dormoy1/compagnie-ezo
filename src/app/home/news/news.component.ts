@@ -12,4 +12,5 @@ export class NewsComponent {
   }
 
   public platform14button: string = $localize`Programme et billets`;
+  public gdanskButton: string = $localize`Programme`;
 }
