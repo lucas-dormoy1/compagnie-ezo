@@ -61,18 +61,6 @@
         <target> 27th edition of the Internationales Solo Tanz Theatre Stuttgart competition in
           March 2023, Germany </target>
       </trans-unit>
-      <trans-unit id="9121949329505758553" datatype="html">
-        <source>PLATFORM 14 en août 2023 à Berlin</source>
-        <target>PLATFORM 14 in August 2023 in Berlin, Germany</target>
-      </trans-unit>
-      <trans-unit id="3303933496645467547" datatype="html">
-        <source>Festival d’Aurillac en août 2023</source>
-        <target>Aurillac Festival in August 2023, France</target>
-      </trans-unit>
-      <trans-unit id="64091222939572872" datatype="html">
-        <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
-        <target>Solo Contemporary Dance Festival Ankara in August 2023, Turkey</target>
-      </trans-unit>
       <trans-unit id="2068604674260945903" datatype="html">
         <source> Présentation La Manufacture CDCN Nouvelle Aquitaine Bordeaux - Stage Passeurs de
           Danse </source>
@@ -655,34 +643,6 @@
           this creation. Finding out how the body remains alert even when it is gentle, and fluid
           even when it is fast and physically involved.</target>
       </trans-unit>
-      <trans-unit id="8720906544186655839" datatype="html">
-        <source> La bande son est extraite de l&apos;album <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Puissante vulnérabilité<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> d&apos;Odalie (Sophie Griffon), qui compose également pour un
-          autre projet de la compagnie. Le titre <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Caresse<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" />, qui résonne durant ce solo, est construit autour d&apos;une
-          langue inventée avec des syllabes qui évoquent la douceur et le soin, comme une caresse.
-          C&apos;est une invitation à prendre soin des autres et de soi-même, comme une manière de
-          redéfinir notre rôle au sein de ces différents systèmes. </source>
-        <target> The soundtrack is taken from the album <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Puissante vulnérabilité<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> by Odalie (Sophie Griffon), who is also composing for another
-          of the company&apos;s projects. The title <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Caresse<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" />, which resonates throughout this solo, is built around a
-          language invented with syllables that evoke gentleness and care, like a caress. It&apos;s
-          an invitation to take care of others and ourselves, as a way of redefining our role within
-          these different systems.</target>
-      </trans-unit>
-      <trans-unit id="8555587011401651579" datatype="html">
-        <source> Découvrez le teaser de la pièce en cours de création <x id="START_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
-            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />. </source>
-        <target> Have a look at the new teaser for the piece <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;/i&gt;" />. </target>
-      </trans-unit>
       <trans-unit id="6874940793570731951" datatype="html">
         <source>Pièce pour cinq interprètes chorégraphiée par Estelle Bézombes sur une bande son
           originale composée par Odalie (Sophie Griffon).</source>
@@ -802,16 +762,17 @@
         <target>Residency as part of the Jeudis de la Danse at La Manufacture d&apos;Aurillac. Work
           in progress show in March 2024. </target>
       </trans-unit>
-      <trans-unit id="8162679215545838277" datatype="html">
-        <source> La première du solo aura lieu le <x id="START_BOLD_TEXT" ctype="x-b"
+      <trans-unit id="4398766482801937140" datatype="html">
+        <source> La première du solo a eu lieu le <x id="START_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;b&gt;" />16 août 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;/b&gt;" /> à Berlin lors de la cinquième édition du festival <x
             id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Platform14<x
             id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </source>
-        <target> New solo premiering on <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />August
-          16th, 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in Berlin as part
-          of the fifth edition of <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-          Platform14<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> festival. </target>
+        <target state="new"> New solo premiering on <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />August 16th, 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> in Berlin as part of the fifth edition of <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /> Platform14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> festival. </target>
       </trans-unit>
       <trans-unit id="7263303428385410230" datatype="html">
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
@@ -827,9 +788,9 @@
         <source> Sélection pour le Solo Dance Contest le <x id="START_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;b&gt;" />26 août 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;/b&gt;" /> lors du festival de danse de Gdańsk en Pologne. </source>
-        <target> Selection for the Solo Dance Contest on <x id="START_BOLD_TEXT"
-            ctype="x-b" equiv-text="&lt;b&gt;" />August 26th 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;/b&gt;" /> as part of Gdańsk's Dance festival in Poland. </target>
+        <target> Selection for the Solo Dance Contest on <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />August 26th 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> as part of Gdańsk&apos;s Dance festival in Poland. </target>
       </trans-unit>
       <trans-unit id="8742770345320529694" datatype="html">
         <source> Découvrez le teaser du solo <x id="START_ITALIC_TEXT" ctype="x-i"
@@ -842,6 +803,83 @@
       <trans-unit id="1754936134739700363" datatype="html">
         <source>Programme</source>
         <target>Program</target>
+      </trans-unit>
+      <trans-unit id="4142540738650750171" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023 à Berlin</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023 in Berlin</target>
+      </trans-unit>
+      <trans-unit id="4212262667053440429" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Aurillac Festival<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Festival d’Aurillac<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023</target>
+      </trans-unit>
+      <trans-unit id="6502232097809882469" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Solo Contemporary Dance
+          Festival<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Ankara en août 2023 </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Solo Contemporary Dance
+          Festival<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Ankara in August
+          2023, Türkiye </target>
+      </trans-unit>
+      <trans-unit id="8531701296491694733" datatype="html">
+        <source> Sélection pour le Concours Chorégraphique Les Synodales en octobre 2024. </source>
+        <target> Selection for the Les Synodales Choreographic Competition in October
+          2024. </target>
+      </trans-unit>
+      <trans-unit id="717800614168521610" datatype="html">
+        <source>Première: Août 2024</source>
+        <target>Premiere: August 2024</target>
+      </trans-unit>
+      <trans-unit id="3263389770292345679" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2024 à Berlin</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2024 in Berlin</target>
+      </trans-unit>
+      <trans-unit id="4263468460417712828" datatype="html">
+        <source> Solo Dance Contest lors du <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />Gdański Festiwal Tańca<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> en août 2024 en Pologne </source>
+        <target> Solo Dance Contest as part of <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />Gdański Festiwal Tańca<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> in August 2024 in Poland </target>
+      </trans-unit>
+      <trans-unit id="2833329283626747745" datatype="html">
+        <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
+          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> lors du festival <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Le temps d&apos;aimer la danse<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en septembre 2024 à Biarritz </source>
+        <target> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
+          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at the festival <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Le temps d&apos;aimer la danse<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in Biarritz in September
+          2024 </target>
+      </trans-unit>
+      <trans-unit id="343765222459298933" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
+          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
+          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="3951300025867677264" datatype="html">
+        <source> Présentation d&apos;un extrait de la pièce au Concours Chorégraphique <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Les Synodales<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> le <x id="START_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;b&gt;" />5 octobre 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" />. </source>
+        <target> Presentation of an excerpt from the piece at the <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Les Synodales<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Choreographic Competition on <x
+            id="START_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;b&gt;" />October 5, 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" />. </target>
+      </trans-unit>
+      <trans-unit id="2085741547183303215" datatype="html">
+        <source>Découvrez le teaser de la pièce.</source>
+        <target>Have a look at the new teaser for the piece.</target>
       </trans-unit>
     </body>
   </file>
