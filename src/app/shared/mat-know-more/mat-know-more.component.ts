@@ -1,11 +1,11 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'app-know-more',
-  templateUrl: './know-more.component.html',
-  styleUrls: ['./know-more.component.scss']
+  selector: 'app-mat-know-more',
+  templateUrl: './mat-know-more.component.html',
+  styleUrls: ['./mat-know-more.component.scss']
 })
-export class KnowMoreComponent {
+export class MatKnowMoreComponent {
 
   @Input()
   public link: string = ""

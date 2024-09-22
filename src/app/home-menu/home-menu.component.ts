@@ -1,5 +1,4 @@
 import { Component, HostListener } from '@angular/core';
-import { Router } from '@angular/router';
 import { DropDownAnimation } from "./animations";
 
 @Component({
@@ -11,7 +10,7 @@ import { DropDownAnimation } from "./animations";
 export class HomeMenuComponent {
   isOpen: boolean;
 
-  constructor(private router: Router){
+  constructor(){
     this.isOpen = false;
   }
 

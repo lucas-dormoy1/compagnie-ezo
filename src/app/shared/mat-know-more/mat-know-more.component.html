@@ -1,0 +1,11 @@
+<a
+  *ngIf="externalLink"
+  mat-stroked-button
+  [href]="externalLink"
+  target="_blank"
+  color="success"
+  >{{ text }}</a
+>
+<button *ngIf="!externalLink" mat-stroked-button color="success">
+  {{ text }}
+</button>

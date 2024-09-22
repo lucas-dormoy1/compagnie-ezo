@@ -2,7 +2,10 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { FormsModule } from "@angular/forms";
+import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
 import { MatDialogModule } from '@angular/material/dialog';
+import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -22,8 +25,8 @@ import { NewsComponent } from './home/news/news.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
 import { ProjectsComponent } from './projects/projects.component';
-import { KnowMoreComponent } from './shared/know-more/know-more.component';
 import { SevenTriesComponent } from './creations/seven-tries/seven-tries.component';
+import { MatKnowMoreComponent } from './shared/mat-know-more/mat-know-more.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -56,7 +59,7 @@ const routes: Routes = [
     MedusesComponent,
     ContactComponent,
     ArtistModalComponent,
-    KnowMoreComponent,
+    MatKnowMoreComponent,
     SevenTriesComponent
   ],
   imports: [
@@ -66,7 +69,10 @@ const routes: Routes = [
     MatMenuModule,
     MatIconModule,
     FormsModule,
-    MatDialogModule
+    MatDialogModule,
+    MatCardModule,
+    MatDividerModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

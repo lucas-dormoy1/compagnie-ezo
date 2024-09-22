@@ -5,18 +5,18 @@
     <div class="separation-line right"></div>
   </div>
   <div class="news-list">
-    <div class="news-item">
-      <iframe
-        class="meduses-video"
-        src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      ></iframe>
-      <div class="news-description">
-        <div class="news-content-wrapper">
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <iframe
+          class="meduses-video"
+          src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        <div class="news-card-side">
           <div class="news-title" i18n>
             <i>Les méduses ne nagent jamais seules</i>
           </div>
@@ -26,84 +26,86 @@
           </div>
           <br />
           <div class="news-subtitle" i18n>Découvrez le teaser de la pièce.</div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/les-meduses-ne-nagent-jamais-seules"
+          ></app-mat-know-more>
         </div>
-        <app-know-more
-          link="/les-meduses-ne-nagent-jamais-seules"
-        ></app-know-more>
-      </div>
-    </div>
-    <div class="reversed-news-item">
-      <img
-        src="assets/creations/seven-tries/seven_tries_3.jpg"
-        alt="Estelle interprétant son solo Seven Tries"
-        class="news-image"
-      />
-      <div class="news-description">
-        <div class="news-content-wrapper">
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image reversed">
+        <img
+          src="assets/creations/seven-tries/seven_tries_3.jpg"
+          alt="Estelle interprétant son solo Seven Tries"
+          class="news-image"
+        />
+        <div class="news-card-side">
           <div class="news-title" i18n><i>Seven Tries</i></div>
-          <div class="news-subtitle" i18n>
-            La première du solo a eu lieu le <b>16 août 2024</b> à Berlin lors
-            de la cinquième édition du festival <b>Platform14</b>.
-          </div>
-        </div>
-        <app-know-more
-          externalLink="https://www.platformfourteen.com"
-        ></app-know-more>
-        <div class="news-content-wrapper">
           <div class="news-subtitle" i18n>
             Sélection pour le Solo Dance Contest le <b>26 août 2024</b> lors du
             festival de danse de Gdańsk en Pologne.
           </div>
-        </div>
-        <app-know-more
-          externalLink="https://www.gdanskifestiwaltanca.pl/en/programme/SOLO-DANCE-CONTEST-Day-1-2608~w2633"
-        ></app-know-more>
-        <div class="news-content-wrapper">
+          <app-mat-know-more
+            class="news-card-know-more"
+            externalLink="https://www.gdanskifestiwaltanca.pl/en/programme/SOLO-DANCE-CONTEST-Day-1-2608~w2633"
+          ></app-mat-know-more>
           <div class="news-subtitle" i18n>
             Sélection pour le Tremplin Corps et Graphique en
             <b>septembre 2024</b> dans le cadre du festival Le temps d'aimer la
             danse à Biarritz.
           </div>
         </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <iframe
-        class="meduses-video"
-        src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      ></iframe>
-      <div class="news-description">
-        <div class="news-content-wrapper">
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <iframe
+          class="meduses-video"
+          src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        <div class="news-card-side">
+          <div class="news-title" i18n><i>Seven Tries</i></div>
           <div class="news-subtitle" i18n>
-            Découvrez le teaser du solo
-            <i>Seven Tries</i>.
+            La première du solo a eu lieu le <b>16 août 2024</b> à Berlin lors
+            de la cinquième édition du festival <b>Platform14</b>.
           </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            externalLink="https://www.platformfourteen.com"
+          ></app-mat-know-more>
+          <div class="news-subtitle" i18n>
+            Découvrez le teaser du solo <i>Seven Tries</i>.
+          </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/seven-tries"
+          ></app-mat-know-more>
         </div>
-        <app-know-more link="/seven-tries"></app-know-more>
-      </div>
-    </div>
-    <div class="reversed-news-item">
-      <video controls [muted]="true" class="news-video">
-        <source src="assets/home/solo-platform-14.mp4" type="video/mp4" />
-      </video>
-      <div class="news-description">
-        <div class="news-content-wrapper">
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image reversed">
+        <video controls [muted]="true" class="news-video">
+          <source src="assets/home/solo-platform-14.mp4" type="video/mp4" />
+        </video>
+        <div class="news-card-side">
           <div class="news-subtitle" i18n>
             Retour en vidéo sur la représentation du solo
             <i>L’horizon est fait de petits cailloux</i> en août 2023 pour
             PLATFORM14 à Berlin.
           </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/l-horizon-est-fait-de-petits-cailloux"
+          ></app-mat-know-more>
         </div>
-        <app-know-more
-          class="no-margin-left"
-          link="/l-horizon-est-fait-de-petits-cailloux"
-        ></app-know-more>
-      </div>
-    </div>
+      </mat-card-content>
+    </mat-card>
   </div>
 </div>

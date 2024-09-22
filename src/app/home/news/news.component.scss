@@ -1,3 +1,4 @@
+@use "@angular/material" as mat;
 @import "../../../styles/variables";
 
 .news-list {
@@ -6,6 +7,7 @@
   align-items: center;
   width: 100%;
   margin-top: 3rem;
+  gap: 2rem;
 }
 
 .title {
@@ -26,8 +28,13 @@
   padding: 0% 4% 0% 4%;
 }
 
-app-know-more.no-margin-left {
-  display: flex;
+.news-card {
+  font-family: Avenir;
+  border-width: 1px;
+  border-style: solid;
+  border-color: $dark-blue;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 .right {
@@ -38,47 +45,38 @@ app-know-more.no-margin-left {
   width: 10%;
 }
 
-.news-item {
-  flex-direction: row;
-}
-
-.news-item,
-.reversed-news-item {
-  max-height: 40rem;
+.news-card-content-with-image {
   display: flex;
   align-items: center;
-  justify-content: center;
-  margin: 2rem 0rem 2rem 0rem;
-  outline: 1px solid $dark-blue;
-  outline-offset: -1px;
   max-width: 85rem;
 }
 
-.reversed-news-item {
+.news-card-content-with-image.reversed {
   flex-direction: row-reverse;
 }
 
-.news-content-wrapper {
-  text-align: center;
+.news-card-know-more {
+  width: fit-content;
+  margin: 1rem 5rem 2rem 2rem;
+}
+
+.news-card-side {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  text-align: justify;
-  padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding: 2rem;
+  align-items: flex-end;
 }
 
 .news-title {
   font-size: 2rem;
   margin-bottom: 3rem;
+  width: 100%;
   display: flex;
   flex-direction: column;
 }
-.creation {
-  font-size: 2.5rem;
-}
 
 .news-subtitle {
+  width: 100%;
   font-size: 1.5rem;
 }
 
@@ -95,15 +93,6 @@ app-know-more.no-margin-left {
   min-width: 106vh;
 }
 
-.news-description {
-  padding: 0rem 2rem 0rem 2rem;
-  height: 100%;
-}
-
-.mt-2 {
-  margin-top: 2rem;
-}
-
 @media only screen and (max-width: $small-screen-size) {
   .description {
     font-size: 1rem;
@@ -116,13 +105,28 @@ app-know-more.no-margin-left {
     max-height: 15rem;
   }
 
-  .news-description {
-    outline: 0px solid $dark-blue;
-    padding: 0;
-  }
-
   .news-video {
     max-width: 90vw;
+  }
+
+  .news-card {
+    border-width: 0px;
+  }
+
+  .news-card-content-with-image {
+    flex-direction: column;
+  }
+
+  .news-card-content-with-image.reversed {
+    flex-direction: column;
+  }
+
+  .news-card-side {
+    align-items: flex-start;
+  }
+
+  .news-card-know-more {
+    margin: 1rem 0rem 1rem 0rem;
   }
 
   .meduses-video {
@@ -130,30 +134,13 @@ app-know-more.no-margin-left {
     height: 30vh;
   }
 
-  .news-item,
-  .reversed-news-item {
-    outline: 0px;
-    outline-offset: -1px;
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 1rem;
-    padding-top: 1rem;
-    max-height: none;
-    max-width: 20rem;
-  }
-
-  .news-content-wrapper {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
   .news-title {
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-bottom: 0.5rem;
   }
 
   .news-subtitle {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .left,
