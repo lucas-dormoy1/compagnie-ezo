@@ -811,10 +811,10 @@
             id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023 in Berlin</target>
       </trans-unit>
       <trans-unit id="4212262667053440429" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Aurillac Festival<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023</source>
-        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Festival d’Aurillac<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023</target>
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Festival d’Aurillac<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023</source>
+        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Festival
+          d’Aurillac<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023</target>
       </trans-unit>
       <trans-unit id="6502232097809882469" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Solo Contemporary Dance
@@ -825,8 +825,7 @@
       </trans-unit>
       <trans-unit id="8531701296491694733" datatype="html">
         <source> Sélection pour le Concours Chorégraphique Les Synodales en octobre 2024. </source>
-        <target> Selection for the Les Synodales Choreographic Competition in October
-          2024. </target>
+        <target> Selection for the Les Synodales Choreographic Competition in October 2024. </target>
       </trans-unit>
       <trans-unit id="717800614168521610" datatype="html">
         <source>Première: Août 2024</source>
@@ -861,8 +860,7 @@
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
           jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
         <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
-          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /></target>
+          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
       </trans-unit>
       <trans-unit id="3951300025867677264" datatype="html">
         <source> Présentation d&apos;un extrait de la pièce au Concours Chorégraphique <x
@@ -870,16 +868,25 @@
             id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> le <x id="START_BOLD_TEXT"
             ctype="x-b" equiv-text="&lt;b&gt;" />5 octobre 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;/b&gt;" />. </source>
-        <target> Presentation of an excerpt from the piece at the <x
-            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Les Synodales<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Choreographic Competition on <x
-            id="START_BOLD_TEXT"
+        <target> Presentation of an excerpt from the piece at the <x id="START_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;b&gt;" />Les Synodales<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> Choreographic Competition on <x id="START_BOLD_TEXT"
             ctype="x-b" equiv-text="&lt;b&gt;" />October 5, 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
             equiv-text="&lt;/b&gt;" />. </target>
       </trans-unit>
       <trans-unit id="2085741547183303215" datatype="html">
         <source>Découvrez le teaser de la pièce.</source>
         <target>Have a look at the new teaser for the piece.</target>
+      </trans-unit>
+      <trans-unit id="1097039389633457894" datatype="html">
+        <source> Sélection pour le Tremplin Corps et Graphique en <x id="START_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;b&gt;" />septembre 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" /> dans le cadre du festival Le temps d&apos;aimer la danse à
+          Biarritz. </source>
+        <target> Selection for the Tremplin Corps et Graphique on <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />September 2024<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> as part of Le temps
+          d&apos;aimer la danse festival in Biarritz. </target>
       </trans-unit>
     </body>
   </file>

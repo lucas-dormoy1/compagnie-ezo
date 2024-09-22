@@ -362,6 +362,9 @@
       <trans-unit id="8531701296491694733" datatype="html">
         <source> Sélection pour le Concours Chorégraphique Les Synodales en octobre 2024. </source>
       </trans-unit>
+      <trans-unit id="1097039389633457894" datatype="html">
+        <source> Sélection pour le Tremplin Corps et Graphique en <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>septembre 2024<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> dans le cadre du festival Le temps d&apos;aimer la danse à Biarritz. </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
