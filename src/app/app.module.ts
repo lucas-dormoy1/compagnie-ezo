@@ -9,7 +9,7 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { RouterModule, Routes } from '@angular/router';
+import { RouterLink, RouterModule, RouterOutlet, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
 import { ContactComponent } from './contact/contact.component';
 import { CreationsComponent } from './creations/creations.component';
@@ -72,7 +72,9 @@ const routes: Routes = [
     MatDialogModule,
     MatCardModule,
     MatDividerModule,
-    MatButtonModule
+    MatButtonModule,
+    RouterLink,
+    RouterOutlet
   ],
   providers: [],
   bootstrap: [AppComponent]

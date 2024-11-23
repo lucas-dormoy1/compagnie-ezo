@@ -6,6 +6,11 @@
   color="success"
   >{{ text }}</a
 >
-<button *ngIf="!externalLink" mat-stroked-button color="success">
+<button
+  [routerLink]="link"
+  *ngIf="!externalLink"
+  mat-stroked-button
+  color="success"
+>
   {{ text }}
 </button>
