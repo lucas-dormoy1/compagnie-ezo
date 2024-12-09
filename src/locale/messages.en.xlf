@@ -358,10 +358,6 @@
         <source>Représentations</source>
         <target>Performances</target>
       </trans-unit>
-      <trans-unit id="4524516638244876783" datatype="html">
-        <source>S&apos;inscrire</source>
-        <target>Sign up</target>
-      </trans-unit>
       <trans-unit id="8943738823192389605" datatype="html">
         <source>Née à Kyoto en 2002, Yumio Chanoki grandit en région parisienne où elle y découvre
           son intérêt pour la danse au sein du CRR de Boulogne-Billancourt puis de Paris. De
@@ -753,14 +749,6 @@
         <target>Residency as part of the Jeudis de la Danse at La Manufacture d&apos;Aurillac. Work
           in progress show in March 2024. </target>
       </trans-unit>
-      <trans-unit id="1252848861649238782" datatype="html">
-        <source>Programme et billets</source>
-        <target>Program and tickets</target>
-      </trans-unit>
-      <trans-unit id="1754936134739700363" datatype="html">
-        <source>Programme</source>
-        <target>Program</target>
-      </trans-unit>
       <trans-unit id="4142540738650750171" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
             id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023 à Berlin</source>
@@ -838,17 +826,17 @@
         <source> Représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
           Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> à 18h au centre 25
           Gisèle Halimi à Clermont-Ferrand. </source>
-        <target> Performance of solo <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> at 6pm at center 25 Gisèle Halimi in Clermont-Ferrand.</target>
+        <target> Performance of solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
+          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at 6pm at center 25
+          Gisèle Halimi in Clermont-Ferrand.</target>
       </trans-unit>
       <trans-unit id="2665645586032607909" datatype="html">
         <source> Le 25 Gisèle Halimi, centre de ressources et d&apos;aide aux femmes, accueille
           Estelle pour une série d&apos;ateliers avec un groupe de femmes et pour une représentation
           de son solo gratuite et ouverte à toutes et tous. </source>
-        <target> 25 Gisèle Halimi, a women&apos;s resource and support center, welcomes
-          Estelle for a series of workshops with a group of women and a performance of her solo free
-          and open to all. </target>
+        <target> 25 Gisèle Halimi, a women&apos;s resource and support center, welcomes Estelle for
+          a series of workshops with a group of women and a performance of her solo free and open to
+          all. </target>
       </trans-unit>
       <trans-unit id="8678899508866532349" datatype="html">
         <source>Dimanche 12 janvier 2025</source>
@@ -872,6 +860,10 @@
           pièces.</source>
         <target> After a creative residency in December at the Aux Échappées Belles studio in Lyon,
           the company invites you to a double bill in January.</target>
+      </trans-unit>
+      <trans-unit id="6464561437936624830" datatype="html">
+        <source>Billetterie</source>
+        <target>Tickets</target>
       </trans-unit>
     </body>
   </file>

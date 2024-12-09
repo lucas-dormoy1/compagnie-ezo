@@ -6,11 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./news.component.scss']
 })
 export class NewsComponent {
-
-  public getSignUpText(): string {
-    return $localize`S'inscrire`;
-  }
-
-  public platform14button: string = $localize`Programme et billets`;
-  public gdanskButton: string = $localize`Programme`;
+  public ticketsButton: string = $localize`Billetterie`;
 }

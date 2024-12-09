@@ -167,9 +167,6 @@
       <trans-unit id="89592232284329941" datatype="html">
         <source>Solo chorégraphié et interprété par Estelle Bézombes</source>
       </trans-unit>
-      <trans-unit id="4524516638244876783" datatype="html">
-        <source>S&apos;inscrire</source>
-      </trans-unit>
       <trans-unit id="1245831686859069023" datatype="html">
         <source>Portant un intérêt au monde social et ses diverses facettes, elle obtient sa Licence d’Anthropologie et de Sociologie à l’université de Toulouse Jean Jaurès et s&apos;y appuie pour développer une réflexion qu&apos;elle lie à son activité artistique.</source>
       </trans-unit>
@@ -308,12 +305,6 @@
       <trans-unit id="7519867438109549505" datatype="html">
         <source> Sortie de résidence dans le cadre des Jeudis de la Danse à la Manufacture d’Aurillac. Présentation du travail en cours en mars 2024. </source>
       </trans-unit>
-      <trans-unit id="1252848861649238782" datatype="html">
-        <source>Programme et billets</source>
-      </trans-unit>
-      <trans-unit id="1754936134739700363" datatype="html">
-        <source>Programme</source>
-      </trans-unit>
       <trans-unit id="256565776851557546" datatype="html">
         <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Corps et Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> lors du festival <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Le temps d&apos;aimer la danse<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en septembre 2024 à Biarritz. </source>
       </trans-unit>
@@ -367,6 +358,9 @@
       </trans-unit>
       <trans-unit id="8678899508866532349" datatype="html">
         <source>Dimanche 12 janvier 2025</source>
+      </trans-unit>
+      <trans-unit id="6464561437936624830" datatype="html">
+        <source>Billetterie</source>
       </trans-unit>
     </body>
   </file>
