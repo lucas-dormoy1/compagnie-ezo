@@ -838,8 +838,8 @@
           a series of workshops with a group of women and a performance of her solo free and open to
           all. </target>
       </trans-unit>
-      <trans-unit id="8678899508866532349" datatype="html">
-        <source>Dimanche 12 janvier 2025</source>
+      <trans-unit id="4385555162236947087" datatype="html">
+        <source> Dimanche 12 janvier 2025 </source>
         <target>Sunday, January 12, 2025</target>
       </trans-unit>
       <trans-unit id="2956025529837431984" datatype="html">
@@ -854,16 +854,24 @@
             equiv-text="&lt;i&gt;" />Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;/i&gt;" /> at 4pm at the theater-studio Aux Échappées Belles in Lyon.</target>
       </trans-unit>
-      <trans-unit id="6623558281211329605" datatype="html">
-        <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon,
-          la compagnie vous donne rendez-vous en janvier pour une représentation composée de deux
-          pièces.</source>
-        <target> After a creative residency in December at the Aux Échappées Belles studio in Lyon,
-          the company invites you to a double bill in January.</target>
-      </trans-unit>
       <trans-unit id="6464561437936624830" datatype="html">
         <source>Billetterie</source>
         <target>Tickets</target>
+      </trans-unit>
+      <trans-unit id="1391205384369623112" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Reporté à une date
+          ultérieure<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Postponed to a later
+          date<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="2595470831206793438" datatype="html">
+        <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon,
+          la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux
+          pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
+        <target state="new"> After a creative residency in December at the Aux Échappées Belles
+          studio in Lyon,
+          the company invites you to a double bill. We'll let you know when the postponement date
+          has been set!</target>
       </trans-unit>
     </body>
   </file>
