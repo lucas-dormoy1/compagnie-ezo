@@ -168,23 +168,6 @@
         <source>La chorégraphe</source>
         <target>Choreographer</target>
       </trans-unit>
-      <trans-unit id="1838201917105893272" datatype="html">
-        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe.
-          Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis
-          s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années
-          avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant
-          au centre Horohronos et au Krama art space à Athènes, où elle présente un duo sur la scène
-          du théâtre Dora Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de
-          Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude
-          technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée
-          de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
-        <target> Estelle is a dancer-performer and young choreographer. She started with ice dancing
-          which she practiced for seven years and then invested herself in rhythmic gymnastics for
-          another seven years before turning to contemporary dance. She started in Greece by
-          training at the Horohronos center and the Krama art space in Athens before returning to
-          France in Lyon and joining the Centre de Formation de Danse désoblique (CFDd). In parallel
-          to her dance studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
-      </trans-unit>
       <trans-unit id="3251853637600022942" datatype="html">
         <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la
           compagnie DART. Durant la saison 2021-2022 elle travaille, dans le cadre de la formation,
@@ -260,14 +243,6 @@
             equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
           See the the artistic dossier </target>
       </trans-unit>
-      <trans-unit id="7430989625993314553" datatype="html">
-        <source><x id="TAG_IMG" ctype="image"
-            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
-          Consulter la proposition d&apos;atelier </source>
-        <target><x id="TAG_IMG" ctype="image"
-            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
-          See the workshop proposal </target>
-      </trans-unit>
       <trans-unit id="89592232284329941" datatype="html">
         <source>Solo chorégraphié et interprété par Estelle Bézombes</source>
         <target>Solo choreographed and performed by Estelle Bézombes</target>
@@ -326,33 +301,6 @@
           allowing the movement and music to be coloured by the moods and emotions of the moment. In
           this way, the research enabled us to take a fresh look at our feelings and states in the
           present, giving them room to exist and express themselves fully. </target>
-      </trans-unit>
-      <trans-unit id="4906266646455194350" datatype="html">
-        <source>Atelier autour du solo</source>
-        <target>Workshop around the solo</target>
-      </trans-unit>
-      <trans-unit id="7453147233045581624" datatype="html">
-        <source> La compagnie anime un atelier de pratique autour du processus de composition du
-          solo. Ce moment de partage propose d’explorer la notion de rupture dans la composition
-          chorégraphique à travers des moments d’improvisation, d’apprentissage de matériel du solo
-          et de jeux de composition en groupe. Il est destiné à un public varié et s’adapte à
-          différents niveaux de pratique. </source>
-        <target> The company is offering a practical workshop on the solo composition process. This
-          shared experience explores the notion of rupture in choreographic composition through
-          improvisation, learning the material of the solo and group composition games. It is aimed
-          at a varied audience and can be adapted to different levels of practice. </target>
-      </trans-unit>
-      <trans-unit id="753221233150084316" datatype="html">
-        <source>Prochains ateliers :</source>
-        <target>Next workshops:</target>
-      </trans-unit>
-      <trans-unit id="1939605758301986148" datatype="html">
-        <source>15 novembre 2023 avec le JBC Le Cycle Lyon</source>
-        <target>November 15th 2023 with young ensemble Le Cycle Lyon</target>
-      </trans-unit>
-      <trans-unit id="79428893132978164" datatype="html">
-        <source> 27 janvier 2024 : Stage tous niveaux avec Le Cycle Lyon Samedi matin 10h-13h </source>
-        <target> January 27th 2024: All-levels workshop at Le Cycle Lyon from 10am to 1pm</target>
       </trans-unit>
       <trans-unit id="5196586067301394370" datatype="html">
         <source>Représentations</source>
@@ -667,9 +615,9 @@
         <source>Musique composée par Odalie (Sophie Griffon)</source>
         <target>Original soundtrack composed by Odalie (Sophie Griffon).</target>
       </trans-unit>
-      <trans-unit id="259476883880554955" datatype="html">
-        <source>Durée : 40 minutes</source>
-        <target>Duration: 40 minutes</target>
+      <trans-unit id="3133669508819557048" datatype="html">
+        <source>Durée : 30 minutes</source>
+        <target>Duration: 30 minutes</target>
       </trans-unit>
       <trans-unit id="5040001901536572421" datatype="html">
         <source>Création 2024-2025</source>
@@ -698,44 +646,6 @@
         <source>Durée : 15 minutes</source>
         <target>Duration: 15 minutes</target>
       </trans-unit>
-      <trans-unit id="442385758002616975" datatype="html">
-        <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs
-          projets. Estelle se lance également dans ses propres projets artistiques et réalise
-          notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre
-          autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
-            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. Elle danse et
-          chorégraphie également pour des projets vidéo (clip, performance, court et long métrage).
-          Elle crée début 2023 la compagnie EZO. </source>
-        <target> On her return to France she works as a performer on several projects. Estelle also
-          embarks on her own artistic projects, including a dance performance in collaboration with
-          visual artist Pier Fabre based on his work <x id="START_TAG_SPAN" ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
-            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also choreographed
-          and performed in video projects (clip, performance and movie). In early 2023, she founded
-          the EZO company. </target>
-      </trans-unit>
-      <trans-unit id="1209907824414697905" datatype="html">
-        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
-          l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité
-          en tant qu’êtres intégrés au vivant. Le processus de création se veut comme un dialogue
-          entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par
-          le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un
-          voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation
-          de ruptures et par l’apparition de situations inattendues, laissant une empreinte
-          marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des
-          interprétations. Les créations sont le partage de ce cheminement intime, subtil et
-          fragile, dans un double mouvement vers soi, et vers l’autre. </source>
-        <target> My artistic and choreographic approach is based on the performers&apos; experience
-          of themes that touch on our humanity as beings integrated into the network of the living.
-          The creative process is intended to be a dialogue between the interiority of what is
-          experienced and what can be seen and felt through the body, movement, the visual and sound
-          universe. The work is constructed as a sensitive and physical choreographic journey. The
-          composition is marked by the use of ruptures and the appearance of unexpected situations,
-          leaving a lasting impression on the spectators while letting them make their own
-          interpretations. The creations are the sharing of this intimate, subtle and fragile
-          journey, in a double movement towards oneself and the other. </target>
-      </trans-unit>
       <trans-unit id="5766524442845584146" datatype="html">
         <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes
           d&apos;automne 2023 au Regard du Cygne à Paris. Présentation du travail en cours en
@@ -749,25 +659,6 @@
         <target>Residency as part of the Jeudis de la Danse at La Manufacture d&apos;Aurillac. Work
           in progress show in March 2024. </target>
       </trans-unit>
-      <trans-unit id="4142540738650750171" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023 à Berlin</source>
-        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023 in Berlin</target>
-      </trans-unit>
-      <trans-unit id="4212262667053440429" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Festival d’Aurillac<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2023</source>
-        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Aurillac Festival <x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2023</target>
-      </trans-unit>
-      <trans-unit id="6502232097809882469" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Solo Contemporary Dance
-          Festival<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Ankara en août 2023 </source>
-        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Solo Contemporary Dance
-          Festival<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> Ankara in August
-          2023, Türkiye </target>
-      </trans-unit>
       <trans-unit id="8531701296491694733" datatype="html">
         <source> Sélection pour le Concours Chorégraphique Les Synodales en octobre 2024. </source>
         <target> Selection for the Les Synodales Choreographic Competition in October 2024. </target>
@@ -775,36 +666,6 @@
       <trans-unit id="1734399061386519579" datatype="html">
         <source>Première : Août 2024</source>
         <target>Premiere: August 2024</target>
-      </trans-unit>
-      <trans-unit id="7917403359609598828" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en août 2024 à Berlin.</source>
-        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />PLATFORM 14<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in August 2024 in Berlin.</target>
-      </trans-unit>
-      <trans-unit id="128388568753843426" datatype="html">
-        <source> Solo Dance Contest lors du <x id="START_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;b&gt;" />Gdański Festiwal Tańca<x id="CLOSE_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;/b&gt;" /> en août 2024 en Pologne. </source>
-        <target> Solo Dance Contest as part of <x id="START_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;b&gt;" />Gdański Festiwal Tańca<x id="CLOSE_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;/b&gt;" /> in August 2024 in Poland. </target>
-      </trans-unit>
-      <trans-unit id="256565776851557546" datatype="html">
-        <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
-          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> lors du festival <x
-            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Le temps d&apos;aimer la danse<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> en septembre 2024 à
-          Biarritz. </source>
-        <target> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
-          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at the festival <x
-            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Le temps d&apos;aimer la danse<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in September 2024 in
-          Biarritz. </target>
-      </trans-unit>
-      <trans-unit id="7342423971888693057" datatype="html">
-        <source>Aux Échappées Belles le 12 janvier 2025 à Lyon.</source>
-        <target>Aux Échappées Belles on January 12, 2025 in Lyon.</target>
       </trans-unit>
       <trans-unit id="5603878030740730513" datatype="html">
         <source>À venir</source>
@@ -868,10 +729,113 @@
         <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon,
           la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux
           pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
-        <target state="new"> After a creative residency in December at the Aux Échappées Belles
-          studio in Lyon,
-          the company invites you to a double bill. We'll let you know when the postponement date
-          has been set!</target>
+        <target> After a creative residency in December at the Aux Échappées Belles
+          studio in Lyon, the company invites you to a double bill. We&apos;ll let you know when the
+          postponement date has been set!</target>
+      </trans-unit>
+      <trans-unit id="9121949329505758553" datatype="html">
+        <source>PLATFORM 14 en août 2023 à Berlin</source>
+        <target>PLATFORM 14 in August 2024 in Berlin</target>
+      </trans-unit>
+      <trans-unit id="3303933496645467547" datatype="html">
+        <source>Festival d’Aurillac en août 2023</source>
+        <target>Aurillac Festival in August 2023</target>
+      </trans-unit>
+      <trans-unit id="64091222939572872" datatype="html">
+        <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
+        <target>Solo Contemporary Dance Festival Ankara in August 2023, Türkiye</target>
+      </trans-unit>
+      <trans-unit id="3042485849329801654" datatype="html">
+        <source> Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
+        <target> Théâtre de l&apos;Île Ô in January 2025, in Lyon for the Mapado event.</target>
+      </trans-unit>
+      <trans-unit id="5420606968567565499" datatype="html">
+        <source>Aux Échappées Belles à Lyon (date à venir).</source>
+        <target>Aux Échappées Belles in Lyon (date to come).</target>
+      </trans-unit>
+      <trans-unit id="7879905163128635901" datatype="html">
+        <source>PLATFORM 14 en août 2024 à Berlin.</source>
+        <target>PLATFORM 14 in August 2024 in Berlin.</target>
+      </trans-unit>
+      <trans-unit id="3451641102500851925" datatype="html">
+        <source> Solo Dance Contest lors du Gdański Festiwal Tańca en août 2024 en Pologne. </source>
+        <target>Solo Dance Contest as part of Gdański Festiwal Tańca in August 2024 in Poland.</target>
+      </trans-unit>
+      <trans-unit id="4207773263019186277" datatype="html">
+        <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
+          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> lors du festival
+          Le temps d&apos;aimer la danse en septembre 2024 à Biarritz. </source>
+        <target> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Corps et
+          Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at the festival
+          Le temps d&apos;aimer la danse in September 2024 in Biarritz. </target>
+      </trans-unit>
+      <trans-unit id="6216702337097277825" datatype="html">
+        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe.
+          Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis
+          s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années
+          avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant
+          au centre Horohronos et au Krama art space à Athènes, avant de revenir en France à Lyon et
+          d&apos;intégrer le Centre de Formation de Danse désoblique (CFDd). Elle obtient son EAT
+          (examen d&apos;aptitude technique) en danse contemporaine. En parallèle de ses études en
+          danse, elle est diplômée de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
+        <target> Estelle is a dancer-performer and young choreographer. She started with
+          ice dancing which she practiced for seven years and then invested herself in rhythmic
+          gymnastics for another seven years before turning to contemporary dance. She started in
+          Greece by training at the Horohronos center in Athens before returning to France in Lyon
+          and joining the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance
+          studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
+      </trans-unit>
+      <trans-unit id="1943779345969887559" datatype="html">
+        <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs
+          projets. Estelle se lance également dans ses propres projets artistiques et réalise
+          notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre
+          autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. Elle danse et
+          chorégraphie également pour des projets vidéo (clip, performance, court et long métrage).
+          Elle crée début 2023 la compagnie EZO et ses premières pièces ont été sélectionnées pour
+          plusieurs festivals et concours internationaux (Internationales Solo Tanz Theatre
+          Stuttgart, PLATFORM14 Berlin, Solo Contemporary Dance Festival Ankara, Spectacles Sauvages
+          festival Signes d&apos;automne au Regard du Cygne à Paris, concours chorégraphique Les
+          Synodales à Sens, Solo Dance Contest Gdansk, Tremplin Corps &amp; Graphiques festival le
+          temps d&apos;aimer la danse à Biarritz). </source>
+        <target> On her return to France in 2022, she worked as a performer on several projects.
+          Estelle also embarks on her own artistic projects, including a dance performance in
+          collaboration with visual artist Pier Fabre based on his work <x id="START_TAG_SPAN"
+            ctype="x-span"
+            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also dances and
+          choreographs for video projects (music videos, performances, short and full-length films).
+          She founded the EZO company in early 2023, and her first pieces have been selected for
+          several international festivals and competitions (Internationales Solo Tanz Theatre
+          Stuttgart, PLATFORM14 Berlin, Solo Contemporary Dance Festival Ankara, Spectacles Sauvages
+          festival Signes d'automne at Le Regard du Cygne in Paris, Les Synodales choreographic
+          competition in Sens, Solo Dance Contest Gdansk, Tremplin Corps &amp; Graphiques festival
+          Le temps d'aimer la danse in Biarritz).</target>
+      </trans-unit>
+      <trans-unit id="1087454817064399710" datatype="html">
+        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
+          l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité
+          en tant qu’êtres intégrés au vivant. Ma recherche va puiser dans les sciences humaines et
+          sociales et s’inspire des productions du mouvement écoféministe. Les processus de création
+          se veulent comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en
+          donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le
+          travail se construit comme un voyage chorégraphique sensible et physique. La composition
+          est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues,
+          laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur
+          laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement
+          intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
+        <target> My artistic and choreographic approach is based on the performers'
+          experience of themes that touch on our humanity as beings integrated into the network of
+          the living. My research draws on the humanities and social sciences, and is inspired by
+          the productions of the ecofeminist movement. The creative processes are intended to be a
+          dialogue between the interiority of what is experienced and what can be seen and felt
+          through the body, movement, the visual and sound universe. The work is constructed as a
+          sensitive and physical choreographic journey. The composition is marked by the use of
+          ruptures and the appearance of unexpected situations, leaving a lasting impression on the
+          spectators while letting them make their own interpretations. The creations are the
+          sharing of this intimate, subtle and fragile journey, in a double movement towards oneself
+          and the other.</target>
       </trans-unit>
     </body>
   </file>

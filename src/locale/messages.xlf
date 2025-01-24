@@ -104,9 +104,6 @@
       <trans-unit id="2163298544852417923" datatype="html">
         <source>La chorégraphe</source>
       </trans-unit>
-      <trans-unit id="1838201917105893272" datatype="html">
-        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe. Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant au centre Horohronos et au Krama art space à Athènes, où elle présente un duo sur la scène du théâtre Dora Stratou, avant de revenir en France à Lyon et d&apos;intégrer le Centre de Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
-      </trans-unit>
       <trans-unit id="3251853637600022942" datatype="html">
         <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la compagnie DART. Durant la saison 2021-2022 elle travaille, dans le cadre de la formation, avec les chorégraphes Fabio Liberti et le duo Dor Mamalia et Dariusz Nowak. Elle danse dans les pièces <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Solo(s) for real<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> et <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> qui ont été présentées sur la scène du Pfeffeberg theatre et Uferstudios à Berlin. Elle est également interprète dans la pièce <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>WHOAMI<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> chorégraphiée par Giada Grieco et présentée sur plusieurs scènes à Berlin. </source>
       </trans-unit>
@@ -128,17 +125,8 @@
       <trans-unit id="3645537723025949339" datatype="html">
         <source><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;"/> Consulter le dossier artistique </source>
       </trans-unit>
-      <trans-unit id="7430989625993314553" datatype="html">
-        <source><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;"/> Consulter la proposition d&apos;atelier </source>
-      </trans-unit>
-      <trans-unit id="1939605758301986148" datatype="html">
-        <source>15 novembre 2023 avec le JBC Le Cycle Lyon</source>
-      </trans-unit>
       <trans-unit id="4385304564698230206" datatype="html">
         <source>À propos du solo</source>
-      </trans-unit>
-      <trans-unit id="4906266646455194350" datatype="html">
-        <source>Atelier autour du solo</source>
       </trans-unit>
       <trans-unit id="5196586067301394370" datatype="html">
         <source>Représentations</source>
@@ -148,15 +136,6 @@
       </trans-unit>
       <trans-unit id="7396056946978813715" datatype="html">
         <source> C’est un horizon qui se dessine au loin et qui me guide. Je marche vers lui pleine d’espoir, parfois il semble même se rapprocher. Il a certains jours la couleur rouge orangée d’une flamme qui danse le soir. D’autres jours je ne le vois même plus, il est caché par une épaisse couche de brume. Pourtant, je continue d&apos;avancer, en observant attentivement chaque pas. Je prends conscience des petits cailloux qui constituent le chemin sur lequel je suis. Je les ressens sous la plante de mes pieds et jusqu’au plus profond de ma chair. La sensation se propage dans tout mon corps jusqu’à me faire sourire. Les petits cailloux sont autant de rencontres, de pensées, de rires, de douleurs et de chagrins qui m’animent chaque jour. </source>
-      </trans-unit>
-      <trans-unit id="7453147233045581624" datatype="html">
-        <source> La compagnie anime un atelier de pratique autour du processus de composition du solo. Ce moment de partage propose d’explorer la notion de rupture dans la composition chorégraphique à travers des moments d’improvisation, d’apprentissage de matériel du solo et de jeux de composition en groupe. Il est destiné à un public varié et s’adapte à différents niveaux de pratique. </source>
-      </trans-unit>
-      <trans-unit id="753221233150084316" datatype="html">
-        <source>Prochains ateliers :</source>
-      </trans-unit>
-      <trans-unit id="79428893132978164" datatype="html">
-        <source> 27 janvier 2024 : Stage tous niveaux avec Le Cycle Lyon Samedi matin 10h-13h </source>
       </trans-unit>
       <trans-unit id="8164044058793112854" datatype="html">
         <source> Le processus de création, à la fois chorégraphique et musical, s&apos;est construit comme une introspection allant à la rencontre des éléments essentiels à la construction de notre chemin, tout en laissant le mouvement et la musique se teinter des humeurs et émotions du moment. La recherche a ainsi permis de porter un regard nouveau sur ses ressentis et états du présent, leur laissant une place pour exister et s&apos;exprimer pleinement. </source>
@@ -260,23 +239,17 @@
       <trans-unit id="8955063668560132285" datatype="html">
         <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d’Odalie (Sophie Griffon). </source>
       </trans-unit>
-      <trans-unit id="1209907824414697905" datatype="html">
-        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité en tant qu’êtres intégrés au vivant. Le processus de création se veut comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
-      </trans-unit>
       <trans-unit id="1822467899376313542" datatype="html">
         <source>Musique composée par Odalie (Sophie Griffon)</source>
       </trans-unit>
       <trans-unit id="2275106413980525663" datatype="html">
         <source>Solo chorégraphié et interprété par Estelle Bézombes sur une bande son originale composée par Inès Murer. </source>
       </trans-unit>
-      <trans-unit id="259476883880554955" datatype="html">
-        <source>Durée : 40 minutes</source>
+      <trans-unit id="3133669508819557048" datatype="html">
+        <source>Durée : 30 minutes</source>
       </trans-unit>
       <trans-unit id="3578679767106755952" datatype="html">
         <source>À partir d’un mouvement de balancier hypnotique qui se propage parmi les danseurs, des liens se font et se défont. Dans cet espace, qu&apos;ils ne quitteront plus pendant la durée de ce voyage chorégraphique, les danseurs explorent les possibilités d&apos;interaction entre eux. Nous les suivons dans la construction du groupe, dans une exploration sensible et physique des mécanismes humains à l&apos;œuvre dans notre socialisation. Ils naviguent avec intensité entre l&apos;expression de leur individualité et la gestion collective de l&apos;évolution du groupe.</source>
-      </trans-unit>
-      <trans-unit id="442385758002616975" datatype="html">
-        <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs projets. Estelle se lance également dans ses propres projets artistiques et réalise notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Pluie de Montchal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. Elle danse et chorégraphie également pour des projets vidéo (clip, performance, court et long métrage). Elle crée début 2023 la compagnie EZO. </source>
       </trans-unit>
       <trans-unit id="5040001901536572421" datatype="html">
         <source>Création 2024-2025</source>
@@ -305,24 +278,6 @@
       <trans-unit id="7519867438109549505" datatype="html">
         <source> Sortie de résidence dans le cadre des Jeudis de la Danse à la Manufacture d’Aurillac. Présentation du travail en cours en mars 2024. </source>
       </trans-unit>
-      <trans-unit id="256565776851557546" datatype="html">
-        <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Corps et Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> lors du festival <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Le temps d&apos;aimer la danse<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en septembre 2024 à Biarritz. </source>
-      </trans-unit>
-      <trans-unit id="7917403359609598828" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>PLATFORM 14<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en août 2024 à Berlin.</source>
-      </trans-unit>
-      <trans-unit id="4142540738650750171" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>PLATFORM 14<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en août 2023 à Berlin</source>
-      </trans-unit>
-      <trans-unit id="4212262667053440429" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Festival d’Aurillac<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en août 2023</source>
-      </trans-unit>
-      <trans-unit id="128388568753843426" datatype="html">
-        <source> Solo Dance Contest lors du <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Gdański Festiwal Tańca<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> en août 2024 en Pologne. </source>
-      </trans-unit>
-      <trans-unit id="6502232097809882469" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Solo Contemporary Dance Festival<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> Ankara en août 2023 </source>
-      </trans-unit>
       <trans-unit id="1734399061386519579" datatype="html">
         <source>Première : Août 2024</source>
       </trans-unit>
@@ -347,9 +302,6 @@
       <trans-unit id="6490634336008138460" datatype="html">
         <source>Dialogue avec l&apos;oeuvre Pluie de Montchal </source>
       </trans-unit>
-      <trans-unit id="7342423971888693057" datatype="html">
-        <source>Aux Échappées Belles le 12 janvier 2025 à Lyon.</source>
-      </trans-unit>
       <trans-unit id="8590426190129652701" datatype="html">
         <source> Représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> à 18h au centre 25 Gisèle Halimi à Clermont-Ferrand. </source>
       </trans-unit>
@@ -364,6 +316,39 @@
       </trans-unit>
       <trans-unit id="2595470831206793438" datatype="html">
         <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon, la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
+      </trans-unit>
+      <trans-unit id="1087454817064399710" datatype="html">
+        <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité en tant qu’êtres intégrés au vivant. Ma recherche va puiser dans les sciences humaines et sociales et s’inspire des productions du mouvement écoféministe. Les processus de création se veulent comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
+      </trans-unit>
+      <trans-unit id="1943779345969887559" datatype="html">
+        <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs projets. Estelle se lance également dans ses propres projets artistiques et réalise notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Pluie de Montchal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. Elle danse et chorégraphie également pour des projets vidéo (clip, performance, court et long métrage). Elle crée début 2023 la compagnie EZO et ses premières pièces ont été sélectionnées pour plusieurs festivals et concours internationaux (Internationales Solo Tanz Theatre Stuttgart, PLATFORM14 Berlin, Solo Contemporary Dance Festival Ankara, Spectacles Sauvages festival Signes d&apos;automne au Regard du Cygne à Paris, concours chorégraphique Les Synodales à Sens, Solo Dance Contest Gdansk, Tremplin Corps &amp; Graphiques festival le temps d&apos;aimer la danse à Biarritz). </source>
+      </trans-unit>
+      <trans-unit id="3042485849329801654" datatype="html">
+        <source> Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
+      </trans-unit>
+      <trans-unit id="3303933496645467547" datatype="html">
+        <source>Festival d’Aurillac en août 2023</source>
+      </trans-unit>
+      <trans-unit id="3451641102500851925" datatype="html">
+        <source> Solo Dance Contest lors du Gdański Festiwal Tańca en août 2024 en Pologne. </source>
+      </trans-unit>
+      <trans-unit id="4207773263019186277" datatype="html">
+        <source> Tremplin <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Corps et Graphique<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> lors du festival Le temps d&apos;aimer la danse en septembre 2024 à Biarritz. </source>
+      </trans-unit>
+      <trans-unit id="5420606968567565499" datatype="html">
+        <source>Aux Échappées Belles à Lyon (date à venir).</source>
+      </trans-unit>
+      <trans-unit id="6216702337097277825" datatype="html">
+        <source> Née à Grasse en 1995, Estelle est une danseuse interprète et jeune chorégraphe. Elle commence par la danse sur glace qu&apos;elle pratique pendant sept ans puis s&apos;investit dans la pratique de la gymnastique rythmique durant sept autres années avant de se tourner vers la danse contemporaine. Elle débute en Grèce en s&apos;entraînant au centre Horohronos et au Krama art space à Athènes, avant de revenir en France à Lyon et d&apos;intégrer le Centre de Formation de Danse désoblique (CFDd). Elle obtient son EAT (examen d&apos;aptitude technique) en danse contemporaine. En parallèle de ses études en danse, elle est diplômée de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
+      </trans-unit>
+      <trans-unit id="64091222939572872" datatype="html">
+        <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
+      </trans-unit>
+      <trans-unit id="7879905163128635901" datatype="html">
+        <source>PLATFORM 14 en août 2024 à Berlin.</source>
+      </trans-unit>
+      <trans-unit id="9121949329505758553" datatype="html">
+        <source>PLATFORM 14 en août 2023 à Berlin</source>
       </trans-unit>
     </body>
   </file>
