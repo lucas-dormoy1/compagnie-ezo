@@ -7,6 +7,15 @@
 <div class="menu" *ngIf="isOpen" [@projectsMenu]>
   <div class="menu-item">
     <a
+      routerLink="/tuning-in-to-the-senses"
+      class="menu-link"
+      (click)="closeMenu()"
+      i18n
+      >Tuning in to the senses
+    </a>
+  </div>
+  <div class="menu-item">
+    <a
       routerLink="/dialogue-avec-l-œuvre-pluie-de-montchal"
       class="menu-link"
       (click)="closeMenu()"

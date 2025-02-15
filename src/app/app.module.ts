@@ -27,6 +27,7 @@ import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal
 import { ProjectsComponent } from './projects/projects.component';
 import { SevenTriesComponent } from './creations/seven-tries/seven-tries.component';
 import { MatKnowMoreComponent } from './shared/mat-know-more/mat-know-more.component';
+import { TuningInToTheSensesComponent } from './projects/tuning-in-to-the-senses/tuning-in-to-the-senses.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -37,6 +38,7 @@ const routes: Routes = [
   { path: 'les-meduses-ne-nagent-jamais-seules', component: MedusesComponent},
   { path: 'seven-tries', component: SevenTriesComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
+  { path: 'tuning-in-to-the-senses', component: TuningInToTheSensesComponent},
   { path: 'contact', component: ContactComponent},
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
 
@@ -50,6 +52,7 @@ const routes: Routes = [
     ProjectsComponent,
     HorizonsCaillouxComponent,
     PluieMontchalComponent,
+    TuningInToTheSensesComponent,
     HomeMenuComponent,
     ProjectsMenuComponent,
     HeaderComponent,

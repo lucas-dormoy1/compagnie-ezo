@@ -1,0 +1,119 @@
+@import "../../../styles/variables.scss";
+
+.tuning-in-to-the-senses-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0% 4% 0% 4%;
+  font-size: 1.2rem;
+}
+
+.tuning-in-to-the-senses-title {
+  color: $dark-blue;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-size: 5rem;
+  text-align: center;
+}
+
+.tuning-in-to-the-senses-subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+}
+.main-picture {
+  width: 60rem;
+  padding: 4rem;
+}
+
+.tuning-in-to-the-senses-paragraphe {
+  display: flex;
+  flex-direction: row;
+  margin: 2rem 0rem 2rem 0rem;
+  align-items: center;
+  width: 80rem;
+  text-align: justify;
+}
+
+.photos {
+  margin-bottom: 4%;
+  margin-top: 4rem;
+  overflow-x: scroll;
+  display: flex;
+  width: 80%;
+}
+
+.photo {
+  height: 40rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.photo:first-child {
+  margin-left: 0rem;
+}
+.photo:last-child {
+  margin-right: 0rem;
+}
+
+/* width */
+::-webkit-scrollbar {
+  height: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: $dark-blue;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: $small-screen-size) {
+  .tuning-in-to-the-senses-title {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+
+  .tuning-in-to-the-senses-description {
+    margin: 0rem 1rem 0rem 1rem;
+    text-align: center;
+  }
+
+  .main-picture {
+    width: 100%;
+    height: 15rem;
+    padding: 2rem 0rem 2rem 0rem;
+  }
+
+  .tuning-in-to-the-senses-paragraphe {
+    font-size: 1rem;
+    width: 100%;
+    margin: 0rem;
+  }
+
+  .photos {
+    margin-top: 2rem;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .photo {
+    height: fit-content;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}

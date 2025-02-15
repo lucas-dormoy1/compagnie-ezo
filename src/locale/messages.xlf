@@ -350,6 +350,27 @@
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
       </trans-unit>
+      <trans-unit id="5056295550868158152" datatype="html">
+        <source>Projet de recherche et de performance entre arts visuels et mouvement. </source>
+      </trans-unit>
+      <trans-unit id="6142996092607995110" datatype="html">
+        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se réaliser sous la forme d’une performance participative dans laquelle le public est invité à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est complétée par des installations qui sont partie intégrante de l’expérience. </source>
+      </trans-unit>
+      <trans-unit id="6260783277797236110" datatype="html">
+        <source>Projet de recherche et de performance entre arts visuels et mouvement.</source>
+      </trans-unit>
+      <trans-unit id="6977255025292513328" datatype="html">
+        <source>Tuning in to the senses</source>
+      </trans-unit>
+      <trans-unit id="2171446162176713371" datatype="html">
+        <source> Résidence de recherche et présentation au <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> à Athènes en octobre 2024, au sein du programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>, Produit par <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Delta Pi<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>. </source>
+      </trans-unit>
+      <trans-unit id="3722026859946333697" datatype="html">
+        <source> Dans ce cadre, deux installations ont été créées. L&apos;objectif de l&apos;installation intérieure est d&apos;éveiller les sens. L&apos;espace extérieur, où se déroule également la performance, est conçu pour permettre une observation attentive et une connexion à l&apos;environnement. </source>
+      </trans-unit>
+      <trans-unit id="3866116102179446148" datatype="html">
+        <source>Tuning in to the senses </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

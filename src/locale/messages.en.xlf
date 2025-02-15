@@ -729,9 +729,9 @@
         <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon,
           la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux
           pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
-        <target> After a creative residency in December at the Aux Échappées Belles
-          studio in Lyon, the company invites you to a double bill. We&apos;ll let you know when the
-          postponement date has been set!</target>
+        <target> After a creative residency in December at the Aux Échappées Belles studio in Lyon,
+          the company invites you to a double bill. We&apos;ll let you know when the postponement
+          date has been set!</target>
       </trans-unit>
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
@@ -778,12 +778,12 @@
           d&apos;intégrer le Centre de Formation de Danse désoblique (CFDd). Elle obtient son EAT
           (examen d&apos;aptitude technique) en danse contemporaine. En parallèle de ses études en
           danse, elle est diplômée de l&apos;école d&apos;ingénieur Centrale de Lyon en 2020. </source>
-        <target> Estelle is a dancer-performer and young choreographer. She started with
-          ice dancing which she practiced for seven years and then invested herself in rhythmic
-          gymnastics for another seven years before turning to contemporary dance. She started in
-          Greece by training at the Horohronos center in Athens before returning to France in Lyon
-          and joining the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance
-          studies, she graduated from the Centrale de Lyon engineering school in 2020. </target>
+        <target> Estelle is a dancer-performer and young choreographer. She started with ice dancing
+          which she practiced for seven years and then invested herself in rhythmic gymnastics for
+          another seven years before turning to contemporary dance. She started in Greece by
+          training at the Horohronos center in Athens before returning to France in Lyon and joining
+          the Centre de Formation de Danse désoblique (CFDd). In parallel to her dance studies, she
+          graduated from the Centrale de Lyon engineering school in 2020. </target>
       </trans-unit>
       <trans-unit id="1943779345969887559" datatype="html">
         <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs
@@ -802,16 +802,15 @@
         <target> On her return to France in 2022, she worked as a performer on several projects.
           Estelle also embarks on her own artistic projects, including a dance performance in
           collaboration with visual artist Pier Fabre based on his work <x id="START_TAG_SPAN"
-            ctype="x-span"
-            equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
+            ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Pluie de Montchal<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />. She also dances and
           choreographs for video projects (music videos, performances, short and full-length films).
           She founded the EZO company in early 2023, and her first pieces have been selected for
           several international festivals and competitions (Internationales Solo Tanz Theatre
           Stuttgart, PLATFORM14 Berlin, Solo Contemporary Dance Festival Ankara, Spectacles Sauvages
-          festival Signes d'automne at Le Regard du Cygne in Paris, Les Synodales choreographic
+          festival Signes d&apos;automne at Le Regard du Cygne in Paris, Les Synodales choreographic
           competition in Sens, Solo Dance Contest Gdansk, Tremplin Corps &amp; Graphiques festival
-          Le temps d'aimer la danse in Biarritz).</target>
+          Le temps d&apos;aimer la danse in Biarritz).</target>
       </trans-unit>
       <trans-unit id="1087454817064399710" datatype="html">
         <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de
@@ -825,10 +824,10 @@
           laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur
           laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement
           intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
-        <target> My artistic and choreographic approach is based on the performers'
-          experience of themes that touch on our humanity as beings integrated into the network of
-          the living. My research draws on the humanities and social sciences, and is inspired by
-          the productions of the ecofeminist movement. The creative processes are intended to be a
+        <target> My artistic and choreographic approach is based on the performers&apos; experience
+          of themes that touch on our humanity as beings integrated into the network of the living.
+          My research draws on the humanities and social sciences, and is inspired by the
+          productions of the ecofeminist movement. The creative processes are intended to be a
           dialogue between the interiority of what is experienced and what can be seen and felt
           through the body, movement, the visual and sound universe. The work is constructed as a
           sensitive and physical choreographic journey. The composition is marked by the use of
@@ -836,6 +835,64 @@
           spectators while letting them make their own interpretations. The creations are the
           sharing of this intimate, subtle and fragile journey, in a double movement towards oneself
           and the other.</target>
+      </trans-unit>
+      <trans-unit id="6977255025292513328" datatype="html">
+        <source>Tuning in to the senses</source>
+        <target>Tuning in to the senses</target>
+      </trans-unit>
+      <trans-unit id="5056295550868158152" datatype="html">
+        <source>Projet de recherche et de performance entre arts visuels et mouvement. </source>
+        <target>Research and performance project between visual arts and movement. </target>
+      </trans-unit>
+      <trans-unit id="6260783277797236110" datatype="html">
+        <source>Projet de recherche et de performance entre arts visuels et mouvement.</source>
+        <target>Research and performance project between visual arts and movement.</target>
+      </trans-unit>
+      <trans-unit id="6142996092607995110" datatype="html">
+        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la
+          danse, la recherche relie les corps à leur environnement au travers du sable et du verre.
+          Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens
+          tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se
+          réaliser sous la forme d’une performance participative dans laquelle le public est invité
+          à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est
+          complétée par des installations qui sont partie intégrante de l’expérience. </source>
+        <target> Inspired by the ecofeminist movement and at the crossroads of visual
+          arts and dance, the research connects bodies to their environment through sand and glass.
+          The spaces created are designed to enable us to listen to our senses while building
+          reciprocal links with our surroundings. Research can take the form of a participatory
+          performance in which the audience is invited to observe, marvel, engage and move as a
+          group. The performance is complemented by installations that form an integral part of the
+          experience. </target>
+      </trans-unit>
+      <trans-unit id="3866116102179446148" datatype="html">
+        <source>Tuning in to the senses </source>
+        <target>Tuning in to the senses </target>
+      </trans-unit>
+      <trans-unit id="2171446162176713371" datatype="html">
+        <source> Résidence de recherche et présentation au <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;/b&gt;" /> à Athènes en octobre 2024, au sein du programme
+          de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Hylé: as a
+          point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, Produit par <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Delta Pi<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </source>
+        <target>Research residency and presentation at the <x id="START_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in Athens in October 2024,
+          as part of the research program <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />, Produced by <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />Delta Pi<x id="CLOSE_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;/b&gt;" />. </target>
+      </trans-unit>
+      <trans-unit id="3722026859946333697" datatype="html">
+        <source> Dans ce cadre, deux installations ont été créées. L&apos;objectif de
+          l&apos;installation intérieure est d&apos;éveiller les sens. L&apos;espace extérieur, où
+          se déroule également la performance, est conçu pour permettre une observation attentive et
+          une connexion à l&apos;environnement. </source>
+        <target> In this context, two installations were created. The aim of the indoor
+          installation is to awaken the senses. The outdoor space, where the performance also takes
+          place, is designed to enable attentive observation and connection to the environment. </target>
       </trans-unit>
     </body>
   </file>
