@@ -284,15 +284,6 @@
       <trans-unit id="8531701296491694733" datatype="html">
         <source> Sélection pour le Concours Chorégraphique Les Synodales en octobre 2024. </source>
       </trans-unit>
-      <trans-unit id="2665645586032607909" datatype="html">
-        <source> Le 25 Gisèle Halimi, centre de ressources et d&apos;aide aux femmes, accueille Estelle pour une série d&apos;ateliers avec un groupe de femmes et pour une représentation de son solo gratuite et ouverte à toutes et tous. </source>
-      </trans-unit>
-      <trans-unit id="195280579511106802" datatype="html">
-        <source>Samedi 30 novembre 2024</source>
-      </trans-unit>
-      <trans-unit id="2956025529837431984" datatype="html">
-        <source> Représentation des pièces <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> et <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> à 16h au théâtre-studio Aux Échappées Belles à Lyon. </source>
-      </trans-unit>
       <trans-unit id="4761883864120523996" datatype="html">
         <source>25 Gisèle Halimi le 30 novembre 2024 à Clermont-Ferrand.</source>
       </trans-unit>
@@ -302,20 +293,11 @@
       <trans-unit id="6490634336008138460" datatype="html">
         <source>Dialogue avec l&apos;oeuvre Pluie de Montchal </source>
       </trans-unit>
-      <trans-unit id="8590426190129652701" datatype="html">
-        <source> Représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> à 18h au centre 25 Gisèle Halimi à Clermont-Ferrand. </source>
-      </trans-unit>
-      <trans-unit id="4385555162236947087" datatype="html">
-        <source> Dimanche 12 janvier 2025 </source>
+      <trans-unit id="1543777480810380149" datatype="html">
+        <source> Représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> à 15h au festival Onyx à Clermont-Ferrand </source>
       </trans-unit>
       <trans-unit id="6464561437936624830" datatype="html">
         <source>Billetterie</source>
-      </trans-unit>
-      <trans-unit id="1391205384369623112" datatype="html">
-        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Reporté à une date ultérieure<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
-      </trans-unit>
-      <trans-unit id="2595470831206793438" datatype="html">
-        <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon, la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
       </trans-unit>
       <trans-unit id="1087454817064399710" datatype="html">
         <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité en tant qu’êtres intégrés au vivant. Ma recherche va puiser dans les sciences humaines et sociales et s’inspire des productions du mouvement écoféministe. Les processus de création se veulent comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
@@ -370,6 +352,48 @@
       </trans-unit>
       <trans-unit id="3866116102179446148" datatype="html">
         <source>Tuning in to the senses </source>
+      </trans-unit>
+      <trans-unit id="1163667333697970957" datatype="html">
+        <source>Bus 3, 19 et 36 : arrêt Apollinaire bourbonnais</source>
+      </trans-unit>
+      <trans-unit id="4473121866181687601" datatype="html">
+        <source> Représentation de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> pour l&apos;événement Mapado au Théâtre de l&apos;île Ô à Lyon. </source>
+      </trans-unit>
+      <trans-unit id="5347476710950486410" datatype="html">
+        <source>Samedi 5 avril 2025</source>
+      </trans-unit>
+      <trans-unit id="5636841307724721934" datatype="html">
+        <source>Retour sur début 2025</source>
+      </trans-unit>
+      <trans-unit id="5844427374505508943" datatype="html">
+        <source>65-73 Rue du Bourbonnais, 69009 Lyon </source>
+      </trans-unit>
+      <trans-unit id="6377607381457626656" datatype="html">
+        <source>Entrée libre</source>
+      </trans-unit>
+      <trans-unit id="6839573184798829954" datatype="html">
+        <source> Workshop avec les danseuses en formation de La Cité Chorégraphique autour du répertoire de la compagnie. </source>
+      </trans-unit>
+      <trans-unit id="7441012115097848780" datatype="html">
+        <source>Durée : environ 50min</source>
+      </trans-unit>
+      <trans-unit id="992020059217891619" datatype="html">
+        <source>Métro D : arrêt Valmy (10 min à pied) </source>
+      </trans-unit>
+      <trans-unit id="3809136398407560199" datatype="html">
+        <source>Dimanche 23 février 2025 à 16h</source>
+      </trans-unit>
+      <trans-unit id="799672995016620796" datatype="html">
+        <source> Théâtre-studio Aux Échappées Belles à Lyon </source>
+      </trans-unit>
+      <trans-unit id="343765222459298933" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="6349408018021491170" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>&amp;<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="7263303428385410230" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
       </trans-unit>
     </body>
   </file>

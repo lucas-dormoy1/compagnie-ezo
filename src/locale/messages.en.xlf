@@ -679,59 +679,17 @@
         <source>Dialogue avec l&apos;oeuvre Pluie de Montchal </source>
         <target>Dialogue avec l&apos;oeuvre Pluie de Montchal </target>
       </trans-unit>
-      <trans-unit id="195280579511106802" datatype="html">
-        <source>Samedi 30 novembre 2024</source>
-        <target>Saturday, November 30, 2024</target>
-      </trans-unit>
-      <trans-unit id="8590426190129652701" datatype="html">
+      <trans-unit id="1543777480810380149" datatype="html">
         <source> Représentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
-          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> à 18h au centre 25
-          Gisèle Halimi à Clermont-Ferrand. </source>
+          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> à 15h au festival
+          Onyx à Clermont-Ferrand </source>
         <target> Performance of solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
-          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at 6pm at center 25
-          Gisèle Halimi in Clermont-Ferrand.</target>
-      </trans-unit>
-      <trans-unit id="2665645586032607909" datatype="html">
-        <source> Le 25 Gisèle Halimi, centre de ressources et d&apos;aide aux femmes, accueille
-          Estelle pour une série d&apos;ateliers avec un groupe de femmes et pour une représentation
-          de son solo gratuite et ouverte à toutes et tous. </source>
-        <target> 25 Gisèle Halimi, a women&apos;s resource and support center, welcomes Estelle for
-          a series of workshops with a group of women and a performance of her solo free and open to
-          all. </target>
-      </trans-unit>
-      <trans-unit id="4385555162236947087" datatype="html">
-        <source> Dimanche 12 janvier 2025 </source>
-        <target>Sunday, January 12, 2025</target>
-      </trans-unit>
-      <trans-unit id="2956025529837431984" datatype="html">
-        <source> Représentation des pièces <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;/i&gt;" /> et <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> à 16h au théâtre-studio Aux Échappées Belles à Lyon. </source>
-        <target>Performance of the pieces <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;/i&gt;" /> and <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> at 4pm at the theater-studio Aux Échappées Belles in Lyon.</target>
+          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> at 3pm at the
+          festival Onyx in Clermont-Ferrand</target>
       </trans-unit>
       <trans-unit id="6464561437936624830" datatype="html">
         <source>Billetterie</source>
         <target>Tickets</target>
-      </trans-unit>
-      <trans-unit id="1391205384369623112" datatype="html">
-        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Reporté à une date
-          ultérieure<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
-        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Postponed to a later
-          date<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
-      </trans-unit>
-      <trans-unit id="2595470831206793438" datatype="html">
-        <source> Après une résidence de création en décembre au studio Aux Échappées Belles à Lyon,
-          la compagnie vous donne rendez-vous prochainement pour une représentation composée de deux
-          pièces. Nous vous tiendrons au courant lorsque la date de report sera fixée !</source>
-        <target> After a creative residency in December at the Aux Échappées Belles studio in Lyon,
-          the company invites you to a double bill. We&apos;ll let you know when the postponement
-          date has been set!</target>
       </trans-unit>
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
@@ -856,13 +814,12 @@
           réaliser sous la forme d’une performance participative dans laquelle le public est invité
           à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est
           complétée par des installations qui sont partie intégrante de l’expérience. </source>
-        <target> Inspired by the ecofeminist movement and at the crossroads of visual
-          arts and dance, the research connects bodies to their environment through sand and glass.
-          The spaces created are designed to enable us to listen to our senses while building
-          reciprocal links with our surroundings. Research can take the form of a participatory
-          performance in which the audience is invited to observe, marvel, engage and move as a
-          group. The performance is complemented by installations that form an integral part of the
-          experience. </target>
+        <target> Inspired by the ecofeminist movement and at the crossroads of visual arts and
+          dance, the research connects bodies to their environment through sand and glass. The
+          spaces created are designed to enable us to listen to our senses while building reciprocal
+          links with our surroundings. Research can take the form of a participatory performance in
+          which the audience is invited to observe, marvel, engage and move as a group. The
+          performance is complemented by installations that form an integral part of the experience. </target>
       </trans-unit>
       <trans-unit id="3866116102179446148" datatype="html">
         <source>Tuning in to the senses </source>
@@ -876,23 +833,93 @@
           point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, Produit par <x
             id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Delta Pi<x
             id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </source>
-        <target>Research residency and presentation at the <x id="START_BOLD_TEXT"
-            ctype="x-b" equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> in Athens in October 2024,
-          as part of the research program <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" />, Produced by <x id="START_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;b&gt;" />Delta Pi<x id="CLOSE_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;/b&gt;" />. </target>
+        <target>Research residency and presentation at the <x id="START_BOLD_TEXT" ctype="x-b"
+            equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT"
+            ctype="x-b" equiv-text="&lt;/b&gt;" /> in Athens in October 2024, as part of the
+          research program <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Hylé: as a
+          point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, Produced by <x
+            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Delta Pi<x
+            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </target>
       </trans-unit>
       <trans-unit id="3722026859946333697" datatype="html">
         <source> Dans ce cadre, deux installations ont été créées. L&apos;objectif de
           l&apos;installation intérieure est d&apos;éveiller les sens. L&apos;espace extérieur, où
           se déroule également la performance, est conçu pour permettre une observation attentive et
           une connexion à l&apos;environnement. </source>
-        <target> In this context, two installations were created. The aim of the indoor
-          installation is to awaken the senses. The outdoor space, where the performance also takes
-          place, is designed to enable attentive observation and connection to the environment. </target>
+        <target> In this context, two installations were created. The aim of the indoor installation
+          is to awaken the senses. The outdoor space, where the performance also takes place, is
+          designed to enable attentive observation and connection to the environment. </target>
+      </trans-unit>
+      <trans-unit id="6377607381457626656" datatype="html">
+        <source>Entrée libre</source>
+        <target>Free entry</target>
+      </trans-unit>
+      <trans-unit id="7441012115097848780" datatype="html">
+        <source>Durée : environ 50min</source>
+        <target>Duration: around 50min</target>
+      </trans-unit>
+      <trans-unit id="5844427374505508943" datatype="html">
+        <source>65-73 Rue du Bourbonnais, 69009 Lyon </source>
+        <target>65-73 Rue du Bourbonnais, 69009 Lyon </target>
+      </trans-unit>
+      <trans-unit id="992020059217891619" datatype="html">
+        <source>Métro D : arrêt Valmy (10 min à pied) </source>
+        <target>Métro D : arrêt Valmy (10 min à pied) </target>
+      </trans-unit>
+      <trans-unit id="1163667333697970957" datatype="html">
+        <source>Bus 3, 19 et 36 : arrêt Apollinaire bourbonnais</source>
+        <target>Bus 3, 19 et 36 : arrêt Apollinaire bourbonnais</target>
+      </trans-unit>
+      <trans-unit id="5347476710950486410" datatype="html">
+        <source>Samedi 5 avril 2025</source>
+        <target>Saturday 5th April 2025</target>
+      </trans-unit>
+      <trans-unit id="5636841307724721934" datatype="html">
+        <source>Retour sur début 2025</source>
+        <target>Looking back to early 2025</target>
+      </trans-unit>
+      <trans-unit id="4473121866181687601" datatype="html">
+        <source> Représentation de la pièce <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" /> pour l&apos;événement Mapado au Théâtre de
+          l&apos;île Ô à Lyon. </source>
+        <target> Performance of the piece <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" /> for the Mapado event at the Théâtre de l&apos;île
+          Ô in Lyon. </target>
+      </trans-unit>
+      <trans-unit id="6839573184798829954" datatype="html">
+        <source> Workshop avec les danseuses en formation de La Cité Chorégraphique autour du
+          répertoire de la compagnie. </source>
+        <target> Workshop with dancers in training at La Cité Chorégraphique, based on the
+          company&apos;s repertoire. </target>
+      </trans-unit>
+      <trans-unit id="3809136398407560199" datatype="html">
+        <source>Dimanche 23 février 2025 à 16h</source>
+        <target>Sunday 23 February 2025 at 4pm</target>
+      </trans-unit>
+      <trans-unit id="799672995016620796" datatype="html">
+        <source> Théâtre-studio Aux Échappées Belles à Lyon </source>
+        <target> Theatre-studio Aux Échappées Belles in Lyon </target>
+      </trans-unit>
+      <trans-unit id="343765222459298933" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
+          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent
+          jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="6349408018021491170" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />&amp;<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />&amp;<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="7263303428385410230" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
       </trans-unit>
     </body>
   </file>
