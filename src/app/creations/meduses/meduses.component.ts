@@ -89,11 +89,6 @@ export class MedusesComponent implements OnInit {
   getArtistImagePath(artist: Artist){
     return this.imagePathBase + artist.imagePath;
   }
-
-  public openFile(): void{
-    const url = this.router.serializeUrl(this.router.createUrlTree(['/fr/assets/creations/meduses/Dossier_artistique_création_2024_Cie_EZO.pdf']));
-    window.open(url, '_blank');
-  }
 }
 
 export class Artist {

@@ -140,30 +140,6 @@
   text-decoration: underline;
 }
 
-.artistic-file-button {
-  border: solid 1px $dark-blue;
-  background-color: white;
-  max-width: 50%;
-  margin-bottom: 1rem;
-  margin-top: 3rem;
-  color: $dark-blue;
-  font-family: Avenir;
-  font-size: 1rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 0.5rem;
-  cursor: pointer;
-}
-
-.artistic-file-button:hover {
-  text-decoration: underline;
-}
-
-.artistic-file-icon {
-  height: 1.5rem;
-}
-
 @media only screen and (max-width: $small-screen-size) {
   .meduses-title {
     margin-top: 1rem;

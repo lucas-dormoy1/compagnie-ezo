@@ -235,14 +235,6 @@
         <target>Performance filmed as part of the Horizons &quot;Arts - Nature&quot; exhibition in
           Sancy 2022. </target>
       </trans-unit>
-      <trans-unit id="3645537723025949339" datatype="html">
-        <source><x id="TAG_IMG" ctype="image"
-            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
-          Consulter le dossier artistique </source>
-        <target><x id="TAG_IMG" ctype="image"
-            equiv-text="&lt;img src=&quot;assets/icons/new-tab.svg&quot; class=&quot;file-icon&quot; /&gt;" />
-          See the the artistic dossier </target>
-      </trans-unit>
       <trans-unit id="89592232284329941" datatype="html">
         <source>Solo chorégraphié et interprété par Estelle Bézombes</source>
         <target>Solo choreographed and performed by Estelle Bézombes</target>
@@ -619,10 +611,6 @@
         <source>Durée : 30 minutes</source>
         <target>Duration: 30 minutes</target>
       </trans-unit>
-      <trans-unit id="5040001901536572421" datatype="html">
-        <source>Création 2024-2025</source>
-        <target>2024-2025 Creation</target>
-      </trans-unit>
       <trans-unit id="3578679767106755952" datatype="html">
         <source>À partir d’un mouvement de balancier hypnotique qui se propage parmi les danseurs,
           des liens se font et se défont. Dans cet espace, qu&apos;ils ne quitteront plus pendant la
@@ -798,9 +786,9 @@
         <source>Projet de recherche et de performance entre arts visuels et mouvement. </source>
         <target>Research and performance project between visual arts and movement. </target>
       </trans-unit>
-      <trans-unit id="6260783277797236110" datatype="html">
-        <source>Projet de recherche et de performance entre arts visuels et mouvement.</source>
-        <target>Research and performance project between visual arts and movement.</target>
+      <trans-unit id="4547982760899808904" datatype="html">
+        <source>Projet de recherche et de performance entre arts visuels et mouvement</source>
+        <target>Research and performance project between visual arts and movement</target>
       </trans-unit>
       <trans-unit id="6142996092607995110" datatype="html">
         <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la
@@ -908,8 +896,20 @@
       <trans-unit id="5086015667495046336" datatype="html">
         <source> Dans le cadre du festival Signes de Printemps, la compagnie présente son nouveau
           duo en cours de création co-chorégraphié par Estelle Bézombes et Guillaume Lemoine. </source>
-        <target> As part of the Signes de Printemps festival, the company is presenting
-          its new work in progress duet, co-choreographed by Estelle Bézombes and Guillaume Lemoine. </target>
+        <target> As part of the Signes de Printemps festival, the company is presenting its new work
+          in progress duet, co-choreographed by Estelle Bézombes and Guillaume Lemoine. </target>
+      </trans-unit>
+      <trans-unit id="3847171788247871151" datatype="html">
+        <source>Costumes réalisés par Adèle Foltete</source>
+        <target>Costumes by Adèle Foltete</target>
+      </trans-unit>
+      <trans-unit id="6503295513874796795" datatype="html">
+        <source>Première : février 2025</source>
+        <target>Premiere : February 2025</target>
+      </trans-unit>
+      <trans-unit id="8062326535873075779" datatype="html">
+        <source>Festival ONYX à Clermont-Ferrand le 5 avril 2025.</source>
+        <target>ONYX Festival in Clermont-Ferrand on 5 April 2025.</target>
       </trans-unit>
     </body>
   </file>

@@ -170,16 +170,6 @@
 .file-button:hover {
   text-decoration: underline;
 }
-
-.file-wrapper {
-  display: flex;
-  width: 100%;
-}
-
-.file-wrapper.artistic {
-  flex-direction: row-reverse;
-}
-
 .file-icon {
   height: 1.5rem;
 }
@@ -259,12 +249,5 @@
   .container {
     margin: 0rem;
     padding: 2rem;
-  }
-
-  .file-wrapper {
-    display: flex;
-    width: 100%;
-    flex-direction: column !important;
-    align-items: center;
   }
 }
