@@ -7,45 +7,33 @@
   <div class="news-list">
     <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
-        <iframe
-          class="meduses-video"
-          src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+        <img
+          src="assets/creations/moon_souls/moon_souls_news.jpg"
+          alt="Photo du duo Moon Souls"
+          class="news-image"
+        />
         <div class="news-card-side">
-          <div class="news-title" i18n>Dimanche 23 février 2025 à 16h</div>
-          <div class="news-title" i18n>
-            Théâtre-studio Aux Échappées Belles à Lyon
-          </div>
+          <div class="news-title" i18n>Vendredi 28 mars 2025 à 16h et 20h</div>
           <div class="news-subtitle" i18n>
-            <i>Les méduses ne nagent jamais seules</i>
-          </div>
-          <div class="news-subtitle" i18n>
-            <i>&</i>
-          </div>
-          <div class="news-subtitle" i18n>
-            <i>Seven Tries</i>
+            Spectacles Sauvages au Regard du Cygne à Paris
           </div>
           <br />
-          <div class="news-text">
-            <span i18n>Entrée libre</span>
+          <br />
+          <br />
+          <div class="news-subtitle" i18n><i>Moon Souls</i></div>
+          <br />
+          <div class="news-text" i18n>
+            Dans le cadre du festival Signes de Printemps, la compagnie présente
+            son nouveau duo en cours de création co-chorégraphié par Estelle
+            Bézombes et Guillaume Lemoine.
           </div>
-          <div class="news-text">
-            <span i18n>Durée : environ 50min</span>
-          </div>
-          <div class="news-text">
-            <span i18n>65-73 Rue du Bourbonnais, 69009 Lyon </span>
-          </div>
-          <div class="news-text">
-            <span i18n>Métro D : arrêt Valmy (10 min à pied) </span>
-          </div>
-          <div class="news-text">
-            <span i18n>Bus 3, 19 et 36 : arrêt Apollinaire bourbonnais</span>
-          </div>
+          <br />
+          <app-mat-know-more
+            class="news-card-know-more"
+            [text]="ticketsButton"
+            externalLink="https://leregardducygne.mapado.com/en/event/481430-spectacles-sauvages-tout-public"
+            link="/seven-tries"
+          ></app-mat-know-more>
         </div>
       </mat-card-content>
     </mat-card>
@@ -76,6 +64,34 @@
     </mat-card>
     <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
+        <iframe
+          class="meduses-video"
+          src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        <div class="news-card-side">
+          <div class="news-title" i18n>Dimanche 23 février 2025 à 16h</div>
+          <div class="news-title" i18n>
+            Théâtre-studio Aux Échappées Belles à Lyon
+          </div>
+          <div class="news-subtitle" i18n>
+            <i>Les méduses ne nagent jamais seules</i>
+          </div>
+          <div class="news-subtitle" i18n>
+            <i>&</i>
+          </div>
+          <div class="news-subtitle" i18n>
+            <i>Seven Tries</i>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image reversed">
         <img
           src="assets/creations/meduses/mapado.jpg"
           alt="Photo prise pendant la représentation de Les méduses ne nagent jamais seules"
