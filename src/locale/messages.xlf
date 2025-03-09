@@ -392,6 +392,27 @@
       <trans-unit id="8062326535873075779" datatype="html">
         <source>Festival ONYX à Clermont-Ferrand le 5 avril 2025.</source>
       </trans-unit>
+      <trans-unit id="1139056190440771838" datatype="html">
+        <source>Duo chorégraphié et interprété par Estelle Bézombes et Guillaume Lemoine</source>
+      </trans-unit>
+      <trans-unit id="2012803177157171261" datatype="html">
+        <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes de Printemps 2025 au Regard du Cygne à Paris. Présentation du travail en cours en mars 2025. </source>
+      </trans-unit>
+      <trans-unit id="3808913299749620643" datatype="html">
+        <source>Projet de duo co-chorégraphié par Estelle Bézombes et Guillaume Lemoine.</source>
+      </trans-unit>
+      <trans-unit id="4274519782399887137" datatype="html">
+        <source>À propos du duo</source>
+      </trans-unit>
+      <trans-unit id="5258520371288627062" datatype="html">
+        <source>Moon Souls</source>
+      </trans-unit>
+      <trans-unit id="8531955326535742294" datatype="html">
+        <source>Création 2026</source>
+      </trans-unit>
+      <trans-unit id="924725213909370536" datatype="html">
+        <source> Le duo déconstruit les stéréotypes de genre dans la relation femme/homme, en explorant une collaboration sans hiérarchie. Inspiré par le mythe d’Aristophane dans Le Banquet de Platon, il propose une quête poétique où les corps se cherchent et se découvrent sans rôle prédéfini, dans un jeu ludique et décalé. Le format de la pièce, mêlant gestes quotidiens et musiques pop, vise à créer une proximité avec le public, tout en développant un imaginaire neuf. </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

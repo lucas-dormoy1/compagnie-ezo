@@ -182,9 +182,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
-          company DART. During the season she worked with the choreographers Fabio Liberti and the
-          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
+          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
+          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -910,6 +910,46 @@
       <trans-unit id="8062326535873075779" datatype="html">
         <source>Festival ONYX à Clermont-Ferrand le 5 avril 2025.</source>
         <target>ONYX Festival in Clermont-Ferrand on 5 April 2025.</target>
+      </trans-unit>
+      <trans-unit id="5258520371288627062" datatype="html">
+        <source>Moon Souls</source>
+        <target>Moon Souls</target>
+      </trans-unit>
+      <trans-unit id="8531955326535742294" datatype="html">
+        <source>Création 2026</source>
+        <target>2026 Creation</target>
+      </trans-unit>
+      <trans-unit id="3808913299749620643" datatype="html">
+        <source>Projet de duo co-chorégraphié par Estelle Bézombes et Guillaume Lemoine.</source>
+        <target>Duet choreographed by Estelle Bézombes and Guillaume Lemoine.</target>
+      </trans-unit>
+      <trans-unit id="1139056190440771838" datatype="html">
+        <source>Duo chorégraphié et interprété par Estelle Bézombes et Guillaume Lemoine</source>
+        <target>Duet choreographed by Estelle Bézombes and Guillaume Lemoine</target>
+      </trans-unit>
+      <trans-unit id="4274519782399887137" datatype="html">
+        <source>À propos du duo</source>
+        <target>About the piece</target>
+      </trans-unit>
+      <trans-unit id="924725213909370536" datatype="html">
+        <source> Le duo déconstruit les stéréotypes de genre dans la relation femme/homme, en
+          explorant une collaboration sans hiérarchie. Inspiré par le mythe d’Aristophane dans Le
+          Banquet de Platon, il propose une quête poétique où les corps se cherchent et se
+          découvrent sans rôle prédéfini, dans un jeu ludique et décalé. Le format de la pièce,
+          mêlant gestes quotidiens et musiques pop, vise à créer une proximité avec le public, tout
+          en développant un imaginaire neuf. </source>
+        <target> The duet deconstructs gender stereotypes in the woman/man relationship,
+          exploring collaboration without hierarchy. Inspired by the myth of Aristophanes in Plato's
+          The Banquet, the piece proposes a poetic quest in which bodies seek and discover each
+          other without predefined roles, in a playful, offbeat game. The format of the piece,
+          combining everyday gestures and pop music, aims to create a close relationship with the
+          audience, while developing a new imaginary world. </target>
+      </trans-unit>
+      <trans-unit id="2012803177157171261" datatype="html">
+        <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes de
+          Printemps 2025 au Regard du Cygne à Paris. Présentation du travail en cours en mars 2025. </source>
+        <target> Selection for Spectacles Sauvages as part of the Signes de Printemps
+          2025 festival at Regard du Cygne in Paris. Work in progress presentation in March 2025. </target>
       </trans-unit>
     </body>
   </file>
