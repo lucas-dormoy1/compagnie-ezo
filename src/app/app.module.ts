@@ -29,6 +29,7 @@ import { SevenTriesComponent } from './creations/seven-tries/seven-tries.compone
 import { MatKnowMoreComponent } from './shared/mat-know-more/mat-know-more.component';
 import { TuningInToTheSensesComponent } from './projects/tuning-in-to-the-senses/tuning-in-to-the-senses.component';
 import { MoonSoulsComponent } from './creations/moon-souls/moon-souls.component';
+import { WorkshopsComponent } from './workshops/workshops.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
@@ -41,6 +42,7 @@ const routes: Routes = [
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
   { path: 'tuning-in-to-the-senses', component: TuningInToTheSensesComponent},
   { path: 'moon-souls', component: MoonSoulsComponent},
+  { path: 'workshops', component: WorkshopsComponent},
   { path: 'contact', component: ContactComponent},
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
 

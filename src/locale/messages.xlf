@@ -398,9 +398,6 @@
       <trans-unit id="2012803177157171261" datatype="html">
         <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes de Printemps 2025 au Regard du Cygne à Paris. Présentation du travail en cours en mars 2025. </source>
       </trans-unit>
-      <trans-unit id="3808913299749620643" datatype="html">
-        <source>Projet de duo co-chorégraphié par Estelle Bézombes et Guillaume Lemoine.</source>
-      </trans-unit>
       <trans-unit id="4274519782399887137" datatype="html">
         <source>À propos du duo</source>
       </trans-unit>
@@ -412,6 +409,42 @@
       </trans-unit>
       <trans-unit id="924725213909370536" datatype="html">
         <source> Le duo déconstruit les stéréotypes de genre dans la relation femme/homme, en explorant une collaboration sans hiérarchie. Inspiré par le mythe d’Aristophane dans Le Banquet de Platon, il propose une quête poétique où les corps se cherchent et se découvrent sans rôle prédéfini, dans un jeu ludique et décalé. Le format de la pièce, mêlant gestes quotidiens et musiques pop, vise à créer une proximité avec le public, tout en développant un imaginaire neuf. </source>
+      </trans-unit>
+      <trans-unit id="1249759620298214867" datatype="html">
+        <source> Novembre 2023 : workshop pour le Jeune Ballet Chorégraphique Le Cycle Lyon (autour du processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
+      <trans-unit id="2010365742288343473" datatype="html">
+        <source> Janvier 2024 : stage tous niveaux au Centre Chorégraphique Le Cycle Lyon (autour du processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
+      <trans-unit id="2029740540538399394" datatype="html">
+        <source>Ateliers</source>
+      </trans-unit>
+      <trans-unit id="2543798392015629227" datatype="html">
+        <source> Mars 2024 : workshop avec les danseurs en formation de la Manufacture d’Aurillac (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
+      <trans-unit id="35366736677280921" datatype="html">
+        <source> Novembre 2024 : ateliers avec les élèves (CP-CE1-CE2) de l’école de Murol </source>
+      </trans-unit>
+      <trans-unit id="4077530321285932483" datatype="html">
+        <source> Novembre 2024 : ateliers avec des femmes du centre 25-Gisèle Halimi à Clermont-Ferrand </source>
+      </trans-unit>
+      <trans-unit id="464710963881237089" datatype="html">
+        <source> La compagnie EZO ancre ses créations dans des questionnements sur nos façons contemporaines de vivre notre humanité. Des interrogations sur ce qui fait groupe, sur notre rapport au temps, au vivant et aux institutions entre autres constituent le creuset de la recherche. Il apparaît essentiel de pouvoir partager avec des publics diversifiés à la fois ces problématiques et les façons spécifiques de les traduire à travers l’écriture chorégraphique de la compagnie. C’est donc dans la perspective d’un enrichissement réciproque que la compagnie saisit les opportunités de rencontre avec les publics, que ce soit par des actions de médiation, des ateliers, des bords de plateau ou tout autre forme. Ces temps s’appuient sur le partage et la transmission. Ils constituent des ouvertures aux processus de création de la compagnie, qui en retour accueille les impressions en miroir des spectateurs·rices et/ou pratiquant·e·s. Le travail artistique se développe ainsi en articulant des temps de recherche, et des moments d’ouverture, de transmission de la création en train de s’élaborer. </source>
+      </trans-unit>
+      <trans-unit id="6690323939134866172" datatype="html">
+        <source> Février 2025 : workshop avec les danseuses en formation de la Cité Chorégraphique (autour du processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
+      <trans-unit id="7288576076834840353" datatype="html">
+        <source>Ateliers réalisés</source>
+      </trans-unit>
+      <trans-unit id="7959900807656978460" datatype="html">
+        <source>La compagnie propose des ateliers de pratique autour de sa démarche artistique à des publics variés.</source>
+      </trans-unit>
+      <trans-unit id="8499916424246394132" datatype="html">
+        <source>Projet de duo chorégraphié et interprété par Estelle Bézombes et Guillaume Lemoine.</source>
+      </trans-unit>
+      <trans-unit id="8595924706276473993" datatype="html">
+        <source> Décembre 2024 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
       </trans-unit>
     </body>
   </file>

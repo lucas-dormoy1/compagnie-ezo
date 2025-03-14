@@ -182,9 +182,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
-          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
-          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
+          company DART. During the season she worked with the choreographers Fabio Liberti and the
+          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -919,10 +919,6 @@
         <source>Création 2026</source>
         <target>2026 Creation</target>
       </trans-unit>
-      <trans-unit id="3808913299749620643" datatype="html">
-        <source>Projet de duo co-chorégraphié par Estelle Bézombes et Guillaume Lemoine.</source>
-        <target>Duet choreographed by Estelle Bézombes and Guillaume Lemoine.</target>
-      </trans-unit>
       <trans-unit id="1139056190440771838" datatype="html">
         <source>Duo chorégraphié et interprété par Estelle Bézombes et Guillaume Lemoine</source>
         <target>Duet choreographed by Estelle Bézombes and Guillaume Lemoine</target>
@@ -938,18 +934,123 @@
           découvrent sans rôle prédéfini, dans un jeu ludique et décalé. Le format de la pièce,
           mêlant gestes quotidiens et musiques pop, vise à créer une proximité avec le public, tout
           en développant un imaginaire neuf. </source>
-        <target> The duet deconstructs gender stereotypes in the woman/man relationship,
-          exploring collaboration without hierarchy. Inspired by the myth of Aristophanes in Plato's
-          The Banquet, the piece proposes a poetic quest in which bodies seek and discover each
-          other without predefined roles, in a playful, offbeat game. The format of the piece,
-          combining everyday gestures and pop music, aims to create a close relationship with the
-          audience, while developing a new imaginary world. </target>
+        <target> The duet deconstructs gender stereotypes in the woman/man relationship, exploring
+          collaboration without hierarchy. Inspired by the myth of Aristophanes in Plato&apos;s The
+          Banquet, the piece proposes a poetic quest in which bodies seek and discover each other
+          without predefined roles, in a playful, offbeat game. The format of the piece, combining
+          everyday gestures and pop music, aims to create a close relationship with the audience,
+          while developing a new imaginary world. </target>
       </trans-unit>
       <trans-unit id="2012803177157171261" datatype="html">
         <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes de
           Printemps 2025 au Regard du Cygne à Paris. Présentation du travail en cours en mars 2025. </source>
-        <target> Selection for Spectacles Sauvages as part of the Signes de Printemps
-          2025 festival at Regard du Cygne in Paris. Work in progress presentation in March 2025. </target>
+        <target> Selection for Spectacles Sauvages as part of the Signes de Printemps 2025 festival
+          at Regard du Cygne in Paris. Work in progress presentation in March 2025. </target>
+      </trans-unit>
+      <trans-unit id="8499916424246394132" datatype="html">
+        <source>Projet de duo chorégraphié et interprété par Estelle Bézombes et Guillaume Lemoine.</source>
+        <target>Duet choreographed by Estelle Bézombes and Guillaume Lemoine.</target>
+      </trans-unit>
+      <trans-unit id="2029740540538399394" datatype="html">
+        <source>Ateliers</source>
+        <target>Workshops</target>
+      </trans-unit>
+      <trans-unit id="7959900807656978460" datatype="html">
+        <source>La compagnie propose des ateliers de pratique autour de sa démarche artistique à des
+          publics variés.</source>
+        <target>The company offers practical workshops on its artistic approach to a variety of
+          audiences.</target>
+      </trans-unit>
+      <trans-unit id="464710963881237089" datatype="html">
+        <source> La compagnie EZO ancre ses créations dans des questionnements sur nos façons
+          contemporaines de vivre notre humanité. Des interrogations sur ce qui fait groupe, sur
+          notre rapport au temps, au vivant et aux institutions entre autres constituent le creuset
+          de la recherche. Il apparaît essentiel de pouvoir partager avec des publics diversifiés à
+          la fois ces problématiques et les façons spécifiques de les traduire à travers l’écriture
+          chorégraphique de la compagnie. C’est donc dans la perspective d’un enrichissement
+          réciproque que la compagnie saisit les opportunités de rencontre avec les publics, que ce
+          soit par des actions de médiation, des ateliers, des bords de plateau ou tout autre forme.
+          Ces temps s’appuient sur le partage et la transmission. Ils constituent des ouvertures aux
+          processus de création de la compagnie, qui en retour accueille les impressions en miroir
+          des spectateurs·rices et/ou pratiquant·e·s. Le travail artistique se développe ainsi en
+          articulant des temps de recherche, et des moments d’ouverture, de transmission de la
+          création en train de s’élaborer. </source>
+        <target> The EZO company's creations are rooted in questions about the way we
+          live our humanity today. Questions about what makes a group, our relationship with time,
+          the living and institutions, among others, form the core of our research. It seems
+          essential to be able to share both these issues and the specific ways of translating them
+          through the company's choreographic approach with a wide range of audiences. With a view
+          to mutual enrichment, the company seizes every opportunity to meet with audiences, whether
+          through mediation, workshops, talks or any other form. These events are based on sharing
+          and transmission. They constitute openings into the company's creative process, which in
+          return welcomes the mirrored impressions of spectators and/or practitioners. In this way,
+          the artistic work develops by combining research with moments of sharing and transmission
+          of the creation in progress. </target>
+      </trans-unit>
+      <trans-unit id="7288576076834840353" datatype="html">
+        <source>Ateliers réalisés</source>
+        <target>Past workshops</target>
+      </trans-unit>
+      <trans-unit id="1249759620298214867" datatype="html">
+        <source> Novembre 2023 : workshop pour le Jeune Ballet Chorégraphique Le Cycle Lyon (autour
+          du processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
+        <target> November 2023: workshop for the Jeune Ballet Chorégraphique Le Cycle Lyon (around
+          the choreographic process of the solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="2010365742288343473" datatype="html">
+        <source> Janvier 2024 : stage tous niveaux au Centre Chorégraphique Le Cycle Lyon (autour du
+          processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
+        <target> January 2024: workshop for all levels at the Centre Chorégraphique Le Cycle in Lyon
+          (around the choreographic process of the solo <x id="START_ITALIC_TEXT"
+            ctype="x-i"
+            equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="2543798392015629227" datatype="html">
+        <source> Mars 2024 : workshop avec les danseurs en formation de la Manufacture d’Aurillac
+          (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
+        <target> March 2024: workshop with dancers in training at La Manufacture d'Aurillac (around
+          the choreographic process of the piece <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="4077530321285932483" datatype="html">
+        <source> Novembre 2024 : ateliers avec des femmes du centre 25-Gisèle Halimi à
+          Clermont-Ferrand </source>
+        <target> November 2024: workshops with women from the 25-Gisèle Halimi center in
+          Clermont-Ferrand </target>
+      </trans-unit>
+      <trans-unit id="35366736677280921" datatype="html">
+        <source> Novembre 2024 : ateliers avec les élèves (CP-CE1-CE2) de l’école de Murol </source>
+        <target> November 2024: workshops with pupils (CP-CE1-CE2) from Murol school </target>
+      </trans-unit>
+      <trans-unit id="8595924706276473993" datatype="html">
+        <source> Décembre 2024 : workshop avec les danseurs en formation de la compagnie Hallet
+          Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
+        <target> December 2024: workshop with dancers-in-training from the Hallet Eghayan company in
+          Lyon (around the choreographic process of the piece <x
+            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais
+          seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="6690323939134866172" datatype="html">
+        <source> Février 2025 : workshop avec les danseuses en formation de la Cité Chorégraphique
+          (autour du processus chorégraphique du solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />) </source>
+        <target> February 2025: workshop with dancers in training at Cité Chorégraphique (around the
+          choreographic process of the solo <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />) </target>
       </trans-unit>
     </body>
   </file>
