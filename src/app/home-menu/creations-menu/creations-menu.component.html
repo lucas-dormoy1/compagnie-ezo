@@ -6,17 +6,17 @@
 </div>
 <div class="menu" *ngIf="isOpen" [@creationsMenu]>
   <div class="menu-item">
+    <a routerLink="/moon-souls" class="menu-link" (click)="closeMenu()" i18n
+      >Moon Souls</a
+    >
+  </div>
+  <div class="menu-item">
     <a
       routerLink="/les-meduses-ne-nagent-jamais-seules"
       class="menu-link"
       (click)="closeMenu()"
       i18n
       >Les méduses ne nagent jamais seules</a
-    >
-  </div>
-  <div class="menu-item">
-    <a routerLink="/moon-souls" class="menu-link" (click)="closeMenu()" i18n
-      >Moon Souls</a
     >
   </div>
   <div class="menu-item">
