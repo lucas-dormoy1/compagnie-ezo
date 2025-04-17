@@ -446,6 +446,15 @@
       <trans-unit id="8595924706276473993" datatype="html">
         <source> Décembre 2024 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
       </trans-unit>
+      <trans-unit id="2566799099023715365" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> voyage jusqu&apos;à Sofia pour une représentation dans le cadre du Microdance festival </source>
+      </trans-unit>
+      <trans-unit id="3014067612543385651" datatype="html">
+        <source>Jeudi 17 avril 2025</source>
+      </trans-unit>
+      <trans-unit id="6710149680662799035" datatype="html">
+        <source> Microdance Festival à Sofia le 17 avril 2025 en Bulgarie. </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

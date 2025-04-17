@@ -975,17 +975,17 @@
           des spectateurs·rices et/ou pratiquant·e·s. Le travail artistique se développe ainsi en
           articulant des temps de recherche, et des moments d’ouverture, de transmission de la
           création en train de s’élaborer. </source>
-        <target> The EZO company's creations are rooted in questions about the way we
-          live our humanity today. Questions about what makes a group, our relationship with time,
-          the living and institutions, among others, form the core of our research. It seems
-          essential to be able to share both these issues and the specific ways of translating them
-          through the company's choreographic approach with a wide range of audiences. With a view
-          to mutual enrichment, the company seizes every opportunity to meet with audiences, whether
+        <target> The EZO company&apos;s creations are rooted in questions about the way we live our
+          humanity today. Questions about what makes a group, our relationship with time, the living
+          and institutions, among others, form the core of our research. It seems essential to be
+          able to share both these issues and the specific ways of translating them through the
+          company&apos;s choreographic approach with a wide range of audiences. With a view to
+          mutual enrichment, the company seizes every opportunity to meet with audiences, whether
           through mediation, workshops, talks or any other form. These events are based on sharing
-          and transmission. They constitute openings into the company's creative process, which in
-          return welcomes the mirrored impressions of spectators and/or practitioners. In this way,
-          the artistic work develops by combining research with moments of sharing and transmission
-          of the creation in progress. </target>
+          and transmission. They constitute openings into the company&apos;s creative process, which
+          in return welcomes the mirrored impressions of spectators and/or practitioners. In this
+          way, the artistic work develops by combining research with moments of sharing and
+          transmission of the creation in progress. </target>
       </trans-unit>
       <trans-unit id="7288576076834840353" datatype="html">
         <source>Ateliers réalisés</source>
@@ -1007,8 +1007,7 @@
             equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
         <target> January 2024: workshop for all levels at the Centre Chorégraphique Le Cycle in Lyon
-          (around the choreographic process of the solo <x id="START_ITALIC_TEXT"
-            ctype="x-i"
+          (around the choreographic process of the solo <x id="START_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;i&gt;" />L’horizon est fait de petits cailloux<x id="CLOSE_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
       </trans-unit>
@@ -1017,10 +1016,10 @@
           (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
-        <target> March 2024: workshop with dancers in training at La Manufacture d'Aurillac (around
-          the choreographic process of the piece <x id="START_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
-            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+        <target> March 2024: workshop with dancers in training at La Manufacture d&apos;Aurillac
+          (around the choreographic process of the piece <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
       </trans-unit>
       <trans-unit id="4077530321285932483" datatype="html">
         <source> Novembre 2024 : ateliers avec des femmes du centre 25-Gisèle Halimi à
@@ -1038,9 +1037,9 @@
             ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
             id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
         <target> December 2024: workshop with dancers-in-training from the Hallet Eghayan company in
-          Lyon (around the choreographic process of the piece <x
-            id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais
-          seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+          Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
       </trans-unit>
       <trans-unit id="6690323939134866172" datatype="html">
         <source> Février 2025 : workshop avec les danseuses en formation de la Cité Chorégraphique
@@ -1048,9 +1047,25 @@
             equiv-text="&lt;i&gt;" />Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;/i&gt;" />) </source>
         <target> February 2025: workshop with dancers in training at Cité Chorégraphique (around the
-          choreographic process of the solo <x id="START_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;i&gt;" />Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+          choreographic process of the solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Seven tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
             equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="6710149680662799035" datatype="html">
+        <source> Microdance Festival à Sofia le 17 avril 2025 en Bulgarie. </source>
+        <target> Microdance Festival in Sofia on April 17 2025 in Bulgaria. </target>
+      </trans-unit>
+      <trans-unit id="3014067612543385651" datatype="html">
+        <source>Jeudi 17 avril 2025</source>
+        <target state="new">Thursdays 17 April 2025</target>
+      </trans-unit>
+      <trans-unit id="2566799099023715365" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven Tries<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> voyage jusqu&apos;à Sofia
+          pour une représentation dans le cadre du Microdance festival </source>
+        <target state="new"><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
+          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> travels to Sofia for
+          a performance as part of the Microdance festival </target>
       </trans-unit>
     </body>
   </file>
