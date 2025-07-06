@@ -437,6 +437,12 @@
       <trans-unit id="8118527410692285628" datatype="html">
         <source>En mars 2025</source>
       </trans-unit>
+      <trans-unit id="3763387770989377441" datatype="html">
+        <source>Festival BUCLES à Valencia le 5 octobre 2025 en Espagne.</source>
+      </trans-unit>
+      <trans-unit id="5131719454402293646" datatype="html">
+        <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -182,9 +182,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
-          company DART. During the season she worked with the choreographers Fabio Liberti and the
-          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
+          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
+          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -990,9 +990,9 @@
           nocturnes. Deux performances de 20 minutes seront proposées par la compagnie à travers les
           différentes salles du musée pour faire dialoguer les expositions avec la danse dans un
           clair-obscur vivant. </source>
-        <target> Murol's Musée des Peintres opens its doors for nocturnal visits. Two
-          20-minute performances will be staged by the company in the museum's various rooms,
-          creating a lively chiaroscuro dialogue between exhibitions and dance. </target>
+        <target> Murol&apos;s Musée des Peintres opens its doors for nocturnal visits. Two 20-minute
+          performances will be staged by the company in the museum&apos;s various rooms, creating a
+          lively chiaroscuro dialogue between exhibitions and dance. </target>
       </trans-unit>
       <trans-unit id="3184192338575604472" datatype="html">
         <source>Retour sur les dernières représentations</source>
@@ -1026,8 +1026,23 @@
       <trans-unit id="7140240896850252105" datatype="html">
         <source> Performance jeune public au théâtre l&apos;île ô à Lyon pour les brunchs
           artistiques. </source>
-        <target> Performance for young audiences at the l&apos;île ô theater in Lyon for
-          the artistic brunches. </target>
+        <target> Performance for young audiences at the l&apos;île ô theater in Lyon for the
+          artistic brunches. </target>
+      </trans-unit>
+      <trans-unit id="3763387770989377441" datatype="html">
+        <source>Festival BUCLES à Valencia le 5 octobre 2025 en Espagne.</source>
+        <target>BUCLES Festival in Valencia, Spain, October 5, 2025.</target>
+      </trans-unit>
+      <trans-unit id="5131719454402293646" datatype="html">
+        <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan
+          à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
+        <target state="new"> Juin 2025 : workshop with dancers-in-training from the Hallet Eghayan
+          company in Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT"
+            ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
       </trans-unit>
     </body>
   </file>
