@@ -7,35 +7,6 @@
   <div class="news-list">
     <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
-        <img
-          src="assets/performances/nuits_des_musees.jpg"
-          alt="Photo d'Estelle et du décor de Seven Tries en noir et blanc"
-          class="news-image"
-        />
-        <div class="news-card-side">
-          <div class="news-title" i18n>Samedi 17 mai 2025 à 20h15 et 21h15</div>
-          <div class="news-subtitle" i18n>
-            La nuit européenne des musées au MEM de Murol
-          </div>
-          <br />
-          <div class="news-text" i18n>
-            Le Musée des Peintres de L'Ecole de Murol ouvre ses portes pour des
-            visites nocturnes. Deux performances de 20 minutes seront proposées
-            par la compagnie à travers les différentes salles du musée pour
-            faire dialoguer les expositions avec la danse dans un clair-obscur
-            vivant.
-          </div>
-          <br />
-          <app-mat-know-more
-            class="news-card-know-more"
-            externalLink="https://www.musee-murol.fr/fr"
-          ></app-mat-know-more>
-        </div>
-      </mat-card-content>
-    </mat-card>
-    <div class="last-shows" i18n>Retour sur les dernières représentations</div>
-    <mat-card class="news-card">
-      <mat-card-content class="news-card-content-with-image">
         <iframe
           class="meduses-video"
           src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
@@ -46,28 +17,34 @@
           allowfullscreen
         ></iframe>
         <div class="news-card-side">
-          <div class="news-title" i18n>En avril 2025</div>
+          <div class="news-title" i18n>5 octobre 2025 - Valence, Espagne</div>
           <div class="news-subtitle" i18n>
-            Microdance Festival à Sofia en Bulgarie
+            Présentation du solo <i>Seven Tries</i> pour le concours
+            chorégraphique Bucles & Carme'n'Dansa au sein du festival Bucles.
           </div>
-          <br />
-          <div class="news-subtitle" i18n>Festival ONYX à Clermont-Ferrand</div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            externalLink="https://festivalbucles.com/agenda/certamen-coreografico-bucles-sala-carme/"
+          ></app-mat-know-more>
         </div>
       </mat-card-content>
     </mat-card>
     <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
         <img
-          src="assets/creations/moon_souls/representation.jpg"
+          src="assets/creations/moon_souls/moon_souls_news.jpg"
           alt="Photo du duo Moon Souls"
-          class="news-image landscape"
+          class="news-image"
         />
         <div class="news-card-side">
-          <div class="news-title" i18n>En mars 2025</div>
+          <div class="news-title" i18n>Octobre 2025 - Lyon</div>
           <div class="news-subtitle" i18n>
-            Présentation du duo <i>Moon Souls</i> au Regard du Cygne à Paris
-            lors des Spectacles Sauvages - festival Signes de Printemps
+            Résidence de création du duo <i>Moon Souls</i>.
           </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/moon-souls"
+          ></app-mat-know-more>
         </div>
       </mat-card-content>
     </mat-card>
@@ -79,10 +56,47 @@
           class="news-image"
         />
         <div class="news-card-side">
+          <div class="news-title" i18n>Cet automne</div>
           <div class="news-subtitle" i18n>
             Performance jeune public au théâtre l'île ô à Lyon pour les brunchs
             artistiques.
           </div>
+          <br />
+          <div class="news-subtitle" i18n>
+            Dates à venir
+            <ul>
+              <li>12 octobre 2025</li>
+              <li>2 novembre 2025</li>
+              <li>14 décembre 2025</li>
+            </ul>
+          </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            externalLink="https://www.scenes-otrement.com/spectacle/brunch-artistique/"
+          ></app-mat-know-more>
+        </div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <iframe
+          class="meduses-video"
+          src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        <div class="news-card-side">
+          <div class="news-title" i18n>
+            Redécouvrez le teaser de la pièce
+            <i>Les Méduses ne nagent jamais seules</i>
+          </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/les-meduses-ne-nagent-jamais-seules"
+          ></app-mat-know-more>
         </div>
       </mat-card-content>
     </mat-card>

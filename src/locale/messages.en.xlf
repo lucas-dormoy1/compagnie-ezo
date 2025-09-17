@@ -182,9 +182,9 @@
             equiv-text="&lt;span class=&quot;italic&quot;&gt;" />WHOAMI<x id="CLOSE_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;/span&gt;" /> chorégraphiée par Giada Grieco et présentée
           sur plusieurs scènes à Berlin. </source>
-        <target> In 2021 she joined the professional program DART DSP in Berlin with the company
-          DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor
-          Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
+        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the
+          company DART. During the season she worked with the choreographers Fabio Liberti and the
+          duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN"
             ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />Solo(s) for real<x
             id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> and <x
             id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;" />
@@ -801,22 +801,6 @@
         <source>Tuning in to the senses </source>
         <target>Tuning in to the senses </target>
       </trans-unit>
-      <trans-unit id="2171446162176713371" datatype="html">
-        <source> Résidence de recherche et présentation au <x id="START_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT"
-            ctype="x-b" equiv-text="&lt;/b&gt;" /> à Athènes en octobre 2024, au sein du programme
-          de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Hylé: as a
-          point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, Produit par <x
-            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Delta Pi<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </source>
-        <target>Research residency and presentation at the <x id="START_BOLD_TEXT" ctype="x-b"
-            equiv-text="&lt;b&gt;" />Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT"
-            ctype="x-b" equiv-text="&lt;/b&gt;" /> in Athens in October 2024, as part of the
-          research program <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Hylé: as a
-          point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />, Produced by <x
-            id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Delta Pi<x
-            id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. </target>
-      </trans-unit>
       <trans-unit id="4929573224792366787" datatype="html">
         <source>Aux Échappées Belles à Lyon le 23 février 2025.</source>
         <target>Aux Échappées Belles in February 2025, in Lyon.</target>
@@ -977,52 +961,6 @@
         <source> Microdance Festival à Sofia le 17 avril 2025 en Bulgarie. </source>
         <target> Microdance Festival in Sofia on April 17 2025 in Bulgaria. </target>
       </trans-unit>
-      <trans-unit id="6866191881974241360" datatype="html">
-        <source>Samedi 17 mai 2025 à 20h15 et 21h15</source>
-        <target>Saturday, May 17, 2025 at 8:15pm and 9:15pm</target>
-      </trans-unit>
-      <trans-unit id="5520917470868724970" datatype="html">
-        <source> La nuit européenne des musées au MEM de Murol </source>
-        <target> European Museum Night in Murol </target>
-      </trans-unit>
-      <trans-unit id="7472250815986921158" datatype="html">
-        <source> Le Musée des Peintres de L&apos;Ecole de Murol ouvre ses portes pour des visites
-          nocturnes. Deux performances de 20 minutes seront proposées par la compagnie à travers les
-          différentes salles du musée pour faire dialoguer les expositions avec la danse dans un
-          clair-obscur vivant. </source>
-        <target> Murol&apos;s Musée des Peintres opens its doors for nocturnal visits. Two 20-minute
-          performances will be staged by the company in the museum&apos;s various rooms, creating a
-          lively chiaroscuro dialogue between exhibitions and dance. </target>
-      </trans-unit>
-      <trans-unit id="3184192338575604472" datatype="html">
-        <source>Retour sur les dernières représentations</source>
-        <target>A look back at the latest performances</target>
-      </trans-unit>
-      <trans-unit id="5624275214197946453" datatype="html">
-        <source>En avril 2025</source>
-        <target>April 2025</target>
-      </trans-unit>
-      <trans-unit id="6934127724521240854" datatype="html">
-        <source> Microdance Festival à Sofia en Bulgarie </source>
-        <target> Microdance Festival in Sofia, Bulgaria </target>
-      </trans-unit>
-      <trans-unit id="3897721580214892459" datatype="html">
-        <source>Festival ONYX à Clermont-Ferrand</source>
-        <target>ONYX Festival in Clermont-Ferrand</target>
-      </trans-unit>
-      <trans-unit id="8118527410692285628" datatype="html">
-        <source>En mars 2025</source>
-        <target>March 2025</target>
-      </trans-unit>
-      <trans-unit id="1966796598646644164" datatype="html">
-        <source> Présentation du duo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Moon
-          Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> au Regard du Cygne à
-          Paris lors des Spectacles Sauvages - festival Signes de Printemps </source>
-        <target> Presentation of the duo <x id="START_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;i&gt;" />Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
-            equiv-text="&lt;/i&gt;" /> at the Regard du Cygne in Paris during Spectacles Sauvages -
-          festival Signes de Printemps </target>
-      </trans-unit>
       <trans-unit id="7140240896850252105" datatype="html">
         <source> Performance jeune public au théâtre l&apos;île ô à Lyon pour les brunchs
           artistiques. </source>
@@ -1038,11 +976,84 @@
           à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT"
             ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
             id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </source>
-        <target state="new"> Juin 2025 : workshop with dancers-in-training from the Hallet Eghayan
-          company in Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT"
-            ctype="x-i"
-            equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
-            ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+        <target> Juin 2025 : workshop with dancers-in-training from the Hallet Eghayan company in
+          Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;i&gt;" />Les méduses ne nagent jamais seules<x
+            id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />) </target>
+      </trans-unit>
+      <trans-unit id="4834322126736651784" datatype="html">
+        <source>5 octobre 2025 - Valence, Espagne</source>
+        <target>October 5th, 2025 - Valencia, Spain</target>
+      </trans-unit>
+      <trans-unit id="6429364275643724831" datatype="html">
+        <source> Présentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Seven
+          Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /> pour le concours
+          chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles. </source>
+        <target> Presentation of the solo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /> for the Bucles &amp; Carme&apos;n&apos;Dansa choreographic
+          competition at the Bucles festival. </target>
+      </trans-unit>
+      <trans-unit id="941260513676450936" datatype="html">
+        <source>Octobre 2025 - Lyon</source>
+        <target>October 2025 - Lyon</target>
+      </trans-unit>
+      <trans-unit id="7593999505880140505" datatype="html">
+        <source> Résidence de création du duo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />. </source>
+        <target> Creative residency for the duo <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" />. </target>
+      </trans-unit>
+      <trans-unit id="5484857481129245225" datatype="html">
+        <source>Cet automne</source>
+        <target state="new">This fall</target>
+      </trans-unit>
+      <trans-unit id="7232255548054505125" datatype="html">
+        <source> Dates à venir <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;" /><x
+            id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;" />12 octobre 2025<x
+            id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;" /><x id="START_LIST_ITEM"
+            ctype="x-li" equiv-text="&lt;li&gt;" />2 novembre 2025<x id="CLOSE_LIST_ITEM"
+            ctype="x-li" equiv-text="&lt;/li&gt;" /><x id="START_LIST_ITEM" ctype="x-li"
+            equiv-text="&lt;li&gt;" />14 décembre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li"
+            equiv-text="&lt;/li&gt;" /><x id="CLOSE_UNORDERED_LIST" ctype="x-ul"
+            equiv-text="&lt;/ul&gt;" /></source>
+        <target> Upcoming dates <x id="START_UNORDERED_LIST" ctype="x-ul"
+            equiv-text="&lt;ul&gt;" /><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;" />October
+          12, 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;" /><x
+            id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;" />November 2, 2025<x
+            id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;" /><x id="START_LIST_ITEM"
+            ctype="x-li" equiv-text="&lt;li&gt;" />December 14 2025<x id="CLOSE_LIST_ITEM"
+            ctype="x-li" equiv-text="&lt;/li&gt;" /><x id="CLOSE_UNORDERED_LIST" ctype="x-ul"
+            equiv-text="&lt;/ul&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="3355178782789754995" datatype="html">
+        <source> Redécouvrez le teaser de la pièce <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les Méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target> Rediscover the teaser for the piece <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Les Méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT"
+            ctype="x-i" equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="3292388198655477049" datatype="html">
+        <source>Isadora and Raymond Duncan Dance Research Center </source>
+        <target state="new">Isadora and Raymond Duncan Dance Research Center </target>
+      </trans-unit>
+      <trans-unit id="5916170696226513935" datatype="html">
+        <source>Athènes - Octobre 2024</source>
+        <target>Athens - October 2024</target>
+      </trans-unit>
+      <trans-unit id="7935460889196326208" datatype="html">
+        <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />Hylé:
+          as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target>Research program <x id="START_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;i&gt;" />Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i"
+            equiv-text="&lt;/i&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="3639129094803211295" datatype="html">
+        <source>Produit par Delta Pi</source>
+        <target>Produced by Delta Pi</target>
       </trans-unit>
     </body>
   </file>

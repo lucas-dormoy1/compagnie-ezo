@@ -45,6 +45,13 @@
   width: 80%;
 }
 
+.subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+}
+
 .photo {
   height: 40rem;
   margin-left: 3rem;
@@ -85,6 +92,15 @@
   .tuning-in-to-the-senses-description {
     margin: 0rem 1rem 0rem 1rem;
     text-align: center;
+  }
+
+  .subtitle {
+    margin: 0rem 1rem 2rem 1rem;
+    text-align: center;
+
+    span:first-child {
+      margin-bottom: 1rem;
+    }
   }
 
   .main-picture {

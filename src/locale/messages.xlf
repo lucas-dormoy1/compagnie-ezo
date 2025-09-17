@@ -332,9 +332,6 @@
       <trans-unit id="6977255025292513328" datatype="html">
         <source>Tuning in to the senses</source>
       </trans-unit>
-      <trans-unit id="2171446162176713371" datatype="html">
-        <source> Résidence de recherche et présentation au <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Isadora and Raymond Duncan Dance Center<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> à Athènes en octobre 2024, au sein du programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>, Produit par <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Delta Pi<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>. </source>
-      </trans-unit>
       <trans-unit id="3866116102179446148" datatype="html">
         <source>Tuning in to the senses </source>
       </trans-unit>
@@ -407,41 +404,47 @@
       <trans-unit id="6710149680662799035" datatype="html">
         <source> Microdance Festival à Sofia le 17 avril 2025 en Bulgarie. </source>
       </trans-unit>
-      <trans-unit id="1966796598646644164" datatype="html">
-        <source> Présentation du duo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> au Regard du Cygne à Paris lors des Spectacles Sauvages - festival Signes de Printemps </source>
-      </trans-unit>
-      <trans-unit id="3184192338575604472" datatype="html">
-        <source>Retour sur les dernières représentations</source>
-      </trans-unit>
-      <trans-unit id="3897721580214892459" datatype="html">
-        <source>Festival ONYX à Clermont-Ferrand</source>
-      </trans-unit>
-      <trans-unit id="5520917470868724970" datatype="html">
-        <source> La nuit européenne des musées au MEM de Murol </source>
-      </trans-unit>
-      <trans-unit id="5624275214197946453" datatype="html">
-        <source>En avril 2025</source>
-      </trans-unit>
-      <trans-unit id="6866191881974241360" datatype="html">
-        <source>Samedi 17 mai 2025 à 20h15 et 21h15</source>
-      </trans-unit>
-      <trans-unit id="6934127724521240854" datatype="html">
-        <source> Microdance Festival à Sofia en Bulgarie </source>
-      </trans-unit>
       <trans-unit id="7140240896850252105" datatype="html">
         <source> Performance jeune public au théâtre l&apos;île ô à Lyon pour les brunchs artistiques. </source>
-      </trans-unit>
-      <trans-unit id="7472250815986921158" datatype="html">
-        <source> Le Musée des Peintres de L&apos;Ecole de Murol ouvre ses portes pour des visites nocturnes. Deux performances de 20 minutes seront proposées par la compagnie à travers les différentes salles du musée pour faire dialoguer les expositions avec la danse dans un clair-obscur vivant. </source>
-      </trans-unit>
-      <trans-unit id="8118527410692285628" datatype="html">
-        <source>En mars 2025</source>
       </trans-unit>
       <trans-unit id="3763387770989377441" datatype="html">
         <source>Festival BUCLES à Valencia le 5 octobre 2025 en Espagne.</source>
       </trans-unit>
       <trans-unit id="5131719454402293646" datatype="html">
         <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+      </trans-unit>
+      <trans-unit id="3292388198655477049" datatype="html">
+        <source>Isadora and Raymond Duncan Dance Research Center </source>
+      </trans-unit>
+      <trans-unit id="3355178782789754995" datatype="html">
+        <source> Redécouvrez le teaser de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les Méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="3639129094803211295" datatype="html">
+        <source>Produit par Delta Pi</source>
+      </trans-unit>
+      <trans-unit id="4834322126736651784" datatype="html">
+        <source>5 octobre 2025 - Valence, Espagne</source>
+      </trans-unit>
+      <trans-unit id="5484857481129245225" datatype="html">
+        <source>Cet automne</source>
+      </trans-unit>
+      <trans-unit id="5916170696226513935" datatype="html">
+        <source>Athènes - Octobre 2024</source>
+      </trans-unit>
+      <trans-unit id="6429364275643724831" datatype="html">
+        <source> Présentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> pour le concours chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles. </source>
+      </trans-unit>
+      <trans-unit id="7232255548054505125" datatype="html">
+        <source> Dates à venir <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>12 octobre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>2 novembre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>14 décembre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="7593999505880140505" datatype="html">
+        <source> Résidence de création du duo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. </source>
+      </trans-unit>
+      <trans-unit id="7935460889196326208" datatype="html">
+        <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="941260513676450936" datatype="html">
+        <source>Octobre 2025 - Lyon</source>
       </trans-unit>
     </body>
   </file>
