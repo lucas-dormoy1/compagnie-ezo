@@ -281,14 +281,8 @@
       <trans-unit id="4761883864120523996" datatype="html">
         <source>25 Gisèle Halimi le 30 novembre 2024 à Clermont-Ferrand.</source>
       </trans-unit>
-      <trans-unit id="5603878030740730513" datatype="html">
-        <source>À venir</source>
-      </trans-unit>
       <trans-unit id="6490634336008138460" datatype="html">
         <source>Dialogue avec l&apos;oeuvre Pluie de Montchal </source>
-      </trans-unit>
-      <trans-unit id="6464561437936624830" datatype="html">
-        <source>Billetterie</source>
       </trans-unit>
       <trans-unit id="1087454817064399710" datatype="html">
         <source> Ma démarche artistique et d’écriture chorégraphique s’appuie sur le ressenti de l’expérience des interprètes par rapport à des thématiques qui touchent à notre humanité en tant qu’êtres intégrés au vivant. Ma recherche va puiser dans les sciences humaines et sociales et s’inspire des productions du mouvement écoféministe. Les processus de création se veulent comme un dialogue entre l’intériorité de ce qui est vécu et ce qu’on peut en donner à voir et ressentir par le corps, le mouvement, l’univers visuel et sonore. Le travail se construit comme un voyage chorégraphique sensible et physique. La composition est marquée par l’utilisation de ruptures et par l’apparition de situations inattendues, laissant une empreinte marquante chez les spectatrices et spectateurs tout en leur laissant la pluralité des interprétations. Les créations sont le partage de ce cheminement intime, subtil et fragile, dans un double mouvement vers soi, et vers l’autre. </source>
@@ -404,47 +398,59 @@
       <trans-unit id="6710149680662799035" datatype="html">
         <source> Microdance Festival à Sofia le 17 avril 2025 en Bulgarie. </source>
       </trans-unit>
-      <trans-unit id="7140240896850252105" datatype="html">
-        <source> Performance jeune public au théâtre l&apos;île ô à Lyon pour les brunchs artistiques. </source>
-      </trans-unit>
-      <trans-unit id="3763387770989377441" datatype="html">
-        <source>Festival BUCLES à Valencia le 5 octobre 2025 en Espagne.</source>
-      </trans-unit>
       <trans-unit id="5131719454402293646" datatype="html">
         <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
       </trans-unit>
       <trans-unit id="3292388198655477049" datatype="html">
         <source>Isadora and Raymond Duncan Dance Research Center </source>
       </trans-unit>
-      <trans-unit id="3355178782789754995" datatype="html">
-        <source> Redécouvrez le teaser de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les Méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
-      </trans-unit>
       <trans-unit id="3639129094803211295" datatype="html">
         <source>Produit par Delta Pi</source>
-      </trans-unit>
-      <trans-unit id="4834322126736651784" datatype="html">
-        <source>5 octobre 2025 - Valence, Espagne</source>
-      </trans-unit>
-      <trans-unit id="5484857481129245225" datatype="html">
-        <source>Cet automne</source>
       </trans-unit>
       <trans-unit id="5916170696226513935" datatype="html">
         <source>Athènes - Octobre 2024</source>
       </trans-unit>
-      <trans-unit id="6429364275643724831" datatype="html">
-        <source> Présentation du solo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Seven Tries<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> pour le concours chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles. </source>
-      </trans-unit>
-      <trans-unit id="7232255548054505125" datatype="html">
-        <source> Dates à venir <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>12 octobre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>2 novembre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>14 décembre 2025<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
-      </trans-unit>
-      <trans-unit id="7593999505880140505" datatype="html">
-        <source> Résidence de création du duo <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. </source>
-      </trans-unit>
       <trans-unit id="7935460889196326208" datatype="html">
         <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
       </trans-unit>
-      <trans-unit id="941260513676450936" datatype="html">
-        <source>Octobre 2025 - Lyon</source>
+      <trans-unit id="4530311405844006572" datatype="html">
+        <source>Octobre 2025 CN D Lyon</source>
+      </trans-unit>
+      <trans-unit id="2021381561853487870" datatype="html">
+        <source> Concours chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles à Valencia le 5 octobre 2025 en Espagne. </source>
+      </trans-unit>
+      <trans-unit id="1052019164906322392" datatype="html">
+        <source>Janvier 2025 CN D Lyon</source>
+      </trans-unit>
+      <trans-unit id="1887611540708076102" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="3032167385224756685" datatype="html">
+        <source> Redécouvrez le teaser des pièces de la compagnie </source>
+      </trans-unit>
+      <trans-unit id="3922759788865405861" datatype="html">
+        <source> Résidences du duo en cours de création : </source>
+      </trans-unit>
+      <trans-unit id="5187009882101538598" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="5413259969655671590" datatype="html">
+        <source>Informations SEED &amp; ateliers</source>
+      </trans-unit>
+      <trans-unit id="5956397277468167513" datatype="html">
+        <source>Décembre 2025 Pôle Pik Lyon</source>
+      </trans-unit>
+      <trans-unit id="8094317410084466064" datatype="html">
+        <source> Programme SEED - Social and Ecological Engagement through Dance </source>
+      </trans-unit>
+      <trans-unit id="2003144701152164376" datatype="html">
+        <source> Pour la phase de laboratoire du programme SEED, Estelle propose une série d&apos;ateliers qui invitent à reconfigurer l&apos;espace scénique en un lieu partagé, adaptable, où chacun peut trouver sa place. La proposition mobilise différents canaux sensoriels - du toucher au mouvement, de la matière au geste, de l’écoute à l&apos;image - afin d&apos;ouvrir des chemins multiples pour entrer dans la pratique et la rendre accessible à des participants aux sensibilités variées. L&apos;objectif est de réfléchir ensemble à des manières de créer du lien entre humains et non-humains, dans un espace d’expérience commun, sensible et inclusif afin de repenser les relations entre êtres vivants dans des formes non hiérarchiques, sans dominations. </source>
+      </trans-unit>
+      <trans-unit id="5777418597838789616" datatype="html">
+        <source> Estelle fait partie des artistes sélectionnées pour le programme Européen SEED entre L&apos;Éveilleur SCOP à Avignon et Liminal access à Athènes pour 2025-2026. Ce projet vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Le programme se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et par la suite avec des laboratoires d&apos;exploration entre janvier et mars 2026 à Avignon. </source>
+      </trans-unit>
+      <trans-unit id="6070101243069748088" datatype="html">
+        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet Tuning in to the senses. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
       </trans-unit>
     </body>
   </file>

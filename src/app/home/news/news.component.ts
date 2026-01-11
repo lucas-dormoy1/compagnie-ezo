@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./news.component.scss']
 })
 export class NewsComponent {
-  public ticketsButton: string = $localize`Billetterie`;
+  public seedButton: string = $localize`Informations SEED & ateliers`;
 }

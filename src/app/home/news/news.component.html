@@ -6,6 +6,97 @@
   </div>
   <div class="news-list">
     <mat-card class="news-card">
+      <mat-card-content class="newsletter">
+        <div class="news-title" i18n>
+          Programme SEED - Social and Ecological Engagement through Dance
+        </div>
+        <div class="news-subtitle" i18n><i>Tuning in to the senses</i></div>
+        <img
+          src="assets/home/newsletter-1.jpg"
+          alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
+          class="news-image landscape"
+        />
+        <p i18n>
+          Estelle fait partie des artistes sélectionnées pour le programme
+          Européen SEED entre L'Éveilleur SCOP à Avignon et Liminal access à
+          Athènes pour 2025-2026. Ce projet vise à établir une nouvelle approche
+          en matière de durabilité écologique, d'accessibilité et d'inclusion
+          dans la danse. Le programme se déploie sur plusieurs phases, avec deux
+          résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025
+          à Avignon et Athènes et par la suite avec des laboratoires
+          d'exploration entre janvier et mars 2026 à Avignon.
+        </p>
+        <img
+          src="assets/home/newsletter-2.jpg"
+          alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
+          class="news-image landscape"
+        />
+        <p i18n>
+          Après une résidence de recherche d'un mois à Athènes en octobre 2024
+          au sein du centre de recherche Duncan, Estelle prolonge avec le
+          programme SEED son exploration autour du lien entre corps et
+          environnement, à travers son projet Tuning in to the senses. Ce projet
+          s’ancre dans la matière, le vivant et la communauté et s'appuie sur
+          les pensées et pratiques du mouvement écoféministe pour développer une
+          approche située à la croisée du mouvement dansé et des arts
+          plastiques.
+        </p>
+        <app-mat-know-more
+          class="news-card-know-more"
+          link="/tuning-in-to-the-senses"
+        ></app-mat-know-more>
+        <img
+          src="assets/home/newsletter-3.jpg"
+          alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
+          class="news-image landscape"
+        />
+        <p i18n>
+          Pour la phase de laboratoire du programme SEED, Estelle propose une
+          série d'ateliers qui invitent à reconfigurer l'espace scénique en un
+          lieu partagé, adaptable, où chacun peut trouver sa place. La
+          proposition mobilise différents canaux sensoriels - du toucher au
+          mouvement, de la matière au geste, de l’écoute à l'image - afin
+          d'ouvrir des chemins multiples pour entrer dans la pratique et la
+          rendre accessible à des participants aux sensibilités variées.
+          L'objectif est de réfléchir ensemble à des manières de créer du lien
+          entre humains et non-humains, dans un espace d’expérience commun,
+          sensible et inclusif afin de repenser les relations entre êtres
+          vivants dans des formes non hiérarchiques, sans dominations.
+        </p>
+        <app-mat-know-more
+          class="news-card-know-more"
+          externalLink="https://leveilleur-scop.fr/pole-transitions/experimenter/seed/"
+          [text]="seedButton"
+        ></app-mat-know-more>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <img
+          src="assets/creations/moon_souls/moon_souls_news.jpg"
+          alt="Photo du duo Moon Souls"
+          class="news-image"
+        />
+        <div class="news-card-side">
+          <div class="news-title" i18n><i>Moon Souls</i></div>
+          <div class="news-subtitle" i18n>
+            Résidences du duo en cours de création :
+          </div>
+          <div class="news-text">
+            <ul>
+              <li i18n>Octobre 2025 CN D Lyon</li>
+              <li i18n>Décembre 2025 Pôle Pik Lyon</li>
+              <li i18n>Janvier 2025 CN D Lyon</li>
+            </ul>
+          </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/moon-souls"
+          ></app-mat-know-more>
+        </div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
         <iframe
           class="meduses-video"
@@ -17,67 +108,18 @@
           allowfullscreen
         ></iframe>
         <div class="news-card-side">
-          <div class="news-title" i18n>5 octobre 2025 - Valence, Espagne</div>
-          <div class="news-subtitle" i18n>
-            Présentation du solo <i>Seven Tries</i> pour le concours
-            chorégraphique Bucles & Carme'n'Dansa au sein du festival Bucles.
+          <div class="news-title" i18n>
+            Redécouvrez le teaser des pièces de la compagnie
+          </div>
+          <div class="news-subtitle">
+            <i>Seven Tries</i>
           </div>
           <app-mat-know-more
             class="news-card-know-more"
-            externalLink="https://festivalbucles.com/agenda/certamen-coreografico-bucles-sala-carme/"
+            link="/seven-tries"
           ></app-mat-know-more>
         </div>
       </mat-card-content>
-    </mat-card>
-    <mat-card class="news-card">
-      <mat-card-content class="news-card-content-with-image">
-        <img
-          src="assets/creations/moon_souls/moon_souls_news.jpg"
-          alt="Photo du duo Moon Souls"
-          class="news-image"
-        />
-        <div class="news-card-side">
-          <div class="news-title" i18n>Octobre 2025 - Lyon</div>
-          <div class="news-subtitle" i18n>
-            Résidence de création du duo <i>Moon Souls</i>.
-          </div>
-          <app-mat-know-more
-            class="news-card-know-more"
-            link="/moon-souls"
-          ></app-mat-know-more>
-        </div>
-      </mat-card-content>
-    </mat-card>
-    <mat-card class="news-card">
-      <mat-card-content class="news-card-content-with-image">
-        <img
-          src="assets/performances/brunch_ile_o.jpg"
-          alt="Photo du duo Moon Souls"
-          class="news-image"
-        />
-        <div class="news-card-side">
-          <div class="news-title" i18n>Cet automne</div>
-          <div class="news-subtitle" i18n>
-            Performance jeune public au théâtre l'île ô à Lyon pour les brunchs
-            artistiques.
-          </div>
-          <br />
-          <div class="news-subtitle" i18n>
-            Dates à venir
-            <ul>
-              <li>12 octobre 2025</li>
-              <li>2 novembre 2025</li>
-              <li>14 décembre 2025</li>
-            </ul>
-          </div>
-          <app-mat-know-more
-            class="news-card-know-more"
-            externalLink="https://www.scenes-otrement.com/spectacle/brunch-artistique/"
-          ></app-mat-know-more>
-        </div>
-      </mat-card-content>
-    </mat-card>
-    <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
         <iframe
           class="meduses-video"
@@ -89,8 +131,7 @@
           allowfullscreen
         ></iframe>
         <div class="news-card-side">
-          <div class="news-title" i18n>
-            Redécouvrez le teaser de la pièce
+          <div class="news-subtitle">
             <i>Les Méduses ne nagent jamais seules</i>
           </div>
           <app-mat-know-more
