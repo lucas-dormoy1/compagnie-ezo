@@ -413,14 +413,8 @@
       <trans-unit id="7935460889196326208" datatype="html">
         <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
       </trans-unit>
-      <trans-unit id="4530311405844006572" datatype="html">
-        <source>Octobre 2025 CN D Lyon</source>
-      </trans-unit>
       <trans-unit id="2021381561853487870" datatype="html">
         <source> Concours chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles à Valencia le 5 octobre 2025 en Espagne. </source>
-      </trans-unit>
-      <trans-unit id="1052019164906322392" datatype="html">
-        <source>Janvier 2025 CN D Lyon</source>
       </trans-unit>
       <trans-unit id="1887611540708076102" datatype="html">
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
@@ -428,17 +422,11 @@
       <trans-unit id="3032167385224756685" datatype="html">
         <source> Redécouvrez le teaser des pièces de la compagnie </source>
       </trans-unit>
-      <trans-unit id="3922759788865405861" datatype="html">
-        <source> Résidences du duo en cours de création : </source>
-      </trans-unit>
       <trans-unit id="5187009882101538598" datatype="html">
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
       </trans-unit>
       <trans-unit id="5413259969655671590" datatype="html">
         <source>Informations SEED &amp; ateliers</source>
-      </trans-unit>
-      <trans-unit id="5956397277468167513" datatype="html">
-        <source>Décembre 2025 Pôle Pik Lyon</source>
       </trans-unit>
       <trans-unit id="8094317410084466064" datatype="html">
         <source> Programme SEED - Social and Ecological Engagement through Dance </source>
@@ -449,8 +437,20 @@
       <trans-unit id="5777418597838789616" datatype="html">
         <source> Estelle fait partie des artistes sélectionnées pour le programme Européen SEED entre L&apos;Éveilleur SCOP à Avignon et Liminal access à Athènes pour 2025-2026. Ce projet vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Le programme se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et par la suite avec des laboratoires d&apos;exploration entre janvier et mars 2026 à Avignon. </source>
       </trans-unit>
-      <trans-unit id="6070101243069748088" datatype="html">
-        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet Tuning in to the senses. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
+      <trans-unit id="2065672601008891306" datatype="html">
+        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
+      </trans-unit>
+      <trans-unit id="172053482044669254" datatype="html">
+        <source> Samedi 21 mars 2026 à 16h : Répétition ouverte au public </source>
+      </trans-unit>
+      <trans-unit id="2424712534159677200" datatype="html">
+        <source> Rencontres chorégraphiques Le Transverse à Paris le vendredi 10 avril 2026 </source>
+      </trans-unit>
+      <trans-unit id="2746635556768697091" datatype="html">
+        <source> Répétition ouverte au public Aux Échappées Belles à Lyon le samedi 21 mars 2026 </source>
+      </trans-unit>
+      <trans-unit id="327144322477349248" datatype="html">
+        <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
       </trans-unit>
     </body>
   </file>

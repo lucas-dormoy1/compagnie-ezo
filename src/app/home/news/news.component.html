@@ -6,6 +6,41 @@
   </div>
   <div class="news-list">
     <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <img
+          src="assets/creations/moon_souls/moon_souls_news.jpg"
+          alt="Photo du duo Moon Souls"
+          class="news-image"
+        />
+        <div class="news-card-side">
+          <div class="news-title" i18n><i>Moon Souls</i></div>
+          <div class="news-subtitle" i18n>
+            Samedi 21 mars 2026 à 16h : Répétition ouverte au public
+          </div>
+          <div class="news-text">
+            Aux Échappées Belles à Lyon - 65-73 Rue du Bourbonnais
+          </div>
+          <br />
+          <br />
+          <br />
+          <div class="news-subtitle" i18n>
+            Vendredi 10 avril 2026 à 19h30 : Représentation d'un extrait de la
+            pièce
+          </div>
+          <div class="news-text">
+            Rencontres chorégraphiques Le Transverse à Paris - 11 Av. du
+            Président Wilson, Malakoff
+          </div>
+          <br />
+          <br />
+          <app-mat-know-more
+            class="news-card-know-more"
+            link="/moon-souls"
+          ></app-mat-know-more>
+        </div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
       <mat-card-content class="newsletter">
         <div class="news-title" i18n>
           Programme SEED - Social and Ecological Engagement through Dance
@@ -35,10 +70,10 @@
           Après une résidence de recherche d'un mois à Athènes en octobre 2024
           au sein du centre de recherche Duncan, Estelle prolonge avec le
           programme SEED son exploration autour du lien entre corps et
-          environnement, à travers son projet Tuning in to the senses. Ce projet
-          s’ancre dans la matière, le vivant et la communauté et s'appuie sur
-          les pensées et pratiques du mouvement écoféministe pour développer une
-          approche située à la croisée du mouvement dansé et des arts
+          environnement, à travers son projet <i>Tuning in to the senses</i>. Ce
+          projet s’ancre dans la matière, le vivant et la communauté et s'appuie
+          sur les pensées et pratiques du mouvement écoféministe pour développer
+          une approche située à la croisée du mouvement dansé et des arts
           plastiques.
         </p>
         <app-mat-know-more
@@ -72,38 +107,20 @@
     </mat-card>
     <mat-card class="news-card">
       <mat-card-content class="news-card-content-with-image">
-        <img
-          src="assets/creations/moon_souls/moon_souls_news.jpg"
-          alt="Photo du duo Moon Souls"
-          class="news-image"
-        />
-        <div class="news-card-side">
-          <div class="news-title" i18n><i>Moon Souls</i></div>
-          <div class="news-subtitle" i18n>
-            Résidences du duo en cours de création :
-          </div>
-          <div class="news-text">
-            <ul>
-              <li i18n>Octobre 2025 CN D Lyon</li>
-              <li i18n>Décembre 2025 Pôle Pik Lyon</li>
-              <li i18n>Janvier 2025 CN D Lyon</li>
-            </ul>
-          </div>
-          <app-mat-know-more
-            class="news-card-know-more"
-            link="/moon-souls"
-          ></app-mat-know-more>
-        </div>
-      </mat-card-content>
-    </mat-card>
-    <mat-card class="news-card">
-      <mat-card-content class="news-card-content-with-image">
         <iframe
           class="meduses-video"
           src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
           title="YouTube video player"
           frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allow="
+            accelerometer;
+            autoplay;
+            clipboard-write;
+            encrypted-media;
+            gyroscope;
+            picture-in-picture;
+            web-share;
+          "
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen
         ></iframe>
@@ -126,7 +143,15 @@
           src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
           title="YouTube video player"
           frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allow="
+            accelerometer;
+            autoplay;
+            clipboard-write;
+            encrypted-media;
+            gyroscope;
+            picture-in-picture;
+            web-share;
+          "
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen
         ></iframe>

@@ -534,10 +534,6 @@
         <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
         <target> Juin 2025 : workshop with dancers-in-training from the Hallet Eghayan company in Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </target>
       </trans-unit>
-      <trans-unit id="4530311405844006572" datatype="html">
-        <source>Octobre 2025 CN D Lyon</source>
-        <target>October 2025 - Lyon</target>
-      </trans-unit>
       <trans-unit id="3292388198655477049" datatype="html">
         <source>Isadora and Raymond Duncan Dance Research Center </source>
         <target state="new">Isadora and Raymond Duncan Dance Research Center </target>
@@ -570,18 +566,6 @@
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
         <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></target>
       </trans-unit>
-      <trans-unit id="3922759788865405861" datatype="html">
-        <source> Résidences du duo en cours de création : </source>
-        <target> Duo residencies in progress: </target>
-      </trans-unit>
-      <trans-unit id="5956397277468167513" datatype="html">
-        <source>Décembre 2025 Pôle Pik Lyon</source>
-        <target>December 2025 Pôle Pik Lyon</target>
-      </trans-unit>
-      <trans-unit id="1052019164906322392" datatype="html">
-        <source>Janvier 2025 CN D Lyon</source>
-        <target>January 2025 CN D Lyon</target>
-      </trans-unit>
       <trans-unit id="3032167385224756685" datatype="html">
         <source> Redécouvrez le teaser des pièces de la compagnie </source>
         <target> Rediscover the teaser of the company&apos;s pieces </target>
@@ -592,15 +576,31 @@
       </trans-unit>
       <trans-unit id="5777418597838789616" datatype="html">
         <source> Estelle fait partie des artistes sélectionnées pour le programme Européen SEED entre L&apos;Éveilleur SCOP à Avignon et Liminal access à Athènes pour 2025-2026. Ce projet vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Le programme se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et par la suite avec des laboratoires d&apos;exploration entre janvier et mars 2026 à Avignon. </source>
-        <target> Estelle is one of the artists selected for the European program SEED between L'Eveilleur SCOP in Avignon and Liminal Access in Athens for 2025-2026. This project aims to establish a new approach to ecological sustainability, accessibility, and inclusion in dance. The program is being implemented in several phases, with two educational residencies taking place between October and November 2025 in Avignon and Athens, followed by exploration workshops between January and March 2026 in Avignon. </target>
-      </trans-unit>
-      <trans-unit id="6070101243069748088" datatype="html">
-        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet Tuning in to the senses. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
-        <target> After a month-long research residency in Athens in October 2024 at the Duncan Research Center, Estelle is continuing her exploration of the connection between the body and the environment through the SEED program with her project Tuning in to the senses. This project is rooted in matter, living beings, and community, and draws on the ideas and practices of the ecofeminist movement to develop an approach that lies at the intersection of dance and the visual arts. </target>
+        <target> Estelle is one of the artists selected for the European program SEED between L&apos;Eveilleur SCOP in Avignon and Liminal Access in Athens for 2025-2026. This project aims to establish a new approach to ecological sustainability, accessibility, and inclusion in dance. The program is being implemented in several phases, with two educational residencies taking place between October and November 2025 in Avignon and Athens, followed by exploration workshops between January and March 2026 in Avignon. </target>
       </trans-unit>
       <trans-unit id="2003144701152164376" datatype="html">
         <source> Pour la phase de laboratoire du programme SEED, Estelle propose une série d&apos;ateliers qui invitent à reconfigurer l&apos;espace scénique en un lieu partagé, adaptable, où chacun peut trouver sa place. La proposition mobilise différents canaux sensoriels - du toucher au mouvement, de la matière au geste, de l’écoute à l&apos;image - afin d&apos;ouvrir des chemins multiples pour entrer dans la pratique et la rendre accessible à des participants aux sensibilités variées. L&apos;objectif est de réfléchir ensemble à des manières de créer du lien entre humains et non-humains, dans un espace d’expérience commun, sensible et inclusif afin de repenser les relations entre êtres vivants dans des formes non hiérarchiques, sans dominations. </source>
         <target> For the laboratory phase of the SEED program, Estelle offers a series of workshops that invite participants to reconfigure the stage space into a shared, adaptable place where everyone can find their place. The proposal engages different sensory channels—from touch to movement, from matter to gesture, from listening to image—in order to open up multiple paths for entering into the practice and making it accessible to participants with varied sensibilities. The goal is to reflect together on ways to create connections between humans and non-humans in a shared, sensitive, and inclusive space of experience in order to rethink relationships between living beings in non-hierarchical forms, without domination. </target>
+      </trans-unit>
+      <trans-unit id="2065672601008891306" datatype="html">
+        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
+        <target> After a month-long research residency in Athens in October 2024 at the Duncan Research Center, Estelle is continuing her exploration of the connection between the body and the environment through the SEED program with her project <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. This project is rooted in matter, living beings, and community, and draws on the ideas and practices of the ecofeminist movement to develop an approach that lies at the intersection of dance and the visual arts. </target>
+      </trans-unit>
+      <trans-unit id="2746635556768697091" datatype="html">
+        <source> Répétition ouverte au public Aux Échappées Belles à Lyon le samedi 21 mars 2026 </source>
+        <target> Open rehearsal at Aux Échappées Belles in Lyon on Saturday, 21 March 2026 </target>
+      </trans-unit>
+      <trans-unit id="2424712534159677200" datatype="html">
+        <source> Rencontres chorégraphiques Le Transverse à Paris le vendredi 10 avril 2026 </source>
+        <target> Rencontres chorégraphiques at Le Transverse in Paris on Friday, 10 April 2026 </target>
+      </trans-unit>
+      <trans-unit id="172053482044669254" datatype="html">
+        <source> Samedi 21 mars 2026 à 16h : Répétition ouverte au public </source>
+        <target> Saturday, 21 March 2026 at 4 p.m.: Open rehearsal</target>
+      </trans-unit>
+      <trans-unit id="327144322477349248" datatype="html">
+        <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
+        <target> Friday, 10 April 2026 at 7:30pm: Performance of an excerpt of the piece </target>
       </trans-unit>
     </body>
   </file>
