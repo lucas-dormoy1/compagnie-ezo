@@ -1,5 +1,5 @@
-@import "styles/variables.scss";
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@use "styles/variables" as *;
+@use "@angular/material/prebuilt-themes/indigo-pink.css";
 
 body {
   font-family: Avenir;
@@ -50,7 +50,7 @@ body {
 }
 @media only screen and (max-width: $small-screen-size) {
   .artist-modal-panel {
-    max-height: 90%;
+    max-height: 85vh !important;
     overflow-y: auto;
   }
 }

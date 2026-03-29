@@ -1,21 +1,23 @@
-@import "../../../styles/variables";
+@use "../../../styles/variables" as *;
 
-.mat-success {
-  background-color: white;
-  color: $dark-blue;
-  border-color: $dark-blue;
+.know-more-button {
+  --mdc-outlined-button-label-text-color: #{$dark-blue};
+  --mdc-outlined-button-outline-color: #{$dark-blue};
+  --mdc-outlined-button-container-shape: 0;
+  --mat-outlined-button-state-layer-color: #{$dark-blue};
   font-family: Avenir;
-  border-radius: 0;
+  position: relative;
+  z-index: 0;
 }
 
-.mat-success:hover {
+.know-more-button:hover {
   background-color: $dark-blue;
-  color: white;
-  border-color: $dark-blue;
+  --mdc-outlined-button-label-text-color: white;
+  --mdc-outlined-button-outline-color: #{$dark-blue};
 }
 
 @media only screen and (max-width: $small-screen-size) {
-  .mat-success {
+  .know-more-button {
     margin-left: 0.5rem;
     margin-bottom: 0.5rem;
     font-size: 0.8rem;

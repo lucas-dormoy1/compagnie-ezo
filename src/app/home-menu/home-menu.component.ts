@@ -2,10 +2,11 @@ import { Component, HostListener } from '@angular/core';
 import { DropDownAnimation } from "./animations";
 
 @Component({
-  selector: 'app-home-menu',
-  templateUrl: './home-menu.component.html',
-  styleUrls: ['./home-menu.component.scss'],
-  animations: [DropDownAnimation]
+    selector: 'app-home-menu',
+    templateUrl: './home-menu.component.html',
+    styleUrls: ['./home-menu.component.scss'],
+    animations: [DropDownAnimation],
+    standalone: false
 })
 export class HomeMenuComponent {
   isOpen: boolean;

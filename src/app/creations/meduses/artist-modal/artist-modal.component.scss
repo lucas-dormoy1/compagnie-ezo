@@ -1,4 +1,4 @@
-@import "../../../../styles/variables";
+@use "../../../../styles/variables" as *;
 
 .artist-name {
   color: $dark-blue;
@@ -48,13 +48,14 @@
 
   .artist-details {
     text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .close {
     padding-bottom: 1rem;
-  }
-  .artist-modal-panel {
-    max-height: 80%;
-    overflow-y: auto;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
   }
 }

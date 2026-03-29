@@ -1,9 +1,10 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'app-mat-know-more',
-  templateUrl: './mat-know-more.component.html',
-  styleUrls: ['./mat-know-more.component.scss']
+    selector: 'app-mat-know-more',
+    templateUrl: './mat-know-more.component.html',
+    styleUrls: ['./mat-know-more.component.scss'],
+    standalone: false
 })
 export class MatKnowMoreComponent {
 

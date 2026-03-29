@@ -3,9 +3,10 @@ import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { Artist } from '../meduses.component';
 
 @Component({
-  selector: 'app-artist-modal',
-  templateUrl: './artist-modal.component.html',
-  styleUrls: ['./artist-modal.component.scss']
+    selector: 'app-artist-modal',
+    templateUrl: './artist-modal.component.html',
+    styleUrls: ['./artist-modal.component.scss'],
+    standalone: false
 })
 export class ArtistModalComponent implements OnInit {
   public artist: Artist;

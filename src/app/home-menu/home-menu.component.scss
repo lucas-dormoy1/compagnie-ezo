@@ -1,4 +1,4 @@
-@import "../../styles/variables";
+@use "../../styles/variables" as *;
 
 .menu-trigger {
   text-align: right;
@@ -20,7 +20,7 @@
   position: absolute;
   right: 2rem;
   width: 25rem;
-  z-index: 1;
+  z-index: 100;
 }
 
 .languages {

@@ -3,10 +3,13 @@ import { MatDialog } from '@angular/material/dialog';
 import { Router } from '@angular/router';
 import { ArtistModalComponent } from './artist-modal/artist-modal.component';
 
+const SMALL_SCREEN_SIZE_PX = 960; // Mirrors $small-screen-size: 60rem
+
 @Component({
-  selector: 'app-meduses',
-  templateUrl: './meduses.component.html',
-  styleUrls: ['./meduses.component.scss']
+    selector: 'app-meduses',
+    templateUrl: './meduses.component.html',
+    styleUrls: ['./meduses.component.scss'],
+    standalone: false
 })
 export class MedusesComponent implements OnInit {
 
@@ -80,9 +83,11 @@ export class MedusesComponent implements OnInit {
   }
 
   openModalArtist(artist: Artist) : void{
+    const isMobile = window.innerWidth <= SMALL_SCREEN_SIZE_PX;
     this.dialog.open(ArtistModalComponent, {
       data: artist,
-      panelClass: 'artist-modal-panel'
+      panelClass: 'artist-modal-panel',
+      ...(isMobile && { width: 'calc(100vw - 1rem)', maxWidth: 'calc(100vw - 1rem)' })
     });
   }
 

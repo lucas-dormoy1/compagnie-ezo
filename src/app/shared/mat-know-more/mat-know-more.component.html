@@ -4,14 +4,14 @@
   [href]="externalLink"
   target="_blank"
   rel="noopener noreferrer"
-  color="success"
+  class="know-more-button"
   >{{ text }}</a
 >
 <button
   [routerLink]="link"
   *ngIf="!externalLink"
   mat-stroked-button
-  color="success"
+  class="know-more-button"
 >
   {{ text }}
 </button>

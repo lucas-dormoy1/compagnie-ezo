@@ -86,16 +86,16 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "compagnie-ezo:build:production"
+              "buildTarget": "compagnie-ezo:build:production"
             },
             "development": {
-              "browserTarget": "compagnie-ezo:build:development"
+              "buildTarget": "compagnie-ezo:build:development"
             },
             "fr": {
-              "browserTarget": "compagnie-ezo:build:fr"
+              "buildTarget": "compagnie-ezo:build:fr"
             },
             "en": {
-              "browserTarget": "compagnie-ezo:build:en"
+              "buildTarget": "compagnie-ezo:build:en"
             }
           },
           "defaultConfiguration": "development"
@@ -131,12 +131,9 @@
           }
         }
       }
-    },
-    "cli": {
-      "analytics": false
     }
   },
   "cli": {
-    "analytics": "9d1a3344-808c-4a93-9553-ceee9e50847c"
+    "analytics": false
   }
 }
