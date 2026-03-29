@@ -4,7 +4,7 @@
 
 - [ ] **Factory d'animation unique** : les 3 fichiers `animations.ts` (home-menu, creations-menu, projects-menu) sont quasi-identiques. Créer une factory function qui prend le trigger name en paramètre.
 - [ ] **DropdownMenuComponent générique** : fusionner `creations-menu` et `projects-menu` (logique TS + SCSS 100% identiques) en un seul composant qui accepte les items en `@Input`.
-- [ ] **SupportersComponent** : extraire la section "soutiens" (sponsors) dupliquée dans 6 templates (meduses, horizons-cailloux, moon-souls, seven-tries, musee, jeune-public).
+- [x] **SupportersComponent** : extraire la section "soutiens" (sponsors) dupliquée dans 6 templates (meduses, horizons-cailloux, moon-souls, seven-tries, musee, jeune-public).
 
 ## P2 - Duplication haute & architecture
 

@@ -1,0 +1,24 @@
+<div class="soutiens">
+  @for (supporter of supporters; track supporter.src) {
+    @if (supporter.label) {
+      <div class="murol">
+        <img
+          [ngSrc]="supporter.src"
+          [alt]="supporter.alt"
+          class="soutien-image"
+          [width]="supporter.width"
+          [height]="supporter.height"
+        />
+        {{ supporter.label }}
+      </div>
+    } @else {
+      <img
+        [ngSrc]="supporter.src"
+        class="soutien-image"
+        [alt]="supporter.alt"
+        [width]="supporter.width"
+        [height]="supporter.height"
+      />
+    }
+  }
+</div>

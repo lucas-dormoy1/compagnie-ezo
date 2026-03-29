@@ -72,44 +72,5 @@
   </div>
 </div>
 <div class="additional-info">
-  <div class="soutiens">
-    <img
-      ngSrc="assets/soutiens/hallet_eghayan.png"
-      class="soutien-image"
-      alt="Logo de la compagnie Hallet Eghayan"
-      width="200"
-      height="80"
-    />
-    <img
-      ngSrc="assets/soutiens/regard-du-cygne.png"
-      class="soutien-image"
-      alt="logo du Regard Du Cygne"
-      width="200"
-      height="80"
-    />
-    <div class="murol">
-      <img
-        ngSrc="assets/soutiens/blason_murol.png"
-        alt="blason de la ville de Murol"
-        class="soutien-image"
-        width="100"
-        height="120"
-      />
-      Ville de Murol
-    </div>
-    <img
-      ngSrc="assets/soutiens/pole-en-scenes-logo.png"
-      class="soutien-image"
-      alt="logo de Pôle Pik"
-      width="200"
-      height="80"
-    />
-    <img
-      ngSrc="assets/soutiens/cnd_blanc.png"
-      class="soutien-image"
-      alt="logo du CND"
-      width="200"
-      height="80"
-    />
-  </div>
+  <app-supporters [keys]="['halletEghayan', 'regardDuCygne', 'villeMurol', 'polePik', 'cnd']" />
 </div>

@@ -84,37 +84,6 @@
   margin-top: 2rem;
 }
 
-.soutien-image {
-  height: 6rem;
-  width: auto;
-}
-
-.murol {
-  color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  .soutien-image {
-    height: 5rem;
-  }
-}
-
-.soutiens {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1.5rem 3rem;
-  width: 100%;
-  padding: 0 2rem;
-  box-sizing: border-box;
-
-  > *, > .murol {
-    object-fit: contain;
-    min-width: 0;
-  }
-}
-
 .meduses-artist-image {
   height: 20rem;
   width: auto;
@@ -194,17 +163,4 @@
     overflow-y: auto;
   }
 
-  .soutiens {
-    flex-direction: column;
-    padding: 0;
-
-    > *, > .murol {
-      min-width: 0;
-    }
-  }
-
-  .soutien-image {
-    height: 5rem;
-    margin: 1rem 0rem;
-  }
 }

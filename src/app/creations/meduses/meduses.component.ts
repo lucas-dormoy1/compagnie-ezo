@@ -3,6 +3,7 @@ import { NgFor, NgOptimizedImage } from '@angular/common';
 import { MatDialog } from '@angular/material/dialog';
 import { Router } from '@angular/router';
 import { ArtistModalComponent } from './artist-modal/artist-modal.component';
+import { SupportersComponent } from '../../shared/supporters/supporters.component';
 
 const SMALL_SCREEN_SIZE_PX = 960; // Mirrors $small-screen-size: 60rem
 
@@ -11,7 +12,7 @@ const SMALL_SCREEN_SIZE_PX = 960; // Mirrors $small-screen-size: 60rem
     templateUrl: './meduses.component.html',
     styleUrls: ['./meduses.component.scss'],
     standalone: true,
-    imports: [NgFor, NgOptimizedImage],
+    imports: [NgFor, NgOptimizedImage, SupportersComponent],
 })
 export class MedusesComponent {
 

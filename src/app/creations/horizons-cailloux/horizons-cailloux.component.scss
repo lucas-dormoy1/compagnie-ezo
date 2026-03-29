@@ -129,38 +129,6 @@
   }
 }
 
-.soutien-image {
-  height: 6rem;
-  width: auto;
-  max-width: 100%;
-}
-
-.murol {
-  color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  .soutien-image {
-    height: 5rem;
-  }
-}
-
-.soutiens {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 1.5rem 3rem;
-  padding: 0 2rem;
-  width: 100%;
-  box-sizing: border-box;
-
-  > *, > .murol {
-    object-fit: contain;
-    min-width: 0;
-  }
-}
-
 .file-button {
   border: solid 1px $dark-blue;
   background-color: white;
@@ -209,31 +177,6 @@
 
   .reversed {
     flex-direction: column;
-  }
-
-  .soutiens {
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: start;
-    padding: 0;
-
-    > *, > .murol {
-      min-width: 0;
-    }
-  }
-
-  .murol {
-    .soutien-image {
-      height: 4rem;
-    }
-  }
-
-  .soutien-image {
-    max-height: 5rem;
-    margin: 1rem 0rem;
-    max-width: 20rem;
-    width: auto;
-    height: auto;
   }
 
   .container {
