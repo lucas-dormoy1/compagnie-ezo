@@ -1,12 +1,12 @@
-<div class="menu-panel">
-  <div class="menu-trigger" (click)="isOpen = !isOpen">
-    <img src="assets/menu.svg" class="menu-icon" />
-  </div>
-  <div class="menu" *ngIf="isOpen" [@dropDownMenu]>
+<nav class="menu-panel" aria-label="Menu principal" i18n-aria-label>
+  <button class="menu-trigger" (click)="isOpen = !isOpen" aria-label="Ouvrir le menu" i18n-aria-label>
+    <img src="assets/menu.svg" class="menu-icon" alt="menu" />
+  </button>
+  <div class="menu" *ngIf="isOpen" [@dropDownMenu] role="navigation">
     <div class="menu-item bottom-border languages">
-      <button class="language-button" (click)="switchLanguageFR()">FR</button
+      <button class="language-button" (click)="switchLanguageFR()" aria-label="Passer en français" i18n-aria-label>FR</button
       ><span>|</span
-      ><button class="language-button" (click)="switchLanguageEN()">EN</button>
+      ><button class="language-button" (click)="switchLanguageEN()" aria-label="Switch to English" i18n-aria-label>EN</button>
     </div>
     <div class="menu-item bottom-border">
       <a routerLink="/home" class="menu-link" (click)="closeMenu()" i18n
@@ -35,4 +35,4 @@
       >
     </div>
   </div>
-</div>
+</nav>

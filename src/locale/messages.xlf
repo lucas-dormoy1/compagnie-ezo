@@ -500,6 +500,39 @@
       <trans-unit id="8394286808733264509" datatype="html">
         <source>Durée : 20min</source>
       </trans-unit>
+      <trans-unit id="137152433342840118" datatype="html">
+        <source>Vidéo : Les méduses ne nagent jamais seules - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="1632553618863251895" datatype="html">
+        <source>Menu principal</source>
+      </trans-unit>
+      <trans-unit id="2298488348385919293" datatype="html">
+        <source>Vidéo : Performance jeune public - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="2956698511347432438" datatype="html">
+        <source>Teaser : Seven Tries - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="333339397846096187" datatype="html">
+        <source>Vidéo : Dialogue avec l&apos;oeuvre Pluie de Montchal - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="4143678219413225577" datatype="html">
+        <source>Teaser : Les méduses ne nagent jamais seules - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="4444219745753517478" datatype="html">
+        <source>Ouvrir le menu</source>
+      </trans-unit>
+      <trans-unit id="6007238223618571006" datatype="html">
+        <source>Switch to English</source>
+      </trans-unit>
+      <trans-unit id="6289121970439403291" datatype="html">
+        <source>Vidéo : L&apos;horizon est fait de petits cailloux - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="6390372138083007411" datatype="html">
+        <source>Passer en français</source>
+      </trans-unit>
+      <trans-unit id="8635944971455862195" datatype="html">
+        <source>Vidéo : Seven Tries - Compagnie EZO</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -1,79 +1,42 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { FormsModule } from "@angular/forms";
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
-import { MatDialogModule } from '@angular/material/dialog';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { RouterLink, RouterModule, RouterOutlet, Routes } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
-import { ContactComponent } from './contact/contact.component';
-import { CreationsComponent } from './creations/creations.component';
-import { HorizonsCaillouxComponent } from './creations/horizons-cailloux/horizons-cailloux.component';
-import { ArtistModalComponent } from './creations/meduses/artist-modal/artist-modal.component';
-import { MedusesComponent } from './creations/meduses/meduses.component';
 import { HeaderComponent } from './header/header.component';
 import { CreationsMenuComponent } from './home-menu/creations-menu/creations-menu.component';
 import { HomeMenuComponent } from './home-menu/home-menu.component';
 import { ProjectsMenuComponent } from './home-menu/projects-menu/projects-menu.component';
 import { HomeComponent } from './home/home.component';
 import { NewsComponent } from './home/news/news.component';
-import { PresentationComponent } from './presentation/presentation.component';
-import { PluieMontchalComponent } from './projects/pluie-montchal/pluie-montchal.component';
-import { ProjectsComponent } from './projects/projects.component';
-import { SevenTriesComponent } from './creations/seven-tries/seven-tries.component';
 import { MatKnowMoreComponent } from './shared/mat-know-more/mat-know-more.component';
-import { TuningInToTheSensesComponent } from './projects/tuning-in-to-the-senses/tuning-in-to-the-senses.component';
-import { MoonSoulsComponent } from './creations/moon-souls/moon-souls.component';
-import { JeunePublicComponent } from './projects/jeune-public/jeune-public.component';
-import { MuseeComponent } from './projects/musee/musee.component';
-import { WorkshopsComponent } from './workshops/workshops.component';
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent},
-  { path: 'about', component: PresentationComponent},
-  { path: 'projects', component: ProjectsComponent},
-  { path: 'creations', component: CreationsComponent},
-  { path: 'l-horizon-est-fait-de-petits-cailloux', component: HorizonsCaillouxComponent},
-  { path: 'les-meduses-ne-nagent-jamais-seules', component: MedusesComponent},
-  { path: 'seven-tries', component: SevenTriesComponent},
-  { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
-  { path: 'tuning-in-to-the-senses', component: TuningInToTheSensesComponent},
-  { path: 'jeune-public', component: JeunePublicComponent},
-  { path: 'performance-in-situ-musee', component: MuseeComponent},
-  { path: 'moon-souls', component: MoonSoulsComponent},
-  { path: 'workshops', component: WorkshopsComponent},
-  { path: 'contact', component: ContactComponent},
+  { path: 'home', component: HomeComponent },
+  { path: 'about', loadChildren: () => import('./presentation/presentation.module').then(m => m.PresentationModule) },
+  { path: 'creations', loadChildren: () => import('./creations/creations.module').then(m => m.CreationsModule) },
+  { path: 'projects', loadChildren: () => import('./projects/projects.module').then(m => m.ProjectsModule) },
+  { path: 'workshops', loadChildren: () => import('./workshops/workshops.module').then(m => m.WorkshopsModule) },
+  { path: 'contact', loadChildren: () => import('./contact/contact.module').then(m => m.ContactModule) },
   { path: '**', redirectTo: '/home', pathMatch: 'full' },
-
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
-    PresentationComponent,
     HomeComponent,
-    ProjectsComponent,
-    HorizonsCaillouxComponent,
-    PluieMontchalComponent,
-    TuningInToTheSensesComponent,
     HomeMenuComponent,
     ProjectsMenuComponent,
     HeaderComponent,
     NewsComponent,
-    CreationsComponent,
     CreationsMenuComponent,
-    MedusesComponent,
-    ContactComponent,
-    ArtistModalComponent,
     MatKnowMoreComponent,
-    SevenTriesComponent,
-    JeunePublicComponent,
-    MuseeComponent
   ],
   imports: [
     BrowserModule,
@@ -81,13 +44,9 @@ const routes: Routes = [
     BrowserAnimationsModule,
     MatMenuModule,
     MatIconModule,
-    FormsModule,
-    MatDialogModule,
     MatCardModule,
     MatDividerModule,
     MatButtonModule,
-    RouterLink,
-    RouterOutlet
   ],
   providers: [],
   bootstrap: [AppComponent]

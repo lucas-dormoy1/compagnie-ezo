@@ -666,6 +666,50 @@
         <source>Déambulation dansée pour faire dialoguer les expositions avec le mouvement. </source>
         <target>A danced itinerant to create a dialogue between exhibitions and movement. </target>
       </trans-unit>
+      <trans-unit id="6289121970439403291" datatype="html">
+        <source>Vidéo : L&apos;horizon est fait de petits cailloux - Compagnie EZO</source>
+        <target>Video: L&apos;horizon est fait de petits cailloux - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="137152433342840118" datatype="html">
+        <source>Vidéo : Les méduses ne nagent jamais seules - Compagnie EZO</source>
+        <target>Video: Les méduses ne nagent jamais seules - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="8635944971455862195" datatype="html">
+        <source>Vidéo : Seven Tries - Compagnie EZO</source>
+        <target>Video: Seven Tries - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="1632553618863251895" datatype="html">
+        <source>Menu principal</source>
+        <target>Main menu</target>
+      </trans-unit>
+      <trans-unit id="4444219745753517478" datatype="html">
+        <source>Ouvrir le menu</source>
+        <target>Open menu</target>
+      </trans-unit>
+      <trans-unit id="6390372138083007411" datatype="html">
+        <source>Passer en français</source>
+        <target>Switch to French</target>
+      </trans-unit>
+      <trans-unit id="6007238223618571006" datatype="html">
+        <source>Switch to English</source>
+        <target>Switch to English</target>
+      </trans-unit>
+      <trans-unit id="2956698511347432438" datatype="html">
+        <source>Teaser : Seven Tries - Compagnie EZO</source>
+        <target>Teaser: Seven Tries - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="4143678219413225577" datatype="html">
+        <source>Teaser : Les méduses ne nagent jamais seules - Compagnie EZO</source>
+        <target>Teaser: Les méduses ne nagent jamais seules - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="2298488348385919293" datatype="html">
+        <source>Vidéo : Performance jeune public - Compagnie EZO</source>
+        <target>Video: Young audience performance - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="333339397846096187" datatype="html">
+        <source>Vidéo : Dialogue avec l&apos;oeuvre Pluie de Montchal - Compagnie EZO</source>
+        <target>Video: Dialogue with the artwork Pluie de Montchal - Compagnie EZO</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
