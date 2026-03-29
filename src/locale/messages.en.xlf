@@ -634,6 +634,38 @@
         <source>Des histoires en mouvement pour découvrir la danse contemporaine. </source>
         <target>Stories in movement to discover contemporary dance. </target>
       </trans-unit>
+      <trans-unit id="4929474812529979232" datatype="html">
+        <source>Performance in situ Musée </source>
+        <target>Performance in situ Musée </target>
+      </trans-unit>
+      <trans-unit id="1091877093362799829" datatype="html">
+        <source>Performance in situ Musée</source>
+        <target>Performance in situ Museum</target>
+      </trans-unit>
+      <trans-unit id="8394286808733264509" datatype="html">
+        <source>Durée : 20min</source>
+        <target>Duration: 20min</target>
+      </trans-unit>
+      <trans-unit id="320562659872387803" datatype="html">
+        <source>Nuit européenne des musées</source>
+        <target>European Night of Museums</target>
+      </trans-unit>
+      <trans-unit id="7448799376546492706" datatype="html">
+        <source>MEM Murol</source>
+        <target>MEM Murol</target>
+      </trans-unit>
+      <trans-unit id="4266136172282538086" datatype="html">
+        <source>Performance in situ au musée de Murol</source>
+        <target>In situ performance at the Murol museum</target>
+      </trans-unit>
+      <trans-unit id="8369720326917907428" datatype="html">
+        <source> Performance déambulatoire lors de visites nocturnes à travers les différentes salles du musée pour faire dialoguer les expositions avec la danse dans un clair-obscur vivant. </source>
+        <target> A itinerant performance during nocturnal visits through the different rooms of the museum, creating a dialogue between the exhibitions and dance in a living chiaroscuro. </target>
+      </trans-unit>
+      <trans-unit id="2888111115762697175" datatype="html">
+        <source>Déambulation dansée pour faire dialoguer les expositions avec le mouvement. </source>
+        <target>A danced itinerant to create a dialogue between exhibitions and movement. </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

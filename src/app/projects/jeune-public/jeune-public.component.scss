@@ -71,7 +71,7 @@
 .additional-info {
   width: 100%;
   background-color: $dark-blue;
-  padding: 2rem 0;
+  padding: 1rem 0;
   margin-top: 3rem;
   display: flex;
   justify-content: center;
@@ -79,12 +79,20 @@
 
 .soutiens {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  gap: 1.5rem 3rem;
+  padding: 0 2rem;
+
+  > *, > .murol {
+    min-width: calc(25% - 3rem);
+    object-fit: contain;
+  }
 }
 
 .soutien-image {
-  height: 4rem;
+  height: 6rem;
 }
 
 @media only screen and (max-width: $small-screen-size) {
@@ -140,6 +148,15 @@
   .representations > ul ul {
     padding-left: 1rem;
     padding-right: 0;
+  }
+
+  .soutiens {
+    flex-direction: column;
+    padding: 0;
+
+    > *, > .murol {
+      min-width: 0;
+    }
   }
 
   .soutien-image {

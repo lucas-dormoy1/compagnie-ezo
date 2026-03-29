@@ -48,6 +48,8 @@ Compagnie EZO est une compagnie de danse contemporaine fondée par la chorégrap
   - **Seven Tries** (2024) — Solo avec néon lumineux, 15 min. Relation corps/systèmes (patriarcal, capitaliste, etc.)
   - **L'horizon est fait de petits cailloux** (2023) — Solo, 8 min. Poésie du quotidien face à l'horizon existentiel
 - **Projets** (`/projects`) — Recherche artistique :
+  - **Performance in situ Musée** — Performance déambulatoire au MEM Murol, 20 min. Dialogue entre expositions et danse lors de la Nuit européenne des musées
+  - **Performance jeune public** — Performance de danse contemporaine pour enfants et adultes, 15 min. Deux histoires en mouvement (La métamorphose, Retrouver le chemin)
   - **Tuning in to the senses** — Performance arts visuels/mouvement, écoféminisme, lié au programme SEED (résidences Avignon/Athènes)
   - **Dialogue avec Pluie de Montchal** — Performance filmée avec le plasticien Pier Fabre (Horizons Arts-Nature 2022)
 - **Ateliers** (`/workshops`) — Médiation et transmission : workshops dans écoles de danse (Le Cycle, Manufacture d'Aurillac, Hallet Eghayan, Cité Chorégraphique), centres sociaux et écoles primaires

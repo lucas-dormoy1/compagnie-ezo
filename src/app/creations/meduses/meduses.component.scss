@@ -78,13 +78,13 @@
 .additional-info {
   width: 100%;
   background-color: $dark-blue;
-  padding-bottom: 2rem;
-  padding-top: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   margin-top: 2rem;
 }
 
 .soutien-image {
-  height: 4rem;
+  height: 6rem;
 }
 
 .murol {
@@ -92,14 +92,24 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  .soutien-image {
+    height: 5rem;
+  }
 }
 
 .soutiens {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
+  gap: 1.5rem 3rem;
   width: 100%;
+  padding: 0 2rem;
+
+  > *, > .murol {
+    min-width: calc(25% - 3rem);
+    object-fit: contain;
+  }
 }
 
 .meduses-artist-image {
@@ -203,6 +213,11 @@
 
   .soutiens {
     flex-direction: column;
+    padding: 0;
+
+    > *, > .murol {
+      min-width: 0;
+    }
   }
 
   .soutien-image {
