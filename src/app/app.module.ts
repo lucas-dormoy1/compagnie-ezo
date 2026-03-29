@@ -29,6 +29,7 @@ import { SevenTriesComponent } from './creations/seven-tries/seven-tries.compone
 import { MatKnowMoreComponent } from './shared/mat-know-more/mat-know-more.component';
 import { TuningInToTheSensesComponent } from './projects/tuning-in-to-the-senses/tuning-in-to-the-senses.component';
 import { MoonSoulsComponent } from './creations/moon-souls/moon-souls.component';
+import { JeunePublicComponent } from './projects/jeune-public/jeune-public.component';
 import { WorkshopsComponent } from './workshops/workshops.component';
 
 const routes: Routes = [
@@ -41,6 +42,7 @@ const routes: Routes = [
   { path: 'seven-tries', component: SevenTriesComponent},
   { path: 'dialogue-avec-l-œuvre-pluie-de-montchal', component: PluieMontchalComponent},
   { path: 'tuning-in-to-the-senses', component: TuningInToTheSensesComponent},
+  { path: 'jeune-public', component: JeunePublicComponent},
   { path: 'moon-souls', component: MoonSoulsComponent},
   { path: 'workshops', component: WorkshopsComponent},
   { path: 'contact', component: ContactComponent},
@@ -67,7 +69,8 @@ const routes: Routes = [
     ContactComponent,
     ArtistModalComponent,
     MatKnowMoreComponent,
-    SevenTriesComponent
+    SevenTriesComponent,
+    JeunePublicComponent
   ],
   imports: [
     BrowserModule,

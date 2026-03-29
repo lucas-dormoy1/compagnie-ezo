@@ -314,9 +314,6 @@
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
       </trans-unit>
-      <trans-unit id="5056295550868158152" datatype="html">
-        <source>Projet de recherche et de performance entre arts visuels et mouvement. </source>
-      </trans-unit>
       <trans-unit id="6142996092607995110" datatype="html">
         <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se réaliser sous la forme d’une performance participative dans laquelle le public est invité à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est complétée par des installations qui sont partie intégrante de l’expérience. </source>
       </trans-unit>
@@ -451,6 +448,33 @@
       </trans-unit>
       <trans-unit id="327144322477349248" datatype="html">
         <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
+      </trans-unit>
+      <trans-unit id="1278203885243092816" datatype="html">
+        <source>Chorégraphiée et interprétée par Estelle Bézombes</source>
+      </trans-unit>
+      <trans-unit id="1560067846959113176" datatype="html">
+        <source>Performance jeune public </source>
+      </trans-unit>
+      <trans-unit id="3440318415499739415" datatype="html">
+        <source>Performance jeune public</source>
+      </trans-unit>
+      <trans-unit id="4142386296238876036" datatype="html">
+        <source> Cette performance invite les enfants et les adultes à découvrir la danse contemporaine à travers deux histoires en mouvement. <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>La métamorphose<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> met en scène une créature vêtue d&apos;une longue jupe irisée, qui se transforme pour déployer ses ailes dans l&apos;espace. <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Retrouver le chemin<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>, dévoile des foulards qui créent un espace de jeu dansant à partager avec les enfants. Ces deux histoires emmènent le public dans un univers où les matières, couleurs et textures guident la rencontre. </source>
+      </trans-unit>
+      <trans-unit id="5594714926957189253" datatype="html">
+        <source>Dès le plus jeune âge</source>
+      </trans-unit>
+      <trans-unit id="5747676330354540066" datatype="html">
+        <source> Brunchs artistiques Scènes Ôtrement théâtre L&apos;île Ô Lyon <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> 2025 : 22 mars, 6 avril, 13 avril, 12 octobre, 2 novembre, 30 novembre <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>2026 : 29 mars, 12 avril<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
+      </trans-unit>
+      <trans-unit id="8025476766056927452" datatype="html">
+        <source>Durée : 15min</source>
+      </trans-unit>
+      <trans-unit id="1193673508748141656" datatype="html">
+        <source>Projet de recherche, laboratoire participatif et performance entre arts visuels et mouvement. </source>
+      </trans-unit>
+      <trans-unit id="9204036388798580342" datatype="html">
+        <source>Des histoires en mouvement pour découvrir la danse contemporaine. </source>
       </trans-unit>
     </body>
   </file>
