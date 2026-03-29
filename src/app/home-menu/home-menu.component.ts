@@ -43,20 +43,10 @@ export class HomeMenuComponent {
   private SwitchLanguage(targetLocale: string) : void{
     const localeRegex = new RegExp("\/(fr|en)\/")
     const currentUrl = window.location.href;
-    console.log("current url: " + currentUrl);
-    const currentLocale =  localeRegex.exec(currentUrl);
-    if(currentLocale == null){
-      console.log("no locale found in url");
-    }
-    else {
-      if(currentLocale[1] == targetLocale){
-        console.log("already in locale " + targetLocale);
-      }
-      else{
-        const redirection = currentUrl.replace("/"+currentLocale[1]+"/", "/"+targetLocale+"/");
-        console.log("redirecting to: " + redirection);
-        window.location.href = redirection;
-      }
+    const currentLocale = localeRegex.exec(currentUrl);
+    if(currentLocale != null && currentLocale[1] != targetLocale){
+      const redirection = currentUrl.replace("/"+currentLocale[1]+"/", "/"+targetLocale+"/");
+      window.location.href = redirection;
     }
   }
 }

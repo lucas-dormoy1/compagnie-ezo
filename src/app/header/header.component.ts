@@ -1,5 +1,5 @@
-import { AfterViewInit, Component } from '@angular/core';
-import { distinctUntilChanged, filter, fromEvent, map, pairwise, share, throttleTime } from 'rxjs';
+import { AfterViewInit, Component, OnDestroy } from '@angular/core';
+import { distinctUntilChanged, filter, fromEvent, map, pairwise, share, Subject, takeUntil, throttleTime } from 'rxjs';
 
 enum Direction {
   Up = 'Up',
@@ -12,10 +12,10 @@ enum Direction {
   styleUrls: ['./header.component.scss'],
 })
 
-export class HeaderComponent implements AfterViewInit {
+export class HeaderComponent implements AfterViewInit, OnDestroy {
   public isVisible = true;
+  private destroy$ = new Subject<void>();
 
-  constructor() { }
   ngAfterViewInit(): void {
     const scroll$ = fromEvent(window, 'scroll').pipe(
       throttleTime(10),
@@ -34,7 +34,12 @@ export class HeaderComponent implements AfterViewInit {
       filter(direction => direction === Direction.Down)
     );
 
-    goingUp$.subscribe(() => (this.isVisible = true));
-    goingDown$.subscribe(() => (this.isVisible = false));
+    goingUp$.pipe(takeUntil(this.destroy$)).subscribe(() => (this.isVisible = true));
+    goingDown$.pipe(takeUntil(this.destroy$)).subscribe(() => (this.isVisible = false));
+  }
+
+  ngOnDestroy(): void {
+    this.destroy$.next();
+    this.destroy$.complete();
   }
 }
