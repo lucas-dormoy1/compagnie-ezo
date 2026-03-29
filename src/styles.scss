@@ -25,6 +25,12 @@ body {
   height: 100%;
   margin: 0;
   font-family: Avenir, Roboto, "Helvetica Neue", sans-serif;
+  overflow-x: clip;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .separation-line {

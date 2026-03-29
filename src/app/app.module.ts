@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import { NgOptimizedImage } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { MatButtonModule } from '@angular/material/button';
@@ -47,6 +48,7 @@ const routes: Routes = [
     MatCardModule,
     MatDividerModule,
     MatButtonModule,
+    NgOptimizedImage,
   ],
   providers: [],
   bootstrap: [AppComponent]

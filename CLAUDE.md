@@ -2,7 +2,7 @@
 
 ## Vue d'ensemble
 
-Site web de la Compagnie EZO (compagnie de danse contemporaine). Application Angular 14 avec Angular Material, bilingue (français/anglais), déployée sur Firebase Hosting.
+Site web de la Compagnie EZO (compagnie de danse contemporaine). Application Angular 19 avec Angular Material, bilingue (français/anglais), déployée sur Firebase Hosting.
 
 ## Commandes
 
@@ -17,8 +17,8 @@ La CI build et déploie automatiquement sur Firebase à chaque push sur `main`.
 
 ## Architecture
 
-- **Angular 14** avec SCSS, Angular Material 14, RxJS 7
-- **Routing :** Défini dans `src/app/app.module.ts` — routes à plat par fonctionnalité (home, presentation, projects, creations, workshops, contact) avec sous-pages imbriquées pour les créations
+- **Angular 19** avec SCSS, Angular Material 19, RxJS 7
+- **Routing :** Défini dans `src/app/app.module.ts` — routes à plat par fonctionnalité (home, presentation, projects, creations, workshops, contact) avec lazy loading (`loadChildren`) pour tous les modules sauf home
 - **i18n :** i18n natif Angular avec fichiers XLF dans `src/locale/`. Le français est la locale source ; l'anglais est la traduction. Les URLs sont préfixées `/fr/` et `/en/`. Le changement de langue est géré par réécriture d'URL dans `HomeMenuComponent`
 - **Déploiement :** Firebase Hosting avec rewrites — `/en/**` → index anglais, tout le reste → index français
 

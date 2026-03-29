@@ -86,13 +86,15 @@
   padding: 0 2rem;
 
   > *, > .murol {
-    min-width: calc(25% - 3rem);
     object-fit: contain;
+    min-width: 0;
   }
+  box-sizing: border-box;
 }
 
 .soutien-image {
   height: 6rem;
+  width: auto;
 }
 
 @media only screen and (max-width: $small-screen-size) {

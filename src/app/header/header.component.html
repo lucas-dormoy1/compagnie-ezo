@@ -1,10 +1,13 @@
 <header class="header">
   <img
-    src="assets/LogoEZO.png"
+    ngSrc="assets/LogoEZO.png"
     alt="logo de la compagnie EZO"
     i18n-alt
     class="logo"
     routerLink="/home"
+    width="340"
+    height="120"
+    priority
   />
   <div class="title" [ngClass]="{ reveal: isVisible }">
     <h1 class="compagny-name" i18n>Compagnie Ezo</h1>

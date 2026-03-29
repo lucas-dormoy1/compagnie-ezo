@@ -141,6 +141,7 @@
 
 .news-image {
   max-height: 70vh;
+  width: auto;
 }
 
 .news-video {
@@ -171,12 +172,12 @@
   .news-image {
     min-width: 15rem;
     max-width: 15rem;
-    min-height: 15rem;
+    height: auto;
   }
   .news-image.landscape {
     max-width: 90vw;
     min-width: auto;
-    min-height: auto;
+    height: auto;
   }
 
   .news-video {

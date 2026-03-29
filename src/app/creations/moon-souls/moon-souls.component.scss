@@ -33,6 +33,7 @@
 
 .image {
   height: 100%;
+  width: auto;
 }
 
 .paragraphe {
@@ -128,6 +129,7 @@
 
 .soutien-image {
   height: 6rem;
+  width: auto;
 }
 
 .murol {
@@ -150,8 +152,8 @@
   box-sizing: border-box;
 
   > * {
-    max-width: calc(25% - 3rem);
     object-fit: contain;
+    min-width: 0;
   }
   width: 100%;
 }

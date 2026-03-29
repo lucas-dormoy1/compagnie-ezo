@@ -1,4 +1,4 @@
-import { CommonModule } from '@angular/common';
+import { CommonModule, NgOptimizedImage } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { MatDialogModule } from '@angular/material/dialog';
@@ -30,6 +30,7 @@ const routes: Routes = [
     CommonModule,
     RouterModule.forChild(routes),
     MatDialogModule,
+    NgOptimizedImage,
   ],
 })
 export class CreationsModule {}

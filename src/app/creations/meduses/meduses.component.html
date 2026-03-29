@@ -36,9 +36,11 @@
   <div class="meduses-paragraphe with-image">
     <div class="blue-frame">
       <img
-        src="assets/creations/meduses/mapado.jpg"
+        ngSrc="assets/creations/meduses/mapado.jpg"
         class="meduses-image"
         alt="Plusieurs danseurs dans le processus de création chorégraphique"
+        width="1200"
+        height="800"
       />
       <div class="container">
         <span class="a-propos" i18n>À propos de la pièce</span>
@@ -95,9 +97,11 @@
         </ul>
       </div>
       <img
-        src="assets/creations/meduses/mapado_2.jpg"
+        ngSrc="assets/creations/meduses/mapado_2.jpg"
         class="meduses-image"
         alt="La chorégraphe communique avec ses danseurs"
+        width="1200"
+        height="800"
       />
     </div>
   </div>
@@ -111,9 +115,11 @@
       (click)="openModalArtist(artist)"
     >
       <img
-        [src]="getArtistImagePath(artist)"
+        [ngSrc]="getArtistImagePath(artist)"
         class="meduses-artist-image"
         [alt]="artist.alt"
+        width="400"
+        height="500"
       />
       <div class="artist-name">
         <span> {{ artist.firstName }} {{ artist.lastName }} </span>
@@ -125,47 +131,63 @@
 <div class="additional-info">
   <div class="soutiens">
     <img
-      src="assets/soutiens/pole-en-scenes-logo.png"
+      ngSrc="assets/soutiens/pole-en-scenes-logo.png"
       class="soutien-image"
       alt="logo de Pôle Pik"
+      width="200"
+      height="80"
     />
     <img
-      src="assets/soutiens/cnd_blanc.png"
+      ngSrc="assets/soutiens/cnd_blanc.png"
       class="soutien-image"
       alt="logo du CND"
+      width="200"
+      height="80"
     />
     <img
-      src="assets/soutiens/logo-blanc-manufacture.png"
+      ngSrc="assets/soutiens/logo-blanc-manufacture.png"
       class="soutien-image"
       alt="logo de la Manufacture d’Aurillac"
+      width="200"
+      height="80"
     />
     <div class="murol">
       <img
-        src="assets/soutiens/blason_murol.png"
+        ngSrc="assets/soutiens/blason_murol.png"
         alt="blason de la ville de Murol"
         class="soutien-image"
+        width="100"
+        height="120"
       />
       Ville de Murol
     </div>
     <img
-      src="assets/soutiens/hallet_eghayan.png"
+      ngSrc="assets/soutiens/hallet_eghayan.png"
       class="soutien-image"
       alt="logo de la compagnie Hallet Eghayan"
+      width="200"
+      height="80"
     />
     <img
-      src="assets/soutiens/chatha.svg"
+      ngSrc="assets/soutiens/chatha.svg"
       class="soutien-image"
       alt="logo du studio Chatha"
+      width="200"
+      height="80"
     />
     <img
-      src="assets/soutiens/spedidam.png"
+      ngSrc="assets/soutiens/spedidam.png"
       class="soutien-image"
       alt="logo de la Spedidam"
+      width="200"
+      height="80"
     />
     <img
-      src="assets/soutiens/regard-du-cygne.png"
+      ngSrc="assets/soutiens/regard-du-cygne.png"
       class="soutien-image"
       alt="logo du Regard Du Cygne"
+      width="200"
+      height="80"
     />
   </div>
 </div>

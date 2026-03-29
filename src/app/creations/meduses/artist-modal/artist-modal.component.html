@@ -1,8 +1,10 @@
 <div class="artist-modal">
   <img
-    [src]="getArtistImagePath(artist)"
+    [ngSrc]="getArtistImagePath(artist)"
     class="artist-portrait"
     [alt]="artist.alt"
+    width="400"
+    height="500"
   />
   <div class="artist-details">
     <span class="artist-name"

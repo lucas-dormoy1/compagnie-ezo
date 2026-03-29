@@ -42,6 +42,7 @@
 
 .solo-image {
   height: 100%;
+  width: auto;
 }
 
 .solo-paragraphe {
@@ -133,6 +134,7 @@
 
 .soutien-image {
   height: 6rem;
+  width: auto;
 }
 
 .murol {
@@ -155,9 +157,10 @@
   padding: 0 2rem;
 
   > *, > .murol {
-    min-width: calc(25% - 3rem);
     object-fit: contain;
+    min-width: 0;
   }
+  box-sizing: border-box;
 }
 
 .file-button {

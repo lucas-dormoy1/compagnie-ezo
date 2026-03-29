@@ -37,6 +37,7 @@
 
 .solo-image {
   height: 100%;
+  width: auto;
 }
 
 .solo-paragraphe {
@@ -120,6 +121,7 @@
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  overflow-x: hidden;
 
   ::-webkit-scrollbar {
     display: none;
@@ -128,6 +130,8 @@
 
 .soutien-image {
   height: 6rem;
+  width: auto;
+  max-width: 100%;
 }
 
 .murol {
@@ -149,10 +153,11 @@
   padding: 0 2rem;
 
   > *, > .murol {
-    min-width: calc(25% - 3rem);
     object-fit: contain;
+    min-width: 0;
   }
   width: 100%;
+  box-sizing: border-box;
 }
 
 .file-button {

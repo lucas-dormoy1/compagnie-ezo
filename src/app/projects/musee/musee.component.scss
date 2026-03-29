@@ -27,6 +27,7 @@
 
 .musee-image {
   max-height: 35rem;
+  width: auto;
 }
 
 .musee-paragraphe {
@@ -48,6 +49,7 @@
 
 .photo {
   height: 40rem;
+  width: auto;
   margin-left: 3rem;
   margin-right: 3rem;
   margin-bottom: 0.5rem;
@@ -102,13 +104,15 @@
   padding: 0 2rem;
 
   > *, > .murol {
-    min-width: calc(25% - 3rem);
     object-fit: contain;
+    min-width: 0;
   }
+  box-sizing: border-box;
 }
 
 .soutien-image {
   height: 6rem;
+  width: auto;
 }
 
 .murol {
