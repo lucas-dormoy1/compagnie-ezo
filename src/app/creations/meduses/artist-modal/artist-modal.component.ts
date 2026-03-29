@@ -1,4 +1,4 @@
-import { Component, Inject, OnInit } from '@angular/core';
+import { Component, Inject } from '@angular/core';
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { Artist } from '../meduses.component';
 
@@ -8,16 +8,12 @@ import { Artist } from '../meduses.component';
     styleUrls: ['./artist-modal.component.scss'],
     standalone: false
 })
-export class ArtistModalComponent implements OnInit {
+export class ArtistModalComponent {
   public artist: Artist;
   private imagePathBase: string = "assets/creations/meduses/artists/"; 
 
   constructor(public dialogRef: MatDialogRef<ArtistModalComponent>, @Inject(MAT_DIALOG_DATA) public data: Artist) { 
     this.artist = data;
-  }
-
-
-  ngOnInit(): void {
   }
 
   close(): void{

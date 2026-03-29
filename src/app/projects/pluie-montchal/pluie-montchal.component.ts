@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'app-pluie-montchal',
@@ -6,11 +6,8 @@ import { Component, OnInit } from '@angular/core';
     styleUrls: ['./pluie-montchal.component.scss'],
     standalone: false
 })
-export class PluieMontchalComponent implements OnInit {
+export class PluieMontchalComponent {
 
   constructor() { }
-
-  ngOnInit(): void {
-  }
 
 }

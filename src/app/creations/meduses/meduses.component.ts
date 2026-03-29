@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { Router } from '@angular/router';
 import { ArtistModalComponent } from './artist-modal/artist-modal.component';
@@ -11,7 +11,7 @@ const SMALL_SCREEN_SIZE_PX = 960; // Mirrors $small-screen-size: 60rem
     styleUrls: ['./meduses.component.scss'],
     standalone: false
 })
-export class MedusesComponent implements OnInit {
+export class MedusesComponent {
 
   private imagePathBase: string = "assets/creations/meduses/artists/"; 
   public artists: Artist[] = [
@@ -78,9 +78,6 @@ export class MedusesComponent implements OnInit {
     )
   ]
   constructor(public dialog: MatDialog, public router: Router) { }
-
-  ngOnInit(): void {
-  }
 
   openModalArtist(artist: Artist) : void{
     const isMobile = window.innerWidth <= SMALL_SCREEN_SIZE_PX;

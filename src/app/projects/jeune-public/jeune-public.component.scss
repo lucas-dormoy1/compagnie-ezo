@@ -84,12 +84,12 @@
   align-items: center;
   gap: 1.5rem 3rem;
   padding: 0 2rem;
+  box-sizing: border-box;
 
   > *, > .murol {
     object-fit: contain;
     min-width: 0;
   }
-  box-sizing: border-box;
 }
 
 .soutien-image {
