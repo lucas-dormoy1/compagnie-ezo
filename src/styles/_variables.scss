@@ -1,4 +1,15 @@
 $dark-blue: #082bcb;
 $orange-solo: #ff9021;
 
+// Breakpoints
 $small-screen-size: 60rem;
+
+// Fluid typography
+$page-title-size: clamp(2rem, 5vw, 5rem);
+$section-title-size: clamp(1.5rem, 3vw, 3rem);
+$card-title-size: clamp(1.5rem, 2.5vw, 3rem);
+$subtitle-size: clamp(1rem, 1.5vw, 1.5rem);
+$body-size: clamp(1rem, 1.2vw, 1.2rem);
+
+// Fluid spacing
+$page-padding-inline: clamp(1rem, 4vw, 4%);

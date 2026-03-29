@@ -16,7 +16,7 @@
 
 .logo {
   cursor: pointer;
-  width: 170px;
+  width: clamp(8rem, 12vw, 170px);
   height: auto;
   padding-left: 2rem;
 }
@@ -29,13 +29,13 @@
 
 .compagny-name {
   text-transform: uppercase;
-  font-size: 4rem;
+  font-size: clamp(2rem, 4vw, 4rem);
   font-weight: normal;
   margin: 0px;
 }
 
 .artist-name {
-  font-size: 3rem;
+  font-size: clamp(1.5rem, 3vw, 3rem);
   font-weight: normal;
   margin: 0px;
 }
@@ -46,14 +46,10 @@ app-home-menu {
 
 @media only screen and (max-width: $small-screen-size) {
   .compagny-name {
-    font-size: 2rem;
     padding-top: 1rem;
     text-align: center;
   }
 
-  .artist-name {
-    font-size: 1.5rem;
-  }
   .header {
     display: grid;
     grid-template-columns: 50% 50%;

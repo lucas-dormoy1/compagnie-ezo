@@ -17,10 +17,10 @@
   text-transform: uppercase;
   width: 100%;
   color: $dark-blue;
-  font-size: 3rem;
+  font-size: $section-title-size;
 
   span {
-    padding: 0rem 4rem 0rem 4rem;
+    padding: 0rem clamp(0.5rem, 3vw, 4rem);
   }
 }
 
@@ -91,7 +91,7 @@
 
 .news-card-know-more {
   width: fit-content;
-  margin: 1rem 5rem 2rem 2rem;
+  margin: 1rem clamp(0rem, 4vw, 5rem) 2rem 2rem;
 }
 
 .news-card-side {
@@ -104,15 +104,15 @@
 }
 
 .news-title {
-  font-size: 2rem;
-  margin-bottom: 3rem;
+  font-size: clamp(1.2rem, 2vw, 2rem);
+  margin-bottom: clamp(0.5rem, 2vw, 3rem);
   width: 100%;
   display: flex;
   flex-direction: column;
 }
 
 .last-shows {
-  font-size: 2rem;
+  font-size: clamp(1.2rem, 2vw, 2rem);
   width: 100%;
   max-width: 85rem;
 }
@@ -127,7 +127,7 @@
 
 .news-subtitle {
   width: 100%;
-  font-size: 1.5rem;
+  font-size: $subtitle-size;
 }
 
 .news-text {
@@ -154,10 +154,6 @@
 }
 
 @media only screen and (max-width: $small-screen-size) {
-  .description {
-    font-size: 1rem;
-  }
-
   .news-list {
     justify-content: center;
   }
@@ -196,42 +192,17 @@
     flex-direction: column;
   }
 
-  .news-card-side {
-    align-items: flex-start;
-  }
-
-  .news-card-know-more {
-    margin: 1rem 0rem 1rem 0rem;
-  }
-
   .meduses-video {
     min-width: 90vw;
     height: 30vh;
   }
 
-  .news-title {
-    font-size: 1.2rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .last-shows {
-    font-size: 1.2rem;
-  }
-
-  .news-subtitle {
-    font-size: 1rem;
+  .news-card-side {
+    align-items: flex-start;
   }
 
   .left,
   .right {
     width: 20%;
-  }
-
-  .title {
-    justify-content: space-around;
-    span {
-      padding: 0rem 0.5rem 0rem 0.5rem;
-      font-size: 2rem;
-    }
   }
 }

@@ -17,9 +17,8 @@
 }
 
 .title {
-  font-size: 5rem;
+  font-size: $page-title-size;
   text-transform: uppercase;
-  //   text-align: center;
 }
 
 .title-container {
@@ -46,20 +45,20 @@
 .contact-company {
   display: grid;
   grid-template-columns: 50% 50%;
-  font-size: 1.5rem;
+  font-size: $subtitle-size;
 }
 
 .left {
   grid-column: 1;
   text-align: right;
   border-right: 1px solid $dark-blue;
-  padding-right: 5rem;
+  padding-right: clamp(1rem, 4vw, 5rem);
 }
 
 .right {
   grid-column: 2;
   border-left: 1px solid $dark-blue;
-  padding-left: 5rem;
+  padding-left: clamp(1rem, 4vw, 5rem);
 }
 
 .contact-mean {

@@ -14,18 +14,12 @@
 }
 
 .description {
-  font-size: 1.5rem;
-  padding: 0rem 2rem 0rem 2rem;
+  font-size: $subtitle-size;
+  padding: 0rem 2rem;
   text-align: justify;
 }
 
 .news {
   width: 100%;
   margin-bottom: 3rem;
-}
-
-@media only screen and (max-width: $small-screen-size) {
-  .description {
-    font-size: 1rem;
-  }
 }

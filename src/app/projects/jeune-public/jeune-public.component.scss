@@ -5,15 +5,15 @@
   flex-direction: column;
   align-items: center;
   padding: 0% 4% 0% 4%;
-  font-size: 1.2rem;
+  font-size: $body-size;
 }
 
 .jeune-public-title {
   color: $dark-blue;
-  margin-top: 4rem;
+  margin-top: clamp(1rem, 3vw, 4rem);
   margin-bottom: 2rem;
   text-transform: uppercase;
-  font-size: 5rem;
+  font-size: $page-title-size;
   text-align: center;
 }
 
@@ -30,11 +30,13 @@
   align-items: center;
   gap: 3rem;
   margin-top: 3rem;
-  width: 80rem;
+  width: min(100%, 80rem);
 }
 
 .video {
   flex-shrink: 0;
+  aspect-ratio: 9 / 16;
+  width: min(100%, 25rem);
 }
 
 .right-column {
@@ -98,11 +100,6 @@
 }
 
 @media only screen and (max-width: $small-screen-size) {
-  .jeune-public-title {
-    margin-top: 1rem;
-    font-size: 2rem;
-  }
-
   .subtitle {
     margin: 0rem 1rem 2rem 1rem;
     text-align: center;
@@ -115,14 +112,12 @@
   .content-layout {
     flex-direction: column;
     align-items: center;
-    width: 100%;
     gap: 0;
     margin-top: 2rem;
   }
 
   .video {
     width: 100%;
-    height: 120vw;
   }
 
   .right-column {

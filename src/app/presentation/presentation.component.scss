@@ -8,7 +8,7 @@
 }
 
 .presentation {
-  padding: 4%;
+  padding: $page-padding-inline;
 }
 
 .portrait {
@@ -25,13 +25,13 @@
 
 .title {
   text-transform: uppercase;
-  font-size: 2.5rem;
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
   margin-bottom: 2rem;
   text-align: center;
 }
 
 .choregraph {
-  font-size: 1.5rem;
+  font-size: $subtitle-size;
   font-weight: 300;
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -59,7 +59,7 @@
 }
 
 .subtitle {
-  font-size: 1.5rem;
+  font-size: $subtitle-size;
   font-weight: 300;
   margin-top: 1rem;
   margin-bottom: 1rem;

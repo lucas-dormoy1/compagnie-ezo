@@ -3,11 +3,11 @@
 .artist-name {
   color: $dark-blue;
   font-weight: 900;
-  font-size: 3rem;
+  font-size: $section-title-size;
 }
 
 .artist-portrait {
-  height: 40rem;
+  max-height: 40rem;
   width: auto;
   padding-right: 1rem;
 }
@@ -40,11 +40,6 @@
     width: 100%;
     padding-right: 0;
     margin-bottom: 1rem;
-  }
-
-  .artist-name {
-    color: $dark-blue;
-    font-size: 2rem;
   }
 
   .artist-details {

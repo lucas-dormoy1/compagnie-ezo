@@ -30,7 +30,7 @@ La CI build et déploie automatiquement sur Firebase à chaque push sur `main`.
 - `src/app/header/` — Header avec détection de direction de scroll via RxJS
 - `src/app/home-menu/` — Menu de navigation avec animations Angular
 - `src/app/creations/` — Pages des créations artistiques (meduses, horizons-cailloux, seven-tries, moon-souls)
-- `src/styles/_variables.scss` — Tokens de design : `$dark-blue: #082bcb`, `$orange-solo: #ff9021`, `$small-screen-size: 60rem`
+- `src/styles/_variables.scss` — Tokens de design (couleurs, typographie fluide, spacing fluide, breakpoint)
 - `src/locale/` — Fichiers de traduction XLF
 
 ## Gestion du contenu
@@ -58,4 +58,12 @@ Compagnie EZO est une compagnie de danse contemporaine fondée par la chorégrap
 
 ## Responsive
 
-Lors de l'ajout ou la modification de contenu, toujours considérer le rendu mobile. Le comportement responsive est géré via des media queries CSS sur `$small-screen-size` (60rem) dans le fichier SCSS de chaque composant. Chaque modification de contenu doit être vérifiée aux breakpoints desktop et mobile.
+Lors de l'ajout ou la modification de contenu, toujours considérer le rendu mobile. Chaque modification doit être vérifiée aux breakpoints desktop et mobile.
+
+- **Approche fluide** : privilégier `clamp()`, `min()`, `aspect-ratio` pour que le rendu s'adapte sans media queries
+- **Variables de typographie** : `$page-title-size`, `$section-title-size`, `$card-title-size`, `$subtitle-size`, `$body-size` — définies dans `_variables.scss` avec `clamp()`
+- **Spacing fluide** : `$page-padding-inline` pour les paddings de page
+- **Vidéos** : `width: min(100%, 60rem)` + `aspect-ratio: 16/9` — pas de height fixe
+- **Largeurs max** : `width: min(100%, Xrem)` au lieu de `width: Xrem` + override mobile
+- **Media queries** (`$small-screen-size: 60rem`) : réservées aux changements de layout (flex-direction, grid), pas aux font-size ou width déjà gérés par `clamp()`/`min()`
+- Conventions détaillées dans `.claude/rules/scss-responsive.md`
