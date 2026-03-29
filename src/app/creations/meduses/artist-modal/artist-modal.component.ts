@@ -1,12 +1,14 @@
 import { Component, Inject } from '@angular/core';
-import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
+import { NgFor, NgOptimizedImage } from '@angular/common';
+import { MAT_DIALOG_DATA, MatDialogModule, MatDialogRef } from '@angular/material/dialog';
 import { Artist } from '../meduses.component';
 
 @Component({
     selector: 'app-artist-modal',
     templateUrl: './artist-modal.component.html',
     styleUrls: ['./artist-modal.component.scss'],
-    standalone: false
+    standalone: true,
+    imports: [NgFor, NgOptimizedImage, MatDialogModule],
 })
 export class ArtistModalComponent {
   public artist: Artist;

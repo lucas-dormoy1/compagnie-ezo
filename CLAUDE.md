@@ -18,7 +18,8 @@ La CI build et déploie automatiquement sur Firebase à chaque push sur `main`.
 ## Architecture
 
 - **Angular 19** avec SCSS, Angular Material 19, RxJS 7
-- **Routing :** Défini dans `src/app/app.module.ts` — routes à plat par fonctionnalité (home, presentation, projects, creations, workshops, contact) avec lazy loading (`loadChildren`) pour tous les modules sauf home
+- **Standalone components :** Tous les composants sont standalone avec leurs imports déclarés directement dans `@Component.imports`
+- **Routing :** Défini dans `src/app/app.module.ts` — routes à plat par fonctionnalité. Home est eager-loaded, `about`/`workshops`/`contact` utilisent `loadComponent`, `creations` et `projects` utilisent `loadChildren` avec des fichiers de routes dédiés (`creations.routes.ts`, `projects.routes.ts`)
 - **i18n :** i18n natif Angular avec fichiers XLF dans `src/locale/`. Le français est la locale source ; l'anglais est la traduction. Les URLs sont préfixées `/fr/` et `/en/`. Le changement de langue est géré par réécriture d'URL dans `HomeMenuComponent`
 - **Déploiement :** Firebase Hosting avec rewrites — `/en/**` → index anglais, tout le reste → index français
 
@@ -34,7 +35,7 @@ La CI build et déploie automatiquement sur Firebase à chaque push sur `main`.
 
 ## Gestion du contenu
 
-Tout le contenu est codé en dur dans les templates des composants et les assets — pas de CMS. Ajouter une nouvelle création ou un projet implique de créer de nouveaux composants Angular et d'ajouter des routes dans `app.module.ts`.
+Tout le contenu est codé en dur dans les templates des composants et les assets — pas de CMS. Ajouter une nouvelle création ou un projet implique de créer un nouveau composant standalone Angular et d'ajouter une route dans le fichier de routes correspondant (`creations.routes.ts` ou `projects.routes.ts`).
 
 ## Contenu du site
 

@@ -1,12 +1,17 @@
 import { Component, HostListener } from '@angular/core';
+import { NgIf } from '@angular/common';
+import { RouterLink } from '@angular/router';
 import { DropDownAnimation } from "./animations";
+import { CreationsMenuComponent } from './creations-menu/creations-menu.component';
+import { ProjectsMenuComponent } from './projects-menu/projects-menu.component';
 
 @Component({
     selector: 'app-home-menu',
     templateUrl: './home-menu.component.html',
     styleUrls: ['./home-menu.component.scss'],
     animations: [DropDownAnimation],
-    standalone: false
+    standalone: true,
+    imports: [NgIf, RouterLink, CreationsMenuComponent, ProjectsMenuComponent],
 })
 export class HomeMenuComponent {
   isOpen: boolean;

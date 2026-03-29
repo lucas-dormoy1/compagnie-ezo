@@ -1,11 +1,13 @@
 import { Component } from '@angular/core';
+import { NgOptimizedImage } from '@angular/common';
 import { Router } from '@angular/router';
 
 @Component({
     selector: 'app-horizons-cailloux',
     templateUrl: './horizons-cailloux.component.html',
     styleUrls: ['./horizons-cailloux.component.scss'],
-    standalone: false
+    standalone: true,
+    imports: [NgOptimizedImage],
 })
 export class HorizonsCaillouxComponent {
 

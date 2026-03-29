@@ -1,5 +1,8 @@
 import { AfterViewInit, Component, OnDestroy } from '@angular/core';
+import { NgClass, NgOptimizedImage } from '@angular/common';
+import { RouterLink } from '@angular/router';
 import { distinctUntilChanged, filter, fromEvent, map, pairwise, share, Subject, takeUntil, throttleTime } from 'rxjs';
+import { HomeMenuComponent } from '../home-menu/home-menu.component';
 
 enum Direction {
   Up = 'Up',
@@ -10,7 +13,8 @@ enum Direction {
     selector: 'app-header',
     templateUrl: './header.component.html',
     styleUrls: ['./header.component.scss'],
-    standalone: false
+    standalone: true,
+    imports: [NgClass, NgOptimizedImage, RouterLink, HomeMenuComponent],
 })
 
 export class HeaderComponent implements AfterViewInit, OnDestroy {

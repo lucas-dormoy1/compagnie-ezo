@@ -1,4 +1,6 @@
 import { Component, EventEmitter, Output } from '@angular/core';
+import { NgClass, NgIf } from '@angular/common';
+import { RouterLink } from '@angular/router';
 import { DropDownAnimation } from './animations';
 
 @Component({
@@ -6,7 +8,8 @@ import { DropDownAnimation } from './animations';
     templateUrl: './projects-menu.component.html',
     styleUrls: ['./projects-menu.component.scss'],
     animations: [DropDownAnimation],
-    standalone: false
+    standalone: true,
+    imports: [NgClass, NgIf, RouterLink],
 })
 export class ProjectsMenuComponent{
   isOpen: boolean;
