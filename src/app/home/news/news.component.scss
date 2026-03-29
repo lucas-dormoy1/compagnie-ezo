@@ -96,6 +96,7 @@
   padding: 2rem;
   align-items: flex-end;
   width: 100%;
+  gap: 0.5rem;
 }
 
 .news-title {
@@ -128,6 +129,10 @@
 .news-text {
   width: 100%;
   font-size: medium;
+
+  & + .news-subtitle {
+    margin-top: 1.5rem;
+  }
 }
 
 .news-image {
