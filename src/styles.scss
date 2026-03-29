@@ -33,6 +33,14 @@ img {
   height: auto;
 }
 
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-weight: inherit;
+  font-size: inherit;
+}
+
 .separation-line {
   height: 2px;
   background-color: $dark-blue;

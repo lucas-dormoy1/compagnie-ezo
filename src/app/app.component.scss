@@ -11,7 +11,26 @@ app-header {
   z-index: 1;
 }
 
+footer {
+  background-color: $dark-blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.5rem $page-padding-inline;
+  font-size: $body-size;
+
+  a {
+    color: white;
+  }
+}
+
 @media only screen and (max-width: $small-screen-size) {
+  footer {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
   .headerspace {
     height: 13rem;
     margin: 2rem 0rem;
