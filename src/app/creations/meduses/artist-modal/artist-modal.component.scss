@@ -23,6 +23,9 @@
 }
 
 .close {
+  background: none;
+  border: none;
+  cursor: pointer;
   color: $dark-blue;
   font-size: 2rem;
   padding-left: 1rem;

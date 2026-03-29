@@ -9,7 +9,4 @@ import { NgOptimizedImage } from '@angular/common';
     imports: [NgOptimizedImage],
 })
 export class TuningInToTheSensesComponent {
-
-  constructor() { }
-
 }

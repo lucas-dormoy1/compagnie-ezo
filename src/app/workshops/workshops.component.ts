@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NgOptimizedImage } from '@angular/common';
-import { Router } from '@angular/router';
 
 @Component({
     selector: 'app-workshops',
@@ -10,6 +9,4 @@ import { Router } from '@angular/router';
     imports: [NgOptimizedImage],
 })
 export class WorkshopsComponent {
-
-  constructor(public router: Router) { }
 }

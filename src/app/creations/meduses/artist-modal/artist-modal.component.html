@@ -17,7 +17,7 @@
       <p>{{ paragraph }}</p>
     </div>
   </div>
-  <div (click)="close()" class="close">
-    <img src="assets/icons/close.svg" alt="icône x pour fermer la page" />
-  </div>
+  <button (click)="close()" class="close" i18n-aria-label aria-label="Fermer">
+    <img src="assets/icons/close.svg" alt="icône x pour fermer la page" i18n-alt />
+  </button>
 </div>

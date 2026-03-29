@@ -14,7 +14,7 @@
 
 ## P3 - Clean code & standards
 
-- [ ] **Supprimer injections Router inutiles** : moon-souls, seven-tries, horizons-cailloux, workshops injectent `Router` sans l'utiliser. Supprimer aussi les constructeurs vides (contact, pluie-montchal, tuning-in-to-the-senses).
-- [ ] **i18n manquants** : ajouter `i18n` sur "Ville de Murol" (4 templates) et sur les boutons "En savoir plus" dans creations.component.html et projects.component.html.
-- [ ] **Accessibilité** : remplacer le `<div>` clickable par un `<button>` avec `aria-label` dans artist-modal. Ajouter `i18n-alt` sur les images de sponsors.
-- [ ] **Interface Project inutilisée** : `models/Project.ts` n'est importé nulle part. L'utiliser dans les composants ou le supprimer.
+- [x] **Supprimer injections Router inutiles** : moon-souls, seven-tries, horizons-cailloux, workshops injectent `Router` sans l'utiliser. Supprimer aussi les constructeurs vides (contact, pluie-montchal, tuning-in-to-the-senses).
+- [x] **i18n manquants** : ajouter `i18n` sur "Ville de Murol" (4 templates) et sur les boutons "En savoir plus" dans creations.component.html et projects.component.html.
+- [x] **Accessibilité** : remplacer le `<div>` clickable par un `<button>` avec `aria-label` dans artist-modal. Ajouter `i18n-alt` sur les images de sponsors.
+- [x] **Interface Project inutilisée** : `models/Project.ts` n'est importé nulle part. L'utiliser dans les composants ou le supprimer.
