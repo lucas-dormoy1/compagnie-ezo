@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="3251853637600022942" datatype="html">
         <source> En 2021 elle intègre le programme professionnel DART DSP à Berlin auprès de la compagnie DART. Durant la saison 2021-2022 elle travaille, dans le cadre de la formation, avec les chorégraphes Fabio Liberti et le duo Dor Mamalia et Dariusz Nowak. Elle danse dans les pièces <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Solo(s) for real<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> et <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> qui ont été présentées sur la scène du Pfeffeberg theatre et Uferstudios à Berlin. Elle est également interprète dans la pièce <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>WHOAMI<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> chorégraphiée par Giada Grieco et présentée sur plusieurs scènes à Berlin. </source>
-        <target state="new"> In 2021 she joined the professional program DART DSP in Berlin with the company DART. During the season she worked with the choreographers Fabio Liberti and the duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Solo(s) for real<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> and <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/> AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> which were presented on the stage of Pfeffeberg theatre and Uferstudios in Berlin. She is also a performer in the piece <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>WHOAMI<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> choreographed by Giada Grieco and presented on several stages in Berlin. </target>
+        <target> In 2021 she joined the professional program DART DSP in Berlin with the company DART. During the 2021-2022 season, she worked, as part of the program, with choreographers Fabio Liberti and the duo Dor Mamalia and Dariusz Nowak. She danced in the pieces <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Solo(s) for real<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> and <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>AISLING<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> which were presented on the stage of Pfefferberg Theatre and Uferstudios in Berlin. She is also a performer in the piece <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>WHOAMI<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> choreographed by Giada Grieco and presented on several stages in Berlin. </target>
       </trans-unit>
       <trans-unit id="5038255975706019341" datatype="html">
         <source>Démarche artistique</source>
@@ -298,8 +298,8 @@
         <source>Création 2024</source>
         <target>2024 Creation</target>
       </trans-unit>
-      <trans-unit id="8955063668560132285" datatype="html">
-        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d’Odalie (Sophie Griffon). </source>
+      <trans-unit id="5884413661430474706" datatype="html">
+        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d&apos;Odalie (Sophie Griffon). </source>
         <target>New solo choreographed and performed by Estelle Bézombes to music by Odalie (Sophie Griffon).</target>
       </trans-unit>
       <trans-unit id="1143961687135393326" datatype="html">
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="3292388198655477049" datatype="html">
         <source>Isadora and Raymond Duncan Dance Research Center </source>
-        <target state="new">Isadora and Raymond Duncan Dance Research Center </target>
+        <target>Isadora and Raymond Duncan Dance Research Center </target>
       </trans-unit>
       <trans-unit id="5916170696226513935" datatype="html">
         <source>Athènes - Octobre 2024</source>
@@ -709,6 +709,82 @@
       <trans-unit id="333339397846096187" datatype="html">
         <source>Vidéo : Dialogue avec l&apos;oeuvre Pluie de Montchal - Compagnie EZO</source>
         <target>Video: Dialogue with the artwork Pluie de Montchal - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="9059155436017318544" datatype="html">
+        <source>Fermer</source>
+        <target>Close</target>
+      </trans-unit>
+      <trans-unit id="8834571704851459007" datatype="html">
+        <source>icône x pour fermer la page</source>
+        <target>x icon to close the page</target>
+      </trans-unit>
+      <trans-unit id="8281616210005866615" datatype="html">
+        <source>logo de Pôle Pik</source>
+        <target>Pôle Pik logo</target>
+      </trans-unit>
+      <trans-unit id="3648984994368699032" datatype="html">
+        <source>logo du CND</source>
+        <target>CND logo</target>
+      </trans-unit>
+      <trans-unit id="9184332329271952775" datatype="html">
+        <source>logo de la Manufacture d&apos;Aurillac</source>
+        <target>Manufacture d&apos;Aurillac logo</target>
+      </trans-unit>
+      <trans-unit id="885662799416737911" datatype="html">
+        <source>blason de la ville de Murol</source>
+        <target>coat of arms of the city of Murol</target>
+      </trans-unit>
+      <trans-unit id="1613511635133057167" datatype="html">
+        <source>Ville de Murol</source>
+        <target>City of Murol</target>
+      </trans-unit>
+      <trans-unit id="3074022174126821536" datatype="html">
+        <source>logo de la compagnie Hallet Eghayan</source>
+        <target>Hallet Eghayan company logo</target>
+      </trans-unit>
+      <trans-unit id="6238582901914039203" datatype="html">
+        <source>logo du studio Chatha</source>
+        <target>Chatha studio logo</target>
+      </trans-unit>
+      <trans-unit id="3154365127024429135" datatype="html">
+        <source>logo de la Spedidam</source>
+        <target>Spedidam logo</target>
+      </trans-unit>
+      <trans-unit id="5684020495843465954" datatype="html">
+        <source>logo du Regard Du Cygne</source>
+        <target>Regard Du Cygne logo</target>
+      </trans-unit>
+      <trans-unit id="3075486509690194268" datatype="html">
+        <source>logo du conseil départemental du Cantal</source>
+        <target>Cantal departmental council logo</target>
+      </trans-unit>
+      <trans-unit id="1751459668280206355" datatype="html">
+        <source>logo de DART Dance Company</source>
+        <target>DART Dance Company logo</target>
+      </trans-unit>
+      <trans-unit id="3362307599250165313" datatype="html">
+        <source>logo de Passeurs de danse</source>
+        <target>Passeurs de danse logo</target>
+      </trans-unit>
+      <trans-unit id="7851441444096430482" datatype="html">
+        <source>Logo du festival Platform14</source>
+        <target>Platform14 festival logo</target>
+      </trans-unit>
+      <trans-unit id="684289890117049987" datatype="html">
+        <source>logo de l&apos;institut français de Turquie</source>
+        <target>French Institute of Turkey logo</target>
+      </trans-unit>
+      <trans-unit id="1779231586875735304" datatype="html">
+        <source>logo de Boom&apos;Structur</source>
+        <target>Boom&apos;Structur logo</target>
+      </trans-unit>
+      <trans-unit id="3404950093066508856" datatype="html">
+        <source>Logo du MEM Murol</source>
+        <target>MEM Murol logo</target>
+      </trans-unit>
+      <trans-unit id="2852032859145474758" datatype="html">
+        <source>Logo L&apos;île Ô</source>
+        <target>L&apos;île Ô logo</target>
       </trans-unit>
     </body>
   </file>

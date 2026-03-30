@@ -233,8 +233,8 @@
       <trans-unit id="8435746992657615840" datatype="html">
         <source> Le système projette son influence dans l’espace au-delà de sa position et façonne les possibilités du corps en mouvement. Il définit les relations que l’on entretient avec soi, l’autre et le monde. Le corps, entre tension, intensité et douceur, cherche à redéfinir son rôle. </source>
       </trans-unit>
-      <trans-unit id="8955063668560132285" datatype="html">
-        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d’Odalie (Sophie Griffon). </source>
+      <trans-unit id="5884413661430474706" datatype="html">
+        <source>Nouveau solo chorégraphié et interprété par Estelle Bézombes sur une musique d&apos;Odalie (Sophie Griffon). </source>
       </trans-unit>
       <trans-unit id="1822467899376313542" datatype="html">
         <source>Musique composée par Odalie (Sophie Griffon)</source>
@@ -532,6 +532,63 @@
       </trans-unit>
       <trans-unit id="8635944971455862195" datatype="html">
         <source>Vidéo : Seven Tries - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="1613511635133057167" datatype="html">
+        <source>Ville de Murol</source>
+      </trans-unit>
+      <trans-unit id="1751459668280206355" datatype="html">
+        <source>logo de DART Dance Company</source>
+      </trans-unit>
+      <trans-unit id="1779231586875735304" datatype="html">
+        <source>logo de Boom&apos;Structur</source>
+      </trans-unit>
+      <trans-unit id="2852032859145474758" datatype="html">
+        <source>Logo L&apos;île Ô</source>
+      </trans-unit>
+      <trans-unit id="3074022174126821536" datatype="html">
+        <source>logo de la compagnie Hallet Eghayan</source>
+      </trans-unit>
+      <trans-unit id="3075486509690194268" datatype="html">
+        <source>logo du conseil départemental du Cantal</source>
+      </trans-unit>
+      <trans-unit id="3154365127024429135" datatype="html">
+        <source>logo de la Spedidam</source>
+      </trans-unit>
+      <trans-unit id="3362307599250165313" datatype="html">
+        <source>logo de Passeurs de danse</source>
+      </trans-unit>
+      <trans-unit id="3404950093066508856" datatype="html">
+        <source>Logo du MEM Murol</source>
+      </trans-unit>
+      <trans-unit id="3648984994368699032" datatype="html">
+        <source>logo du CND</source>
+      </trans-unit>
+      <trans-unit id="5684020495843465954" datatype="html">
+        <source>logo du Regard Du Cygne</source>
+      </trans-unit>
+      <trans-unit id="6238582901914039203" datatype="html">
+        <source>logo du studio Chatha</source>
+      </trans-unit>
+      <trans-unit id="684289890117049987" datatype="html">
+        <source>logo de l&apos;institut français de Turquie</source>
+      </trans-unit>
+      <trans-unit id="7851441444096430482" datatype="html">
+        <source>Logo du festival Platform14</source>
+      </trans-unit>
+      <trans-unit id="8281616210005866615" datatype="html">
+        <source>logo de Pôle Pik</source>
+      </trans-unit>
+      <trans-unit id="8834571704851459007" datatype="html">
+        <source>icône x pour fermer la page</source>
+      </trans-unit>
+      <trans-unit id="885662799416737911" datatype="html">
+        <source>blason de la ville de Murol</source>
+      </trans-unit>
+      <trans-unit id="9059155436017318544" datatype="html">
+        <source>Fermer</source>
+      </trans-unit>
+      <trans-unit id="9184332329271952775" datatype="html">
+        <source>logo de la Manufacture d&apos;Aurillac</source>
       </trans-unit>
     </body>
   </file>
