@@ -27,8 +27,8 @@ Aucun usage des services `Title` et `Meta` d'Angular. Toutes les pages partagent
 ### 3. Pas de données structurées (JSON-LD)
 Aucun markup schema.org. Types à ajouter : `Organization`, `Person` (Estelle Bézombes), `CreativeWork` (les pièces), `Event` (dates de représentation).
 
-### 4. Pas de `loading="lazy"` sur les images
-Les images below-the-fold se chargent toutes immédiatement.
+### ~~4. Pas de `loading="lazy"` sur les images~~ ✅
+~~Les images below-the-fold se chargent toutes immédiatement.~~ Géré automatiquement par `ngSrc` (`NgOptimizedImage`) — toutes les images sans `priority` ont `loading="lazy"` par défaut.
 
 ## Problèmes secondaires
 - ~~Pas de balises `<article>` pour les créations/projets, pas de `<footer>`~~ ✅
