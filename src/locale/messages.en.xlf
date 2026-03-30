@@ -418,14 +418,6 @@
         <source>Tuning in to the senses</source>
         <target>Tuning in to the senses</target>
       </trans-unit>
-      <trans-unit id="4547982760899808904" datatype="html">
-        <source>Projet de recherche et de performance entre arts visuels et mouvement</source>
-        <target>Research and performance project between visual arts and movement</target>
-      </trans-unit>
-      <trans-unit id="6142996092607995110" datatype="html">
-        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se réaliser sous la forme d’une performance participative dans laquelle le public est invité à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est complétée par des installations qui sont partie intégrante de l’expérience. </source>
-        <target> Inspired by the ecofeminist movement and at the crossroads of visual arts and dance, the research connects bodies to their environment through sand and glass. The spaces created are designed to enable us to listen to our senses while building reciprocal links with our surroundings. Research can take the form of a participatory performance in which the audience is invited to observe, marvel, engage and move as a group. The performance is complemented by installations that form an integral part of the experience. </target>
-      </trans-unit>
       <trans-unit id="4929573224792366787" datatype="html">
         <source>Aux Échappées Belles à Lyon le 23 février 2025.</source>
         <target>Aux Échappées Belles in February 2025, in Lyon.</target>
@@ -522,13 +514,9 @@
         <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
         <target> Juin 2025 : workshop with dancers-in-training from the Hallet Eghayan company in Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </target>
       </trans-unit>
-      <trans-unit id="3292388198655477049" datatype="html">
-        <source>Isadora and Raymond Duncan Dance Research Center </source>
-        <target>Isadora and Raymond Duncan Dance Research Center </target>
-      </trans-unit>
-      <trans-unit id="5916170696226513935" datatype="html">
-        <source>Athènes - Octobre 2024</source>
-        <target>Athens - October 2024</target>
+      <trans-unit id="3277601305023257976" datatype="html">
+        <source>Isadora and Raymond Duncan Dance Research Center</source>
+        <target>Isadora and Raymond Duncan Dance Research Center</target>
       </trans-unit>
       <trans-unit id="7935460889196326208" datatype="html">
         <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
@@ -777,6 +765,66 @@
       <trans-unit id="1925401333221122195" datatype="html">
         <source>Tous les projets</source>
         <target>All projects</target>
+      </trans-unit>
+      <trans-unit id="8238590181938848232" datatype="html">
+        <source>Athènes, Grèce - Octobre 2024</source>
+        <target>Athens, Greece - October 2024</target>
+      </trans-unit>
+      <trans-unit id="6484702418162188753" datatype="html">
+        <source>Performance Tuning in to the senses à Athènes</source>
+        <target>Tuning in to the senses performance in Athens</target>
+      </trans-unit>
+      <trans-unit id="8278232689914814407" datatype="html">
+        <source> Cette première résidence de recherche d&apos;un mois a abouti à une performance participative qui propose d&apos;impliquer le public dans son observation d&apos;un espace extérieur, à la fois habité par des corps en mouvement et par une installation. Le public est invité à créer son cadre de vision à l&apos;aide de verre, de sable et d&apos;eau et à regarder la performance à travers celui-ci. </source>
+        <target> This first month-long research residency resulted in a participatory performance that invites the audience to observe an outdoor space, inhabited by both moving bodies and an installation. The audience is invited to create their own viewing frame using glass, sand and water, and to watch the performance through it. </target>
+      </trans-unit>
+      <trans-unit id="4132625828273373134" datatype="html">
+        <source> Lors de cette rencontre, les performers partagent l&apos;espace avec le public et l&apos;invitent à observer, à s&apos;émerveiller, à s&apos;engager et à se mettre en mouvement. La création d&apos;un cadre de vision et l&apos;observation à travers celui-ci permet de décaler le regard. Le performer humain n&apos;est plus au centre de la performance mais il cohabite avec les autres éléments au grès du focus de l&apos;œil du public. Le public met également son corps en jeu dans l&apos;espace en cherchant à observer à travers son cadre et se transforme ainsi en performer sans même s&apos;en rendre compte. </source>
+        <target> During this encounter, the performers share the space with the audience and invite them to observe, to wonder, to engage and to move. Creating a viewing frame and observing through it shifts one&apos;s gaze. The human performer is no longer at the centre of the performance but coexists with the other elements according to the focus of the viewer&apos;s eye. The audience also puts their body into play in the space by seeking to observe through their frame, thus becoming performers themselves without even realising it. </target>
+      </trans-unit>
+      <trans-unit id="7601329839184949065" datatype="html">
+        <source> La performance est complétée par une installation intérieure qui peut s&apos;expérimenter avant la performance pour éveiller les sens et mettre le corps dans un état d&apos;écoute sensible. </source>
+        <target> The performance is complemented by an indoor installation that can be experienced before the performance to awaken the senses and bring the body into a state of sensitive listening. </target>
+      </trans-unit>
+      <trans-unit id="823697316770223942" datatype="html">
+        <source>Galerie photo Athènes</source>
+        <target>Athens photo gallery</target>
+      </trans-unit>
+      <trans-unit id="8390076269583102722" datatype="html">
+        <source>Programme européen SEED - Social and Ecological Engagement through Dance</source>
+        <target>European programme SEED - Social and Ecological Engagement through Dance</target>
+      </trans-unit>
+      <trans-unit id="3205861374845924129" datatype="html">
+        <source>L&apos;Éveilleur scop à Avignon, France et liminal access à Athènes, Grèce</source>
+        <target>L&apos;Éveilleur scop in Avignon, France and liminal access in Athens, Greece</target>
+      </trans-unit>
+      <trans-unit id="8100680761040710679" datatype="html">
+        <source>Saison 2025-2026</source>
+        <target>Season 2025-2026</target>
+      </trans-unit>
+      <trans-unit id="150143220736794452" datatype="html">
+        <source>Programme SEED</source>
+        <target>SEED programme</target>
+      </trans-unit>
+      <trans-unit id="89424071817334942" datatype="html">
+        <source> Le programme SEED vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Il se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et des laboratoires d&apos;exploration entre janvier et mars 2026. </source>
+        <target> The SEED programme aims to establish a new approach to ecological sustainability, accessibility and inclusion in dance. It unfolds in several phases, with two pedagogical residencies that took place between October and November 2025 in Avignon and Athens, and exploration laboratories between January and March 2026. </target>
+      </trans-unit>
+      <trans-unit id="8040605898805258311" datatype="html">
+        <source> Pour la phase de laboratoire, Estelle a proposé une série d&apos;ateliers qui invitent à reconfigurer l&apos;espace scénique en un lieu partagé, adaptable, où chacun peut trouver sa place. La proposition mobilise différents canaux sensoriels - du toucher au mouvement, de la matière au geste, de l&apos;écoute à l&apos;image - afin d&apos;ouvrir des chemins multiples pour entrer dans la pratique et la rendre accessible à des participants aux sensibilités variées. L&apos;objectif est de réfléchir ensemble à des manières de créer du lien entre humains et non-humains, dans un espace d&apos;expérience commun, sensible et inclusif afin de repenser les relations entre êtres vivants dans des formes non hiérarchiques, sans dominations. </source>
+        <target> For the laboratory phase, Estelle proposed a series of workshops that invite participants to reconfigure the stage as a shared, adaptable space where everyone can find their place. The proposal engages different sensory channels — from touch to movement, from material to gesture, from listening to image — in order to open multiple pathways into the practice and make it accessible to participants with varied sensibilities. The aim is to collectively explore ways of creating connections between humans and non-humans, in a shared, sensitive and inclusive experiential space, in order to rethink relationships between living beings in non-hierarchical forms, free from domination. </target>
+      </trans-unit>
+      <trans-unit id="3213692224071502395" datatype="html">
+        <source>Atelier SEED</source>
+        <target>SEED workshop</target>
+      </trans-unit>
+      <trans-unit id="3536464109003625835" datatype="html">
+        <source>Projet de recherche, laboratoire participatif et performance entre arts visuels et mouvement.</source>
+        <target>Research project, participatory laboratory and performance between visual arts and movement.</target>
+      </trans-unit>
+      <trans-unit id="7452797722284837553" datatype="html">
+        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les expériences créées sont conçues pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se déployer sous différentes formes (laboratoire, discussion, performance, installation...) avec pour essence une dimension locale. Elle s&apos;imprègne et s&apos;inspire du lieu qui l&apos;accueille et des personnes qui y prennent part. </source>
+        <target> Inspired by the ecofeminist movement and at the crossroads of visual arts and dance, the research connects bodies to their environment through sand and glass. The experiences created are designed to allow us to listen to our senses while weaving reciprocal bonds with what surrounds us. The research can unfold in different forms (laboratory, discussion, performance, installation...) with a local dimension at its core. It absorbs and draws inspiration from the place that hosts it and the people who take part. </target>
       </trans-unit>
     </body>
   </file>

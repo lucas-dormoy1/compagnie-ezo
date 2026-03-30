@@ -1,0 +1,37 @@
+@use "../../../../styles/variables" as *;
+@use "../../../../styles/detail-page" as *;
+
+.page {
+  @include detail-page;
+}
+
+.title {
+  @include detail-title;
+}
+
+.subtitle {
+  @include detail-subtitle;
+}
+
+.main-picture {
+  width: min(100%, 60rem);
+  height: auto;
+  padding: clamp(0rem, 3vw, 4rem);
+}
+
+.paragraphe {
+  @include detail-paragraphe;
+  margin: 0.5rem 0;
+}
+
+@include detail-photo-gallery;
+
+@include detail-subtitle-responsive;
+
+@media only screen and (max-width: $small-screen-size) {
+  .paragraphe {
+    margin: 0;
+  }
+}
+
+@include detail-photo-gallery-responsive;

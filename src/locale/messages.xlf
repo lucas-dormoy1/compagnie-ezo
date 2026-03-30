@@ -311,12 +311,6 @@
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
       </trans-unit>
-      <trans-unit id="6142996092607995110" datatype="html">
-        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se réaliser sous la forme d’une performance participative dans laquelle le public est invité à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est complétée par des installations qui sont partie intégrante de l’expérience. </source>
-      </trans-unit>
-      <trans-unit id="4547982760899808904" datatype="html">
-        <source>Projet de recherche et de performance entre arts visuels et mouvement</source>
-      </trans-unit>
       <trans-unit id="6977255025292513328" datatype="html">
         <source>Tuning in to the senses</source>
       </trans-unit>
@@ -392,14 +386,11 @@
       <trans-unit id="5131719454402293646" datatype="html">
         <source> Juin 2025 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Les méduses ne nagent jamais seules<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
       </trans-unit>
-      <trans-unit id="3292388198655477049" datatype="html">
-        <source>Isadora and Raymond Duncan Dance Research Center </source>
+      <trans-unit id="3277601305023257976" datatype="html">
+        <source>Isadora and Raymond Duncan Dance Research Center</source>
       </trans-unit>
       <trans-unit id="3639129094803211295" datatype="html">
         <source>Produit par Delta Pi</source>
-      </trans-unit>
-      <trans-unit id="5916170696226513935" datatype="html">
-        <source>Athènes - Octobre 2024</source>
       </trans-unit>
       <trans-unit id="7935460889196326208" datatype="html">
         <source>Programme de recherche <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Hylé: as a point of view<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
@@ -583,6 +574,51 @@
       </trans-unit>
       <trans-unit id="676897012837863278" datatype="html">
         <source>Toutes les créations</source>
+      </trans-unit>
+      <trans-unit id="150143220736794452" datatype="html">
+        <source>Programme SEED</source>
+      </trans-unit>
+      <trans-unit id="3205861374845924129" datatype="html">
+        <source>L&apos;Éveilleur scop à Avignon, France et liminal access à Athènes, Grèce</source>
+      </trans-unit>
+      <trans-unit id="3213692224071502395" datatype="html">
+        <source>Atelier SEED</source>
+      </trans-unit>
+      <trans-unit id="3536464109003625835" datatype="html">
+        <source>Projet de recherche, laboratoire participatif et performance entre arts visuels et mouvement.</source>
+      </trans-unit>
+      <trans-unit id="4132625828273373134" datatype="html">
+        <source> Lors de cette rencontre, les performers partagent l&apos;espace avec le public et l&apos;invitent à observer, à s&apos;émerveiller, à s&apos;engager et à se mettre en mouvement. La création d&apos;un cadre de vision et l&apos;observation à travers celui-ci permet de décaler le regard. Le performer humain n&apos;est plus au centre de la performance mais il cohabite avec les autres éléments au grès du focus de l&apos;œil du public. Le public met également son corps en jeu dans l&apos;espace en cherchant à observer à travers son cadre et se transforme ainsi en performer sans même s&apos;en rendre compte. </source>
+      </trans-unit>
+      <trans-unit id="6484702418162188753" datatype="html">
+        <source>Performance Tuning in to the senses à Athènes</source>
+      </trans-unit>
+      <trans-unit id="7452797722284837553" datatype="html">
+        <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les expériences créées sont conçues pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se déployer sous différentes formes (laboratoire, discussion, performance, installation...) avec pour essence une dimension locale. Elle s&apos;imprègne et s&apos;inspire du lieu qui l&apos;accueille et des personnes qui y prennent part. </source>
+      </trans-unit>
+      <trans-unit id="7601329839184949065" datatype="html">
+        <source> La performance est complétée par une installation intérieure qui peut s&apos;expérimenter avant la performance pour éveiller les sens et mettre le corps dans un état d&apos;écoute sensible. </source>
+      </trans-unit>
+      <trans-unit id="8040605898805258311" datatype="html">
+        <source> Pour la phase de laboratoire, Estelle a proposé une série d&apos;ateliers qui invitent à reconfigurer l&apos;espace scénique en un lieu partagé, adaptable, où chacun peut trouver sa place. La proposition mobilise différents canaux sensoriels - du toucher au mouvement, de la matière au geste, de l&apos;écoute à l&apos;image - afin d&apos;ouvrir des chemins multiples pour entrer dans la pratique et la rendre accessible à des participants aux sensibilités variées. L&apos;objectif est de réfléchir ensemble à des manières de créer du lien entre humains et non-humains, dans un espace d&apos;expérience commun, sensible et inclusif afin de repenser les relations entre êtres vivants dans des formes non hiérarchiques, sans dominations. </source>
+      </trans-unit>
+      <trans-unit id="8100680761040710679" datatype="html">
+        <source>Saison 2025-2026</source>
+      </trans-unit>
+      <trans-unit id="823697316770223942" datatype="html">
+        <source>Galerie photo Athènes</source>
+      </trans-unit>
+      <trans-unit id="8238590181938848232" datatype="html">
+        <source>Athènes, Grèce - Octobre 2024</source>
+      </trans-unit>
+      <trans-unit id="8278232689914814407" datatype="html">
+        <source> Cette première résidence de recherche d&apos;un mois a abouti à une performance participative qui propose d&apos;impliquer le public dans son observation d&apos;un espace extérieur, à la fois habité par des corps en mouvement et par une installation. Le public est invité à créer son cadre de vision à l&apos;aide de verre, de sable et d&apos;eau et à regarder la performance à travers celui-ci. </source>
+      </trans-unit>
+      <trans-unit id="8390076269583102722" datatype="html">
+        <source>Programme européen SEED - Social and Ecological Engagement through Dance</source>
+      </trans-unit>
+      <trans-unit id="89424071817334942" datatype="html">
+        <source> Le programme SEED vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Il se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et des laboratoires d&apos;exploration entre janvier et mars 2026. </source>
       </trans-unit>
     </body>
   </file>
