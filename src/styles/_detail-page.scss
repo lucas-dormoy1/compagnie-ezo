@@ -1,0 +1,246 @@
+@use "variables" as *;
+
+// === PAGE CONTAINER ===
+@mixin detail-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-inline: 4%;
+  font-size: $body-size;
+}
+
+// === TITLE ===
+@mixin detail-title {
+  color: $dark-blue;
+  margin-top: clamp(1rem, 3vw, 4rem);
+  text-transform: uppercase;
+  font-size: $page-title-size;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+// === SUBTITLE ===
+@mixin detail-subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+}
+
+// === PARAGRAPH BLOCK ===
+@mixin detail-paragraphe($max-width: 80rem) {
+  display: flex;
+  flex-direction: row;
+  margin: 2rem 0;
+  align-items: center;
+  width: min(100%, $max-width);
+  text-align: justify;
+}
+
+// === IMAGE INSIDE WITH-IMAGE BLOCK ===
+@mixin detail-image {
+  height: 100%;
+  width: auto;
+}
+
+// === WITH-IMAGE LAYOUT (image + blue-frame side by side) ===
+@mixin detail-with-image {
+  display: flex;
+  flex-direction: row;
+  height: 30rem;
+}
+
+// === REVERSED LAYOUT ===
+@mixin detail-reversed {
+  flex-direction: row-reverse;
+}
+
+// === BLUE FRAME ===
+@mixin detail-blue-frame {
+  outline: 1px solid $dark-blue;
+  outline-offset: -1px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+// === CONTAINER INSIDE BLUE-FRAME ===
+@mixin detail-container {
+  margin: 1rem 2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  p {
+    margin: 0;
+  }
+}
+
+// === CONTAINER VARIANT: REPRESENTATIONS ===
+@mixin detail-representations {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+// === DESCRIPTION WRAPPER ===
+@mixin detail-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+// === BOLD ITALIC HEADING ===
+@mixin detail-a-propos {
+  font-weight: 900;
+  font-style: italic;
+}
+
+// === ADDITIONAL INFO BAR ===
+@mixin detail-additional-info {
+  width: 100%;
+  background-color: $dark-blue;
+  padding: 1rem 0;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+// === YOUTUBE VIDEO ===
+@mixin detail-youtube-video {
+  width: min(100%, 60rem);
+  aspect-ratio: 16 / 9;
+  padding: clamp(0rem, 3vw, 4rem);
+}
+
+// === SEPARATION LINE ===
+@mixin detail-separation-line {
+  margin: clamp(0.5rem, 4vw, 5rem) 0;
+  width: 100%;
+}
+
+// === FILE DOWNLOAD BUTTON ===
+@mixin detail-file-button {
+  border: solid 1px $dark-blue;
+  background-color: white;
+  max-width: 70%;
+  color: $dark-blue;
+  font-family: Avenir;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  margin: 1rem 2rem 2rem 2rem;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// === PHOTO GALLERY (scrollable) ===
+@mixin detail-photo-gallery {
+  .photos {
+    margin-bottom: 4%;
+    margin-top: 4rem;
+    overflow-x: scroll;
+    display: flex;
+    width: 80%;
+  }
+
+  .photo {
+    height: 40rem;
+    width: auto;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 0.5rem;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  ::-webkit-scrollbar {
+    height: 0.5rem;
+  }
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 2px grey;
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: $dark-blue;
+    border-radius: 10px;
+  }
+}
+
+// === RESPONSIVE: WITH-IMAGE STACK ===
+@mixin detail-with-image-responsive {
+  @media only screen and (max-width: $small-screen-size) {
+    .with-image {
+      height: fit-content;
+      flex-direction: column;
+    }
+
+    .reversed {
+      flex-direction: column;
+    }
+
+    .image {
+      height: fit-content;
+      width: 100%;
+    }
+
+    .container {
+      margin: 0;
+      padding: 2rem;
+    }
+  }
+}
+
+// === RESPONSIVE: SUBTITLE CENTER ===
+@mixin detail-subtitle-responsive {
+  @media only screen and (max-width: $small-screen-size) {
+    .subtitle {
+      margin: 0 1rem 2rem 1rem;
+      text-align: center;
+
+      span:first-child {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+
+// === RESPONSIVE: PHOTO GALLERY STACK ===
+@mixin detail-photo-gallery-responsive {
+  @media only screen and (max-width: $small-screen-size) {
+    .photos {
+      margin-top: 2rem;
+      overflow-x: hidden;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      margin-left: 0;
+    }
+
+    .photo {
+      height: fit-content;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+  }
+}

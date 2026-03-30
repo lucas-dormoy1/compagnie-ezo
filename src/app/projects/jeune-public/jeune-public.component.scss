@@ -1,27 +1,16 @@
 @use "../../../styles/variables" as *;
+@use "../../../styles/detail-page" as *;
 
-.jeune-public-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0% 4% 0% 4%;
-  font-size: $body-size;
+.page {
+  @include detail-page;
 }
 
-.jeune-public-title {
-  color: $dark-blue;
-  margin-top: clamp(1rem, 3vw, 4rem);
-  margin-bottom: 2rem;
-  text-transform: uppercase;
-  font-size: $page-title-size;
-  text-align: center;
+.title {
+  @include detail-title;
 }
 
 .subtitle {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: large;
+  @include detail-subtitle;
 }
 
 .content-layout {
@@ -45,43 +34,33 @@
   flex: 1;
 }
 
-.jeune-public-paragraphe {
+.paragraphe {
   text-align: justify;
 }
 
 .a-propos {
-  font-weight: 900;
-  font-style: italic;
+  @include detail-a-propos;
 }
 
 .blue-frame {
-  outline: 1px solid $dark-blue;
-  outline-offset: -1px;
-  display: flex;
-  align-items: center;
+  @include detail-blue-frame;
+  height: auto;
   margin-top: 2rem;
 }
 
 .container.representations {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
+  @include detail-representations;
 }
 
 .additional-info {
-  width: 100%;
-  background-color: $dark-blue;
-  padding: 1rem 0;
+  @include detail-additional-info;
   margin-top: 3rem;
-  display: flex;
   justify-content: center;
 }
 
 @media only screen and (max-width: $small-screen-size) {
   .subtitle {
-    margin: 0rem 1rem 2rem 1rem;
+    margin: 0 1rem 2rem 1rem;
     text-align: center;
 
     span:first-child {
@@ -104,7 +83,7 @@
     width: 100%;
   }
 
-  .jeune-public-paragraphe {
+  .paragraphe {
     font-size: 1rem;
     margin: 1rem 0;
   }

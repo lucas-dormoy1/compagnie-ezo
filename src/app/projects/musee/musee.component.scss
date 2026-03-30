@@ -1,93 +1,32 @@
 @use "../../../styles/variables" as *;
+@use "../../../styles/detail-page" as *;
 
-.musee-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0% 4% 0% 4%;
-  font-size: $body-size;
+.page {
+  @include detail-page;
 }
 
-.musee-title {
-  color: $dark-blue;
-  margin-top: clamp(1rem, 3vw, 4rem);
-  margin-bottom: 2rem;
-  text-transform: uppercase;
-  font-size: $page-title-size;
-  text-align: center;
+.title {
+  @include detail-title;
 }
 
-.musee-subtitle {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: large;
+.subtitle {
+  @include detail-subtitle;
   margin-bottom: 2rem;
 }
 
-.musee-image {
+.image {
   max-height: 35rem;
   width: auto;
 }
 
-.musee-paragraphe {
-  display: flex;
-  flex-direction: row;
-  margin: 2rem 0rem 2rem 0rem;
-  align-items: center;
-  width: min(100%, 80rem);
-  text-align: justify;
+.paragraphe {
+  @include detail-paragraphe;
 }
 
-.photos {
-  margin-bottom: 4%;
-  margin-top: 4rem;
-  overflow-x: scroll;
-  display: flex;
-  width: 80%;
-}
-
-.photo {
-  height: 40rem;
-  width: auto;
-  margin-left: 3rem;
-  margin-right: 3rem;
-  margin-bottom: 0.5rem;
-}
-
-.photo:first-child {
-  margin-left: 0rem;
-}
-.photo:last-child {
-  margin-right: 0rem;
-}
-
-/* width */
-::-webkit-scrollbar {
-  height: 0.5rem;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 2px grey;
-  border-radius: 10px;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: $dark-blue;
-  border-radius: 10px;
-}
+@include detail-photo-gallery;
 
 .additional-info {
-  width: 100%;
-  background-color: $dark-blue;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  margin-top: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  @include detail-additional-info;
 
   ::-webkit-scrollbar {
     display: none;
@@ -95,39 +34,22 @@
 }
 
 @media only screen and (max-width: $small-screen-size) {
-  .musee-subtitle {
-    margin: 0rem 1rem 1rem 1rem;
+  .subtitle {
+    margin: 0 1rem 1rem 1rem;
     text-align: center;
   }
 
-  .musee-image {
+  .image {
     width: 100%;
   }
 
-  .musee-paragraphe {
-    margin: 1.5rem 0rem 0rem 0rem;
-  }
-
-  .photos {
-    margin-top: 2rem;
-    overflow-x: hidden;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    margin-left: 0;
-  }
-
-  .photo {
-    height: fit-content;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 1rem;
+  .paragraphe {
+    margin: 1.5rem 0 0 0;
   }
 
   .additional-info {
-    gap: 0rem;
+    gap: 0;
   }
-
 }
+
+@include detail-photo-gallery-responsive;

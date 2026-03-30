@@ -1,4 +1,5 @@
 @use "../../../styles/variables" as *;
+@use "../../../styles/detail-page" as *;
 
 .bisou {
   width: min(100%, 60rem);
@@ -6,63 +7,37 @@
 }
 
 .platform-14-video {
-  margin: 2rem 0rem 2rem 0rem;
+  margin: 2rem 0;
   max-height: 70vh;
   max-width: 100%;
 }
 
+.page {
+  @include detail-page;
+}
+
+.title {
+  @include detail-title;
+}
+
+.subtitle {
+  @include detail-subtitle;
+}
+
 .youtube-video {
-  width: min(100%, 60rem);
-  aspect-ratio: 16 / 9;
-  padding: clamp(0rem, 3vw, 4rem);
+  @include detail-youtube-video;
 }
 
-.solo-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0% 4% 0% 4%;
-  font-size: $body-size;
-}
-
-.solo-title {
-  color: $dark-blue;
-  margin-top: clamp(1rem, 3vw, 4rem);
-  text-transform: uppercase;
-  font-size: $page-title-size;
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.solo-subtitle {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: large;
-}
-
-.solo-image {
-  height: 100%;
-  width: auto;
-}
-
-.solo-paragraphe {
-  display: flex;
-  flex-direction: row;
-  margin: 2rem 0rem 2rem 0rem;
-  align-items: center;
-  width: min(100%, 80rem);
-  text-align: justify;
+.paragraphe {
+  @include detail-paragraphe;
 }
 
 .with-image {
-  display: flex;
-  flex-direction: row;
-  height: 30rem;
+  @include detail-with-image;
 }
 
 .reversed {
-  flex-direction: row-reverse;
+  @include detail-reversed;
 }
 
 .little-margin-right {
@@ -74,59 +49,35 @@
 }
 
 .separation-line {
-  margin: clamp(0.5rem, 4vw, 5rem) 0rem;
-  width: 100%;
+  @include detail-separation-line;
+}
+
+.image {
+  @include detail-image;
 }
 
 .a-propos {
-  font-weight: 900;
-  font-style: italic;
+  @include detail-a-propos;
 }
 
 .blue-frame {
-  outline: 1px solid $dark-blue;
-  outline-offset: -1px;
-  height: 100%;
-  display: flex;
-  align-items: center;
+  @include detail-blue-frame;
 }
 
 .description {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  height: 100%;
+  @include detail-description;
 }
 
 .container {
-  margin: 1rem 2rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-
-  p {
-    margin: 0rem;
-  }
+  @include detail-container;
 }
 
 .container.representations {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
+  @include detail-representations;
 }
 
 .additional-info {
-  width: 100%;
-  background-color: $dark-blue;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  margin-top: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  @include detail-additional-info;
 
   ::-webkit-scrollbar {
     display: none;
@@ -134,34 +85,20 @@
 }
 
 .file-button {
-  border: solid 1px $dark-blue;
-  background-color: white;
-  max-width: 70%;
-  color: $dark-blue;
-  font-family: Avenir;
-  font-size: 1rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 0.5rem;
-  cursor: pointer;
-  margin: 1rem 2rem 2rem 2rem;
+  @include detail-file-button;
 }
 
-.file-button:hover {
-  text-decoration: underline;
-}
 .file-icon {
   height: 1.5rem;
 }
 
 @media only screen and (max-width: $small-screen-size) {
   .additional-info {
-    gap: 0rem;
+    gap: 0;
   }
 
-  .solo-subtitle {
-    margin: 0rem 1rem 2rem 1rem;
+  .subtitle {
+    margin: 0 1rem 2rem 1rem;
     text-align: center;
 
     span:first-child {
@@ -169,7 +106,7 @@
     }
   }
 
-  .solo-image {
+  .image {
     height: fit-content;
     width: 100%;
   }
@@ -184,7 +121,7 @@
   }
 
   .container {
-    margin: 0rem;
+    margin: 0;
     padding: 2rem;
   }
 }

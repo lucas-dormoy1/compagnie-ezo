@@ -1,44 +1,27 @@
 @use "../../../styles/variables" as *;
-.meduses-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0% 4% 0% 4%;
-  font-size: $body-size;
+@use "../../../styles/detail-page" as *;
+
+.page {
+  @include detail-page;
 }
 
-.meduses-title {
-  color: $dark-blue;
-  margin-top: clamp(1rem, 3vw, 4rem);
-  text-transform: uppercase;
-  font-size: $page-title-size;
-  text-align: center;
-  margin-bottom: 2rem;
+.title {
+  @include detail-title;
 }
 
-.meduses-subtitle {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: large;
+.subtitle {
+  @include detail-subtitle;
 }
 
-.meduses-paragraphe {
-  display: flex;
-  flex-direction: row;
-  margin: 2rem 0rem 2rem 0rem;
-  align-items: center;
-  width: min(100%, 100rem);
-  text-align: justify;
+.paragraphe {
+  @include detail-paragraphe(100rem);
   justify-content: center;
 }
 
 .blue-frame {
-  outline: 1px solid $dark-blue;
-  outline-offset: -1px;
+  @include detail-blue-frame;
   max-height: 30rem;
-  display: flex;
-  align-items: center;
+  height: auto;
 }
 
 .with-image {
@@ -46,12 +29,10 @@
 }
 
 .youtube-video {
-  width: min(100%, 60rem);
-  aspect-ratio: 16 / 9;
-  padding: clamp(0rem, 3vw, 4rem);
+  @include detail-youtube-video;
 }
 
-.meduses-image {
+.image {
   max-height: 30rem;
   max-width: 50%;
   width: auto;
@@ -72,19 +53,15 @@
 }
 
 .a-propos {
-  font-weight: 900;
-  font-style: italic;
+  @include detail-a-propos;
 }
 
 .additional-info {
-  width: 100%;
-  background-color: $dark-blue;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  margin-top: 2rem;
+  @include detail-additional-info;
+  gap: 0;
 }
 
-.meduses-artist-image {
+.artist-image {
   height: 20rem;
   width: auto;
   margin-bottom: 1rem;
@@ -95,6 +72,7 @@
   flex-direction: column;
   align-items: center;
 }
+
 .artists {
   display: flex;
   flex-direction: row;
@@ -121,12 +99,12 @@
 }
 
 @media only screen and (max-width: $small-screen-size) {
-  .meduses-subtitle {
-    margin: 0rem 1rem 0rem 1rem;
+  .subtitle {
+    margin: 0 1rem 0 1rem;
     text-align: center;
   }
 
-  .meduses-image {
+  .image {
     height: fit-content;
     width: 100%;
     max-height: none;
@@ -146,6 +124,7 @@
     flex-direction: column;
     max-height: none;
   }
+
   .artists {
     flex-direction: column;
   }
@@ -154,7 +133,7 @@
     margin-bottom: 1rem;
   }
 
-  .meduses-additional-info {
+  .additional-info {
     width: 100%;
   }
 
@@ -162,5 +141,4 @@
     max-height: 80%;
     overflow-y: auto;
   }
-
 }

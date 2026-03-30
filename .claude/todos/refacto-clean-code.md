@@ -8,7 +8,7 @@
 
 ## P2 - Duplication haute & architecture
 
-- [ ] **Mixins SCSS pour les pages de détail** : les 8 pages création/projet partagent ~95% du même SCSS (page-container, page-title, content-block, with-image, blue-frame, responsive). Extraire des mixins ou classes partagées.
+- [x] **Mixins SCSS pour les pages de détail** : les 8 pages création/projet partagent ~95% du même SCSS (page-container, page-title, content-block, with-image, blue-frame, responsive). Extraire des mixins ou classes partagées.
 - [ ] **Extraire données artistes de meduses.component.ts** : déplacer la classe `Artist` dans `models/`, externaliser les données artistes, centraliser `getArtistImagePath` (dupliqué dans artist-modal).
 - [ ] **Variables couleurs/font-size manquantes** : ajouter dans `_variables.scss` les gris (`#c1c1c1`, `#dcdcdc`, `#9c9c9c`), blanc, noir, et une variable pour `font-size: 1.2rem` / `clamp(1.2rem, 2vw, 2rem)` utilisés dans 5+ fichiers.
 
