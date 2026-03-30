@@ -8,6 +8,18 @@ import {
   trigger
 } from "@angular/animations";
 
+export const SlideAnimation = trigger("slideView", [
+  transition("void => *", []),
+  transition("main => creations, main => projects", [
+    style({ transform: "translateX(30px)", opacity: 0 }),
+    animate("150ms ease-out", style({ transform: "translateX(0)", opacity: 1 }))
+  ]),
+  transition("creations => main, projects => main", [
+    style({ transform: "translateX(-30px)", opacity: 0 }),
+    animate("150ms ease-out", style({ transform: "translateX(0)", opacity: 1 }))
+  ]),
+]);
+
 export const DropDownAnimation = trigger("dropDownMenu", [
   transition(":enter", [
     style({ height: 0, overflow: "hidden" }),

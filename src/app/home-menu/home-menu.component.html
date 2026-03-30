@@ -1,38 +1,131 @@
 <nav class="menu-panel" aria-label="Menu principal" i18n-aria-label>
-  <button class="menu-trigger" (click)="isOpen = !isOpen" aria-label="Ouvrir le menu" i18n-aria-label>
+  <button class="menu-trigger" (click)="toggleMenu()" aria-label="Ouvrir le menu" i18n-aria-label>
     <img src="assets/menu.svg" class="menu-icon" alt="menu" />
   </button>
   <div class="menu" *ngIf="isOpen" [@dropDownMenu] role="navigation">
-    <div class="menu-item bottom-border languages">
-      <button class="language-button" (click)="switchLanguageFR()" aria-label="Passer en français" i18n-aria-label>FR</button
-      ><span>|</span
-      ><button class="language-button" (click)="switchLanguageEN()" aria-label="Switch to English" i18n-aria-label>EN</button>
-    </div>
-    <div class="menu-item bottom-border">
-      <a routerLink="/home" class="menu-link" (click)="closeMenu()" i18n
-        >Accueil</a
-      >
-    </div>
-    <div class="menu-item bottom-border">
-      <a routerLink="/about" class="menu-link" (click)="closeMenu()" i18n
-        >Présentation</a
-      >
-    </div>
-    <div class="bottom-border">
-      <app-creations-menu (menuClosed)="closeMenu()"></app-creations-menu>
-    </div>
-    <div class="bottom-border">
-      <app-projects-menu (menuClosed)="closeMenu()"></app-projects-menu>
-    </div>
-    <div class="menu-item bottom-border">
-      <a routerLink="/workshops" class="menu-link" (click)="closeMenu()" i18n
-        >Ateliers</a
-      >
-    </div>
-    <div class="menu-item bottom-border">
-      <a routerLink="/contact" class="menu-link" (click)="closeMenu()" i18n
-        >Contact</a
-      >
+    <div class="menu-content" [@slideView]="currentView" [ngSwitch]="currentView">
+      <!-- Main view -->
+      <ng-container *ngSwitchCase="'main'">
+        <div class="menu-item bottom-border languages">
+          <button class="language-button" (click)="switchLanguageFR()" aria-label="Passer en français" i18n-aria-label>FR</button
+          ><span>|</span
+          ><button class="language-button" (click)="switchLanguageEN()" aria-label="Switch to English" i18n-aria-label>EN</button>
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/home" class="menu-link" (click)="closeMenu()" i18n
+            >Accueil</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/about" class="menu-link" (click)="closeMenu()" i18n
+            >Présentation</a
+          >
+        </div>
+        <div class="menu-item bottom-border drilldown-trigger" (click)="currentView = 'creations'">
+          <span class="menu-link" i18n>Créations</span>
+          <i class="gg-chevron-right"></i>
+        </div>
+        <div class="menu-item bottom-border drilldown-trigger" (click)="currentView = 'projects'">
+          <span class="menu-link" i18n>Projets</span>
+          <i class="gg-chevron-right"></i>
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/workshops" class="menu-link" (click)="closeMenu()" i18n
+            >Ateliers</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/contact" class="menu-link" (click)="closeMenu()" i18n
+            >Contact</a
+          >
+        </div>
+      </ng-container>
+
+      <!-- Creations view -->
+      <ng-container *ngSwitchCase="'creations'">
+        <div class="menu-item bottom-border submenu-header" (click)="goBack()">
+          <i class="gg-chevron-left"></i>
+          <span class="menu-link" i18n>Créations</span>
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/creations" class="menu-link" (click)="closeMenu()" i18n
+            >Toutes les créations</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/creations/moon-souls" class="menu-link" (click)="closeMenu()" i18n
+            >Moon Souls</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a
+            routerLink="/creations/les-meduses-ne-nagent-jamais-seules"
+            class="menu-link"
+            (click)="closeMenu()"
+            i18n
+            >Les méduses ne nagent jamais seules</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/creations/seven-tries" class="menu-link" (click)="closeMenu()" i18n
+            >Seven Tries</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a
+            routerLink="/creations/l-horizon-est-fait-de-petits-cailloux"
+            class="menu-link"
+            (click)="closeMenu()"
+            i18n
+            >L'horizon est fait de petits cailloux</a
+          >
+        </div>
+      </ng-container>
+
+      <!-- Projects view -->
+      <ng-container *ngSwitchCase="'projects'">
+        <div class="menu-item bottom-border submenu-header" (click)="goBack()">
+          <i class="gg-chevron-left"></i>
+          <span class="menu-link" i18n>Projets</span>
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/projects" class="menu-link" (click)="closeMenu()" i18n
+            >Tous les projets</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a
+            routerLink="/projects/tuning-in-to-the-senses"
+            class="menu-link"
+            (click)="closeMenu()"
+            i18n
+            >Tuning in to the senses</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a routerLink="/projects/jeune-public" class="menu-link" (click)="closeMenu()" i18n
+            >Performance jeune public</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a
+            routerLink="/projects/performance-in-situ-musee"
+            class="menu-link"
+            (click)="closeMenu()"
+            i18n
+            >Performance in situ Musée</a
+          >
+        </div>
+        <div class="menu-item bottom-border">
+          <a
+            routerLink="/projects/dialogue-avec-l-œuvre-pluie-de-montchal"
+            class="menu-link"
+            (click)="closeMenu()"
+            i18n
+            >Dialogue avec l'oeuvre Pluie de Montchal</a
+          >
+        </div>
+      </ng-container>
     </div>
   </div>
 </nav>

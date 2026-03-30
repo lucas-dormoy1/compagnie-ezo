@@ -1,27 +1,33 @@
 import { Component, HostListener } from '@angular/core';
-import { NgIf } from '@angular/common';
+import { NgIf, NgSwitch, NgSwitchCase } from '@angular/common';
 import { RouterLink } from '@angular/router';
-import { DropDownAnimation } from "./animations";
-import { CreationsMenuComponent } from './creations-menu/creations-menu.component';
-import { ProjectsMenuComponent } from './projects-menu/projects-menu.component';
+import { DropDownAnimation, SlideAnimation } from "./animations";
 
 @Component({
     selector: 'app-home-menu',
     templateUrl: './home-menu.component.html',
     styleUrls: ['./home-menu.component.scss'],
-    animations: [DropDownAnimation],
+    animations: [DropDownAnimation, SlideAnimation],
     standalone: true,
-    imports: [NgIf, RouterLink, CreationsMenuComponent, ProjectsMenuComponent],
+    imports: [NgIf, NgSwitch, NgSwitchCase, RouterLink],
 })
 export class HomeMenuComponent {
-  isOpen: boolean;
+  isOpen = false;
+  currentView: 'main' | 'creations' | 'projects' = 'main';
 
-  constructor(){
+  toggleMenu() {
+    this.isOpen = !this.isOpen;
+    if (this.isOpen) {
+      this.currentView = 'main';
+    }
+  }
+
+  closeMenu() {
     this.isOpen = false;
   }
 
-  closeMenu(){
-    this.isOpen = false;
+  goBack() {
+    this.currentView = 'main';
   }
 
   private wasInside = false;
@@ -34,26 +40,25 @@ export class HomeMenuComponent {
   @HostListener('document:click')
   clickout() {
     if (!this.wasInside) {
-      this.closeMenu()
+      this.isOpen = false;
     }
     this.wasInside = false;
   }
 
-  public switchLanguageFR() : void{
+  public switchLanguageFR(): void {
     this.SwitchLanguage("fr");
   }
-  public switchLanguageEN() : void{
+  public switchLanguageEN(): void {
     this.SwitchLanguage("en");
   }
 
-  private SwitchLanguage(targetLocale: string) : void{
+  private SwitchLanguage(targetLocale: string): void {
     const localeRegex = new RegExp("\/(fr|en)\/")
     const currentUrl = window.location.href;
     const currentLocale = localeRegex.exec(currentUrl);
-    if(currentLocale != null && currentLocale[1] != targetLocale){
-      const redirection = currentUrl.replace("/"+currentLocale[1]+"/", "/"+targetLocale+"/");
+    if (currentLocale != null && currentLocale[1] != targetLocale) {
+      const redirection = currentUrl.replace("/" + currentLocale[1] + "/", "/" + targetLocale + "/");
       window.location.href = redirection;
     }
   }
 }
-

@@ -374,10 +374,6 @@
         <source>25 Gisèle Halimi le 30 novembre 2024 à Clermont-Ferrand.</source>
         <target>25 Gisèle Halimi on November 30, 2024 in Clermont-Ferrand.</target>
       </trans-unit>
-      <trans-unit id="6490634336008138460" datatype="html">
-        <source>Dialogue avec l&apos;oeuvre Pluie de Montchal </source>
-        <target>Dialogue avec l&apos;oeuvre Pluie de Montchal </target>
-      </trans-unit>
       <trans-unit id="9121949329505758553" datatype="html">
         <source>PLATFORM 14 en août 2023 à Berlin</source>
         <target>PLATFORM 14 in August 2024 in Berlin</target>
@@ -429,10 +425,6 @@
       <trans-unit id="6142996092607995110" datatype="html">
         <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les espaces créés sont conçus pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se réaliser sous la forme d’une performance participative dans laquelle le public est invité à observer, s&apos;émerveiller, s&apos;engager et se mouvoir en groupe. La performance est complétée par des installations qui sont partie intégrante de l’expérience. </source>
         <target> Inspired by the ecofeminist movement and at the crossroads of visual arts and dance, the research connects bodies to their environment through sand and glass. The spaces created are designed to enable us to listen to our senses while building reciprocal links with our surroundings. Research can take the form of a participatory performance in which the audience is invited to observe, marvel, engage and move as a group. The performance is complemented by installations that form an integral part of the experience. </target>
-      </trans-unit>
-      <trans-unit id="3866116102179446148" datatype="html">
-        <source>Tuning in to the senses </source>
-        <target>Tuning in to the senses </target>
       </trans-unit>
       <trans-unit id="4929573224792366787" datatype="html">
         <source>Aux Échappées Belles à Lyon le 23 février 2025.</source>
@@ -598,10 +590,6 @@
         <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
         <target> Friday, 10 April 2026 at 7:30pm: Performance of an excerpt of the piece </target>
       </trans-unit>
-      <trans-unit id="1560067846959113176" datatype="html">
-        <source>Performance jeune public </source>
-        <target>Young audience performance </target>
-      </trans-unit>
       <trans-unit id="3440318415499739415" datatype="html">
         <source>Performance jeune public</source>
         <target>Young audience performance</target>
@@ -633,10 +621,6 @@
       <trans-unit id="9204036388798580342" datatype="html">
         <source>Des histoires en mouvement pour découvrir la danse contemporaine. </source>
         <target>Stories in movement to discover contemporary dance. </target>
-      </trans-unit>
-      <trans-unit id="4929474812529979232" datatype="html">
-        <source>Performance in situ Musée </source>
-        <target>Performance in situ Musée </target>
       </trans-unit>
       <trans-unit id="1091877093362799829" datatype="html">
         <source>Performance in situ Musée</source>
@@ -785,6 +769,14 @@
       <trans-unit id="2852032859145474758" datatype="html">
         <source>Logo L&apos;île Ô</source>
         <target>L&apos;île Ô logo</target>
+      </trans-unit>
+      <trans-unit id="676897012837863278" datatype="html">
+        <source>Toutes les créations</source>
+        <target>All creations</target>
+      </trans-unit>
+      <trans-unit id="1925401333221122195" datatype="html">
+        <source>Tous les projets</source>
+        <target>All projects</target>
       </trans-unit>
     </body>
   </file>
