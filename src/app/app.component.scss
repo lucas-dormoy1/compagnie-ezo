@@ -1,7 +1,7 @@
 @use "../styles/variables" as *;
 
 .headerspace {
-  height: 170px;
+  height: clamp(10rem, 15vw, 170px);
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
@@ -32,7 +32,7 @@ footer {
     gap: 0.5rem;
   }
   .headerspace {
-    height: 13rem;
-    margin: 2rem 0rem;
+    height: 10rem;
+    margin: 1rem 0rem;
   }
 }

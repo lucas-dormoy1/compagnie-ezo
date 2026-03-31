@@ -33,7 +33,7 @@
 
 .sub-project-image {
   height: 25rem;
-  width: 33rem;
+  width: min(33rem, 100%);
   object-fit: cover;
   flex-shrink: 0;
 }

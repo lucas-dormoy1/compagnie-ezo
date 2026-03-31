@@ -19,8 +19,8 @@
 
 .platform-14-video {
   margin: 2rem 0;
-  max-height: 70vh;
-  max-width: 100%;
+  width: min(100%, 60rem);
+  aspect-ratio: 16 / 9;
 }
 
 .paragraphe {

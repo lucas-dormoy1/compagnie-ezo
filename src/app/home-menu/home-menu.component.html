@@ -1,6 +1,6 @@
 <nav class="menu-panel" aria-label="Menu principal" i18n-aria-label>
   <button class="menu-trigger" (click)="toggleMenu()" aria-label="Ouvrir le menu" i18n-aria-label>
-    <img src="assets/menu.svg" class="menu-icon" alt="menu" />
+    <img src="assets/menu.svg" class="menu-icon" alt="menu" width="48" height="48" />
   </button>
   <div class="menu" *ngIf="isOpen" [@dropDownMenu] role="navigation">
     <div class="menu-content" [@slideView]="currentView" [ngSwitch]="currentView">

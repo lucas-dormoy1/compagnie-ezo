@@ -45,6 +45,11 @@ export class HomeMenuComponent {
     this.wasInside = false;
   }
 
+  @HostListener('document:keydown.escape')
+  onEscape() {
+    this.isOpen = false;
+  }
+
   public switchLanguageFR(): void {
     this.SwitchLanguage("fr");
   }
