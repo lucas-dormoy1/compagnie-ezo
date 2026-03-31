@@ -26,11 +26,47 @@
 
 @include detail-photo-gallery;
 
+.credits {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  width: min(100%, 80rem);
+  margin-top: 3rem;
+}
+
+.credits-section {
+  h3 {
+    font-size: $subtitle-size;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    font-size: $body-size;
+    line-height: 1.6;
+  }
+}
+
+.additional-info {
+  @include detail-additional-info;
+}
+
 @include detail-subtitle-responsive;
 
 @media only screen and (max-width: $small-screen-size) {
   .paragraphe {
     margin: 0;
+  }
+
+  .credits {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
 }
 

@@ -28,6 +28,11 @@ export const SUPPORTERS = {
   boomStructur: { src: 'assets/soutiens/boom-structur.svg', alt: $localize`logo de Boom'Structur`, width: 200, height: 80 },
   memMurol: { src: 'assets/projects/musee/Logo-MEM.png', alt: $localize`Logo du MEM Murol`, width: 200, height: 80 },
   ileO: { src: 'assets/projects/jeune-public/Logo-ILE-O.png', alt: $localize`Logo L'île Ô`, width: 200, height: 80 },
+  seed: { src: 'assets/soutiens/SEED_logo-small-2.png', alt: $localize`logo du programme SEED`, width: 200, height: 80 },
+  liminal: { src: 'assets/soutiens/logo-liminal.png', alt: $localize`logo de liminal`, width: 200, height: 80 },
+  leveilleur: { src: 'assets/soutiens/logo-leveilleur-scop.png', alt: $localize`logo de l'Éveilleur`, width: 200, height: 80 },
+  deltaPi: { src: 'assets/soutiens/delta_pi.png', alt: $localize`logo de Delta Pi`, width: 200, height: 80 },
+  duncanCenter: { src: 'assets/soutiens/logo_duncan_center.png', alt: $localize`logo du Duncan Dance Research Center`, width: 200, height: 80 },
 } satisfies Record<string, Supporter>;
 
 @Component({

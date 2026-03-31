@@ -11,5 +11,6 @@ import { MatKnowMoreComponent } from '../../shared/mat-know-more/mat-know-more.c
     imports: [NgOptimizedImage, MatCardModule, MatKnowMoreComponent],
 })
 export class NewsComponent {
+  public ticketButton: string = $localize`Billetterie`;
   public seedButton: string = $localize`Informations SEED & ateliers`;
 }

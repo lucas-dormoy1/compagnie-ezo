@@ -570,10 +570,6 @@
         <source> Rencontres chorégraphiques Le Transverse à Paris le vendredi 10 avril 2026 </source>
         <target> Rencontres chorégraphiques at Le Transverse in Paris on Friday, 10 April 2026 </target>
       </trans-unit>
-      <trans-unit id="172053482044669254" datatype="html">
-        <source> Samedi 21 mars 2026 à 16h : Répétition ouverte au public </source>
-        <target> Saturday, 21 March 2026 at 4 p.m.: Open rehearsal</target>
-      </trans-unit>
       <trans-unit id="327144322477349248" datatype="html">
         <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
         <target> Friday, 10 April 2026 at 7:30pm: Performance of an excerpt of the piece </target>
@@ -825,6 +821,118 @@
       <trans-unit id="7452797722284837553" datatype="html">
         <source> Inspirée par le mouvement écoféministe et à la croisée des arts visuels et de la danse, la recherche relie les corps à leur environnement au travers du sable et du verre. Les expériences créées sont conçues pour nous permettre d&apos;être à l&apos;écoute de nos sens tout en tissant des liens réciproques avec ce qui nous entoure. La recherche peut se déployer sous différentes formes (laboratoire, discussion, performance, installation...) avec pour essence une dimension locale. Elle s&apos;imprègne et s&apos;inspire du lieu qui l&apos;accueille et des personnes qui y prennent part. </source>
         <target> Inspired by the ecofeminist movement and at the crossroads of visual arts and dance, the research connects bodies to their environment through sand and glass. The experiences created are designed to allow us to listen to our senses while weaving reciprocal bonds with what surrounds us. The research can unfold in different forms (laboratory, discussion, performance, installation...) with a local dimension at its core. It absorbs and draws inspiration from the place that hosts it and the people who take part. </target>
+      </trans-unit>
+      <trans-unit id="2643140395047169587" datatype="html">
+        <source>Les partenaires du projet</source>
+        <target>Project partners</target>
+      </trans-unit>
+      <trans-unit id="3152831325976200526" datatype="html">
+        <source>liminal access (Athènes, Grèce)</source>
+        <target>liminal access (Athens, Greece)</target>
+      </trans-unit>
+      <trans-unit id="8990496311153896525" datatype="html">
+        <source>L&apos;Éveilleur (Avignon, France)</source>
+        <target>L&apos;Éveilleur (Avignon, France)</target>
+      </trans-unit>
+      <trans-unit id="3459371238904826460" datatype="html">
+        <source>Les artistes chorégraphiques sélectionnées</source>
+        <target>Selected choreographic artists</target>
+      </trans-unit>
+      <trans-unit id="4288236333740351993" datatype="html">
+        <source>(Grèce)</source>
+        <target>(Greece)</target>
+      </trans-unit>
+      <trans-unit id="2361766302048163494" datatype="html">
+        <source>(France)</source>
+        <target>(France)</target>
+      </trans-unit>
+      <trans-unit id="4563916801749563191" datatype="html">
+        <source>Les coordinateurs du projet</source>
+        <target>Project coordinators</target>
+      </trans-unit>
+      <trans-unit id="7862698396069410259" datatype="html">
+        <source>et</source>
+        <target>and</target>
+      </trans-unit>
+      <trans-unit id="1673993231265803267" datatype="html">
+        <source>logo du programme SEED</source>
+        <target>SEED programme logo</target>
+      </trans-unit>
+      <trans-unit id="3600308335367133398" datatype="html">
+        <source>logo de liminal</source>
+        <target>liminal logo</target>
+      </trans-unit>
+      <trans-unit id="4915731208232800767" datatype="html">
+        <source>logo de l&apos;Éveilleur</source>
+        <target>L&apos;Éveilleur logo</target>
+      </trans-unit>
+      <trans-unit id="4985615306851499328" datatype="html">
+        <source>Artistes sélectionnées</source>
+        <target>Selected artists</target>
+      </trans-unit>
+      <trans-unit id="6832369903253088923" datatype="html">
+        <source>Crédits</source>
+        <target>Credits</target>
+      </trans-unit>
+      <trans-unit id="6529606362669110909" datatype="html">
+        <source>Conception</source>
+        <target>Conception</target>
+      </trans-unit>
+      <trans-unit id="4536326373086947678" datatype="html">
+        <source>Curatrices</source>
+        <target>Curators</target>
+      </trans-unit>
+      <trans-unit id="6251921687438497975" datatype="html">
+        <source>Curateur de production</source>
+        <target>Production curator</target>
+      </trans-unit>
+      <trans-unit id="5012627602304353533" datatype="html">
+        <source>Mentors</source>
+        <target>Mentors</target>
+      </trans-unit>
+      <trans-unit id="929079257013531791" datatype="html">
+        <source>Assistante</source>
+        <target>Assistant</target>
+      </trans-unit>
+      <trans-unit id="806186228215982402" datatype="html">
+        <source>Dramaturge</source>
+        <target>Dramaturg</target>
+      </trans-unit>
+      <trans-unit id="2546356262672635730" datatype="html">
+        <source>Gestion et coordination du programme</source>
+        <target>Program management &amp; coordination</target>
+      </trans-unit>
+      <trans-unit id="72036161063630652" datatype="html">
+        <source>Identité visuelle</source>
+        <target>Visual identity</target>
+      </trans-unit>
+      <trans-unit id="3930544192064445765" datatype="html">
+        <source>Organisation - production</source>
+        <target>Organization - production</target>
+      </trans-unit>
+      <trans-unit id="4660512585268209325" datatype="html">
+        <source>Delta Pi productions &amp; arts management</source>
+        <target>Delta Pi productions &amp; arts management</target>
+      </trans-unit>
+      <trans-unit id="9029888272425170367" datatype="html">
+        <source>Co-organisation : Isadora &amp; Raymond Duncan Dance Research Center (DDRC), Municipality of Vyronas</source>
+        <target>Co-organization: Isadora &amp; Raymond Duncan Dance Research Center (DDRC), Municipality of Vyronas</target>
+      </trans-unit>
+      <trans-unit id="5277867175781737554" datatype="html">
+        <source>logo de Delta Pi</source>
+        <target>Delta Pi logo</target>
+      </trans-unit>
+      <trans-unit id="8438285712219308369" datatype="html">
+        <source>logo du Duncan Dance Research Center</source>
+        <target>Duncan Dance Research Center logo</target>
+      </trans-unit>
+      <trans-unit id="6416279250905878991" datatype="html">
+        <source> Mars 2026 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon (autour du processus chorégraphique de la pièce <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </source>
+        <target> March 2026: workshop with dancers in training at the Hallet Eghayan company in Lyon (around the choreographic process of the piece <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>) </target>
+      </trans-unit>
+      <trans-unit id="6464561437936624830" datatype="html">
+        <source>Billetterie</source>
+        <target>Tickets</target>
       </trans-unit>
     </body>
   </file>
