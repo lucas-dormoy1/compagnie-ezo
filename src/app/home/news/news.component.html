@@ -16,18 +16,13 @@
         />
         <div class="news-card-side">
           <div class="news-title" i18n><i>Moon Souls</i></div>
-          <div class="news-subtitle" i18n>
-            Vendredi 10 avril 2026 à 19h30 : Représentation d'un extrait de la
-            pièce
-          </div>
+          <div class="news-subtitle" i18n>1er au 12 juin 2026</div>
           <div class="news-text">
-            Rencontres chorégraphiques Le Transverse à Paris - 11 Av. du
-            Président Wilson, Malakoff
+            Résidence de création à l'Université Lyon 2
           </div>
           <app-mat-know-more
             class="news-card-know-more"
-            externalLink="https://www.mouvementetcreation.com/rencontres-chorgraphiques"
-            [text]="ticketButton"
+            link="/creations/moon-souls"
           ></app-mat-know-more>
         </div>
       </mat-card-content>
@@ -39,7 +34,7 @@
         </div>
         <div class="news-subtitle" i18n><i>Tuning in to the senses</i></div>
         <img
-          ngSrc="assets/home/newsletter-1.jpg"
+          ngSrc="assets/projects/tuning-in-to-the-senses/athenes/photo principale.JPG"
           alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
           class="news-image landscape"
           width="1200"
@@ -55,13 +50,26 @@
           à Avignon et Athènes et par la suite avec des laboratoires
           d'exploration entre janvier et mars 2026 à Avignon.
         </p>
-        <img
-          ngSrc="assets/home/newsletter-2.jpg"
-          alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
-          class="news-image landscape"
-          width="1200"
-          height="800"
-        />
+        <div class="meduses-video-wrapper">
+          <iframe
+            class="meduses-video"
+            src="https://www.youtube.com/embed/4q652VLdOto"
+            title="Teaser : Tuning in to the senses - Compagnie EZO"
+            i18n-title
+            frameborder="0"
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
         <p i18n>
           Après une résidence de recherche d'un mois à Athènes en octobre 2024
           au sein du centre de recherche Duncan, Estelle prolonge avec le
@@ -77,8 +85,9 @@
           link="/projects/tuning-in-to-the-senses"
         ></app-mat-know-more>
         <img
-          ngSrc="assets/home/newsletter-3.jpg"
-          alt="Résidence de recherche au sein du programme Hylé: as a point of view, produit par Delta Pi à Athènes, Grèce en octobre 2024."
+          ngSrc="assets/projects/tuning-in-to-the-senses/seed/photo_principale.JPG"
+          alt="Programme SEED - Social and Ecological Engagement through Dance"
+          i18n-alt
           class="news-image landscape"
           width="1200"
           height="800"
@@ -108,24 +117,26 @@
         <div class="news-title mobile-only" i18n>
           Redécouvrez le teaser des pièces de la compagnie
         </div>
-        <iframe
-          class="meduses-video"
-          src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
-          title="Teaser : Seven Tries - Compagnie EZO"
-          i18n-title
-          frameborder="0"
-          allow="
-            accelerometer;
-            autoplay;
-            clipboard-write;
-            encrypted-media;
-            gyroscope;
-            picture-in-picture;
-            web-share;
-          "
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+        <div class="meduses-video-wrapper">
+          <iframe
+            class="meduses-video"
+            src="https://www.youtube.com/embed/UTwx97YQI4w?si=36-JaSYqUk72Lptb"
+            title="Teaser : Seven Tries - Compagnie EZO"
+            i18n-title
+            frameborder="0"
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
         <div class="news-card-side">
           <div class="news-title desktop-only" i18n>
             Redécouvrez le teaser des pièces de la compagnie
@@ -140,24 +151,26 @@
         </div>
       </mat-card-content>
       <mat-card-content class="news-card-content-with-image">
-        <iframe
-          class="meduses-video"
-          src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
-          title="Teaser : Les méduses ne nagent jamais seules - Compagnie EZO"
-          i18n-title
-          frameborder="0"
-          allow="
-            accelerometer;
-            autoplay;
-            clipboard-write;
-            encrypted-media;
-            gyroscope;
-            picture-in-picture;
-            web-share;
-          "
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+        <div class="meduses-video-wrapper">
+          <iframe
+            class="meduses-video"
+            src="https://www.youtube.com/embed/hVyVmXkr50g?si=iG5rRKseLOUhmEmH"
+            title="Teaser : Les méduses ne nagent jamais seules - Compagnie EZO"
+            i18n-title
+            frameborder="0"
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
         <div class="news-card-side">
           <div class="news-subtitle">
             <i>Les Méduses ne nagent jamais seules</i>

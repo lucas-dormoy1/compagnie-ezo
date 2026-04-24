@@ -1,11 +1,6 @@
 @use "../../../styles/variables" as *;
 @use "../../../styles/detail-page" as *;
 
-.bisou {
-  width: min(100%, 60rem);
-  padding: clamp(0rem, 3vw, 4rem);
-}
-
 .platform-14-video {
   margin: 2rem 0;
   width: min(100%, 60rem);

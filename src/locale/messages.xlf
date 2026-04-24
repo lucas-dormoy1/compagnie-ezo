@@ -428,9 +428,6 @@
       <trans-unit id="2746635556768697091" datatype="html">
         <source> Répétition ouverte au public Aux Échappées Belles à Lyon le samedi 21 mars 2026 </source>
       </trans-unit>
-      <trans-unit id="327144322477349248" datatype="html">
-        <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
-      </trans-unit>
       <trans-unit id="1278203885243092816" datatype="html">
         <source>Chorégraphiée et interprétée par Estelle Bézombes</source>
       </trans-unit>
@@ -700,6 +697,24 @@
       </trans-unit>
       <trans-unit id="6464561437936624830" datatype="html">
         <source>Billetterie</source>
+      </trans-unit>
+      <trans-unit id="1791881692801710957" datatype="html">
+        <source>1er au 12 juin 2026</source>
+      </trans-unit>
+      <trans-unit id="2407496557954741347" datatype="html">
+        <source>Teaser : Tuning in to the senses - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="2858822714398607852" datatype="html">
+        <source>Programme SEED - Social and Ecological Engagement through Dance</source>
+      </trans-unit>
+      <trans-unit id="448222260583648779" datatype="html">
+        <source> L&apos;horizon est fait de petits cailloux </source>
+      </trans-unit>
+      <trans-unit id="4989546216130524180" datatype="html">
+        <source>Vidéo : Tuning in to the senses - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="5876769196488227317" datatype="html">
+        <source>Vidéo : Moon Souls - Compagnie EZO</source>
       </trans-unit>
     </body>
   </file>

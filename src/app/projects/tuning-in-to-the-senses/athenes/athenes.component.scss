@@ -13,10 +13,8 @@
   @include detail-subtitle;
 }
 
-.main-picture {
-  width: min(100%, 60rem);
-  height: auto;
-  padding: clamp(0rem, 3vw, 4rem);
+.youtube-video {
+  @include detail-youtube-video;
 }
 
 .paragraphe {

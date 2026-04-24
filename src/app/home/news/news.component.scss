@@ -85,6 +85,12 @@
   img {
     max-height: 50vh;
   }
+
+  .meduses-video-wrapper {
+    width: auto;
+    height: 50vh;
+    max-width: 100%;
+  }
 }
 
 .news-card:nth-of-type(even) .news-card-content-with-image {
@@ -151,9 +157,16 @@
   aspect-ratio: 16 / 9;
 }
 
-.meduses-video {
+.meduses-video-wrapper {
   width: min(100%, 60rem);
   aspect-ratio: 16 / 9;
+  min-width: 0;
+}
+
+.meduses-video {
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 @media only screen and (max-width: $small-screen-size) {
@@ -171,6 +184,11 @@
 
     .news-card-know-more {
       margin: 1rem auto;
+    }
+
+    .meduses-video-wrapper {
+      width: 90vw;
+      height: auto;
     }
   }
 
@@ -210,7 +228,7 @@
     flex-direction: column;
   }
 
-  .meduses-video {
+  .meduses-video-wrapper {
     width: 90vw;
   }
 

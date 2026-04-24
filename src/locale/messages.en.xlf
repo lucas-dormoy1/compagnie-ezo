@@ -570,10 +570,6 @@
         <source> Rencontres chorégraphiques Le Transverse à Paris le vendredi 10 avril 2026 </source>
         <target> Rencontres chorégraphiques at Le Transverse in Paris on Friday, 10 April 2026 </target>
       </trans-unit>
-      <trans-unit id="327144322477349248" datatype="html">
-        <source> Vendredi 10 avril 2026 à 19h30 : Représentation d&apos;un extrait de la pièce </source>
-        <target> Friday, 10 April 2026 at 7:30pm: Performance of an excerpt of the piece </target>
-      </trans-unit>
       <trans-unit id="3440318415499739415" datatype="html">
         <source>Performance jeune public</source>
         <target>Young audience performance</target>
@@ -933,6 +929,30 @@
       <trans-unit id="6464561437936624830" datatype="html">
         <source>Billetterie</source>
         <target>Tickets</target>
+      </trans-unit>
+      <trans-unit id="448222260583648779" datatype="html">
+        <source> L&apos;horizon est fait de petits cailloux </source>
+        <target> L&apos;horizon est fait de petits cailloux </target>
+      </trans-unit>
+      <trans-unit id="5876769196488227317" datatype="html">
+        <source>Vidéo : Moon Souls - Compagnie EZO</source>
+        <target>Video: Moon Souls - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="1791881692801710957" datatype="html">
+        <source>1er au 12 juin 2026</source>
+        <target>1 to 12 June 2026</target>
+      </trans-unit>
+      <trans-unit id="2407496557954741347" datatype="html">
+        <source>Teaser : Tuning in to the senses - Compagnie EZO</source>
+        <target>Teaser: Tuning in to the senses - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="2858822714398607852" datatype="html">
+        <source>Programme SEED - Social and Ecological Engagement through Dance</source>
+        <target>SEED Program - Social and Ecological Engagement through Dance</target>
+      </trans-unit>
+      <trans-unit id="4989546216130524180" datatype="html">
+        <source>Vidéo : Tuning in to the senses - Compagnie EZO</source>
+        <target>Video: Tuning in to the senses - Compagnie EZO</target>
       </trans-unit>
     </body>
   </file>
