@@ -12,9 +12,9 @@ jobs:
     name: Build and deploy
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: npm
@@ -23,7 +23,7 @@ jobs:
           npm install
           npx ng build --aot --configuration "production" --localize
       - name: Deploy with Firebase cli
-        uses: FirebaseExtended/action-hosting-deploy@v0.7.1
+        uses: FirebaseExtended/action-hosting-deploy@v0.10.0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_COMPAGNIE_EZO_2468D }}"

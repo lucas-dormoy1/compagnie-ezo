@@ -10,7 +10,6 @@ Site web de la Compagnie EZO (compagnie de danse contemporaine). Application Ang
 - **Serveur de dev (anglais) :** `npm run serve:en`
 - **Build de production :** `ng build --aot --configuration "production" --localize`
 - **Extraction des chaînes i18n :** `npm run translate`
-- **Lancer les tests :** `ng test`
 - **Déployer :** `firebase deploy -m "<message>" --only hosting`
 
 La CI build et déploie automatiquement sur Firebase à chaque push sur `main`.
