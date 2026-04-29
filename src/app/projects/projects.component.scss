@@ -8,7 +8,6 @@
   padding: $page-padding-inline;
   display: flex;
   flex-direction: column;
-  width: 92%;
 }
 
 .project-card {
@@ -30,6 +29,7 @@
   justify-content: space-between;
   padding: 2rem clamp(1rem, 6vw, 8rem);
   width: 100%;
+  box-sizing: border-box;
 }
 
 .project-title {
@@ -73,7 +73,6 @@
 
   .project-details {
     padding: 2rem 1rem;
-    width: fit-content;
   }
 
   .know-more {
