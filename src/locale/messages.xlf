@@ -287,9 +287,6 @@
       <trans-unit id="1943779345969887559" datatype="html">
         <source> À son retour en France en 2022, elle s’investit en tant qu’interprète sur plusieurs projets. Estelle se lance également dans ses propres projets artistiques et réalise notamment une performance dansée en collaboration avec l’artiste plasticien Pier Fabre autour de son œuvre <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;italic&quot;&gt;"/>Pluie de Montchal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. Elle danse et chorégraphie également pour des projets vidéo (clip, performance, court et long métrage). Elle crée début 2023 la compagnie EZO et ses premières pièces ont été sélectionnées pour plusieurs festivals et concours internationaux (Internationales Solo Tanz Theatre Stuttgart, PLATFORM14 Berlin, Solo Contemporary Dance Festival Ankara, Spectacles Sauvages festival Signes d&apos;automne au Regard du Cygne à Paris, concours chorégraphique Les Synodales à Sens, Solo Dance Contest Gdansk, Tremplin Corps &amp; Graphiques festival le temps d&apos;aimer la danse à Biarritz). </source>
       </trans-unit>
-      <trans-unit id="3042485849329801654" datatype="html">
-        <source> Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
-      </trans-unit>
       <trans-unit id="3303933496645467547" datatype="html">
         <source>Festival d’Aurillac en août 2023</source>
       </trans-unit>
@@ -715,6 +712,15 @@
       </trans-unit>
       <trans-unit id="5876769196488227317" datatype="html">
         <source>Vidéo : Moon Souls - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="3149881600353352880" datatype="html">
+        <source> Répétition ouverte Aux Échappées Belles à Lyon le 23 février 2025. </source>
+      </trans-unit>
+      <trans-unit id="3964365904921479095" datatype="html">
+        <source> Extrait de la pièce au Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
+      </trans-unit>
+      <trans-unit id="4739496835866797007" datatype="html">
+        <source>Présentations</source>
       </trans-unit>
     </body>
   </file>

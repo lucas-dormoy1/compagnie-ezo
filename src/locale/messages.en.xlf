@@ -386,10 +386,6 @@
         <source>Solo Contemporary Dance Festival Ankara en août 2023</source>
         <target>Solo Contemporary Dance Festival Ankara in August 2023, Türkiye</target>
       </trans-unit>
-      <trans-unit id="3042485849329801654" datatype="html">
-        <source> Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
-        <target> Théâtre de l&apos;Île Ô in January 2025, in Lyon for the Mapado event.</target>
-      </trans-unit>
       <trans-unit id="7879905163128635901" datatype="html">
         <source>PLATFORM 14 en août 2024 à Berlin.</source>
         <target>PLATFORM 14 in August 2024 in Berlin.</target>
@@ -953,6 +949,18 @@
       <trans-unit id="4989546216130524180" datatype="html">
         <source>Vidéo : Tuning in to the senses - Compagnie EZO</source>
         <target>Video: Tuning in to the senses - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="4739496835866797007" datatype="html">
+        <source>Présentations</source>
+        <target>Performances</target>
+      </trans-unit>
+      <trans-unit id="3964365904921479095" datatype="html">
+        <source> Extrait de la pièce au Théâtre de l&apos;Île Ô à Lyon le 20 janvier 2025 pour l&apos;événement Mapado. </source>
+        <target> Excerpt of the piece at Théâtre de l&apos;Île Ô in January 2025, in Lyon for the Mapado event. </target>
+      </trans-unit>
+      <trans-unit id="3149881600353352880" datatype="html">
+        <source> Répétition ouverte Aux Échappées Belles à Lyon le 23 février 2025. </source>
+        <target> Open rehearsal at Aux Échappées Belles in February 2025, in Lyon. </target>
       </trans-unit>
     </body>
   </file>
