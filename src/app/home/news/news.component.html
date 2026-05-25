@@ -28,6 +28,32 @@
       </mat-card-content>
     </mat-card>
     <mat-card class="news-card">
+      <mat-card-content class="news-card-content-with-image">
+        <img
+          ngSrc="assets/home/affiche_stage.png"
+          alt="Affiche du stage de danse"
+          i18n-alt
+          class="news-image"
+          width="1587"
+          height="2245"
+        />
+        <div class="news-card-side">
+          <div class="news-title" i18n>Stage de danse</div>
+          <div class="news-subtitle" i18n>27 et 28 juin 2026 - 10h à 16h</div>
+          <div class="news-text" i18n>
+            Stage de danse autour des oeuvres de l'exposition Horizons "Arts -
+            Nature" en Sancy 2026, encadré par Marielle Brun et Estelle
+            Bézombes.
+          </div>
+          <app-mat-know-more
+            class="news-card-know-more"
+            externalLink="https://www.helloasso.com/associations/compagnie-ezo/evenements/stage-danser-avec-les-oeuvres"
+            [text]="stageButton"
+          ></app-mat-know-more>
+        </div>
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="news-card">
       <mat-card-content class="newsletter">
         <div class="news-title" i18n>
           Programme SEED - Social and Ecological Engagement through Dance

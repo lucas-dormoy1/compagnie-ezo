@@ -722,6 +722,21 @@
       <trans-unit id="4739496835866797007" datatype="html">
         <source>Présentations</source>
       </trans-unit>
+      <trans-unit id="1862999006811062863" datatype="html">
+        <source> Stage de danse autour des oeuvres de l&apos;exposition Horizons &quot;Arts - Nature&quot; en Sancy 2026, encadré par Marielle Brun et Estelle Bézombes. </source>
+      </trans-unit>
+      <trans-unit id="2396289949824539489" datatype="html">
+        <source>27 et 28 juin 2026 - 10h à 16h</source>
+      </trans-unit>
+      <trans-unit id="255024094240350301" datatype="html">
+        <source>Informations et inscriptions</source>
+      </trans-unit>
+      <trans-unit id="7051198235966951271" datatype="html">
+        <source>Stage de danse</source>
+      </trans-unit>
+      <trans-unit id="8632724254636144122" datatype="html">
+        <source>Affiche du stage de danse</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
