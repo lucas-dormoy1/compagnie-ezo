@@ -33,6 +33,7 @@ export const SUPPORTERS = {
   leveilleur: { src: 'assets/soutiens/logo-leveilleur-scop.png', alt: $localize`logo de l'Éveilleur`, width: 200, height: 80 },
   deltaPi: { src: 'assets/soutiens/delta_pi.png', alt: $localize`logo de Delta Pi`, width: 200, height: 80 },
   duncanCenter: { src: 'assets/soutiens/logo_duncan_center.png', alt: $localize`logo du Duncan Dance Research Center`, width: 200, height: 80 },
+  lyon2: { src: 'assets/soutiens/Logo_Université_Lumière_Lyon_2.png', alt: $localize`logo de l'Université Lumière Lyon 2`, width: 200, height: 80 },
 } satisfies Record<string, Supporter>;
 
 @Component({

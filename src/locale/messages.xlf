@@ -23,9 +23,6 @@
       <trans-unit id="6219892927735930975" datatype="html">
         <source>Les méduses ne nagent jamais seules</source>
       </trans-unit>
-      <trans-unit id="7651039224477849362" datatype="html">
-        <source>Création 2024 - 2025</source>
-      </trans-unit>
       <trans-unit id="3116793945166734904" datatype="html">
         <source>En savoir plus</source>
       </trans-unit>
@@ -736,6 +733,12 @@
       </trans-unit>
       <trans-unit id="8632724254636144122" datatype="html">
         <source>Affiche du stage de danse</source>
+      </trans-unit>
+      <trans-unit id="3217280118739616153" datatype="html">
+        <source>Création 2025</source>
+      </trans-unit>
+      <trans-unit id="8912214099277392632" datatype="html">
+        <source>logo de l&apos;Université Lumière Lyon 2</source>
       </trans-unit>
     </body>
   </file>
