@@ -522,13 +522,9 @@
         <source> Concours chorégraphique Bucles &amp; Carme&apos;n&apos;Dansa au sein du festival Bucles à Valencia le 5 octobre 2025 en Espagne. </source>
         <target> Bucles &amp; Carme&apos;n&apos;Dansa choreographic competition at the Bucles festival in Valencia, Spain, October 5, 2025. </target>
       </trans-unit>
-      <trans-unit id="8094317410084466064" datatype="html">
-        <source> Programme SEED - Social and Ecological Engagement through Dance </source>
-        <target> SEED Program - Social and Ecological Engagement through Dance </target>
-      </trans-unit>
-      <trans-unit id="1887611540708076102" datatype="html">
-        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
-        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></target>
+      <trans-unit id="8241516022283501064" datatype="html">
+        <source> Performance <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <target> Performance <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></target>
       </trans-unit>
       <trans-unit id="5187009882101538598" datatype="html">
         <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Moon Souls<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
@@ -541,18 +537,6 @@
       <trans-unit id="5413259969655671590" datatype="html">
         <source>Informations SEED &amp; ateliers</source>
         <target>SEED information &amp; workshops</target>
-      </trans-unit>
-      <trans-unit id="5777418597838789616" datatype="html">
-        <source> Estelle fait partie des artistes sélectionnées pour le programme Européen SEED entre L&apos;Éveilleur SCOP à Avignon et Liminal access à Athènes pour 2025-2026. Ce projet vise à établir une nouvelle approche en matière de durabilité écologique, d&apos;accessibilité et d&apos;inclusion dans la danse. Le programme se déploie sur plusieurs phases, avec deux résidences pédagogiques qui ont eu lieu entre octobre et novembre 2025 à Avignon et Athènes et par la suite avec des laboratoires d&apos;exploration entre janvier et mars 2026 à Avignon. </source>
-        <target> Estelle is one of the artists selected for the European program SEED between L&apos;Eveilleur SCOP in Avignon and Liminal Access in Athens for 2025-2026. This project aims to establish a new approach to ecological sustainability, accessibility, and inclusion in dance. The program is being implemented in several phases, with two educational residencies taking place between October and November 2025 in Avignon and Athens, followed by exploration workshops between January and March 2026 in Avignon. </target>
-      </trans-unit>
-      <trans-unit id="2003144701152164376" datatype="html">
-        <source> Pour la phase de laboratoire du programme SEED, Estelle propose une série d&apos;ateliers qui invitent à reconfigurer l&apos;espace scénique en un lieu partagé, adaptable, où chacun peut trouver sa place. La proposition mobilise différents canaux sensoriels - du toucher au mouvement, de la matière au geste, de l’écoute à l&apos;image - afin d&apos;ouvrir des chemins multiples pour entrer dans la pratique et la rendre accessible à des participants aux sensibilités variées. L&apos;objectif est de réfléchir ensemble à des manières de créer du lien entre humains et non-humains, dans un espace d’expérience commun, sensible et inclusif afin de repenser les relations entre êtres vivants dans des formes non hiérarchiques, sans dominations. </source>
-        <target> For the laboratory phase of the SEED program, Estelle offers a series of workshops that invite participants to reconfigure the stage space into a shared, adaptable place where everyone can find their place. The proposal engages different sensory channels—from touch to movement, from matter to gesture, from listening to image—in order to open up multiple paths for entering into the practice and making it accessible to participants with varied sensibilities. The goal is to reflect together on ways to create connections between humans and non-humans in a shared, sensitive, and inclusive space of experience in order to rethink relationships between living beings in non-hierarchical forms, without domination. </target>
-      </trans-unit>
-      <trans-unit id="2065672601008891306" datatype="html">
-        <source> Après une résidence de recherche d&apos;un mois à Athènes en octobre 2024 au sein du centre de recherche Duncan, Estelle prolonge avec le programme SEED son exploration autour du lien entre corps et environnement, à travers son projet <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. Ce projet s’ancre dans la matière, le vivant et la communauté et s&apos;appuie sur les pensées et pratiques du mouvement écoféministe pour développer une approche située à la croisée du mouvement dansé et des arts plastiques. </source>
-        <target> After a month-long research residency in Athens in October 2024 at the Duncan Research Center, Estelle is continuing her exploration of the connection between the body and the environment through the SEED program with her project <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Tuning in to the senses<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>. This project is rooted in matter, living beings, and community, and draws on the ideas and practices of the ecofeminist movement to develop an approach that lies at the intersection of dance and the visual arts. </target>
       </trans-unit>
       <trans-unit id="2746635556768697091" datatype="html">
         <source> Répétition ouverte au public Aux Échappées Belles à Lyon le samedi 21 mars 2026 </source>
@@ -934,10 +918,6 @@
         <source>Teaser : Tuning in to the senses - Compagnie EZO</source>
         <target>Teaser: Tuning in to the senses - Compagnie EZO</target>
       </trans-unit>
-      <trans-unit id="2858822714398607852" datatype="html">
-        <source>Programme SEED - Social and Ecological Engagement through Dance</source>
-        <target>SEED Program - Social and Ecological Engagement through Dance</target>
-      </trans-unit>
       <trans-unit id="4989546216130524180" datatype="html">
         <source>Vidéo : Tuning in to the senses - Compagnie EZO</source>
         <target>Video: Tuning in to the senses - Compagnie EZO</target>
@@ -986,8 +966,8 @@
         <source>Vendredi 18 septembre 2026 à 15h : Répétition ouverte pour les élèves de l&apos;école de Murol</source>
         <target>Friday 18 September 2026 at 3pm: Open rehearsal for pupils of the Murol school</target>
       </trans-unit>
-      <trans-unit id="6268877931228580571" datatype="html">
-        <source>Dimanche 20 septembre 2026 : Réprésentations à 14h30 et 16h et atelier ouvert au public à 15h15</source>
+      <trans-unit id="2954491311510737672" datatype="html">
+        <source>Dimanche 20 septembre 2026 : Représentations à 14h30 et 16h et atelier ouvert au public à 15h15</source>
         <target>Sunday 20 September 2026: Performances at 2:30pm and 4pm and workshop open to the public at 3:15pm</target>
       </trans-unit>
       <trans-unit id="5996877369143428999" datatype="html">
@@ -1001,6 +981,18 @@
       <trans-unit id="1792494618936491500" datatype="html">
         <source>26 septembre 2026 - 10h à 16h</source>
         <target>26 September 2026 - 10am to 4pm</target>
+      </trans-unit>
+      <trans-unit id="7001386783189092493" datatype="html">
+        <source>Samedi 24 octobre 2026 à 11h30 et 14h30</source>
+        <target>Saturday 24 October 2026 at 11:30am and 2:30pm</target>
+      </trans-unit>
+      <trans-unit id="3648515396647459757" datatype="html">
+        <source>Festival Parcours de l&apos;art - Eglise des Célestins à Avignon</source>
+        <target>Festival Parcours de l&apos;art - Eglise des Célestins in Avignon</target>
+      </trans-unit>
+      <trans-unit id="6953215822755449641" datatype="html">
+        <source> Dans le cadre d’une carte blanche imaginée par l&apos;Éveilleur dans la continuité du programme européen SEED - Social and Ecological Engagement through Dance - et en collaboration avec le festival d’art contemporain Parcours de l’art, la compagnie propose une performance participative. </source>
+        <target> As part of a carte blanche devised by L&apos;Eveilleur in continuity with the European SEED program - Social and Ecological Engagement through Dance - and in collaboration with the contemporary art festival Parcours de l&apos;art, the company offers a participatory performance. </target>
       </trans-unit>
     </body>
   </file>
