@@ -930,10 +930,6 @@
         <source>Vidéo : Moon Souls - Compagnie EZO</source>
         <target>Video: Moon Souls - Compagnie EZO</target>
       </trans-unit>
-      <trans-unit id="1791881692801710957" datatype="html">
-        <source>1er au 12 juin 2026</source>
-        <target>1 to 12 June 2026</target>
-      </trans-unit>
       <trans-unit id="2407496557954741347" datatype="html">
         <source>Teaser : Tuning in to the senses - Compagnie EZO</source>
         <target>Teaser: Tuning in to the senses - Compagnie EZO</target>
@@ -966,10 +962,6 @@
         <source>Stage de danse</source>
         <target>Dance workshop</target>
       </trans-unit>
-      <trans-unit id="2396289949824539489" datatype="html">
-        <source>27 et 28 juin 2026 - 10h à 16h</source>
-        <target>27 and 28 June 2026 - 10am to 4pm</target>
-      </trans-unit>
       <trans-unit id="1862999006811062863" datatype="html">
         <source> Stage de danse autour des oeuvres de l&apos;exposition Horizons &quot;Arts - Nature&quot; en Sancy 2026, encadré par Marielle Brun et Estelle Bézombes. </source>
         <target> Dance workshop inspired by the works of the Horizons &quot;Arts - Nature&quot; en Sancy 2026 exhibition, led by Marielle Brun and Estelle Bézombes. </target>
@@ -985,6 +977,30 @@
       <trans-unit id="8912214099277392632" datatype="html">
         <source>logo de l&apos;Université Lumière Lyon 2</source>
         <target>Université Lumière Lyon 2 logo</target>
+      </trans-unit>
+      <trans-unit id="5312573923825939488" datatype="html">
+        <source>Version déambulatoire pour le Musée de l&apos;Ecole des Peintres de Murol</source>
+        <target>Itinerant version for the Musée de l&apos;Ecole des Peintres de Murol</target>
+      </trans-unit>
+      <trans-unit id="7051430046994831143" datatype="html">
+        <source>Vendredi 18 septembre 2026 à 15h : Répétition ouverte pour les élèves de l&apos;école de Murol</source>
+        <target>Friday 18 September 2026 at 3pm: Open rehearsal for pupils of the Murol school</target>
+      </trans-unit>
+      <trans-unit id="6268877931228580571" datatype="html">
+        <source>Dimanche 20 septembre 2026 : Réprésentations à 14h30 et 16h et atelier ouvert au public à 15h15</source>
+        <target>Sunday 20 September 2026: Performances at 2:30pm and 4pm and workshop open to the public at 3:15pm</target>
+      </trans-unit>
+      <trans-unit id="5996877369143428999" datatype="html">
+        <source>Stage national de Passeurs de Danse</source>
+        <target>Passeurs de Danse national workshop</target>
+      </trans-unit>
+      <trans-unit id="6975770035386919500" datatype="html">
+        <source>Représentation de la version de 15min au CCN de Nantes</source>
+        <target>Performance of the 15-minute version at CCN de Nantes</target>
+      </trans-unit>
+      <trans-unit id="1792494618936491500" datatype="html">
+        <source>26 septembre 2026 - 10h à 16h</source>
+        <target>26 September 2026 - 10am to 4pm</target>
       </trans-unit>
     </body>
   </file>
