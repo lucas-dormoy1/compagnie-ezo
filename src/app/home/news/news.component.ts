@@ -14,4 +14,6 @@ export class NewsComponent {
   public ticketButton: string = $localize`Billetterie`;
   public seedButton: string = $localize`Informations SEED & ateliers`;
   public stageButton: string = $localize`Informations et inscriptions`;
+  public moreInformationButton: string = $localize`Plus d'informations`;
+  public learnMoreAboutDuet: string = $localize`En savoir plus sur le duo`;
 }

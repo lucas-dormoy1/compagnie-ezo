@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="924725213909370536" datatype="html">
         <source> Le duo déconstruit les stéréotypes de genre dans la relation femme/homme, en explorant une collaboration sans hiérarchie. Inspiré par le mythe d’Aristophane dans Le Banquet de Platon, il propose une quête poétique où les corps se cherchent et se découvrent sans rôle prédéfini, dans un jeu ludique et décalé. Le format de la pièce, mêlant gestes quotidiens et musiques pop, vise à créer une proximité avec le public, tout en développant un imaginaire neuf. </source>
-        <target> Duet choreographed by Estelle Bézombes and Guillaume Lemoine. The piece deconstructs gender stereotypes in male/female relationships by exploring a collaboration without hierarchy. Inspired by Aristophanes' myth in Plato's Symposium, it offers a poetic quest in which bodies seek and discover each other without predefined roles, in a playful and offbeat game. The format of the piece, combining everyday gestures and pop music, aims to create a sense of closeness with the audience, while developing a new narrative. </target>
+        <target> Duet choreographed by Estelle Bézombes and Guillaume Lemoine. The piece deconstructs gender stereotypes in male/female relationships by exploring a collaboration without hierarchy. Inspired by Aristophanes&apos; myth in Plato&apos;s Symposium, it offers a poetic quest in which bodies seek and discover each other without predefined roles, in a playful and offbeat game. The format of the piece, combining everyday gestures and pop music, aims to create a sense of closeness with the audience, while developing a new narrative. </target>
       </trans-unit>
       <trans-unit id="2012803177157171261" datatype="html">
         <source> Sélection pour les Spectacles Sauvages dans le cadre du festival Signes de Printemps 2025 au Regard du Cygne à Paris. Présentation du travail en cours en mars 2025. </source>
@@ -942,10 +942,6 @@
         <source>Stage national de Passeurs de Danse</source>
         <target>Passeurs de Danse national workshop</target>
       </trans-unit>
-      <trans-unit id="6975770035386919500" datatype="html">
-        <source>Représentation de la version de 15min au CCN de Nantes</source>
-        <target>Performance of the 15-minute version at CCN de Nantes</target>
-      </trans-unit>
       <trans-unit id="1792494618936491500" datatype="html">
         <source>26 septembre 2026 - 10h à 16h</source>
         <target>26 September 2026 - 10am to 4pm</target>
@@ -960,7 +956,7 @@
       </trans-unit>
       <trans-unit id="6953215822755449641" datatype="html">
         <source> Dans le cadre d’une carte blanche imaginée par l&apos;Éveilleur dans la continuité du programme européen SEED - Social and Ecological Engagement through Dance - et en collaboration avec le festival d’art contemporain Parcours de l’art, la compagnie propose une performance participative. </source>
-        <target> As part of a “carte blanche” initiative designed by L'Éveilleur as a continuation of the European program SEED—Social and Ecological Engagement through Dance—and in collaboration with the Parcours de l’art contemporary art festival, the company is presenting a participatory performance. </target>
+        <target> As part of a “carte blanche” initiative designed by L&apos;Éveilleur as a continuation of the European program SEED—Social and Ecological Engagement through Dance—and in collaboration with the Parcours de l’art contemporary art festival, the company is presenting a participatory performance. </target>
       </trans-unit>
       <trans-unit id="3668301216139275717" datatype="html">
         <source> Mars 2026 : workshop avec les danseurs en formation de la compagnie Hallet Eghayan à Lyon </source>
@@ -993,6 +989,30 @@
       <trans-unit id="2937350143215270" datatype="html">
         <source> Novembre 2024 : ateliers au 25-Gisèle Halimi à Clermont-Ferrand, centre d&apos;aide et de ressources pour les femmes </source>
         <target> November 2024: workshop at 25 Gisèle Halimi, help and resource center for women </target>
+      </trans-unit>
+      <trans-unit id="2143896000350359633" datatype="html">
+        <source>Vidéo : Performance in situ Musée - Compagnie EZO</source>
+        <target>Video: Performance in situ Museum - Compagnie EZO</target>
+      </trans-unit>
+      <trans-unit id="1355367991863371395" datatype="html">
+        <source>Scène ouverte MAGMA</source>
+        <target>MAGMA Open stage</target>
+      </trans-unit>
+      <trans-unit id="1311936214471600466" datatype="html">
+        <source>Représentation le vendredi 2 octobre 2026 à 20h au Théatre Quai de Scène à Strasbourg</source>
+        <target>Performance Friday, October 2, 2026 at 8 PM at Théatre Quai de Scène in Strasbourg</target>
+      </trans-unit>
+      <trans-unit id="4848231177053495405" datatype="html">
+        <source>Représentation le dimanche 25 octobre 2026 au CCN de Nantes</source>
+        <target>Performance Sunday, October 25, 2026 at CCN in Nantes</target>
+      </trans-unit>
+      <trans-unit id="4056387237856226574" datatype="html">
+        <source>Plus d&apos;informations</source>
+        <target>More information</target>
+      </trans-unit>
+      <trans-unit id="4328702255864943783" datatype="html">
+        <source>En savoir plus sur le duo</source>
+        <target>Learn more about the duet</target>
       </trans-unit>
     </body>
   </file>

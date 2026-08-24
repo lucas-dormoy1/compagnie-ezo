@@ -707,9 +707,6 @@
       <trans-unit id="2954491311510737672" datatype="html">
         <source>Dimanche 20 septembre 2026 : Représentations à 14h30 et 16h et atelier ouvert au public à 15h15</source>
       </trans-unit>
-      <trans-unit id="6975770035386919500" datatype="html">
-        <source>Représentation de la version de 15min au CCN de Nantes</source>
-      </trans-unit>
       <trans-unit id="7051430046994831143" datatype="html">
         <source>Vendredi 18 septembre 2026 à 15h : Répétition ouverte pour les élèves de l&apos;école de Murol</source>
       </trans-unit>
@@ -745,6 +742,24 @@
       </trans-unit>
       <trans-unit id="2937350143215270" datatype="html">
         <source> Novembre 2024 : ateliers au 25-Gisèle Halimi à Clermont-Ferrand, centre d&apos;aide et de ressources pour les femmes </source>
+      </trans-unit>
+      <trans-unit id="2143896000350359633" datatype="html">
+        <source>Vidéo : Performance in situ Musée - Compagnie EZO</source>
+      </trans-unit>
+      <trans-unit id="1311936214471600466" datatype="html">
+        <source>Représentation le vendredi 2 octobre 2026 à 20h au Théatre Quai de Scène à Strasbourg</source>
+      </trans-unit>
+      <trans-unit id="1355367991863371395" datatype="html">
+        <source>Scène ouverte MAGMA</source>
+      </trans-unit>
+      <trans-unit id="4056387237856226574" datatype="html">
+        <source>Plus d&apos;informations</source>
+      </trans-unit>
+      <trans-unit id="4848231177053495405" datatype="html">
+        <source>Représentation le dimanche 25 octobre 2026 au CCN de Nantes</source>
+      </trans-unit>
+      <trans-unit id="4328702255864943783" datatype="html">
+        <source>En savoir plus sur le duo</source>
       </trans-unit>
     </body>
   </file>

@@ -14,9 +14,8 @@
   margin-bottom: 2rem;
 }
 
-.image {
-  max-height: 35rem;
-  width: auto;
+.youtube-video {
+  @include detail-youtube-video;
 }
 
 .paragraphe {
@@ -37,10 +36,6 @@
   .subtitle {
     margin: 0 1rem 1rem 1rem;
     text-align: center;
-  }
-
-  .image {
-    width: 100%;
   }
 
   .paragraphe {
